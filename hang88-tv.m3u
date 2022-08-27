@@ -1,5 +1,5 @@
 
-#EXTM3U    url-logos="https://hang88.gitee.io/TV-logo/Picon-HD/"
+#EXTM3U     url-logos="https://hang88.gitee.io/TV-logo/Picon-HD/"
            *x-tvg-url="https://epg.112114.xyz/pp.xml,
                        http://epg.51zmt.top:8000/e.xml,
                        https://epg.112114.xyz/epginfo,
@@ -15,196 +15,191 @@ http://epg.112114.xyz/douyu/20415
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳私人定制频道🇨🇳", *bili经典功夫台【勋香有你】
 https://cn-jlcc-cu-03-06.bilivideo.com/live-bvc/269747/live_179302204_68184269.m3u8
 
-
-#EXTINF:-1 ,====== 120.84.96.221:808/hls有效扫描源20220827 ======
-http://0/0.m3u8
-#EXTINF:-1 ,CCTV1综合HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV1綜合HD
 http://120.84.96.221:808/hls/1/index.m3u8
-#EXTINF:-1 ,CCTV2财经
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV2財經
 http://120.84.96.221:808/hls/2/index.m3u8
-#EXTINF:-1 ,CCTV3综艺HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV3綜藝HD
 http://120.84.96.221:808/hls/3/index.m3u8
-#EXTINF:-1 ,CCTV4中文国际
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV4中文國際
 http://120.84.96.221:808/hls/4/index.m3u8
-#EXTINF:-1 ,CCTV5体育HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV5體育HD
 http://120.84.96.221:808/hls/5/index.m3u8
-#EXTINF:-1 ,CCTV6电影
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV6電影
 http://120.84.96.221:808/hls/6/index.m3u8
-#EXTINF:-1 ,CCTV7国防军事
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV7國防軍事
 http://120.84.96.221:808/hls/7/index.m3u8
-#EXTINF:-1 ,CCTV8电视剧HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV8電視劇HD
 http://120.84.96.221:808/hls/8/index.m3u8
-#EXTINF:-1 ,CCTV9记录HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV9記錄HD
 http://120.84.96.221:808/hls/9/index.m3u8
-#EXTINF:-1 ,揭阳生活
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",揭陽生活
 http://120.84.96.221:808/hls/18/index.m3u8
-#EXTINF:-1 ,泊头综合
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",泊頭綜合
 http://120.84.96.221:808/hls/19/index.m3u8
-#EXTINF:-1 ,潮州综合
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",潮州綜合
 http://120.84.96.221:808/hls/20/index.m3u8
-#EXTINF:-1 ,广东体育
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東體育
 http://120.84.96.221:808/hls/22/index.m3u8
-#EXTINF:-1 ,经济科教
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",經濟科教
 http://120.84.96.221:808/hls/23/index.m3u8
-#EXTINF:-1 ,澳门莲花卫视
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",澳門蓮花衛視
 http://120.84.96.221:808/hls/24/index.m3u8
-#EXTINF:-1 ,TVB翡翠台
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",TVB翡翠臺
 http://120.84.96.221:808/hls/25/index.m3u8
-#EXTINF:-1 ,TVB明珠台
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",TVB明珠臺
 http://120.84.96.221:808/hls/26/index.m3u8
-#EXTINF:-1 ,广东少儿
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東少兒
 http://120.84.96.221:808/hls/27/index.m3u8
-#EXTINF:-1 ,凤凰资讯台
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",鳳凰資訊臺
 http://120.84.96.221:808/hls/28/index.m3u8
-#EXTINF:-1 ,凤凰中文台
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",鳳凰中文臺
 http://120.84.96.221:808/hls/29/index.m3u8
-#EXTINF:-1 ,CCTV5体育赛事
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV5體育賽事
 http://120.84.96.221:808/hls/30/index.m3u8
-#EXTINF:-1 ,CHC动作电影
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CHC動作電影
 http://120.84.96.221:808/hls/31/index.m3u8
-#EXTINF:-1 ,东森电影台
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",東森電影臺
 http://120.84.96.221:808/hls/32/index.m3u8
-#EXTINF:-1 ,未知台
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",未知臺
 http://120.84.96.221:808/hls/33/index.m3u8
-#EXTINF:-1 ,LS龙翔时代
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",LS龍翔時代
 http://120.84.96.221:808/hls/35/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CHC家庭影院
 http://120.84.96.221:808/hls/36/index.m3u8
-#EXTINF:-1 ,金鹰卡通台
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",金鷹卡通臺
 http://120.84.96.221:808/hls/50/index.m3u8
-#EXTINF:-1 ,大湾区卫视
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",大灣區衛視
 http://120.84.96.221:808/hls/67/index.m3u8
-#EXTINF:-1 ,嘉佳卡通
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",嘉佳卡通
 http://120.84.96.221:808/hls/71/index.m3u8
-#EXTINF:-1 ,广东房产
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東房產
 http://120.84.96.221:808/hls/77/index.m3u8
-#EXTINF:-1 ,星空卫视
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",星空衛視
 http://120.84.96.221:808/hls/79/index.m3u8
-#EXTINF:-1 ,凤凰香港台
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",鳳凰香港臺
 http://120.84.96.221:808/hls/81/index.m3u8
-#EXTINF:-1 ,广东汕头1
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東汕頭1
 http://120.84.96.221:808/hls/84/index.m3u8
-#EXTINF:-1 ,天映经典CCM
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",天映經典CCM
 http://120.84.96.221:808/hls/85/index.m3u8
-#EXTINF:-1 ,TVB J2
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",TVB J2
 http://120.84.96.221:808/hls/86/index.m3u8
-#EXTINF:-1 ,CCTV1综合HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV1綜合HD
 http://120.84.96.221:808/hls/101/index.m3u8
-#EXTINF:-1 ,CCTV2财经HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV2財經HD
 http://120.84.96.221:808/hls/102/index.m3u8
-#EXTINF:-1 ,CCTV3综艺HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV3綜藝HD
 http://120.84.96.221:808/hls/103/index.m3u8
-#EXTINF:-1 ,CCTV4中文国际HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV4中文國際HD
 http://120.84.96.221:808/hls/104/index.m3u8
-#EXTINF:-1 ,CCTV5体育
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV5體育
 http://120.84.96.221:808/hls/105/index.m3u8
-#EXTINF:-1 ,CCTV6电影HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV6電影HD
 http://120.84.96.221:808/hls/106/index.m3u8
-#EXTINF:-1 ,CCTV7国防军事HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV7國防軍事HD
 http://120.84.96.221:808/hls/107/index.m3u8
-#EXTINF:-1 ,CCTV8电视剧HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV8電視劇HD
 http://120.84.96.221:808/hls/108/index.m3u8
-#EXTINF:-1 ,CCTV9记录HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV9記錄HD
 http://120.84.96.221:808/hls/109/index.m3u8
-#EXTINF:-1 ,CCTV10科教HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV10科教HD
 http://120.84.96.221:808/hls/110/index.m3u8
-#EXTINF:-1 ,CCTV11戏曲
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV11戲曲
 http://120.84.96.221:808/hls/111/index.m3u8
-#EXTINF:-1 ,CCTV12社会与法HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV12社會與法HD
 http://120.84.96.221:808/hls/112/index.m3u8
-#EXTINF:-1 ,CCTV13新闻
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV13新聞
 http://120.84.96.221:808/hls/113/index.m3u8
-#EXTINF:-1 ,CCTV14少儿HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV14少兒HD
 http://120.84.96.221:808/hls/114/index.m3u8
-#EXTINF:-1 ,CCTV15音乐
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV15音樂
 http://120.84.96.221:808/hls/115/index.m3u8
-#EXTINF:-1 ,CCTV5体育赛事
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV5體育賽事
 http://120.84.96.221:808/hls/116/index.m3u8
-#EXTINF:-1 ,CCTV17农业农村
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",CCTV17農業農村
 http://120.84.96.221:808/hls/117/index.m3u8
-#EXTINF:-1 ,广东经济科教HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東經濟科教HD
 http://120.84.96.221:808/hls/118/index.m3u8
-#EXTINF:-1 ,广东大湾区卫视
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東大灣區衛視
 http://120.84.96.221:808/hls/119/index.m3u8
-#EXTINF:-1 ,广东少儿
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東少兒
 http://120.84.96.221:808/hls/120/index.m3u8
-#EXTINF:-1 ,广东卫视HD
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東衛視HD
 http://120.84.96.221:808/hls/121/index.m3u8
-#EXTINF:-1 ,广东珠江HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東珠江HD
 http://120.84.96.221:808/hls/122/index.m3u8
-#EXTINF:-1 ,湖南金鹰卡通
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",湖南金鷹卡通
 http://120.84.96.221:808/hls/123/index.m3u8
-#EXTINF:-1 ,广东新闻
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東新聞
 http://120.84.96.221:808/hls/124/index.m3u8
-#EXTINF:-1 ,深圳卫视HD
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564e80f4757c8.png" group-title="120.84.96.221:808/hls有效扫描源20220827",深圳衛視HD
 http://120.84.96.221:808/hls/125/index.m3u8
-#EXTINF:-1 ,湖南卫视HD
+#EXTINF:-1 tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg" group-title="120.84.96.221:808/hls有效扫描源20220827",湖南衛視HD
 http://120.84.96.221:808/hls/126/index.m3u8
-#EXTINF:-1 ,贵州卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png" group-title="120.84.96.221:808/hls有效扫描源20220827",貴州衛視
 http://120.84.96.221:808/hls/127/index.m3u8
-#EXTINF:-1 ,湖北卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png" group-title="120.84.96.221:808/hls有效扫描源20220827",湖北衛視
 http://120.84.96.221:808/hls/128/index.m3u8
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png" group-title="120.84.96.221:808/hls有效扫描源20220827",浙江衛視
 http://120.84.96.221:808/hls/129/index.m3u8
-#EXTINF:-1 ,江苏卫视HD
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" group-title="120.84.96.221:808/hls有效扫描源20220827",江蘇衛視HD
 http://120.84.96.221:808/hls/130/index.m3u8
-#EXTINF:-1 ,安徽卫视HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",安徽衛視HD
 http://120.84.96.221:808/hls/131/index.m3u8
-#EXTINF:-1 ,山东卫视HD
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png" group-title="120.84.96.221:808/hls有效扫描源20220827",山東衛視HD
 http://120.84.96.221:808/hls/132/index.m3u8
-#EXTINF:-1 ,辽宁卫视HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",遼寧衛視HD
 http://120.84.96.221:808/hls/133/index.m3u8
-#EXTINF:-1 ,河南卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png" group-title="120.84.96.221:808/hls有效扫描源20220827",河南衛視
 http://120.84.96.221:808/hls/134/index.m3u8
-#EXTINF:-1 ,河北卫视HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",河北衛視HD
 http://120.84.96.221:808/hls/135/index.m3u8
-#EXTINF:-1 ,吉林卫视HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",吉林衛視HD
 http://120.84.96.221:808/hls/136/index.m3u8
-#EXTINF:-1 ,陕西卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png" group-title="120.84.96.221:808/hls有效扫描源20220827",陜西衛視
 http://120.84.96.221:808/hls/137/index.m3u8
-#EXTINF:-1 ,山西卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201706/26/59506dfaea3eb.png" group-title="120.84.96.221:808/hls有效扫描源20220827",山西衛視
 http://120.84.96.221:808/hls/138/index.m3u8
-#EXTINF:-1 ,黑龙江卫视HD
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png" group-title="120.84.96.221:808/hls有效扫描源20220827",黑龍江衛視HD
 http://120.84.96.221:808/hls/139/index.m3u8
-#EXTINF:-1 ,宁夏卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec12b73df5.png" group-title="120.84.96.221:808/hls有效扫描源20220827",寧夏衛視
 http://120.84.96.221:808/hls/140/index.m3u8
-#EXTINF:-1 ,福建东南卫视HD
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",福建東南衛視HD
 http://120.84.96.221:808/hls/141/index.m3u8
-#EXTINF:-1 ,广东影视
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東影視
 http://120.84.96.221:808/hls/142/index.m3u8
-#EXTINF:-1 ,广东岭南戏剧
+#EXTINF:-1 tvg-logo="" group-title="120.84.96.221:808/hls有效扫描源20220827",廣東嶺南戲劇
 http://120.84.96.221:808/hls/143/index.m3u8
-#EXTINF:-1 ,====== BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8 ======
-http://1/1.m3u8
-#EXTINF:-1 ,甘肃卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd979fbf3.png" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",甘肅衛視
 http://120.84.96.221:808/hls/145/index.m3u8
-#EXTINF:-1 ,西藏卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",西藏衛視
 http://120.84.96.221:808/hls/146/index.m3u8
-#EXTINF:-1 ,广东公共
+#EXTINF:-1 tvg-logo="" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",廣東公共
 http://120.84.96.221:808/hls/148/index.m3u8
-#EXTINF:-1 ,天津卫视HD
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",天津衛視HD
 http://120.84.96.221:808/hls/149/index.m3u8
-#EXTINF:-1 ,云南卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",云南衛視
 http://120.84.96.221:808/hls/151/index.m3u8
-#EXTINF:-1 ,江西卫视HD
+#EXTINF:-1 tvg-logo="" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",江西衛視HD
 http://120.84.96.221:808/hls/152/index.m3u8
-#EXTINF:-1 ,BRTV北京卫视HD
+#EXTINF:-1 tvg-logo="" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",BRTV北京衛視HD
 http://120.84.96.221:808/hls/153/index.m3u8
-#EXTINF:-1 ,海南卫视
+#EXTINF:-1 tvg-logo="" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",海南衛視
 http://120.84.96.221:808/hls/154/index.m3u8
-#EXTINF:-1 ,厦门卫视
+#EXTINF:-1 tvg-logo="" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",廈門衛視
 http://120.84.96.221:808/hls/156/index.m3u8
-#EXTINF:-1 ,兵团卫视
+#EXTINF:-1 tvg-logo="" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",兵團衛視
 http://120.84.96.221:808/hls/157/index.m3u8
-#EXTINF:-1 ,青海卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",青海衛視
 http://120.84.96.221:808/hls/162/index.m3u8
-#EXTINF:-1 ,重庆卫视HD
+#EXTINF:-1 tvg-logo="" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",重慶衛視HD
 http://120.84.96.221:808/hls/163/index.m3u8
-#EXTINF:-1 ,新疆卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1876f510.png" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",新疆衛視
 http://120.84.96.221:808/hls/164/index.m3u8
-#EXTINF:-1 ,四川卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",四川衛視
 http://120.84.96.221:808/hls/165/index.m3u8
-#EXTINF:-1 ,广西卫视HD
+#EXTINF:-1 tvg-logo="" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",廣西衛視HD
 http://120.84.96.221:808/hls/167/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png" group-title="BRTV KaKu少儿http://120.84.96.221:808/hls/144/index.m3u8",內蒙古衛視
 http://120.84.96.221:808/hls/169/index.m3u8
