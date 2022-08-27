@@ -32,13 +32,13 @@ diyp & 百川 tvg-url="http://epg.112114.xyz"
 DIYP http://epg.51zmt.top:8000/api/diyp/?ch=CCTV6&date=2021-10-20
 
 #EXT-X-VERSION:3
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml"
+
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 m3uautoload=4
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/programme-tv.net.guide.xml" tvg-shift=0 m3uautoload=5
+
 
 DIYP 专用： http://epg.51zmt.top:8000/api/diyp/
 
-url-tvg="http://xmltv.bigsb.fr/xmltv.xml.gz,https://iptvx1.ml/epg.xml.gz,https://iptv-org.github.io/epg/guides/mi.tv.guide.xml,https://iptv-org.github.io/epg/guides/ontvtonight.com.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml"
+
 
 github电视猫的EPG:https://github.com/3mile/tvmao_epg
 三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
