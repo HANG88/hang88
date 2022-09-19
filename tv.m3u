@@ -1,14 +1,14 @@
 #EXM3U      url-logos="https://hang88.gitee.io/TV-logo/Picon-HD/"
             x-tvg-url="http://epg.pm/epg.xml"
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="邵氏影院" group-title="🇨🇳私人定制频道🇨🇳",🇨🇳douyu邵氏老影院(代理)
+#EXTINF:-1, tvg-id="5546" tvg-name="" tvg-logo="邵氏影院" group-title="🇨🇳私人定制频道🇨🇳",🇨🇳douyu邵氏老影院(代理)
 http://maomao.kandiantv.cn/douyu1.php?id=4246519
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="邵氏电影" group-title="🇨🇳私人定制频道🇨🇳",🇨🇳bili邵氏老电影(代理)
 http://zzy789.xyz/bili.php?id=21759196
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="邵氏老电影" group-title="🇨🇳私人定制频道🇨🇳",🇨🇳bili邵氏老老老电影(爱干饭的老实人)
+#EXTINF:-1, tvg-id="5551" tvg-name="" tvg-logo="邵氏老电影" group-title="🇨🇳私人定制频道🇨🇳",🇨🇳bili邵氏老老老电影(爱干饭的老实人)
 https://cn-sdyt-cu-01-31.bilivideo.com/live-bvc/701055/live_23601856_2325061.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="经典功夫台" group-title="🇨🇳私人定制频道🇨🇳",bili经典功夫台(勋香有你)
+#EXTINF:-1, tvg-id="5553" tvg-name="" tvg-logo="经典功夫台" group-title="🇨🇳私人定制频道🇨🇳",bili经典功夫台(勋香有你)
 https://cn-sdyt-cu-01-22.bilivideo.com/live-bvc/289635/live_179302204_68184269.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳私人定制频道🇨🇳",🇨🇳douyu【恐怖电影】鬼片僵尸灾难丧尸片(代理)【久了旧知】(310926)0
 http://zzy789.xyz/douyu1.php?id=310926
