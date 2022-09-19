@@ -21,10 +21,6 @@ https://cn-sdyt-cu-01-31.bilivideo.com/live-bvc/998915/live_1907351534_29661727.
 
 =========================================================================================================================================================
 
-
-#EXM3U      url-logos="https://hang88.gitee.io/TV-logo/Picon-HD/"
-            x-tvg-url="http://epg.pm/epg.xml"
-
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="epg.51zmt.top:8000",001-CCTV-1综合 
 https://192.168.0.188/1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="epg.51zmt.top:8000",002-CCTV-2财经 
