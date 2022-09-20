@@ -3,9 +3,9 @@
 
 
 
-#EXTINF:-1, tvg-id="天映经典CCM" tvg-name="天映经典CCM" tvg-logo="天映经典CCM" group-title="🇨🇳私人定制频道🇨🇳",天映经典CCM
+#EXTINF:-1, tvg-id="天映經典CCM" tvg-name="天映經典CCM" tvg-logo="天映经典CCM" group-title="🇨🇳私人定制频道🇨🇳",🇭🇰天映經典CCM
 http://171.108.239.13:8181/tsfile/live/1009_1.m3u8
-#EXTINF:-1, tvg-id="天映经典CCM" tvg-name="天映经典CCM" tvg-logo="天映经典CCM" group-title="🇨🇳私人定制频道🇨🇳",天映经典CCM-2
+#EXTINF:-1, tvg-id="天映經典CCM" tvg-name="天映經典CCM" tvg-logo="天映经典CCM" group-title="🇨🇳私人定制频道🇨🇳",🇭🇰天映經典CCM-2
 http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 
 #EXTINF:-1, tvg-id="5546" tvg-name="" tvg-logo="邵氏影院" group-title="🇨🇳私人定制频道🇨🇳",🇨🇳douyu邵氏老影院(代理)
