@@ -6,14 +6,14 @@
 <tv>
   
   
-  </channel>
+ </channel>
 <channel id="天映經典CCM">
 <display-name lang="zh">天映經典CCM</display-name>
 <icon src="http//www.programme-television.org/logo_channels/35x35/chaine_406.png"/>
 <url>https//www.tbc.net.tw/epg</url>
 </channel>
 
-<programme start="20220901005500+0800"stop="20220901024000+0800" channel="天映經典CCM">
+<programme start="20220901005500 +0800" stop="20220901024000 +0800" channel="天映經典CCM">
 <title lang="hk">報仇\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -24,7 +24,7 @@ Cast：姜大衛, 汪萍, 狄龍
 </desc></programme>
 
 
-<programme start="20220901024000+0800"stop="20220901044000+0800" channel="天映經典CCM">
+<programme start="20220901024000 +0800" stop="20220901044000 +0800" channel="天映經典CCM">
 <title lang="hk">新不了情\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -35,7 +35,7 @@ Cast：胡燕妮, 淩雲, 林嘉, 方宇
 </desc></programme>
 
 
-<programme start="20220901044000+0800"stop="20220901062000+0800" channel="天映經典CCM">
+<programme start="20220901044000 +0800" stop="20220901062000 +0800" channel="天映經典CCM">
 <title lang="hk">清宮大刺殺\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -46,7 +46,7 @@ Cast：谷峰, 王鍾, 狄龍, 燕南希
 </desc></programme>
 
 
-<programme start="20220901062000+0800"stop="20220901074500+0800" channel="天映經典CCM">
+<programme start="20220901062000 +0800" stop="20220901074500 +0800" channel="天映經典CCM">
 <title lang="hk">幫規\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -57,7 +57,7 @@ Cast：陳觀泰, 惠天賜, 白彪
 </desc></programme>
 
 
-<programme start="20220901074500+0800"stop="20220901092500+0800" channel="天映經典CCM">
+<programme start="20220901074500 +0800" stop="20220901092500 +0800" channel="天映經典CCM">
 <title lang="hk">玉羅剎\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -68,7 +68,7 @@ Cast：鄭佩佩, 唐菁
 </desc></programme>
 
 
-<programme start="20220901092500+0800"stop="20220901111500+0800" channel="天映經典CCM">
+<programme start="20220901092500 +0800" stop="20220901111500 +0800" channel="天映經典CCM">
 <title lang="hk">寶蓮燈\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -79,7 +79,7 @@ Cast：林黛, 鄭佩佩, 李菁
 </desc></programme>
 
 
-<programme start="20220901111500+0800"stop="20220901125500+0800" channel="天映經典CCM">
+<programme start="20220901111500 +0800" stop="20220901125500 +0800" channel="天映經典CCM">
 <title lang="hk">楊過與小龍女\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -90,7 +90,7 @@ Cast：張國榮, 翁靜晶, 陳觀泰, 劉雪華
 </desc></programme>
 
 
-<programme start="20220901125500+0800"stop="20220901143500+0800" channel="天映經典CCM">
+<programme start="20220901125500 +0800" stop="20220901143500 +0800" channel="天映經典CCM">
 <title lang="hk">大軍閥\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -101,7 +101,7 @@ Cast：許冠文, 何莉莉, 宗華, 狄娜
 </desc></programme>
 
 
-<programme start="20220901143500+0800"stop="20220901161500+0800" channel="天映經典CCM">
+<programme start="20220901143500 +0800" stop="20220901161500 +0800" channel="天映經典CCM">
 <title lang="hk">大醉俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -112,7 +112,7 @@ Cast：鄭佩佩, 岳華, 陳鴻烈
 </desc></programme>
 
 
-<programme start="20220901161500+0800"stop="20220901175500+0800" channel="天映經典CCM">
+<programme start="20220901161500 +0800" stop="20220901175500 +0800" channel="天映經典CCM">
 <title lang="hk">青春萬歲\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -123,7 +123,7 @@ Cast：丁珮, 林沖, 趙心研, 高苓
 </desc></programme>
 
 
-<programme start="20220901175500+0800"stop="20220901193000+0800" channel="天映經典CCM">
+<programme start="20220901175500 +0800" stop="20220901193000 +0800" channel="天映經典CCM">
 <title lang="hk">大內高手\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -134,7 +134,7 @@ Cast：舒佩佩, 虞慧, 川原, 井淼, 黃宗迅
 </desc></programme>
 
 
-<programme start="20220901193000+0800"stop="20220901210000+0800" channel="天映經典CCM">
+<programme start="20220901193000 +0800" stop="20220901210000 +0800" channel="天映經典CCM">
 <title lang="hk">盤絲洞\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -145,7 +145,7 @@ Cast：週龍章，何藩，彭鵬，田琛
 </desc></programme>
 
 
-<programme start="20220901210000+0800"stop="20220901225500+0800" channel="天映經典CCM">
+<programme start="20220901210000 +0800" stop="20220901225500 +0800" channel="天映經典CCM">
 <title lang="hk">洪拳與詠春\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -156,7 +156,7 @@ Cast：傅聲, 陳依齡, 戚冠軍, 劉家輝
 </desc></programme>
 
 
-<programme start="20220901225500+0800"stop="20220902005000+0800" channel="天映經典CCM">
+<programme start="20220901225500 +0800" stop="20220902005000 +0800" channel="天映經典CCM">
 <title lang="hk">傾國傾城\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -167,7 +167,7 @@ Cast：盧燕, 蕭瑤, 狄龍
 </desc></programme>
 
 
-<programme start="20220902005000+0800"stop="20220902024500+0800" channel="天映經典CCM">
+<programme start="20220902005000 +0800" stop="20220902024500 +0800" channel="天映經典CCM">
 <title lang="hk">英雄無淚\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -178,7 +178,7 @@ Cast：傅聲, 白彪, 趙雅芝
 </desc></programme>
 
 
-<programme start="20220902024500+0800"stop="20220902042500+0800" channel="天映經典CCM">
+<programme start="20220902024500 +0800" stop="20220902042500 +0800" channel="天映經典CCM">
 <title lang="hk">遺產五億圓\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -189,7 +189,7 @@ Cast：邢慧, 金峰, 汪萍, 郭曼娜
 </desc></programme>
 
 
-<programme start="20220902042500+0800"stop="20220902060500+0800" channel="天映經典CCM">
+<programme start="20220902042500 +0800" stop="20220902060500 +0800" channel="天映經典CCM">
 <title lang="hk">老夫子奇趣錄\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -200,7 +200,7 @@ Cast：王沙, 芬妮, 矮冬瓜
 </desc></programme>
 
 
-<programme start="20220902060500+0800"stop="20220902074000+0800" channel="天映經典CCM">
+<programme start="20220902060500 +0800" stop="20220902074000 +0800" channel="天映經典CCM">
 <title lang="hk">娃娃夫人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -211,7 +211,7 @@ Cast：李菁, 凌雲, 凌玲, 張佩山
 </desc></programme>
 
 
-<programme start="20220902074000+0800"stop="20220902092000+0800" channel="天映經典CCM">
+<programme start="20220902074000 +0800" stop="20220902092000 +0800" channel="天映經典CCM">
 <title lang="hk">遊俠情\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -222,7 +222,7 @@ Cast：惠英紅, 何家勁, 關芝琳
 </desc></programme>
 
 
-<programme start="20220902092000+0800"stop="20220902110000+0800" channel="天映經典CCM">
+<programme start="20220902092000 +0800" stop="20220902110000 +0800" channel="天映經典CCM">
 <title lang="hk">狂戀詩\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -233,7 +233,7 @@ Cast：胡燕妮, 金漢, 楊帆, 金峰
 </desc></programme>
 
 
-<programme start="20220902110000+0800"stop="20220902125500+0800" channel="天映經典CCM">
+<programme start="20220902110000 +0800" stop="20220902125500 +0800" channel="天映經典CCM">
 <title lang="hk">金燕子\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -244,7 +244,7 @@ Cast：鄭佩佩, 王羽, 羅烈
 </desc></programme>
 
 
-<programme start="20220902125500+0800"stop="20220902143000+0800" channel="天映經典CCM">
+<programme start="20220902125500 +0800" stop="20220902143000 +0800" channel="天映經典CCM">
 <title lang="hk">蘭嶼之歌\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -255,7 +255,7 @@ Cast：張沖, 鄭佩佩
 </desc></programme>
 
 
-<programme start="20220902143000+0800"stop="20220902160000+0800" channel="天映經典CCM">
+<programme start="20220902143000 +0800" stop="20220902160000 +0800" channel="天映經典CCM">
 <title lang="hk">惡爺\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -266,7 +266,7 @@ Cast：孟元文, 元華, 王沙, 尤翠玲, 王龍威
 </desc></programme>
 
 
-<programme start="20220902160000+0800"stop="20220902174500+0800" channel="天映經典CCM">
+<programme start="20220902160000 +0800" stop="20220902174500 +0800" channel="天映經典CCM">
 <title lang="hk">女巡按\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -277,7 +277,7 @@ Cast：李菁, 蕭湘, 祝菁
 </desc></programme>
 
 
-<programme start="20220902174500+0800"stop="20220902192000+0800" channel="天映經典CCM">
+<programme start="20220902174500 +0800" stop="20220902192000 +0800" channel="天映經典CCM">
 <title lang="hk">清宮啟示錄\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -288,7 +288,7 @@ Cast：劉永, 劉雪華, 莫少聰
 </desc></programme>
 
 
-<programme start="20220902192000+0800"stop="20220902210000+0800" channel="天映經典CCM">
+<programme start="20220902192000 +0800" stop="20220902210000 +0800" channel="天映經典CCM">
 <title lang="hk">貂蟬\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -299,7 +299,7 @@ Cast：林黛, 趙雷, 楊志卿, 羅維
 </desc></programme>
 
 
-<programme start="20220902210000+0800"stop="20220902224000+0800" channel="天映經典CCM">
+<programme start="20220902210000 +0800" stop="20220902224000 +0800" channel="天映經典CCM">
 <title lang="hk">紅粉動江湖\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -310,7 +310,7 @@ Cast：陳觀泰, 米雪, 林秀君, 元德
 </desc></programme>
 
 
-<programme start="20220902224000+0800"stop="20220903001000+0800" channel="天映經典CCM">
+<programme start="20220902224000 +0800" stop="20220903001000 +0800" channel="天映經典CCM">
 <title lang="hk">鬼屋麗人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -321,7 +321,7 @@ Cast：張美瑤, 楊麗花, 雷鳴, 崔福生
 </desc></programme>
 
 
-<programme start="20220903001000+0800"stop="20220903015000+0800" channel="天映經典CCM">
+<programme start="20220903001000 +0800" stop="20220903015000 +0800" channel="天映經典CCM">
 <title lang="hk">掌門人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -332,7 +332,7 @@ Cast：劉家良, 惠英紅, 劉家輝, 張展鵬
 </desc></programme>
 
 
-<programme start="20220903015000+0800"stop="20220903035000+0800" channel="天映經典CCM">
+<programme start="20220903015000 +0800" stop="20220903035000 +0800" channel="天映經典CCM">
 <title lang="hk">金玉良緣紅樓夢\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -343,7 +343,7 @@ Cast：林青霞, 張艾嘉, 狄波拉, 米雪
 </desc></programme>
 
 
-<programme start="20220903035000+0800"stop="20220903054500+0800" channel="天映經典CCM">
+<programme start="20220903035000 +0800" stop="20220903054500 +0800" channel="天映經典CCM">
 <title lang="hk">菁菁\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -354,7 +354,7 @@ Cast：李菁, 金峰
 </desc></programme>
 
 
-<programme start="20220903054500+0800"stop="20220903072500+0800" channel="天映經典CCM">
+<programme start="20220903054500 +0800" stop="20220903072500 +0800" channel="天映經典CCM">
 <title lang="hk">雙鐲\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -367,7 +367,7 @@ Cast：陳德容, 劉小慧, 郭晉安, 陶大宇
 </desc></programme>
 
 
-<programme start="20220903072500+0800"stop="20220903091500+0800" channel="天映經典CCM">
+<programme start="20220903072500 +0800" stop="20220903091500 +0800" channel="天映經典CCM">
 <title lang="hk">佛跳牆\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -378,7 +378,7 @@ Cast：野峰, 於榮, 艾飛, 邵音音
 </desc></programme>
 
 
-<programme start="20220903091500+0800"stop="20220903105500+0800" channel="天映經典CCM">
+<programme start="20220903091500 +0800" stop="20220903105500 +0800" channel="天映經典CCM">
 <title lang="hk">五郎八卦棍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -389,7 +389,7 @@ Cast：劉家輝, 傅聲, 李麗麗, 汪禹, 麥德羅, 小侯
 </desc></programme>
 
 
-<programme start="20220903105500+0800"stop="20220903123500+0800" channel="天映經典CCM">
+<programme start="20220903105500 +0800" stop="20220903123500 +0800" channel="天映經典CCM">
 <title lang="hk">王昭君\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -400,7 +400,7 @@ Cast：林黛, 趙雷, 洪波, 王月汀, 張翠英, 李英
 </desc></programme>
 
 
-<programme start="20220903123500+0800"stop="20220903141000+0800" channel="天映經典CCM">
+<programme start="20220903123500 +0800" stop="20220903141000 +0800" channel="天映經典CCM">
 <title lang="hk">少年蘇乞兒\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -411,7 +411,7 @@ Cast：劉家輝, 白彪, 汪禹, 王龍威
 </desc></programme>
 
 
-<programme start="20220903141000+0800"stop="20220903155500+0800" channel="天映經典CCM">
+<programme start="20220903141000 +0800" stop="20220903155500 +0800" channel="天映經典CCM">
 <title lang="hk">宋宮秘史\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -422,7 +422,7 @@ Cast：淩波, 金峰, 高寶樹, 井淼
 </desc></programme>
 
 
-<programme start="20220903155500+0800"stop="20220903174500+0800" channel="天映經典CCM">
+<programme start="20220903155500 +0800" stop="20220903174500 +0800" channel="天映經典CCM">
 <title lang="hk">少林與武當\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -433,7 +433,7 @@ Cast：羅莽, 王力, 孫建, 江生, 文雪兒
 </desc></programme>
 
 
-<programme start="20220903174500+0800"stop="20220903192000+0800" channel="天映經典CCM">
+<programme start="20220903174500 +0800" stop="20220903192000 +0800" channel="天映經典CCM">
 <title lang="hk">人蛇鼠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -444,7 +444,7 @@ Cast：宗華, 韋弘, 丹娜
 </desc></programme>
 
 
-<programme start="20220903192000+0800"stop="20220903210000+0800" channel="天映經典CCM">
+<programme start="20220903192000 +0800" stop="20220903210000 +0800" channel="天映經典CCM">
 <title lang="hk">黑鷹\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -455,7 +455,7 @@ Cast：胡燕妮, 杜娟, 張沖, 王俠
 </desc></programme>
 
 
-<programme start="20220903210000+0800"stop="20220903223500+0800" channel="天映經典CCM">
+<programme start="20220903210000 +0800" stop="20220903223500 +0800" channel="天映經典CCM">
 <title lang="hk">82家房客\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -466,7 +466,7 @@ Cast：惠英紅, 丁佩, 陳百祥
 </desc></programme>
 
 
-<programme start="20220903223500+0800"stop="20220904002500+0800" channel="天映經典CCM">
+<programme start="20220903223500 +0800" stop="20220904002500 +0800" channel="天映經典CCM">
 <title lang="hk">請帖\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -477,7 +477,7 @@ Cast：汪禹, 陳觀泰, 羅烈, 林秀君
 </desc></programme>
 
 
-<programme start="20220904002500+0800"stop="20220904023000+0800" channel="天映經典CCM">
+<programme start="20220904002500 +0800" stop="20220904023000 +0800" channel="天映經典CCM">
 <title lang="hk">不了情\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -488,7 +488,7 @@ Cast：林黛, 關山, 高寶樹, 洛奇, 蔣光超
 </desc></programme>
 
 
-<programme start="20220904023000+0800"stop="20220904041500+0800" channel="天映經典CCM">
+<programme start="20220904023000 +0800" stop="20220904041500 +0800" channel="天映經典CCM">
 <title lang="hk">金衣大俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -499,7 +499,7 @@ Cast：何莉莉, 高遠, 舒佩佩, 王俠
 </desc></programme>
 
 
-<programme start="20220904041500+0800"stop="20220904060500+0800" channel="天映經典CCM">
+<programme start="20220904041500 +0800" stop="20220904060500 +0800" channel="天映經典CCM">
 <title lang="hk">雙鳳奇緣\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -510,7 +510,7 @@ Cast：凌波, 方盈, 金峰, 金漢, 李菁
 </desc></programme>
 
 
-<programme start="20220904060500+0800"stop="20220904075000+0800" channel="天映經典CCM">
+<programme start="20220904060500 +0800" stop="20220904075000 +0800" channel="天映經典CCM">
 <title lang="hk">沒有老公的日子\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -521,7 +521,7 @@ Cast：袁詠儀, 張智霖, 葉德嫻, 何超儀
 </desc></programme>
 
 
-<programme start="20220904075000+0800"stop="20220904093500+0800" channel="天映經典CCM">
+<programme start="20220904075000 +0800" stop="20220904093500 +0800" channel="天映經典CCM">
 <title lang="hk">魚美人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -532,7 +532,7 @@ Cast：凌波, 李菁
 </desc></programme>
 
 
-<programme start="20220904093500+0800"stop="20220904111000+0800" channel="天映經典CCM">
+<programme start="20220904093500 +0800" stop="20220904111000 +0800" channel="天映經典CCM">
 <title lang="hk">洪拳大師\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -543,7 +543,7 @@ Cast：狄龍, 劉雪華, 麥德羅
 </desc></programme>
 
 
-<programme start="20220904111000+0800"stop="20220904124000+0800" channel="天映經典CCM">
+<programme start="20220904111000 +0800" stop="20220904124000 +0800" channel="天映經典CCM">
 <title lang="hk">倩女幽魂\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -554,7 +554,7 @@ Cast：樂蒂, 趙雷, 楊志卿, 洛奇
 </desc></programme>
 
 
-<programme start="20220904124000+0800"stop="20220904144000+0800" channel="天映經典CCM">
+<programme start="20220904124000 +0800" stop="20220904144000 +0800" channel="天映經典CCM">
 <title lang="hk">何日君再來\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -565,7 +565,7 @@ Cast：陳厚, 張沖, 胡燕妮, 何莉莉
 </desc></programme>
 
 
-<programme start="20220904144000+0800"stop="20220904161500+0800" channel="天映經典CCM">
+<programme start="20220904144000 +0800" stop="20220904161500 +0800" channel="天映經典CCM">
 <title lang="hk">鬼馬神偷\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -576,7 +576,7 @@ Cast：劉永, 梁家仁, 梁韻蕊
 </desc></programme>
 
 
-<programme start="20220904161500+0800"stop="20220904174500+0800" channel="天映經典CCM">
+<programme start="20220904161500 +0800" stop="20220904174500 +0800" channel="天映經典CCM">
 <title lang="hk">雙俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -587,7 +587,7 @@ Cast：姜大衛, 狄龍, 谷峰, 楊斯
 </desc></programme>
 
 
-<programme start="20220904174500+0800"stop="20220904192000+0800" channel="天映經典CCM">
+<programme start="20220904174500 +0800" stop="20220904192000 +0800" channel="天映經典CCM">
 <title lang="hk">天使出更\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -598,7 +598,7 @@ Cast：陳友, 林建明, 張堅庭
 </desc></programme>
 
 
-<programme start="20220904192000+0800"stop="20220904210000+0800" channel="天映經典CCM">
+<programme start="20220904192000 +0800" stop="20220904210000 +0800" channel="天映經典CCM">
 <title lang="hk">禦貓三戲錦毛鼠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -609,7 +609,7 @@ Cast：傅聲, 鄭少秋, 惠英紅
 </desc></programme>
 
 
-<programme start="20220904210000+0800"stop="20220904224000+0800" channel="天映經典CCM">
+<programme start="20220904210000 +0800" stop="20220904224000 +0800" channel="天映經典CCM">
 <title lang="hk">武松\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -620,7 +620,7 @@ Cast：汪萍，狄龍，劉永, 谷峰
 </desc></programme>
 
 
-<programme start="20220904224000+0800"stop="20220905003500+0800" channel="天映經典CCM">
+<programme start="20220904224000 +0800" stop="20220905003500 +0800" channel="天映經典CCM">
 <title lang="hk">武館\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -631,7 +631,7 @@ Cast：劉家輝, 麥德羅, 谷峰, 惠英紅
 </desc></programme>
 
 
-<programme start="20220905003500+0800"stop="20220905020500+0800" channel="天映經典CCM">
+<programme start="20220905003500 +0800" stop="20220905020500 +0800" channel="天映經典CCM">
 <title lang="hk">多咀街\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -642,7 +642,7 @@ Cast：邵氏紅星電視藝員
 </desc></programme>
 
 
-<programme start="20220905020500+0800"stop="20220905034500+0800" channel="天映經典CCM">
+<programme start="20220905020500 +0800" stop="20220905034500 +0800" channel="天映經典CCM">
 <title lang="hk">沖霄樓\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -653,7 +653,7 @@ Cast：鹿峰, 王力, 龍天翔, 孫建, 錢小豪
 </desc></programme>
 
 
-<programme start="20220905034500+0800"stop="20220905052500+0800" channel="天映經典CCM">
+<programme start="20220905034500 +0800" stop="20220905052500 +0800" channel="天映經典CCM">
 <title lang="hk">明月刀雪夜殲仇\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -664,7 +664,7 @@ Cast：狄龍, 劉永, 施思, 爾冬升, 羅烈
 </desc></programme>
 
 
-<programme start="20220905052500+0800"stop="20220905065500+0800" channel="天映經典CCM">
+<programme start="20220905052500 +0800" stop="20220905065500 +0800" channel="天映經典CCM">
 <title lang="hk">太極拳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -675,7 +675,7 @@ Cast：陳沃夫, 施思, 韋弘, 詹森
 </desc></programme>
 
 
-<programme start="20220905065500+0800"stop="20220905083500+0800" channel="天映經典CCM">
+<programme start="20220905065500 +0800" stop="20220905083500 +0800" channel="天映經典CCM">
 <title lang="hk">星際鈍胎\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -686,7 +686,7 @@ Cast：伊雷, 鍾楚紅, 盧大偉, 譚天南
 </desc></programme>
 
 
-<programme start="20220905083500+0800"stop="20220905100500+0800" channel="天映經典CCM">
+<programme start="20220905083500 +0800" stop="20220905100500 +0800" channel="天映經典CCM">
 <title lang="hk">女殺手\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -697,7 +697,7 @@ Cast：何莉莉, 張佩山, 黃宗迅, 井淼
 </desc></programme>
 
 
-<programme start="20220905100500+0800"stop="20220905122000+0800" channel="天映經典CCM">
+<programme start="20220905100500 +0800" stop="20220905122000 +0800" channel="天映經典CCM">
 <title lang="hk">船\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -708,7 +708,7 @@ Cast：何莉莉, 林嘉, 井莉, 金漢
 </desc></programme>
 
 
-<programme start="20220905122000+0800"stop="20220905140000+0800" channel="天映經典CCM">
+<programme start="20220905122000 +0800" stop="20220905140000 +0800" channel="天映經典CCM">
 <title lang="hk">天蠶變\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -719,7 +719,7 @@ Cast：徐少強, 劉永, 萬梓良, 劉雪華
 </desc></programme>
 
 
-<programme start="20220905140000+0800"stop="20220905160000+0800" channel="天映經典CCM">
+<programme start="20220905140000 +0800" stop="20220905160000 +0800" channel="天映經典CCM">
 <title lang="hk">武則天\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -730,7 +730,7 @@ Cast：李麗華, 趙雷, 喬莊, 洛奇, 俞鳳至
 </desc></programme>
 
 
-<programme start="20220905160000+0800"stop="20220905173500+0800" channel="天映經典CCM">
+<programme start="20220905160000 +0800" stop="20220905173500 +0800" channel="天映經典CCM">
 <title lang="hk">女捕快\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -741,7 +741,7 @@ Cast：施思, 羅烈, 張佩山
 </desc></programme>
 
 
-<programme start="20220905173500+0800"stop="20220905191000+0800" channel="天映經典CCM">
+<programme start="20220905173500 +0800" stop="20220905191000 +0800" channel="天映經典CCM">
 <title lang="hk">春暖花開\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -752,7 +752,7 @@ Cast：舒佩佩、李麗麗、林嘉、楊帆、金峰、夏儀秋
 </desc></programme>
 
 
-<programme start="20220905191000+0800"stop="20220905210000+0800" channel="天映經典CCM">
+<programme start="20220905191000 +0800" stop="20220905210000 +0800" channel="天映經典CCM">
 <title lang="hk">死囚\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -763,7 +763,7 @@ Cast：李麗麗, 蔡弘, 姜大衛
 </desc></programme>
 
 
-<programme start="20220905210000+0800"stop="20220905225000+0800" channel="天映經典CCM">
+<programme start="20220905210000 +0800" stop="20220905225000 +0800" channel="天映經典CCM">
 <title lang="hk">女子公寓\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -774,7 +774,7 @@ Cast：丁佩, 楊帆, 李麗麗, 區燕菁, 夏萍
 </desc></programme>
 
 
-<programme start="20220905225000+0800"stop="20220906003000+0800" channel="天映經典CCM">
+<programme start="20220905225000 +0800" stop="20220906003000 +0800" channel="天映經典CCM">
 <title lang="hk">背叛師門\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -785,7 +785,7 @@ Cast：陳觀泰, 王龍威, 文雪兒, 元德
 </desc></programme>
 
 
-<programme start="20220906003000+0800"stop="20220906021000+0800" channel="天映經典CCM">
+<programme start="20220906003000 +0800" stop="20220906021000 +0800" channel="天映經典CCM">
 <title lang="hk">城市之光\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -796,7 +796,7 @@ Cast：陳友, 惠英紅, 招文欣, 吳詠琪
 </desc></programme>
 
 
-<programme start="20220906021000+0800"stop="20220906034000+0800" channel="天映經典CCM">
+<programme start="20220906021000 +0800" stop="20220906034000 +0800" channel="天映經典CCM">
 <title lang="hk">江湖了斷\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -807,7 +807,7 @@ Cast：羅莽, 白彪, 左燕翎, 孫健
 </desc></programme>
 
 
-<programme start="20220906034000+0800"stop="20220906051500+0800" channel="天映經典CCM">
+<programme start="20220906034000 +0800" stop="20220906051500 +0800" channel="天映經典CCM">
 <title lang="hk">情俠追風劍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -818,7 +818,7 @@ Cast：汪禹, 妞妞, 羅烈, 李麗麗
 </desc></programme>
 
 
-<programme start="20220906051500+0800"stop="20220906065500+0800" channel="天映經典CCM">
+<programme start="20220906051500 +0800" stop="20220906065500 +0800" channel="天映經典CCM">
 <title lang="hk">神經大俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -829,7 +829,7 @@ Cast：元德, 惠英紅, 孟元文, 文雪兒
 </desc></programme>
 
 
-<programme start="20220906065500+0800"stop="20220906084000+0800" channel="天映經典CCM">
+<programme start="20220906065500 +0800" stop="20220906084000 +0800" channel="天映經典CCM">
 <title lang="hk">乾隆下揚州\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -840,7 +840,7 @@ Cast：劉永, 姜南, 李昆
 </desc></programme>
 
 
-<programme start="20220906084000+0800"stop="20220906102000+0800" channel="天映經典CCM">
+<programme start="20220906084000 +0800" stop="20220906102000 +0800" channel="天映經典CCM">
 <title lang="hk">神劍震江湖\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -851,7 +851,7 @@ Cast：鄭佩佩, 張翼, 舒佩佩, 羅烈
 </desc></programme>
 
 
-<programme start="20220906102000+0800"stop="20220906120500+0800" channel="天映經典CCM">
+<programme start="20220906102000 +0800" stop="20220906120500 +0800" channel="天映經典CCM">
 <title lang="hk">茅山殭屍拳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -862,7 +862,7 @@ Cast：汪禹, 劉家輝, 黃杏秀
 </desc></programme>
 
 
-<programme start="20220906120500+0800"stop="20220906135000+0800" channel="天映經典CCM">
+<programme start="20220906120500 +0800" stop="20220906135000 +0800" channel="天映經典CCM">
 <title lang="hk">至尊一劍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -873,7 +873,7 @@ Cast：爾冬陞, 白彪, 李殿朗
 </desc></programme>
 
 
-<programme start="20220906135000+0800"stop="20220906153000+0800" channel="天映經典CCM">
+<programme start="20220906135000 +0800" stop="20220906153000 +0800" channel="天映經典CCM">
 <title lang="hk">我們戀愛去了\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -884,7 +884,7 @@ Cast：華倫, 林鳳嬌, 陳浩
 </desc></programme>
 
 
-<programme start="20220906153000+0800"stop="20220906172500+0800" channel="天映經典CCM">
+<programme start="20220906153000 +0800" stop="20220906172500 +0800" channel="天映經典CCM">
 <title lang="hk">南北獅王\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -895,7 +895,7 @@ Cast：汪禹, 錢月笙, 王龍威, 羅莽, 楊盼盼
 </desc></programme>
 
 
-<programme start="20220906172500+0800"stop="20220906192500+0800" channel="天映經典CCM">
+<programme start="20220906172500 +0800" stop="20220906192500 +0800" channel="天映經典CCM">
 <title lang="hk">西遊記\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -906,7 +906,7 @@ Cast：岳華，彭鵬，田琛，何藩
 </desc></programme>
 
 
-<programme start="20220906192500+0800"stop="20220906210000+0800" channel="天映經典CCM">
+<programme start="20220906192500 +0800" stop="20220906210000 +0800" channel="天映經典CCM">
 <title lang="hk">文素臣\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -917,7 +917,7 @@ Cast：李菁, 喬莊, 何莉莉
 </desc></programme>
 
 
-<programme start="20220906210000+0800"stop="20220906222500+0800" channel="天映經典CCM">
+<programme start="20220906210000 +0800" stop="20220906222500 +0800" channel="天映經典CCM">
 <title lang="hk">鬼新娘\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -928,7 +928,7 @@ Cast：邢慧, 楊帆, 顧媚, 雷鳴
 </desc></programme>
 
 
-<programme start="20220906222500+0800"stop="20220907000000+0800" channel="天映經典CCM">
+<programme start="20220906222500 +0800" stop="20220907000000 +0800" channel="天映經典CCM">
 <title lang="hk">大內高手\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -939,7 +939,7 @@ Cast：舒佩佩, 虞慧, 川原, 井淼, 黃宗迅
 </desc></programme>
 
 
-<programme start="20220907000000+0800"stop="20220907014000+0800" channel="天映經典CCM">
+<programme start="20220907000000 +0800" stop="20220907014000 +0800" channel="天映經典CCM">
 <title lang="hk">樑上君子\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -950,7 +950,7 @@ Cast：錢小豪, 羅莽, 董驃, 廖麗玲
 </desc></programme>
 
 
-<programme start="20220907014000+0800"stop="20220907031500+0800" channel="天映經典CCM">
+<programme start="20220907014000 +0800" stop="20220907031500 +0800" channel="天映經典CCM">
 <title lang="hk">琴劍恩仇\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -961,7 +961,7 @@ Cast：秦萍, 王羽, 馮寶寶
 </desc></programme>
 
 
-<programme start="20220907031500+0800"stop="20220907045000+0800" channel="天映經典CCM">
+<programme start="20220907031500 +0800" stop="20220907045000 +0800" channel="天映經典CCM">
 <title lang="hk">封神劫\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -972,7 +972,7 @@ Cast：劉永, 劉雪華, 龍天翔, 趙國
 </desc></programme>
 
 
-<programme start="20220907045000+0800"stop="20220907062000+0800" channel="天映經典CCM">
+<programme start="20220907045000 +0800" stop="20220907062000 +0800" channel="天映經典CCM">
 <title lang="hk">女俠賣人頭\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -983,7 +983,7 @@ Cast：焦姣, 陳亮, 王俠, 井淼, 張佩山
 </desc></programme>
 
 
-<programme start="20220907062000+0800"stop="20220907080000+0800" channel="天映經典CCM">
+<programme start="20220907062000 +0800" stop="20220907080000 +0800" channel="天映經典CCM">
 <title lang="hk">布衣神相\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -994,7 +994,7 @@ Cast：徐少強, 萬梓良, 劉永, 陳觀泰, 劉雪華
 </desc></programme>
 
 
-<programme start="20220907080000+0800"stop="20220907100500+0800" channel="天映經典CCM">
+<programme start="20220907080000 +0800" stop="20220907100500 +0800" channel="天映經典CCM">
 <title lang="hk">小雲雀\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1005,7 +1005,7 @@ Cast：陳厚, 顧媚
 </desc></programme>
 
 
-<programme start="20220907100500+0800"stop="20220907121000+0800" channel="天映經典CCM">
+<programme start="20220907100500 +0800" stop="20220907121000 +0800" channel="天映經典CCM">
 <title lang="hk">長輩\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1016,7 +1016,7 @@ Cast：劉家良, 惠英紅, 小侯, 王龍威
 </desc></programme>
 
 
-<programme start="20220907121000+0800"stop="20220907135500+0800" channel="天映經典CCM">
+<programme start="20220907121000 +0800" stop="20220907135500 +0800" channel="天映經典CCM">
 <title lang="hk">江山美人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1027,7 +1027,7 @@ Cast：林黛, 趙雷, 金銓, 楊志卿, 王元龍
 </desc></programme>
 
 
-<programme start="20220907135500+0800"stop="20220907153500+0800" channel="天映經典CCM">
+<programme start="20220907135500 +0800" stop="20220907153500 +0800" channel="天映經典CCM">
 <title lang="hk">紅粉動江湖\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1038,7 +1038,7 @@ Cast：陳觀泰, 米雪, 林秀君, 元德
 </desc></programme>
 
 
-<programme start="20220907153500+0800"stop="20220907171500+0800" channel="天映經典CCM">
+<programme start="20220907153500 +0800" stop="20220907171500 +0800" channel="天映經典CCM">
 <title lang="hk">人皮燈籠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1049,7 +1049,7 @@ Cast：劉永, 陳觀泰, 羅烈
 </desc></programme>
 
 
-<programme start="20220907171500+0800"stop="20220907184500+0800" channel="天映經典CCM">
+<programme start="20220907171500 +0800" stop="20220907184500 +0800" channel="天映經典CCM">
 <title lang="hk">黑店\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1060,7 +1060,7 @@ Cast：施思, 康華
 </desc></programme>
 
 
-<programme start="20220907184500+0800"stop="20220907210000+0800" channel="天映經典CCM">
+<programme start="20220907184500 +0800" stop="20220907210000 +0800" channel="天映經典CCM">
 <title lang="hk">故都春夢\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1071,7 +1071,7 @@ Cast：李麗華, 凌波, 關山
 </desc></programme>
 
 
-<programme start="20220907210000+0800"stop="20220907223000+0800" channel="天映經典CCM">
+<programme start="20220907210000 +0800" stop="20220907223000 +0800" channel="天映經典CCM">
 <title lang="hk">惡爺\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1082,7 +1082,7 @@ Cast：孟元文, 元華, 王沙, 尤翠玲, 王龍威
 </desc></programme>
 
 
-<programme start="20220907223000+0800"stop="20220908001000+0800" channel="天映經典CCM">
+<programme start="20220907223000 +0800" stop="20220908001000 +0800" channel="天映經典CCM">
 <title lang="hk">女秀才\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1093,7 +1093,7 @@ Cast：凌波, 金峰
 </desc></programme>
 
 
-<programme start="20220908001000+0800"stop="20220908020000+0800" channel="天映經典CCM">
+<programme start="20220908001000 +0800" stop="20220908020000 +0800" channel="天映經典CCM">
 <title lang="hk">書劍恩仇錄\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1104,7 +1104,7 @@ Cast：狄龍, 白彪, 羅烈
 </desc></programme>
 
 
-<programme start="20220908020000+0800"stop="20220908040000+0800" channel="天映經典CCM">
+<programme start="20220908020000 +0800" stop="20220908040000 +0800" channel="天映經典CCM">
 <title lang="hk">三笑\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1115,7 +1115,7 @@ Cast：李菁, 凌波, 井淼
 </desc></programme>
 
 
-<programme start="20220908040000+0800"stop="20220908053000+0800" channel="天映經典CCM">
+<programme start="20220908040000 +0800" stop="20220908053000 +0800" channel="天映經典CCM">
 <title lang="hk">三十年細說從頭\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1126,7 +1126,7 @@ Cast：劉永, 戴良純, 李殿馨
 </desc></programme>
 
 
-<programme start="20220908053000+0800"stop="20220908073000+0800" channel="天映經典CCM">
+<programme start="20220908053000 +0800" stop="20220908073000 +0800" channel="天映經典CCM">
 <title lang="hk">虎膽\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1137,7 +1137,7 @@ Cast：鄭佩佩, 岳華, 吳風, 羅維, 田豐
 </desc></programme>
 
 
-<programme start="20220908073000+0800"stop="20220908093500+0800" channel="天映經典CCM">
+<programme start="20220908073000 +0800" stop="20220908093500 +0800" channel="天映經典CCM">
 <title lang="hk">千嬌百媚\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1148,7 +1148,7 @@ Cast：林黛, 陳厚, 範麗, 高寶樹, 麥基
 </desc></programme>
 
 
-<programme start="20220908093500+0800"stop="20220908115000+0800" channel="天映經典CCM">
+<programme start="20220908093500 +0800" stop="20220908115000 +0800" channel="天映經典CCM">
 <title lang="hk">飛狐外傳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1159,7 +1159,7 @@ Cast：錢小豪, 江生, 楚湘雲, 郭追
 </desc></programme>
 
 
-<programme start="20220908115000+0800"stop="20220908135000+0800" channel="天映經典CCM">
+<programme start="20220908115000 +0800" stop="20220908135000 +0800" channel="天映經典CCM">
 <title lang="hk">群英會\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1170,7 +1170,7 @@ Cast：施思, 岳華, 何莉莉, 羅烈, 姜大衛, 狄龍
 </desc></programme>
 
 
-<programme start="20220908135000+0800"stop="20220908153500+0800" channel="天映經典CCM">
+<programme start="20220908135000 +0800" stop="20220908153500 +0800" channel="天映經典CCM">
 <title lang="hk">金衣大俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1181,7 +1181,7 @@ Cast：何莉莉, 高遠, 舒佩佩, 王俠
 </desc></programme>
 
 
-<programme start="20220908153500+0800"stop="20220908171500+0800" channel="天映經典CCM">
+<programme start="20220908153500 +0800" stop="20220908171500 +0800" channel="天映經典CCM">
 <title lang="hk">貂蟬\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1192,7 +1192,7 @@ Cast：林黛, 趙雷, 楊志卿, 羅維
 </desc></programme>
 
 
-<programme start="20220908171500+0800"stop="20220908190000+0800" channel="天映經典CCM">
+<programme start="20220908171500 +0800" stop="20220908190000 +0800" channel="天映經典CCM">
 <title lang="hk">陸小鳳之決戰前後\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1203,7 +1203,7 @@ Cast：岳華, 白彪, 劉永, 楚湘雲, 井莉
 </desc></programme>
 
 
-<programme start="20220908190000+0800"stop="20220908210000+0800" channel="天映經典CCM">
+<programme start="20220908190000 +0800" stop="20220908210000 +0800" channel="天映經典CCM">
 <title lang="hk">萬花迎春\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1214,7 +1214,7 @@ Cast：樂蒂, 陳厚, 高寶樹, 藍娣, 蔣光超
 </desc></programme>
 
 
-<programme start="20220908210000+0800"stop="20220908224000+0800" channel="天映經典CCM">
+<programme start="20220908210000 +0800" stop="20220908224000 +0800" channel="天映經典CCM">
 <title lang="hk">南北少林\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1225,7 +1225,7 @@ Cast：李連傑，黃秋燕
 </desc></programme>
 
 
-<programme start="20220908224000+0800"stop="20220909004000+0800" channel="天映經典CCM">
+<programme start="20220908224000 +0800" stop="20220909004000 +0800" channel="天映經典CCM">
 <title lang="hk">女校春色\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1236,7 +1236,7 @@ Cast：李菁, 歐陽莎菲, 秦惠玲, 陳厚
 </desc></programme>
 
 
-<programme start="20220909004000+0800"stop="20220909023500+0800" channel="天映經典CCM">
+<programme start="20220909004000 +0800" stop="20220909023500 +0800" channel="天映經典CCM">
 <title lang="hk">海軍突擊隊\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1247,7 +1247,7 @@ Cast：劉永, 狄龍, 傅聲, 姜大衛, 施思
 </desc></programme>
 
 
-<programme start="20220909023500+0800"stop="20220909041500+0800" channel="天映經典CCM">
+<programme start="20220909023500 +0800" stop="20220909041500 +0800" channel="天映經典CCM">
 <title lang="hk">青春1000日\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1258,7 +1258,7 @@ Cast：劉少君, 陳佩茜,戴良純
 </desc></programme>
 
 
-<programme start="20220909041500+0800"stop="20220909054500+0800" channel="天映經典CCM">
+<programme start="20220909041500 +0800" stop="20220909054500 +0800" channel="天映經典CCM">
 <title lang="hk">多咀街\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1269,7 +1269,7 @@ Cast：邵氏紅星電視藝員
 </desc></programme>
 
 
-<programme start="20220909054500+0800"stop="20220909071500+0800" channel="天映經典CCM">
+<programme start="20220909054500 +0800" stop="20220909071500 +0800" channel="天映經典CCM">
 <title lang="hk">暗渠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1280,7 +1280,7 @@ Cast：白彪, 王戎, 羅莾, 陳佩茜
 </desc></programme>
 
 
-<programme start="20220909071500+0800"stop="20220909085500+0800" channel="天映經典CCM">
+<programme start="20220909071500 +0800" stop="20220909085500 +0800" channel="天映經典CCM">
 <title lang="hk">大軍閥\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1291,7 +1291,7 @@ Cast：許冠文, 何莉莉, 宗華, 狄娜
 </desc></programme>
 
 
-<programme start="20220909085500+0800"stop="20220909103000+0800" channel="天映經典CCM">
+<programme start="20220909085500 +0800" stop="20220909103000 +0800" channel="天映經典CCM">
 <title lang="hk">少年蘇乞兒\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1302,7 +1302,7 @@ Cast：劉家輝, 白彪, 汪禹, 王龍威
 </desc></programme>
 
 
-<programme start="20220909103000+0800"stop="20220909120500+0800" channel="天映經典CCM">
+<programme start="20220909103000 +0800" stop="20220909120500 +0800" channel="天映經典CCM">
 <title lang="hk">天使出更\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1313,7 +1313,7 @@ Cast：陳友, 林建明, 張堅庭
 </desc></programme>
 
 
-<programme start="20220909120500+0800"stop="20220909134500+0800" channel="天映經典CCM">
+<programme start="20220909120500 +0800" stop="20220909134500 +0800" channel="天映經典CCM">
 <title lang="hk">五郎八卦棍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1324,7 +1324,7 @@ Cast：劉家輝, 傅聲, 李麗麗, 汪禹, 麥德羅, 小侯
 </desc></programme>
 
 
-<programme start="20220909134500+0800"stop="20220909153000+0800" channel="天映經典CCM">
+<programme start="20220909134500 +0800" stop="20220909153000 +0800" channel="天映經典CCM">
 <title lang="hk">沒有老公的日子\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1335,7 +1335,7 @@ Cast：袁詠儀, 張智霖, 葉德嫻, 何超儀
 </desc></programme>
 
 
-<programme start="20220909153000+0800"stop="20220909172000+0800" channel="天映經典CCM">
+<programme start="20220909153000 +0800" stop="20220909172000 +0800" channel="天映經典CCM">
 <title lang="hk">請帖\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1346,7 +1346,7 @@ Cast：汪禹, 陳觀泰, 羅烈, 林秀君
 </desc></programme>
 
 
-<programme start="20220909172000+0800"stop="20220909190500+0800" channel="天映經典CCM">
+<programme start="20220909172000 +0800" stop="20220909190500 +0800" channel="天映經典CCM">
 <title lang="hk">青春鼓王\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1357,7 +1357,7 @@ Cast：何莉莉, 凌雲, 楊帆, 鄭文靜
 </desc></programme>
 
 
-<programme start="20220909190500+0800"stop="20220909210000+0800" channel="天映經典CCM">
+<programme start="20220909190500 +0800" stop="20220909210000 +0800" channel="天映經典CCM">
 <title lang="hk">小煞星\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1368,7 +1368,7 @@ Cast：姜大衛, 汪萍, 狄龍
 </desc></programme>
 
 
-<programme start="20220909210000+0800"stop="20220909223500+0800" channel="天映經典CCM">
+<programme start="20220909210000 +0800" stop="20220909223500 +0800" channel="天映經典CCM">
 <title lang="hk">弟子也瘋狂\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1379,7 +1379,7 @@ Cast：劉家輝, 汪禹, 羅莽, 錢小豪
 </desc></programme>
 
 
-<programme start="20220909223500+0800"stop="20220910001000+0800" channel="天映經典CCM">
+<programme start="20220909223500 +0800" stop="20220910001000 +0800" channel="天映經典CCM">
 <title lang="hk">水兒武士\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1390,7 +1390,7 @@ Cast：董瑋, 萬梓良, 惠英紅, 餘安安
 </desc></programme>
 
 
-<programme start="20220910001000+0800"stop="20220910015500+0800" channel="天映經典CCM">
+<programme start="20220910001000 +0800" stop="20220910015500 +0800" channel="天映經典CCM">
 <title lang="hk">白蛇傳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1401,7 +1401,7 @@ Cast：林黛, 趙雷, 杜娟, 楊志卿, 尤光照
 </desc></programme>
 
 
-<programme start="20220910015500+0800"stop="20220910033500+0800" channel="天映經典CCM">
+<programme start="20220910015500 +0800" stop="20220910033500 +0800" channel="天映經典CCM">
 <title lang="hk">南鬥官三鬥北少爺\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1412,7 +1412,7 @@ Cast：傅聲, 張展鵬, 汪禹
 </desc></programme>
 
 
-<programme start="20220910033500+0800"stop="20220910052500+0800" channel="天映經典CCM">
+<programme start="20220910033500 +0800" stop="20220910052500 +0800" channel="天映經典CCM">
 <title lang="hk">死囚\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1423,7 +1423,7 @@ Cast：李麗麗, 蔡弘, 姜大衛
 </desc></programme>
 
 
-<programme start="20220910052500+0800"stop="20220910072500+0800" channel="天映經典CCM">
+<programme start="20220910052500 +0800" stop="20220910072500 +0800" channel="天映經典CCM">
 <title lang="hk">何日君再來\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1434,7 +1434,7 @@ Cast：陳厚, 張沖, 胡燕妮, 何莉莉
 </desc></programme>
 
 
-<programme start="20220910072500+0800"stop="20220910085500+0800" channel="天映經典CCM">
+<programme start="20220910072500 +0800" stop="20220910085500 +0800" channel="天映經典CCM">
 <title lang="hk">惡虎村\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1445,7 +1445,7 @@ Cast：舒佩佩, 岳華, 王俠
 </desc></programme>
 
 
-<programme start="20220910085500+0800"stop="20220910103500+0800" channel="天映經典CCM">
+<programme start="20220910085500 +0800" stop="20220910103500 +0800" channel="天映經典CCM">
 <title lang="hk">老夫子奇趣錄\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1456,7 +1456,7 @@ Cast：王沙, 芬妮, 矮冬瓜
 </desc></programme>
 
 
-<programme start="20220910103500+0800"stop="20220910121500+0800" channel="天映經典CCM">
+<programme start="20220910103500 +0800" stop="20220910121500 +0800" channel="天映經典CCM">
 <title lang="hk">玉羅剎\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1467,7 +1467,7 @@ Cast：鄭佩佩, 唐菁
 </desc></programme>
 
 
-<programme start="20220910121500+0800"stop="20220910133500+0800" channel="天映經典CCM">
+<programme start="20220910121500 +0800" stop="20220910133500 +0800" channel="天映經典CCM">
 <title lang="hk">楊貴妃\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1478,7 +1478,7 @@ Cast：李麗華, 嚴俊, 李香君
 </desc></programme>
 
 
-<programme start="20220910133500+0800"stop="20220910151500+0800" channel="天映經典CCM">
+<programme start="20220910133500 +0800" stop="20220910151500 +0800" channel="天映經典CCM">
 <title lang="hk">掌門人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1489,7 +1489,7 @@ Cast：劉家良, 惠英紅, 劉家輝, 張展鵬
 </desc></programme>
 
 
-<programme start="20220910151500+0800"stop="20220910173000+0800" channel="天映經典CCM">
+<programme start="20220910151500 +0800" stop="20220910173000 +0800" channel="天映經典CCM">
 <title lang="hk">船\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1500,7 +1500,7 @@ Cast：何莉莉, 林嘉, 井莉, 金漢
 </desc></programme>
 
 
-<programme start="20220910173000+0800"stop="20220910191000+0800" channel="天映經典CCM">
+<programme start="20220910173000 +0800" stop="20220910191000 +0800" channel="天映經典CCM">
 <title lang="hk">楊過與小龍女\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1511,7 +1511,7 @@ Cast：張國榮, 翁靜晶, 陳觀泰, 劉雪華
 </desc></programme>
 
 
-<programme start="20220910191000+0800"stop="20220910210000+0800" channel="天映經典CCM">
+<programme start="20220910191000 +0800" stop="20220910210000 +0800" channel="天映經典CCM">
 <title lang="hk">紅樓夢\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1522,7 +1522,7 @@ Cast：樂蒂, 丁寧, 丁紅, 杜娟, 任潔
 </desc></programme>
 
 
-<programme start="20220910210000+0800"stop="20220910224000+0800" channel="天映經典CCM">
+<programme start="20220910210000 +0800" stop="20220910224000 +0800" channel="天映經典CCM">
 <title lang="hk">大醉俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1533,7 +1533,7 @@ Cast：鄭佩佩, 岳華, 陳鴻烈
 </desc></programme>
 
 
-<programme start="20220910224000+0800"stop="20220911003500+0800" channel="天映經典CCM">
+<programme start="20220910224000 +0800" stop="20220911003500 +0800" channel="天映經典CCM">
 <title lang="hk">菁菁\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1544,7 +1544,7 @@ Cast：李菁, 金峰
 </desc></programme>
 
 
-<programme start="20220911003500+0800"stop="20220911022000+0800" channel="天映經典CCM">
+<programme start="20220911003500 +0800" stop="20220911022000 +0800" channel="天映經典CCM">
 <title lang="hk">儒俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1555,7 +1555,7 @@ Cast：張翼, 虞慧, 舒佩佩, 焦姣
 </desc></programme>
 
 
-<programme start="20220911022000+0800"stop="20220911040000+0800" channel="天映經典CCM">
+<programme start="20220911022000 +0800" stop="20220911040000 +0800" channel="天映經典CCM">
 <title lang="hk">狂戀詩\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1566,7 +1566,7 @@ Cast：胡燕妮, 金漢, 楊帆, 金峰
 </desc></programme>
 
 
-<programme start="20220911040000+0800"stop="20220911054000+0800" channel="天映經典CCM">
+<programme start="20220911040000 +0800" stop="20220911054000 +0800" channel="天映經典CCM">
 <title lang="hk">青春萬歲\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1577,7 +1577,7 @@ Cast：丁珮, 林沖, 趙心研, 高苓
 </desc></programme>
 
 
-<programme start="20220911054000+0800"stop="20220911073000+0800" channel="天映經典CCM">
+<programme start="20220911054000 +0800" stop="20220911073000 +0800" channel="天映經典CCM">
 <title lang="hk">女子公寓\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1588,7 +1588,7 @@ Cast：丁佩, 楊帆, 李麗麗, 區燕菁, 夏萍
 </desc></programme>
 
 
-<programme start="20220911073000+0800"stop="20220911092000+0800" channel="天映經典CCM">
+<programme start="20220911073000 +0800" stop="20220911092000 +0800" channel="天映經典CCM">
 <title lang="hk">少林與武當\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1599,7 +1599,7 @@ Cast：羅莽, 王力, 孫建, 江生, 文雪兒
 </desc></programme>
 
 
-<programme start="20220911092000+0800"stop="20220911110000+0800" channel="天映經典CCM">
+<programme start="20220911092000 +0800" stop="20220911110000 +0800" channel="天映經典CCM">
 <title lang="hk">城市之光\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1610,7 +1610,7 @@ Cast：陳友, 惠英紅, 招文欣, 吳詠琪
 </desc></programme>
 
 
-<programme start="20220911110000+0800"stop="20220911125500+0800" channel="天映經典CCM">
+<programme start="20220911110000 +0800" stop="20220911125500 +0800" channel="天映經典CCM">
 <title lang="hk">英雄無淚\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1621,7 +1621,7 @@ Cast：傅聲, 白彪, 趙雅芝
 </desc></programme>
 
 
-<programme start="20220911125500+0800"stop="20220911143000+0800" channel="天映經典CCM">
+<programme start="20220911125500 +0800" stop="20220911143000 +0800" channel="天映經典CCM">
 <title lang="hk">娃娃夫人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1632,7 +1632,7 @@ Cast：李菁, 凌雲, 凌玲, 張佩山
 </desc></programme>
 
 
-<programme start="20220911143000+0800"stop="20220911160000+0800" channel="天映經典CCM">
+<programme start="20220911143000 +0800" stop="20220911160000 +0800" channel="天映經典CCM">
 <title lang="hk">女殺手\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1643,7 +1643,7 @@ Cast：何莉莉, 張佩山, 黃宗迅, 井淼
 </desc></programme>
 
 
-<programme start="20220911160000+0800"stop="20220911173000+0800" channel="天映經典CCM">
+<programme start="20220911160000 +0800" stop="20220911173000 +0800" channel="天映經典CCM">
 <title lang="hk">三十年細說從頭\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1654,7 +1654,7 @@ Cast：劉永, 戴良純, 李殿馨
 </desc></programme>
 
 
-<programme start="20220911173000+0800"stop="20220911191000+0800" channel="天映經典CCM">
+<programme start="20220911173000 +0800" stop="20220911191000 +0800" channel="天映經典CCM">
 <title lang="hk">遊俠情\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1665,7 +1665,7 @@ Cast：惠英紅, 何家勁, 關芝琳
 </desc></programme>
 
 
-<programme start="20220911191000+0800"stop="20220911210000+0800" channel="天映經典CCM">
+<programme start="20220911191000 +0800" stop="20220911210000 +0800" channel="天映經典CCM">
 <title lang="hk">雙鳳奇緣\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1676,7 +1676,7 @@ Cast：凌波, 方盈, 金峰, 金漢, 李菁
 </desc></programme>
 
 
-<programme start="20220911210000+0800"stop="20220911225500+0800" channel="天映經典CCM">
+<programme start="20220911210000 +0800" stop="20220911225500 +0800" channel="天映經典CCM">
 <title lang="hk">龍虎少爺\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1687,7 +1687,7 @@ Cast：劉家輝, 劉家榮, 張展鵬, 傅聲
 </desc></programme>
 
 
-<programme start="20220911225500+0800"stop="20220912003500+0800" channel="天映經典CCM">
+<programme start="20220911225500 +0800" stop="20220912003500 +0800" channel="天映經典CCM">
 <title lang="hk">雙鐲\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1700,7 +1700,7 @@ Cast：陳德容, 劉小慧, 郭晉安, 陶大宇
 </desc></programme>
 
 
-<programme start="20220912003500+0800"stop="20220912021500+0800" channel="天映經典CCM">
+<programme start="20220912003500 +0800" stop="20220912021500 +0800" channel="天映經典CCM">
 <title lang="hk">卒仔抽車\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1711,7 +1711,7 @@ Cast：錢小豪, 麥德羅, 陳觀泰
 </desc></programme>
 
 
-<programme start="20220912021500+0800"stop="20220912041000+0800" channel="天映經典CCM">
+<programme start="20220912021500 +0800" stop="20220912041000 +0800" channel="天映經典CCM">
 <title lang="hk">玉堂春\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1722,7 +1722,7 @@ Cast：樂蒂, 趙雷, 高寶樹, 朱牧, 楊志卿
 </desc></programme>
 
 
-<programme start="20220912041000+0800"stop="20220912054000+0800" channel="天映經典CCM">
+<programme start="20220912041000 +0800" stop="20220912054000 +0800" channel="天映經典CCM">
 <title lang="hk">鬼屋麗人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1733,7 +1733,7 @@ Cast：張美瑤, 楊麗花, 雷鳴, 崔福生
 </desc></programme>
 
 
-<programme start="20220912054000+0800"stop="20220912070500+0800" channel="天映經典CCM">
+<programme start="20220912054000 +0800" stop="20220912070500 +0800" channel="天映經典CCM">
 <title lang="hk">鬼新娘\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1744,7 +1744,7 @@ Cast：邢慧, 楊帆, 顧媚, 雷鳴
 </desc></programme>
 
 
-<programme start="20220912070500+0800"stop="20220912085000+0800" channel="天映經典CCM">
+<programme start="20220912070500 +0800" stop="20220912085000 +0800" channel="天映經典CCM">
 <title lang="hk">宋宮秘史\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1755,7 +1755,7 @@ Cast：淩波, 金峰, 高寶樹, 井淼
 </desc></programme>
 
 
-<programme start="20220912085000+0800"stop="20220912103000+0800" channel="天映經典CCM">
+<programme start="20220912085000 +0800" stop="20220912103000 +0800" channel="天映經典CCM">
 <title lang="hk">新飛狐外傳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1766,7 +1766,7 @@ Cast：惠英紅, 萬梓良, 黃日華
 </desc></programme>
 
 
-<programme start="20220912103000+0800"stop="20220912121000+0800" channel="天映經典CCM">
+<programme start="20220912103000 +0800" stop="20220912121000 +0800" channel="天映經典CCM">
 <title lang="hk">樑上君子\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1777,7 +1777,7 @@ Cast：錢小豪, 羅莽, 董驃, 廖麗玲
 </desc></programme>
 
 
-<programme start="20220912121000+0800"stop="20220912135000+0800" channel="天映經典CCM">
+<programme start="20220912121000 +0800" stop="20220912135000 +0800" channel="天映經典CCM">
 <title lang="hk">黑鷹\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1788,7 +1788,7 @@ Cast：胡燕妮, 杜娟, 張沖, 王俠
 </desc></programme>
 
 
-<programme start="20220912135000+0800"stop="20220912153500+0800" channel="天映經典CCM">
+<programme start="20220912135000 +0800" stop="20220912153500 +0800" channel="天映經典CCM">
 <title lang="hk">魚美人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1799,7 +1799,7 @@ Cast：凌波, 李菁
 </desc></programme>
 
 
-<programme start="20220912153500+0800"stop="20220912173500+0800" channel="天映經典CCM">
+<programme start="20220912153500 +0800" stop="20220912173500 +0800" channel="天映經典CCM">
 <title lang="hk">鐵旗門\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1810,7 +1810,7 @@ Cast：郭追, 江生, 王力, 鹿峰, 龍天翔
 </desc></programme>
 
 
-<programme start="20220912173500+0800"stop="20220912191500+0800" channel="天映經典CCM">
+<programme start="20220912173500 +0800" stop="20220912191500 +0800" channel="天映經典CCM">
 <title lang="hk">女秀才\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1821,7 +1821,7 @@ Cast：凌波, 金峰
 </desc></programme>
 
 
-<programme start="20220912191500+0800"stop="20220912210000+0800" channel="天映經典CCM">
+<programme start="20220912191500 +0800" stop="20220912210000 +0800" channel="天映經典CCM">
 <title lang="hk">至尊一劍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1832,7 +1832,7 @@ Cast：爾冬陞, 白彪, 李殿朗
 </desc></programme>
 
 
-<programme start="20220912210000+0800"stop="20220912223500+0800" channel="天映經典CCM">
+<programme start="20220912210000 +0800" stop="20220912223500 +0800" channel="天映經典CCM">
 <title lang="hk">雙喜臨門\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1843,7 +1843,7 @@ Cast：梁醒波, 井莉, 金峰, 高寶樹, 魏平澳
 </desc></programme>
 
 
-<programme start="20220912223500+0800"stop="20220913001000+0800" channel="天映經典CCM">
+<programme start="20220912223500 +0800" stop="20220913001000 +0800" channel="天映經典CCM">
 <title lang="hk">清宮啟示錄\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1854,7 +1854,7 @@ Cast：劉永, 劉雪華, 莫少聰
 </desc></programme>
 
 
-<programme start="20220913001000+0800"stop="20220913021000+0800" channel="天映經典CCM">
+<programme start="20220913001000 +0800" stop="20220913021000 +0800" channel="天映經典CCM">
 <title lang="hk">西遊記\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1865,7 +1865,7 @@ Cast：岳華，彭鵬，田琛，何藩
 </desc></programme>
 
 
-<programme start="20220913021000+0800"stop="20220913035500+0800" channel="天映經典CCM">
+<programme start="20220913021000 +0800" stop="20220913035500 +0800" channel="天映經典CCM">
 <title lang="hk">小子有種\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1876,7 +1876,7 @@ Cast：傅聲, 黃杏秀, 陳惠敏, 谷峰
 </desc></programme>
 
 
-<programme start="20220913035500+0800"stop="20220913055000+0800" channel="天映經典CCM">
+<programme start="20220913035500 +0800" stop="20220913055000 +0800" channel="天映經典CCM">
 <title lang="hk">金燕子\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1887,7 +1887,7 @@ Cast：鄭佩佩, 王羽, 羅烈
 </desc></programme>
 
 
-<programme start="20220913055000+0800"stop="20220913074500+0800" channel="天映經典CCM">
+<programme start="20220913055000 +0800" stop="20220913074500 +0800" channel="天映經典CCM">
 <title lang="hk">碧血劍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1898,7 +1898,7 @@ Cast：郭追, 文雪兒, 江生, 井莉
 </desc></programme>
 
 
-<programme start="20220913074500+0800"stop="20220913094000+0800" channel="天映經典CCM">
+<programme start="20220913074500 +0800" stop="20220913094000 +0800" channel="天映經典CCM">
 <title lang="hk">洪拳與詠春\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1909,7 +1909,7 @@ Cast：傅聲, 陳依齡, 戚冠軍, 劉家輝
 </desc></programme>
 
 
-<programme start="20220913094000+0800"stop="20220913112000+0800" channel="天映經典CCM">
+<programme start="20220913094000 +0800" stop="20220913112000 +0800" channel="天映經典CCM">
 <title lang="hk">蘭嶼之歌\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1920,7 +1920,7 @@ Cast：張沖, 鄭佩佩
 </desc></programme>
 
 
-<programme start="20220913112000+0800"stop="20220913125500+0800" channel="天映經典CCM">
+<programme start="20220913112000 +0800" stop="20220913125500 +0800" channel="天映經典CCM">
 <title lang="hk">洪拳大師\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1931,7 +1931,7 @@ Cast：狄龍, 劉雪華, 麥德羅
 </desc></programme>
 
 
-<programme start="20220913125500+0800"stop="20220913143500+0800" channel="天映經典CCM">
+<programme start="20220913125500 +0800" stop="20220913143500 +0800" channel="天映經典CCM">
 <title lang="hk">我為你狂\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1942,7 +1942,7 @@ Cast：艾迪, 蔣麗萍, 金燕玲
 </desc></programme>
 
 
-<programme start="20220913143500+0800"stop="20220913161500+0800" channel="天映經典CCM">
+<programme start="20220913143500 +0800" stop="20220913161500 +0800" channel="天映經典CCM">
 <title lang="hk">沖霄樓\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1953,7 +1953,7 @@ Cast：鹿峰, 王力, 龍天翔, 孫建, 錢小豪
 </desc></programme>
 
 
-<programme start="20220913161500+0800"stop="20220913174500+0800" channel="天映經典CCM">
+<programme start="20220913161500 +0800" stop="20220913174500 +0800" channel="天映經典CCM">
 <title lang="hk">多咀街\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1964,7 +1964,7 @@ Cast：邵氏紅星電視藝員
 </desc></programme>
 
 
-<programme start="20220913174500+0800"stop="20220913192000+0800" channel="天映經典CCM">
+<programme start="20220913174500 +0800" stop="20220913192000 +0800" channel="天映經典CCM">
 <title lang="hk">武林聖火令\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1975,7 +1975,7 @@ Cast：劉雪華, 莫少聰, 白彪, 郭追, 翁靜晶
 </desc></programme>
 
 
-<programme start="20220913192000+0800"stop="20220913210000+0800" channel="天映經典CCM">
+<programme start="20220913192000 +0800" stop="20220913210000 +0800" channel="天映經典CCM">
 <title lang="hk">人皮燈籠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1986,7 +1986,7 @@ Cast：劉永, 陳觀泰, 羅烈
 </desc></programme>
 
 
-<programme start="20220913210000+0800"stop="20220913224000+0800" channel="天映經典CCM">
+<programme start="20220913210000 +0800" stop="20220913224000 +0800" channel="天映經典CCM">
 <title lang="hk">連城訣\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -1997,7 +1997,7 @@ Cast：岳華, 施思, 白彪, 廖麗玲
 </desc></programme>
 
 
-<programme start="20220913224000+0800"stop="20220914003500+0800" channel="天映經典CCM">
+<programme start="20220913224000 +0800" stop="20220914003500 +0800" channel="天映經典CCM">
 <title lang="hk">鑽石艷盜\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2008,7 +2008,7 @@ Cast：何莉莉, 凌雲
 </desc></programme>
 
 
-<programme start="20220914003500+0800"stop="20220914022000+0800" channel="天映經典CCM">
+<programme start="20220914003500 +0800" stop="20220914022000 +0800" channel="天映經典CCM">
 <title lang="hk">龍虎溝\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2019,7 +2019,7 @@ Cast：鄭佩佩, 金漢, 林嘉
 </desc></programme>
 
 
-<programme start="20220914022000+0800"stop="20220914042000+0800" channel="天映經典CCM">
+<programme start="20220914022000 +0800" stop="20220914042000 +0800" channel="天映經典CCM">
 <title lang="hk">萬花迎春\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2030,7 +2030,7 @@ Cast：樂蒂, 陳厚, 高寶樹, 藍娣, 蔣光超
 </desc></programme>
 
 
-<programme start="20220914042000+0800"stop="20220914060000+0800" channel="天映經典CCM">
+<programme start="20220914042000 +0800" stop="20220914060000 +0800" channel="天映經典CCM">
 <title lang="hk">布衣神相\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2041,7 +2041,7 @@ Cast：徐少強, 萬梓良, 劉永, 陳觀泰, 劉雪華
 </desc></programme>
 
 
-<programme start="20220914060000+0800"stop="20220914073500+0800" channel="天映經典CCM">
+<programme start="20220914060000 +0800" stop="20220914073500 +0800" channel="天映經典CCM">
 <title lang="hk">少年蘇乞兒\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2052,7 +2052,7 @@ Cast：劉家輝, 白彪, 汪禹, 王龍威
 </desc></programme>
 
 
-<programme start="20220914073500+0800"stop="20220914091000+0800" channel="天映經典CCM">
+<programme start="20220914073500 +0800" stop="20220914091000 +0800" channel="天映經典CCM">
 <title lang="hk">慾燄狂流\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2063,7 +2063,7 @@ Cast：胡燕妮, 喬莊, 楊帆, 於倩
 </desc></programme>
 
 
-<programme start="20220914091000+0800"stop="20220914105000+0800" channel="天映經典CCM">
+<programme start="20220914091000 +0800" stop="20220914105000 +0800" channel="天映經典CCM">
 <title lang="hk">禦貓三戲錦毛鼠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2074,7 +2074,7 @@ Cast：傅聲, 鄭少秋, 惠英紅
 </desc></programme>
 
 
-<programme start="20220914105000+0800"stop="20220914122500+0800" channel="天映經典CCM">
+<programme start="20220914105000 +0800" stop="20220914122500 +0800" channel="天映經典CCM">
 <title lang="hk">人蛇鼠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2085,7 +2085,7 @@ Cast：宗華, 韋弘, 丹娜
 </desc></programme>
 
 
-<programme start="20220914122500+0800"stop="20220914141500+0800" channel="天映經典CCM">
+<programme start="20220914122500 +0800" stop="20220914141500 +0800" channel="天映經典CCM">
 <title lang="hk">死囚\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2096,7 +2096,7 @@ Cast：李麗麗, 蔡弘, 姜大衛
 </desc></programme>
 
 
-<programme start="20220914141500+0800"stop="20220914161000+0800" channel="天映經典CCM">
+<programme start="20220914141500 +0800" stop="20220914161000 +0800" channel="天映經典CCM">
 <title lang="hk">傾國傾城\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2107,7 +2107,7 @@ Cast：盧燕, 蕭瑤, 狄龍
 </desc></programme>
 
 
-<programme start="20220914161000+0800"stop="20220914173500+0800" channel="天映經典CCM">
+<programme start="20220914161000 +0800" stop="20220914173500 +0800" channel="天映經典CCM">
 <title lang="hk">幫規\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2118,7 +2118,7 @@ Cast：陳觀泰, 惠天賜, 白彪
 </desc></programme>
 
 
-<programme start="20220914173500+0800"stop="20220914192500+0800" channel="天映經典CCM">
+<programme start="20220914173500 +0800" stop="20220914192500 +0800" channel="天映經典CCM">
 <title lang="hk">佛跳牆\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2129,7 +2129,7 @@ Cast：野峰, 於榮, 艾飛, 邵音音
 </desc></programme>
 
 
-<programme start="20220914192500+0800"stop="20220914210000+0800" channel="天映經典CCM">
+<programme start="20220914192500 +0800" stop="20220914210000 +0800" channel="天映經典CCM">
 <title lang="hk">情俠追風劍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2140,7 +2140,7 @@ Cast：汪禹, 妞妞, 羅烈, 李麗麗
 </desc></programme>
 
 
-<programme start="20220914210000+0800"stop="20220914225000+0800" channel="天映經典CCM">
+<programme start="20220914210000 +0800" stop="20220914225000 +0800" channel="天映經典CCM">
 <title lang="hk">仙女下凡\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2151,7 +2151,7 @@ Cast：李菁, 金峰, 白璐, 李鵬飛
 </desc></programme>
 
 
-<programme start="20220914225000+0800"stop="20220915002500+0800" channel="天映經典CCM">
+<programme start="20220914225000 +0800" stop="20220915002500 +0800" channel="天映經典CCM">
 <title lang="hk">女捕快\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2162,7 +2162,7 @@ Cast：施思, 羅烈, 張佩山
 </desc></programme>
 
 
-<programme start="20220915002500+0800"stop="20220915020500+0800" channel="天映經典CCM">
+<programme start="20220915002500 +0800" stop="20220915020500 +0800" channel="天映經典CCM">
 <title lang="hk">北地胭脂\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2173,7 +2173,7 @@ Cast：何莉莉, 胡錦, 岳華, 於楓, 劉午琪
 </desc></programme>
 
 
-<programme start="20220915020500+0800"stop="20220915041500+0800" channel="天映經典CCM">
+<programme start="20220915020500 +0800" stop="20220915041500 +0800" channel="天映經典CCM">
 <title lang="hk">飛狐外傳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2184,7 +2184,7 @@ Cast：錢小豪, 江生, 楚湘雲, 郭追
 </desc></programme>
 
 
-<programme start="20220915041500+0800"stop="20220915054500+0800" channel="天映經典CCM">
+<programme start="20220915041500 +0800" stop="20220915054500 +0800" channel="天映經典CCM">
 <title lang="hk">惡虎村\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2195,7 +2195,7 @@ Cast：舒佩佩, 岳華, 王俠
 </desc></programme>
 
 
-<programme start="20220915054500+0800"stop="20220915071500+0800" channel="天映經典CCM">
+<programme start="20220915054500 +0800" stop="20220915071500 +0800" channel="天映經典CCM">
 <title lang="hk">女殺手\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2206,7 +2206,7 @@ Cast：何莉莉, 張佩山, 黃宗迅, 井淼
 </desc></programme>
 
 
-<programme start="20220915071500+0800"stop="20220915084500+0800" channel="天映經典CCM">
+<programme start="20220915071500 +0800" stop="20220915084500 +0800" channel="天映經典CCM">
 <title lang="hk">雙俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2217,7 +2217,7 @@ Cast：姜大衛, 狄龍, 谷峰, 楊斯
 </desc></programme>
 
 
-<programme start="20220915084500+0800"stop="20220915105000+0800" channel="天映經典CCM">
+<programme start="20220915084500 +0800" stop="20220915105000 +0800" channel="天映經典CCM">
 <title lang="hk">不了情\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2228,7 +2228,7 @@ Cast：林黛, 關山, 高寶樹, 洛奇, 蔣光超
 </desc></programme>
 
 
-<programme start="20220915105000+0800"stop="20220915123500+0800" channel="天映經典CCM">
+<programme start="20220915105000 +0800" stop="20220915123500 +0800" channel="天映經典CCM">
 <title lang="hk">通天小子紅槍客\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2239,7 +2239,7 @@ Cast：汪禹, 穀峰, 王龍威, 元華
 </desc></programme>
 
 
-<programme start="20220915123500+0800"stop="20220915140500+0800" channel="天映經典CCM">
+<programme start="20220915123500 +0800" stop="20220915140500 +0800" channel="天映經典CCM">
 <title lang="hk">鬼屋麗人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2250,7 +2250,7 @@ Cast：張美瑤, 楊麗花, 雷鳴, 崔福生
 </desc></programme>
 
 
-<programme start="20220915140500+0800"stop="20220915153500+0800" channel="天映經典CCM">
+<programme start="20220915140500 +0800" stop="20220915153500 +0800" channel="天映經典CCM">
 <title lang="hk">江湖了斷\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2261,7 +2261,7 @@ Cast：羅莽, 白彪, 左燕翎, 孫健
 </desc></programme>
 
 
-<programme start="20220915153500+0800"stop="20220915172500+0800" channel="天映經典CCM">
+<programme start="20220915153500 +0800" stop="20220915172500 +0800" channel="天映經典CCM">
 <title lang="hk">女子公寓\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2272,7 +2272,7 @@ Cast：丁佩, 楊帆, 李麗麗, 區燕菁, 夏萍
 </desc></programme>
 
 
-<programme start="20220915172500+0800"stop="20220915192000+0800" channel="天映經典CCM">
+<programme start="20220915172500 +0800" stop="20220915192000 +0800" channel="天映經典CCM">
 <title lang="hk">武館\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2283,7 +2283,7 @@ Cast：劉家輝, 麥德羅, 谷峰, 惠英紅
 </desc></programme>
 
 
-<programme start="20220915192000+0800"stop="20220915210000+0800" channel="天映經典CCM">
+<programme start="20220915192000 +0800" stop="20220915210000 +0800" channel="天映經典CCM">
 <title lang="hk">我們戀愛去了\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2294,7 +2294,7 @@ Cast：華倫, 林鳳嬌, 陳浩
 </desc></programme>
 
 
-<programme start="20220915210000+0800"stop="20220915223000+0800" channel="天映經典CCM">
+<programme start="20220915210000 +0800" stop="20220915223000 +0800" channel="天映經典CCM">
 <title lang="hk">太極拳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2305,7 +2305,7 @@ Cast：陳沃夫, 施思, 韋弘, 詹森
 </desc></programme>
 
 
-<programme start="20220915223000+0800"stop="20220916001500+0800" channel="天映經典CCM">
+<programme start="20220915223000 +0800" stop="20220916001500 +0800" channel="天映經典CCM">
 <title lang="hk">乾隆下揚州\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2316,7 +2316,7 @@ Cast：劉永, 姜南, 李昆
 </desc></programme>
 
 
-<programme start="20220916001500+0800"stop="20220916015500+0800" channel="天映經典CCM">
+<programme start="20220916001500 +0800" stop="20220916015500 +0800" channel="天映經典CCM">
 <title lang="hk">五郎八卦棍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2327,7 +2327,7 @@ Cast：劉家輝, 傅聲, 李麗麗, 汪禹, 麥德羅, 小侯
 </desc></programme>
 
 
-<programme start="20220916015500+0800"stop="20220916032500+0800" channel="天映經典CCM">
+<programme start="20220916015500 +0800" stop="20220916032500 +0800" channel="天映經典CCM">
 <title lang="hk">倩女幽魂\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2338,7 +2338,7 @@ Cast：樂蒂, 趙雷, 楊志卿, 洛奇
 </desc></programme>
 
 
-<programme start="20220916032500+0800"stop="20220916050500+0800" channel="天映經典CCM">
+<programme start="20220916032500 +0800" stop="20220916050500 +0800" channel="天映經典CCM">
 <title lang="hk">天蠶變\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2349,7 +2349,7 @@ Cast：徐少強, 劉永, 萬梓良, 劉雪華
 </desc></programme>
 
 
-<programme start="20220916050500+0800"stop="20220916065000+0800" channel="天映經典CCM">
+<programme start="20220916050500 +0800" stop="20220916065000 +0800" channel="天映經典CCM">
 <title lang="hk">單程路\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2360,7 +2360,7 @@ Cast：麥德羅, 戴良純, 李修賢
 </desc></programme>
 
 
-<programme start="20220916065000+0800"stop="20220916081000+0800" channel="天映經典CCM">
+<programme start="20220916065000 +0800" stop="20220916081000 +0800" channel="天映經典CCM">
 <title lang="hk">楊貴妃\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2371,7 +2371,7 @@ Cast：李麗華, 嚴俊, 李香君
 </desc></programme>
 
 
-<programme start="20220916081000+0800"stop="20220916095500+0800" channel="天映經典CCM">
+<programme start="20220916081000 +0800" stop="20220916095500 +0800" channel="天映經典CCM">
 <title lang="hk">金衣大俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2382,7 +2382,7 @@ Cast：何莉莉, 高遠, 舒佩佩, 王俠
 </desc></programme>
 
 
-<programme start="20220916095500+0800"stop="20220916113000+0800" channel="天映經典CCM">
+<programme start="20220916095500 +0800" stop="20220916113000 +0800" channel="天映經典CCM">
 <title lang="hk">82家房客\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2393,7 +2393,7 @@ Cast：惠英紅, 丁佩, 陳百祥
 </desc></programme>
 
 
-<programme start="20220916113000+0800"stop="20220916130500+0800" channel="天映經典CCM">
+<programme start="20220916113000 +0800" stop="20220916130500 +0800" channel="天映經典CCM">
 <title lang="hk">文素臣\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2404,7 +2404,7 @@ Cast：李菁, 喬莊, 何莉莉
 </desc></programme>
 
 
-<programme start="20220916130500+0800"stop="20220916144500+0800" channel="天映經典CCM">
+<programme start="20220916130500 +0800" stop="20220916144500 +0800" channel="天映經典CCM">
 <title lang="hk">武松\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2415,7 +2415,7 @@ Cast：汪萍，狄龍，劉永, 谷峰
 </desc></programme>
 
 
-<programme start="20220916144500+0800"stop="20220916162000+0800" channel="天映經典CCM">
+<programme start="20220916144500 +0800" stop="20220916162000 +0800" channel="天映經典CCM">
 <title lang="hk">雙喜臨門\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2426,7 +2426,7 @@ Cast：梁醒波, 井莉, 金峰, 高寶樹, 魏平澳
 </desc></programme>
 
 
-<programme start="20220916162000+0800"stop="20220916180000+0800" channel="天映經典CCM">
+<programme start="20220916162000 +0800" stop="20220916180000 +0800" channel="天映經典CCM">
 <title lang="hk">背叛師門\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2437,7 +2437,7 @@ Cast：陳觀泰, 王龍威, 文雪兒, 元德
 </desc></programme>
 
 
-<programme start="20220916180000+0800"stop="20220916192500+0800" channel="天映經典CCM">
+<programme start="20220916180000 +0800" stop="20220916192500 +0800" channel="天映經典CCM">
 <title lang="hk">鬼新娘\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2448,7 +2448,7 @@ Cast：邢慧, 楊帆, 顧媚, 雷鳴
 </desc></programme>
 
 
-<programme start="20220916192500+0800"stop="20220916210000+0800" channel="天映經典CCM">
+<programme start="20220916192500 +0800" stop="20220916210000 +0800" channel="天映經典CCM">
 <title lang="hk">封神劫\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2459,7 +2459,7 @@ Cast：劉永, 劉雪華, 龍天翔, 趙國
 </desc></programme>
 
 
-<programme start="20220916210000+0800"stop="20220916224500+0800" channel="天映經典CCM">
+<programme start="20220916210000 +0800" stop="20220916224500 +0800" channel="天映經典CCM">
 <title lang="hk">江山美人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2470,7 +2470,7 @@ Cast：林黛, 趙雷, 金銓, 楊志卿, 王元龍
 </desc></programme>
 
 
-<programme start="20220916224500+0800"stop="20220917001500+0800" channel="天映經典CCM">
+<programme start="20220916224500 +0800" stop="20220917001500 +0800" channel="天映經典CCM">
 <title lang="hk">黑店\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2481,7 +2481,7 @@ Cast：施思, 康華
 </desc></programme>
 
 
-<programme start="20220917001500+0800"stop="20220917015500+0800" channel="天映經典CCM">
+<programme start="20220917001500 +0800" stop="20220917015500 +0800" channel="天映經典CCM">
 <title lang="hk">王昭君\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2492,7 +2492,7 @@ Cast：林黛, 趙雷, 洪波, 王月汀, 張翠英, 李英
 </desc></programme>
 
 
-<programme start="20220917015500+0800"stop="20220917033500+0800" channel="天映經典CCM">
+<programme start="20220917015500 +0800" stop="20220917033500 +0800" channel="天映經典CCM">
 <title lang="hk">大醉俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2503,7 +2503,7 @@ Cast：鄭佩佩, 岳華, 陳鴻烈
 </desc></programme>
 
 
-<programme start="20220917033500+0800"stop="20220917051500+0800" channel="天映經典CCM">
+<programme start="20220917033500 +0800" stop="20220917051500 +0800" channel="天映經典CCM">
 <title lang="hk">南北少林\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2514,7 +2514,7 @@ Cast：李連傑，黃秋燕
 </desc></programme>
 
 
-<programme start="20220917051500+0800"stop="20220917064500+0800" channel="天映經典CCM">
+<programme start="20220917051500 +0800" stop="20220917064500 +0800" channel="天映經典CCM">
 <title lang="hk">惡爺\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2525,7 +2525,7 @@ Cast：孟元文, 元華, 王沙, 尤翠玲, 王龍威
 </desc></programme>
 
 
-<programme start="20220917064500+0800"stop="20220917082500+0800" channel="天映經典CCM">
+<programme start="20220917064500 +0800" stop="20220917082500 +0800" channel="天映經典CCM">
 <title lang="hk">卒仔抽車\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2536,7 +2536,7 @@ Cast：錢小豪, 麥德羅, 陳觀泰
 </desc></programme>
 
 
-<programme start="20220917082500+0800"stop="20220917100000+0800" channel="天映經典CCM">
+<programme start="20220917082500 +0800" stop="20220917100000 +0800" channel="天映經典CCM">
 <title lang="hk">春暖花開\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2547,7 +2547,7 @@ Cast：舒佩佩、李麗麗、林嘉、楊帆、金峰、夏儀秋
 </desc></programme>
 
 
-<programme start="20220917100000+0800"stop="20220917115500+0800" channel="天映經典CCM">
+<programme start="20220917100000 +0800" stop="20220917115500 +0800" channel="天映經典CCM">
 <title lang="hk">碧血劍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2558,7 +2558,7 @@ Cast：郭追, 文雪兒, 江生, 井莉
 </desc></programme>
 
 
-<programme start="20220917115500+0800"stop="20220917133500+0800" channel="天映經典CCM">
+<programme start="20220917115500 +0800" stop="20220917133500 +0800" channel="天映經典CCM">
 <title lang="hk">青春1000日\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2569,7 +2569,7 @@ Cast：劉少君, 陳佩茜,戴良純
 </desc></programme>
 
 
-<programme start="20220917133500+0800"stop="20220917151500+0800" channel="天映經典CCM">
+<programme start="20220917133500 +0800" stop="20220917151500 +0800" channel="天映經典CCM">
 <title lang="hk">布衣神相\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2580,7 +2580,7 @@ Cast：徐少強, 萬梓良, 劉永, 陳觀泰, 劉雪華
 </desc></programme>
 
 
-<programme start="20220917151500+0800"stop="20220917171500+0800" channel="天映經典CCM">
+<programme start="20220917151500 +0800" stop="20220917171500 +0800" channel="天映經典CCM">
 <title lang="hk">金玉良緣紅樓夢\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2591,7 +2591,7 @@ Cast：林青霞, 張艾嘉, 狄波拉, 米雪
 </desc></programme>
 
 
-<programme start="20220917171500+0800"stop="20220917192000+0800" channel="天映經典CCM">
+<programme start="20220917171500 +0800" stop="20220917192000 +0800" channel="天映經典CCM">
 <title lang="hk">長輩\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2602,7 +2602,7 @@ Cast：劉家良, 惠英紅, 小侯, 王龍威
 </desc></programme>
 
 
-<programme start="20220917192000+0800"stop="20220917210000+0800" channel="天映經典CCM">
+<programme start="20220917192000 +0800" stop="20220917210000 +0800" channel="天映經典CCM">
 <title lang="hk">神經大俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2613,7 +2613,7 @@ Cast：元德, 惠英紅, 孟元文, 文雪兒
 </desc></programme>
 
 
-<programme start="20220917210000+0800"stop="20220917223500+0800" channel="天映經典CCM">
+<programme start="20220917210000 +0800" stop="20220917223500 +0800" channel="天映經典CCM">
 <title lang="hk">俠客行\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2624,7 +2624,7 @@ Cast：郭追, 唐菁, 劉慧玲
 </desc></programme>
 
 
-<programme start="20220917223500+0800"stop="20220918003500+0800" channel="天映經典CCM">
+<programme start="20220917223500 +0800" stop="20220918003500 +0800" channel="天映經典CCM">
 <title lang="hk">三笑\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2635,7 +2635,7 @@ Cast：李菁, 凌波, 井淼
 </desc></programme>
 
 
-<programme start="20220918003500+0800"stop="20220918021500+0800" channel="天映經典CCM">
+<programme start="20220918003500 +0800" stop="20220918021500 +0800" channel="天映經典CCM">
 <title lang="hk">鹿鼎記\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2646,7 +2646,7 @@ Cast：汪禹, 谷峰, 楚湘雲, 廖麗玲, 劉家輝
 </desc></programme>
 
 
-<programme start="20220918021500+0800"stop="20220918034500+0800" channel="天映經典CCM">
+<programme start="20220918021500 +0800" stop="20220918034500 +0800" channel="天映經典CCM">
 <title lang="hk">盤絲洞\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2657,7 +2657,7 @@ Cast：週龍章，何藩，彭鵬，田琛
 </desc></programme>
 
 
-<programme start="20220918034500+0800"stop="20220918052500+0800" channel="天映經典CCM">
+<programme start="20220918034500 +0800" stop="20220918052500 +0800" channel="天映經典CCM">
 <title lang="hk">陸小鳳之決戰前後\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2668,7 +2668,7 @@ Cast：岳華, 白彪, 劉永, 楚湘雲, 井莉
 </desc></programme>
 
 
-<programme start="20220918052500+0800"stop="20220918070500+0800" channel="天映經典CCM">
+<programme start="20220918052500 +0800" stop="20220918070500 +0800" channel="天映經典CCM">
 <title lang="hk">掌門人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2679,7 +2679,7 @@ Cast：劉家良, 惠英紅, 劉家輝, 張展鵬
 </desc></programme>
 
 
-<programme start="20220918070500+0800"stop="20220918084500+0800" channel="天映經典CCM">
+<programme start="20220918070500 +0800" stop="20220918084500 +0800" channel="天映經典CCM">
 <title lang="hk">青春萬歲\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2690,7 +2690,7 @@ Cast：丁珮, 林沖, 趙心研, 高苓
 </desc></programme>
 
 
-<programme start="20220918084500+0800"stop="20220918102000+0800" channel="天映經典CCM">
+<programme start="20220918084500 +0800" stop="20220918102000 +0800" channel="天映經典CCM">
 <title lang="hk">琴劍恩仇\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2701,7 +2701,7 @@ Cast：秦萍, 王羽, 馮寶寶
 </desc></programme>
 
 
-<programme start="20220918102000+0800"stop="20220918120500+0800" channel="天映經典CCM">
+<programme start="20220918102000 +0800" stop="20220918120500 +0800" channel="天映經典CCM">
 <title lang="hk">憤怒青年\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2712,7 +2712,7 @@ Cast：李麗麗, 貝蒂, 王鍾
 </desc></programme>
 
 
-<programme start="20220918120500+0800"stop="20220918140500+0800" channel="天映經典CCM">
+<programme start="20220918120500 +0800" stop="20220918140500 +0800" channel="天映經典CCM">
 <title lang="hk">虎膽\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2723,7 +2723,7 @@ Cast：鄭佩佩, 岳華, 吳風, 羅維, 田豐
 </desc></programme>
 
 
-<programme start="20220918140500+0800"stop="20220918155000+0800" channel="天映經典CCM">
+<programme start="20220918140500 +0800" stop="20220918155000 +0800" channel="天映經典CCM">
 <title lang="hk">茅山殭屍拳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2734,7 +2734,7 @@ Cast：汪禹, 劉家輝, 黃杏秀
 </desc></programme>
 
 
-<programme start="20220918155000+0800"stop="20220918173000+0800" channel="天映經典CCM">
+<programme start="20220918155000 +0800" stop="20220918173000 +0800" channel="天映經典CCM">
 <title lang="hk">新飛狐外傳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2745,7 +2745,7 @@ Cast：惠英紅, 萬梓良, 黃日華
 </desc></programme>
 
 
-<programme start="20220918173000+0800"stop="20220918192000+0800" channel="天映經典CCM">
+<programme start="20220918173000 +0800" stop="20220918192000 +0800" channel="天映經典CCM">
 <title lang="hk">寶蓮燈\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2756,7 +2756,7 @@ Cast：林黛, 鄭佩佩, 李菁
 </desc></programme>
 
 
-<programme start="20220918192000+0800"stop="20220918210000+0800" channel="天映經典CCM">
+<programme start="20220918192000 +0800" stop="20220918210000 +0800" channel="天映經典CCM">
 <title lang="hk">南鬥官三鬥北少爺\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2767,7 +2767,7 @@ Cast：傅聲, 張展鵬, 汪禹
 </desc></programme>
 
 
-<programme start="20220918210000+0800"stop="20220918224000+0800" channel="天映經典CCM">
+<programme start="20220918210000 +0800" stop="20220918224000 +0800" channel="天映經典CCM">
 <title lang="hk">星際鈍胎\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2778,7 +2778,7 @@ Cast：伊雷, 鍾楚紅, 盧大偉, 譚天南
 </desc></programme>
 
 
-<programme start="20220918224000+0800"stop="20220919004000+0800" channel="天映經典CCM">
+<programme start="20220918224000 +0800" stop="20220919004000 +0800" channel="天映經典CCM">
 <title lang="hk">鐵旗門\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2789,7 +2789,7 @@ Cast：郭追, 江生, 王力, 鹿峰, 龍天翔
 </desc></programme>
 
 
-<programme start="20220919004000+0800"stop="20220919023000+0800" channel="天映經典CCM">
+<programme start="20220919004000 +0800" stop="20220919023000 +0800" channel="天映經典CCM">
 <title lang="hk">港澳傳奇\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2800,7 +2800,7 @@ Cast：恬妮, 陳萍, 谷峰
 </desc></programme>
 
 
-<programme start="20220919023000+0800"stop="20220919041500+0800" channel="天映經典CCM">
+<programme start="20220919023000 +0800" stop="20220919041500 +0800" channel="天映經典CCM">
 <title lang="hk">風流韻事\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2811,7 +2811,7 @@ Cast：恬妮, 陳萍, 楊群, 岳華
 </desc></programme>
 
 
-<programme start="20220919041500+0800"stop="20220919055000+0800" channel="天映經典CCM">
+<programme start="20220919041500 +0800" stop="20220919055000 +0800" channel="天映經典CCM">
 <title lang="hk">魔殿屠龍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2822,7 +2822,7 @@ Cast：爾冬升, 狄龍, 萬梓良, 鐘楚紅
 </desc></programme>
 
 
-<programme start="20220919055000+0800"stop="20220919073000+0800" channel="天映經典CCM">
+<programme start="20220919055000 +0800" stop="20220919073000 +0800" channel="天映經典CCM">
 <title lang="hk">遊俠情\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2833,7 +2833,7 @@ Cast：惠英紅, 何家勁, 關芝琳
 </desc></programme>
 
 
-<programme start="20220919073000+0800"stop="20220919092500+0800" channel="天映經典CCM">
+<programme start="20220919073000 +0800" stop="20220919092500 +0800" channel="天映經典CCM">
 <title lang="hk">英雄無淚\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2844,7 +2844,7 @@ Cast：傅聲, 白彪, 趙雅芝
 </desc></programme>
 
 
-<programme start="20220919092500+0800"stop="20220919110000+0800" channel="天映經典CCM">
+<programme start="20220919092500 +0800" stop="20220919110000 +0800" channel="天映經典CCM">
 <title lang="hk">三十年細說從頭\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2855,7 +2855,7 @@ Cast：劉永, 戴良純, 李殿馨
 </desc></programme>
 
 
-<programme start="20220919110000+0800"stop="20220919123500+0800" channel="天映經典CCM">
+<programme start="20220919110000 +0800" stop="20220919123500 +0800" channel="天映經典CCM">
 <title lang="hk">大內高手\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2866,7 +2866,7 @@ Cast：舒佩佩, 虞慧, 川原, 井淼, 黃宗迅
 </desc></programme>
 
 
-<programme start="20220919123500+0800"stop="20220919141500+0800" channel="天映經典CCM">
+<programme start="20220919123500 +0800" stop="20220919141500 +0800" channel="天映經典CCM">
 <title lang="hk">雙鐲\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2879,7 +2879,7 @@ Cast：陳德容, 劉小慧, 郭晉安, 陶大宇
 </desc></programme>
 
 
-<programme start="20220919141500+0800"stop="20220919155500+0800" channel="天映經典CCM">
+<programme start="20220919141500 +0800" stop="20220919155500 +0800" channel="天映經典CCM">
 <title lang="hk">明月刀雪夜殲仇\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2890,7 +2890,7 @@ Cast：狄龍, 劉永, 施思, 爾冬升, 羅烈
 </desc></programme>
 
 
-<programme start="20220919155500+0800"stop="20220919174500+0800" channel="天映經典CCM">
+<programme start="20220919155500 +0800" stop="20220919174500 +0800" channel="天映經典CCM">
 <title lang="hk">仙女下凡\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2901,7 +2901,7 @@ Cast：李菁, 金峰, 白璐, 李鵬飛
 </desc></programme>
 
 
-<programme start="20220919174500+0800"stop="20220919191500+0800" channel="天映經典CCM">
+<programme start="20220919174500 +0800" stop="20220919191500 +0800" channel="天映經典CCM">
 <title lang="hk">暗渠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2912,7 +2912,7 @@ Cast：白彪, 王戎, 羅莾, 陳佩茜
 </desc></programme>
 
 
-<programme start="20220919191500+0800"stop="20220919210000+0800" channel="天映經典CCM">
+<programme start="20220919191500 +0800" stop="20220919210000 +0800" channel="天映經典CCM">
 <title lang="hk">女巡按\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2923,7 +2923,7 @@ Cast：李菁, 蕭湘, 祝菁
 </desc></programme>
 
 
-<programme start="20220919210000+0800"stop="20220919225000+0800" channel="天映經典CCM">
+<programme start="20220919210000 +0800" stop="20220919225000 +0800" channel="天映經典CCM">
 <title lang="hk">書劍恩仇錄\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2934,7 +2934,7 @@ Cast：狄龍, 白彪, 羅烈
 </desc></programme>
 
 
-<programme start="20220919225000+0800"stop="20220920003500+0800" channel="天映經典CCM">
+<programme start="20220919225000 +0800" stop="20220920003500 +0800" channel="天映經典CCM">
 <title lang="hk">青春鼓王\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2945,7 +2945,7 @@ Cast：何莉莉, 凌雲, 楊帆, 鄭文靜
 </desc></programme>
 
 
-<programme start="20220920003500+0800"stop="20220920023500+0800" channel="天映經典CCM">
+<programme start="20220920003500 +0800" stop="20220920023500 +0800" channel="天映經典CCM">
 <title lang="hk">群英會\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2956,7 +2956,7 @@ Cast：施思, 岳華, 何莉莉, 羅烈, 姜大衛, 狄龍
 </desc></programme>
 
 
-<programme start="20220920023500+0800"stop="20220920041000+0800" channel="天映經典CCM">
+<programme start="20220920023500 +0800" stop="20220920041000 +0800" channel="天映經典CCM">
 <title lang="hk">鬼馬神偷\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2967,7 +2967,7 @@ Cast：劉永, 梁家仁, 梁韻蕊
 </desc></programme>
 
 
-<programme start="20220920041000+0800"stop="20220920055000+0800" channel="天映經典CCM">
+<programme start="20220920041000 +0800" stop="20220920055000 +0800" channel="天映經典CCM">
 <title lang="hk">神劍震江湖\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2978,7 +2978,7 @@ Cast：鄭佩佩, 張翼, 舒佩佩, 羅烈
 </desc></programme>
 
 
-<programme start="20220920055000+0800"stop="20220920074000+0800" channel="天映經典CCM">
+<programme start="20220920055000 +0800" stop="20220920074000 +0800" channel="天映經典CCM">
 <title lang="hk">請帖\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -2989,7 +2989,7 @@ Cast：汪禹, 陳觀泰, 羅烈, 林秀君
 </desc></programme>
 
 
-<programme start="20220920074000+0800"stop="20220920091500+0800" channel="天映經典CCM">
+<programme start="20220920074000 +0800" stop="20220920091500 +0800" channel="天映經典CCM">
 <title lang="hk">娃娃夫人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3000,7 +3000,7 @@ Cast：李菁, 凌雲, 凌玲, 張佩山
 </desc></programme>
 
 
-<programme start="20220920091500+0800"stop="20220920105500+0800" channel="天映經典CCM">
+<programme start="20220920091500 +0800" stop="20220920105500 +0800" channel="天映經典CCM">
 <title lang="hk">連城訣\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3011,7 +3011,7 @@ Cast：岳華, 施思, 白彪, 廖麗玲
 </desc></programme>
 
 
-<programme start="20220920105500+0800"stop="20220920123500+0800" channel="天映經典CCM">
+<programme start="20220920105500 +0800" stop="20220920123500 +0800" channel="天映經典CCM">
 <title lang="hk">女秀才\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3022,7 +3022,7 @@ Cast：凌波, 金峰
 </desc></programme>
 
 
-<programme start="20220920123500+0800"stop="20220920141500+0800" channel="天映經典CCM">
+<programme start="20220920123500 +0800" stop="20220920141500 +0800" channel="天映經典CCM">
 <title lang="hk">禦貓三戲錦毛鼠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3033,7 +3033,7 @@ Cast：傅聲, 鄭少秋, 惠英紅
 </desc></programme>
 
 
-<programme start="20220920141500+0800"stop="20220920160500+0800" channel="天映經典CCM">
+<programme start="20220920141500 +0800" stop="20220920160500 +0800" channel="天映經典CCM">
 <title lang="hk">紅樓夢\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3044,7 +3044,7 @@ Cast：樂蒂, 丁寧, 丁紅, 杜娟, 任潔
 </desc></programme>
 
 
-<programme start="20220920160500+0800"stop="20220920173500+0800" channel="天映經典CCM">
+<programme start="20220920160500 +0800" stop="20220920173500 +0800" channel="天映經典CCM">
 <title lang="hk">女俠賣人頭\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3055,7 +3055,7 @@ Cast：焦姣, 陳亮, 王俠, 井淼, 張佩山
 </desc></programme>
 
 
-<programme start="20220920173500+0800"stop="20220920191500+0800" channel="天映經典CCM">
+<programme start="20220920173500 +0800" stop="20220920191500 +0800" channel="天映經典CCM">
 <title lang="hk">城市之光\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3066,7 +3066,7 @@ Cast：陳友, 惠英紅, 招文欣, 吳詠琪
 </desc></programme>
 
 
-<programme start="20220920191500+0800"stop="20220920210000+0800" channel="天映經典CCM">
+<programme start="20220920191500 +0800" stop="20220920210000 +0800" channel="天映經典CCM">
 <title lang="hk">單程路\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3077,7 +3077,7 @@ Cast：麥德羅, 戴良純, 李修賢
 </desc></programme>
 
 
-<programme start="20220920210000+0800"stop="20220920230500+0800" channel="天映經典CCM">
+<programme start="20220920210000 +0800" stop="20220920230500 +0800" channel="天映經典CCM">
 <title lang="hk">千嬌百媚\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3088,7 +3088,7 @@ Cast：林黛, 陳厚, 範麗, 高寶樹, 麥基
 </desc></programme>
 
 
-<programme start="20220920230500+0800"stop="20220921003000+0800" channel="天映經典CCM">
+<programme start="20220920230500 +0800" stop="20220921003000 +0800" channel="天映經典CCM">
 <title lang="hk">幫規\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3099,7 +3099,7 @@ Cast：陳觀泰, 惠天賜, 白彪
 </desc></programme>
 
 
-<programme start="20220921003000+0800"stop="20220921020500+0800" channel="天映經典CCM">
+<programme start="20220921003000 +0800" stop="20220921020500 +0800" channel="天映經典CCM">
 <title lang="hk">天使出更\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3110,7 +3110,7 @@ Cast：陳友, 林建明, 張堅庭
 </desc></programme>
 
 
-<programme start="20220921020500+0800"stop="20220921034500+0800" channel="天映經典CCM">
+<programme start="20220921020500 +0800" stop="20220921034500 +0800" channel="天映經典CCM">
 <title lang="hk">紅粉動江湖\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3121,7 +3121,7 @@ Cast：陳觀泰, 米雪, 林秀君, 元德
 </desc></programme>
 
 
-<programme start="20220921034500+0800"stop="20220921052000+0800" channel="天映經典CCM">
+<programme start="20220921034500 +0800" stop="20220921052000 +0800" channel="天映經典CCM">
 <title lang="hk">82家房客\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3132,7 +3132,7 @@ Cast：惠英紅, 丁佩, 陳百祥
 </desc></programme>
 
 
-<programme start="20220921052000+0800"stop="20220921070000+0800" channel="天映經典CCM">
+<programme start="20220921052000 +0800" stop="20220921070000 +0800" channel="天映經典CCM">
 <title lang="hk">遺產五億圓\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3143,7 +3143,7 @@ Cast：邢慧, 金峰, 汪萍, 郭曼娜
 </desc></programme>
 
 
-<programme start="20220921070000+0800"stop="20220921084500+0800" channel="天映經典CCM">
+<programme start="20220921070000 +0800" stop="20220921084500 +0800" channel="天映經典CCM">
 <title lang="hk">我們戀愛去了\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3154,7 +3154,7 @@ Cast：華倫, 林鳳嬌, 陳浩
 </desc></programme>
 
 
-<programme start="20220921084500+0800"stop="20220921102500+0800" channel="天映經典CCM">
+<programme start="20220921084500 +0800" stop="20220921102500 +0800" channel="天映經典CCM">
 <title lang="hk">黑鷹\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3165,7 +3165,7 @@ Cast：胡燕妮, 杜娟, 張沖, 王俠
 </desc></programme>
 
 
-<programme start="20220921102500+0800"stop="20220921121000+0800" channel="天映經典CCM">
+<programme start="20220921102500 +0800" stop="20220921121000 +0800" channel="天映經典CCM">
 <title lang="hk">陸小鳳之決戰前後\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3176,7 +3176,7 @@ Cast：岳華, 白彪, 劉永, 楚湘雲, 井莉
 </desc></programme>
 
 
-<programme start="20220921121000+0800"stop="20220921134500+0800" channel="天映經典CCM">
+<programme start="20220921121000 +0800" stop="20220921134500 +0800" channel="天映經典CCM">
 <title lang="hk">封神劫\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3187,7 +3187,7 @@ Cast：劉永, 劉雪華, 龍天翔, 趙國
 </desc></programme>
 
 
-<programme start="20220921134500+0800"stop="20220921152500+0800" channel="天映經典CCM">
+<programme start="20220921134500 +0800" stop="20220921152500 +0800" channel="天映經典CCM">
 <title lang="hk">老夫子奇趣錄\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3198,7 +3198,7 @@ Cast：王沙, 芬妮, 矮冬瓜
 </desc></programme>
 
 
-<programme start="20220921152500+0800"stop="20220921172000+0800" channel="天映經典CCM">
+<programme start="20220921152500 +0800" stop="20220921172000 +0800" channel="天映經典CCM">
 <title lang="hk">小煞星\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3209,7 +3209,7 @@ Cast：姜大衛, 汪萍, 狄龍
 </desc></programme>
 
 
-<programme start="20220921172000+0800"stop="20220921190500+0800" channel="天映經典CCM">
+<programme start="20220921172000 +0800" stop="20220921190500 +0800" channel="天映經典CCM">
 <title lang="hk">乾隆下揚州\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3220,7 +3220,7 @@ Cast：劉永, 姜南, 李昆
 </desc></programme>
 
 
-<programme start="20220921190500+0800"stop="20220921210000+0800" channel="天映經典CCM">
+<programme start="20220921190500 +0800" stop="20220921210000 +0800" channel="天映經典CCM">
 <title lang="hk">海軍突擊隊\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3231,7 +3231,7 @@ Cast：劉永, 狄龍, 傅聲, 姜大衛, 施思
 </desc></programme>
 
 
-<programme start="20220921210000+0800"stop="20220921224500+0800" channel="天映經典CCM">
+<programme start="20220921210000 +0800" stop="20220921224500 +0800" channel="天映經典CCM">
 <title lang="hk">白蛇傳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3242,7 +3242,7 @@ Cast：林黛, 趙雷, 杜娟, 楊志卿, 尤光照
 </desc></programme>
 
 
-<programme start="20220921224500+0800"stop="20220922002000+0800" channel="天映經典CCM">
+<programme start="20220921224500 +0800" stop="20220922002000 +0800" channel="天映經典CCM">
 <title lang="hk">武林聖火令\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3253,7 +3253,7 @@ Cast：劉雪華, 莫少聰, 白彪, 郭追, 翁靜晶
 </desc></programme>
 
 
-<programme start="20220922002000+0800"stop="20220922020000+0800" channel="天映經典CCM">
+<programme start="20220922002000 +0800" stop="20220922020000 +0800" channel="天映經典CCM">
 <title lang="hk">貂蟬\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3264,7 +3264,7 @@ Cast：林黛, 趙雷, 楊志卿, 羅維
 </desc></programme>
 
 
-<programme start="20220922020000+0800"stop="20220922034000+0800" channel="天映經典CCM">
+<programme start="20220922020000 +0800" stop="20220922034000 +0800" channel="天映經典CCM">
 <title lang="hk">玉羅剎\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3275,7 +3275,7 @@ Cast：鄭佩佩, 唐菁
 </desc></programme>
 
 
-<programme start="20220922034000+0800"stop="20220922052000+0800" channel="天映經典CCM">
+<programme start="20220922034000 +0800" stop="20220922052000 +0800" channel="天映經典CCM">
 <title lang="hk">鹿鼎記\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3286,7 +3286,7 @@ Cast：汪禹, 谷峰, 楚湘雲, 廖麗玲, 劉家輝
 </desc></programme>
 
 
-<programme start="20220922052000+0800"stop="20220922065500+0800" channel="天映經典CCM">
+<programme start="20220922052000 +0800" stop="20220922065500 +0800" channel="天映經典CCM">
 <title lang="hk">俠客行\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3297,7 +3297,7 @@ Cast：郭追, 唐菁, 劉慧玲
 </desc></programme>
 
 
-<programme start="20220922065500+0800"stop="20220922084000+0800" channel="天映經典CCM">
+<programme start="20220922065500 +0800" stop="20220922084000 +0800" channel="天映經典CCM">
 <title lang="hk">茅山殭屍拳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3308,7 +3308,7 @@ Cast：汪禹, 劉家輝, 黃杏秀
 </desc></programme>
 
 
-<programme start="20220922084000+0800"stop="20220922105500+0800" channel="天映經典CCM">
+<programme start="20220922084000 +0800" stop="20220922105500 +0800" channel="天映經典CCM">
 <title lang="hk">故都春夢\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3319,7 +3319,7 @@ Cast：李麗華, 凌波, 關山
 </desc></programme>
 
 
-<programme start="20220922105500+0800"stop="20220922123000+0800" channel="天映經典CCM">
+<programme start="20220922105500 +0800" stop="20220922123000 +0800" channel="天映經典CCM">
 <title lang="hk">水兒武士\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3330,7 +3330,7 @@ Cast：董瑋, 萬梓良, 惠英紅, 餘安安
 </desc></programme>
 
 
-<programme start="20220922123000+0800"stop="20220922140500+0800" channel="天映經典CCM">
+<programme start="20220922123000 +0800" stop="20220922140500 +0800" channel="天映經典CCM">
 <title lang="hk">慾燄狂流\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3341,7 +3341,7 @@ Cast：胡燕妮, 喬莊, 楊帆, 於倩
 </desc></programme>
 
 
-<programme start="20220922140500+0800"stop="20220922160000+0800" channel="天映經典CCM">
+<programme start="20220922140500 +0800" stop="20220922160000 +0800" channel="天映經典CCM">
 <title lang="hk">碧血劍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3352,7 +3352,7 @@ Cast：郭追, 文雪兒, 江生, 井莉
 </desc></programme>
 
 
-<programme start="20220922160000+0800"stop="20220922173500+0800" channel="天映經典CCM">
+<programme start="20220922160000 +0800" stop="20220922173500 +0800" channel="天映經典CCM">
 <title lang="hk">弟子也瘋狂\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3363,7 +3363,7 @@ Cast：劉家輝, 汪禹, 羅莽, 錢小豪
 </desc></programme>
 
 
-<programme start="20220922173500+0800"stop="20220922191500+0800" channel="天映經典CCM">
+<programme start="20220922173500 +0800" stop="20220922191500 +0800" channel="天映經典CCM">
 <title lang="hk">小子有種\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3374,7 +3374,7 @@ Cast：傅聲, 黃杏秀, 陳惠敏, 谷峰
 </desc></programme>
 
 
-<programme start="20220922191500+0800"stop="20220922210000+0800" channel="天映經典CCM">
+<programme start="20220922191500 +0800" stop="20220922210000 +0800" channel="天映經典CCM">
 <title lang="hk">沒有老公的日子\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3385,7 +3385,7 @@ Cast：袁詠儀, 張智霖, 葉德嫻, 何超儀
 </desc></programme>
 
 
-<programme start="20220922210000+0800"stop="20220922223500+0800" channel="天映經典CCM">
+<programme start="20220922210000 +0800" stop="20220922223500 +0800" channel="天映經典CCM">
 <title lang="hk">洪拳大師\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3396,7 +3396,7 @@ Cast：狄龍, 劉雪華, 麥德羅
 </desc></programme>
 
 
-<programme start="20220922223500+0800"stop="20220923003500+0800" channel="天映經典CCM">
+<programme start="20220922223500 +0800" stop="20220923003500 +0800" channel="天映經典CCM">
 <title lang="hk">武則天\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3407,7 +3407,7 @@ Cast：李麗華, 趙雷, 喬莊, 洛奇, 俞鳳至
 </desc></programme>
 
 
-<programme start="20220923003500+0800"stop="20220923021000+0800" channel="天映經典CCM">
+<programme start="20220923003500 +0800" stop="20220923021000 +0800" channel="天映經典CCM">
 <title lang="hk">清宮啟示錄\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3418,7 +3418,7 @@ Cast：劉永, 劉雪華, 莫少聰
 </desc></programme>
 
 
-<programme start="20220923021000+0800"stop="20220923035000+0800" channel="天映經典CCM">
+<programme start="20220923021000 +0800" stop="20220923035000 +0800" channel="天映經典CCM">
 <title lang="hk">人皮燈籠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3429,7 +3429,7 @@ Cast：劉永, 陳觀泰, 羅烈
 </desc></programme>
 
 
-<programme start="20220923035000+0800"stop="20220923052500+0800" channel="天映經典CCM">
+<programme start="20220923035000 +0800" stop="20220923052500 +0800" channel="天映經典CCM">
 <title lang="hk">文素臣\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3440,7 +3440,7 @@ Cast：李菁, 喬莊, 何莉莉
 </desc></programme>
 
 
-<programme start="20220923052500+0800"stop="20220923071000+0800" channel="天映經典CCM">
+<programme start="20220923052500 +0800" stop="20220923071000 +0800" channel="天映經典CCM">
 <title lang="hk">女巡按\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3451,7 +3451,7 @@ Cast：李菁, 蕭湘, 祝菁
 </desc></programme>
 
 
-<programme start="20220923071000+0800"stop="20220923085000+0800" channel="天映經典CCM">
+<programme start="20220923071000 +0800" stop="20220923085000 +0800" channel="天映經典CCM">
 <title lang="hk">青春1000日\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3462,7 +3462,7 @@ Cast：劉少君, 陳佩茜,戴良純
 </desc></programme>
 
 
-<programme start="20220923085000+0800"stop="20220923103000+0800" channel="天映經典CCM">
+<programme start="20220923085000 +0800" stop="20220923103000 +0800" channel="天映經典CCM">
 <title lang="hk">沖霄樓\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3473,7 +3473,7 @@ Cast：鹿峰, 王力, 龍天翔, 孫建, 錢小豪
 </desc></programme>
 
 
-<programme start="20220923103000+0800"stop="20220923122000+0800" channel="天映經典CCM">
+<programme start="20220923103000 +0800" stop="20220923122000 +0800" channel="天映經典CCM">
 <title lang="hk">佛跳牆\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3484,7 +3484,7 @@ Cast：野峰, 於榮, 艾飛, 邵音音
 </desc></programme>
 
 
-<programme start="20220923122000+0800"stop="20220923135000+0800" channel="天映經典CCM">
+<programme start="20220923122000 +0800" stop="20220923135000 +0800" channel="天映經典CCM">
 <title lang="hk">雙俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3495,7 +3495,7 @@ Cast：姜大衛, 狄龍, 谷峰, 楊斯
 </desc></programme>
 
 
-<programme start="20220923135000+0800"stop="20220923154500+0800" channel="天映經典CCM">
+<programme start="20220923135000 +0800" stop="20220923154500 +0800" channel="天映經典CCM">
 <title lang="hk">玉堂春\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3506,7 +3506,7 @@ Cast：樂蒂, 趙雷, 高寶樹, 朱牧, 楊志卿
 </desc></programme>
 
 
-<programme start="20220923154500+0800"stop="20220923172000+0800" channel="天映經典CCM">
+<programme start="20220923154500 +0800" stop="20220923172000 +0800" channel="天映經典CCM">
 <title lang="hk">魔殿屠龍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3517,7 +3517,7 @@ Cast：爾冬升, 狄龍, 萬梓良, 鐘楚紅
 </desc></programme>
 
 
-<programme start="20220923172000+0800"stop="20220923191500+0800" channel="天映經典CCM">
+<programme start="20220923172000 +0800" stop="20220923191500 +0800" channel="天映經典CCM">
 <title lang="hk">鑽石艷盜\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3528,7 +3528,7 @@ Cast：何莉莉, 凌雲
 </desc></programme>
 
 
-<programme start="20220923191500+0800"stop="20220923210000+0800" channel="天映經典CCM">
+<programme start="20220923191500 +0800" stop="20220923210000 +0800" channel="天映經典CCM">
 <title lang="hk">儒俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3539,7 +3539,7 @@ Cast：張翼, 虞慧, 舒佩佩, 焦姣
 </desc></programme>
 
 
-<programme start="20220923210000+0800"stop="20220923224000+0800" channel="天映經典CCM">
+<programme start="20220923210000 +0800" stop="20220923224000 +0800" channel="天映經典CCM">
 <title lang="hk">我為你狂\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3550,7 +3550,7 @@ Cast：艾迪, 蔣麗萍, 金燕玲
 </desc></programme>
 
 
-<programme start="20220923224000+0800"stop="20220924002500+0800" channel="天映經典CCM">
+<programme start="20220923224000 +0800" stop="20220924002500 +0800" channel="天映經典CCM">
 <title lang="hk">通天小子紅槍客\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3561,7 +3561,7 @@ Cast：汪禹, 穀峰, 王龍威, 元華
 </desc></programme>
 
 
-<programme start="20220924002500+0800"stop="20220924021000+0800" channel="天映經典CCM">
+<programme start="20220924002500 +0800" stop="20220924021000 +0800" channel="天映經典CCM">
 <title lang="hk">風流韻事\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3572,7 +3572,7 @@ Cast：恬妮, 陳萍, 楊群, 岳華
 </desc></programme>
 
 
-<programme start="20220924021000+0800"stop="20220924034500+0800" channel="天映經典CCM">
+<programme start="20220924021000 +0800" stop="20220924034500 +0800" channel="天映經典CCM">
 <title lang="hk">女捕快\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3583,7 +3583,7 @@ Cast：施思, 羅烈, 張佩山
 </desc></programme>
 
 
-<programme start="20220924034500+0800"stop="20220924052000+0800" channel="天映經典CCM">
+<programme start="20220924034500 +0800" stop="20220924052000 +0800" channel="天映經典CCM">
 <title lang="hk">人蛇鼠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3594,7 +3594,7 @@ Cast：宗華, 韋弘, 丹娜
 </desc></programme>
 
 
-<programme start="20220924052000+0800"stop="20220924072000+0800" channel="天映經典CCM">
+<programme start="20220924052000 +0800" stop="20220924072000 +0800" channel="天映經典CCM">
 <title lang="hk">萬花迎春\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3605,7 +3605,7 @@ Cast：樂蒂, 陳厚, 高寶樹, 藍娣, 蔣光超
 </desc></programme>
 
 
-<programme start="20220924072000+0800"stop="20220924091500+0800" channel="天映經典CCM">
+<programme start="20220924072000 +0800" stop="20220924091500 +0800" channel="天映經典CCM">
 <title lang="hk">龍虎少爺\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3616,7 +3616,7 @@ Cast：劉家輝, 劉家榮, 張展鵬, 傅聲
 </desc></programme>
 
 
-<programme start="20220924091500+0800"stop="20220924105500+0800" channel="天映經典CCM">
+<programme start="20220924091500 +0800" stop="20220924105500 +0800" channel="天映經典CCM">
 <title lang="hk">武松\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3627,7 +3627,7 @@ Cast：汪萍，狄龍，劉永, 谷峰
 </desc></programme>
 
 
-<programme start="20220924105500+0800"stop="20220924122500+0800" channel="天映經典CCM">
+<programme start="20220924105500 +0800" stop="20220924122500 +0800" channel="天映經典CCM">
 <title lang="hk">太極拳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3638,7 +3638,7 @@ Cast：陳沃夫, 施思, 韋弘, 詹森
 </desc></programme>
 
 
-<programme start="20220924122500+0800"stop="20220924140500+0800" channel="天映經典CCM">
+<programme start="20220924122500 +0800" stop="20220924140500 +0800" channel="天映經典CCM">
 <title lang="hk">星際鈍胎\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3649,7 +3649,7 @@ Cast：伊雷, 鍾楚紅, 盧大偉, 譚天南
 </desc></programme>
 
 
-<programme start="20220924140500+0800"stop="20220924154500+0800" channel="天映經典CCM">
+<programme start="20220924140500 +0800" stop="20220924154500 +0800" channel="天映經典CCM">
 <title lang="hk">神劍震江湖\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3660,7 +3660,7 @@ Cast：鄭佩佩, 張翼, 舒佩佩, 羅烈
 </desc></programme>
 
 
-<programme start="20220924154500+0800"stop="20220924174500+0800" channel="天映經典CCM">
+<programme start="20220924154500 +0800" stop="20220924174500 +0800" channel="天映經典CCM">
 <title lang="hk">女校春色\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3671,7 +3671,7 @@ Cast：李菁, 歐陽莎菲, 秦惠玲, 陳厚
 </desc></programme>
 
 
-<programme start="20220924174500+0800"stop="20220924192000+0800" channel="天映經典CCM">
+<programme start="20220924174500 +0800" stop="20220924192000 +0800" channel="天映經典CCM">
 <title lang="hk">鬼馬神偷\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3682,7 +3682,7 @@ Cast：劉永, 梁家仁, 梁韻蕊
 </desc></programme>
 
 
-<programme start="20220924192000+0800"stop="20220924210000+0800" channel="天映經典CCM">
+<programme start="20220924192000 +0800" stop="20220924210000 +0800" channel="天映經典CCM">
 <title lang="hk">大軍閥\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3693,7 +3693,7 @@ Cast：許冠文, 何莉莉, 宗華, 狄娜
 </desc></programme>
 
 
-<programme start="20220924210000+0800"stop="20220924225500+0800" channel="天映經典CCM">
+<programme start="20220924210000 +0800" stop="20220924225500 +0800" channel="天映經典CCM">
 <title lang="hk">金燕子\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3704,7 +3704,7 @@ Cast：鄭佩佩, 王羽, 羅烈
 </desc></programme>
 
 
-<programme start="20220924225500+0800"stop="20220925003500+0800" channel="天映經典CCM">
+<programme start="20220924225500 +0800" stop="20220925003500 +0800" channel="天映經典CCM">
 <title lang="hk">樑上君子\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3715,7 +3715,7 @@ Cast：錢小豪, 羅莽, 董驃, 廖麗玲
 </desc></programme>
 
 
-<programme start="20220925003500+0800"stop="20220925023000+0800" channel="天映經典CCM">
+<programme start="20220925003500 +0800" stop="20220925023000 +0800" channel="天映經典CCM">
 <title lang="hk">洪拳與詠春\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3726,7 +3726,7 @@ Cast：傅聲, 陳依齡, 戚冠軍, 劉家輝
 </desc></programme>
 
 
-<programme start="20220925023000+0800"stop="20220925044500+0800" channel="天映經典CCM">
+<programme start="20220925023000 +0800" stop="20220925044500 +0800" channel="天映經典CCM">
 <title lang="hk">船\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3737,7 +3737,7 @@ Cast：何莉莉, 林嘉, 井莉, 金漢
 </desc></programme>
 
 
-<programme start="20220925044500+0800"stop="20220925062500+0800" channel="天映經典CCM">
+<programme start="20220925044500 +0800" stop="20220925062500 +0800" channel="天映經典CCM">
 <title lang="hk">連城訣\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3748,7 +3748,7 @@ Cast：岳華, 施思, 白彪, 廖麗玲
 </desc></programme>
 
 
-<programme start="20220925062500+0800"stop="20220925082000+0800" channel="天映經典CCM">
+<programme start="20220925062500 +0800" stop="20220925082000 +0800" channel="天映經典CCM">
 <title lang="hk">傾國傾城\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3759,7 +3759,7 @@ Cast：盧燕, 蕭瑤, 狄龍
 </desc></programme>
 
 
-<programme start="20220925082000+0800"stop="20220925100000+0800" channel="天映經典CCM">
+<programme start="20220925082000 +0800" stop="20220925100000 +0800" channel="天映經典CCM">
 <title lang="hk">南北少林\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3770,7 +3770,7 @@ Cast：李連傑，黃秋燕
 </desc></programme>
 
 
-<programme start="20220925100000+0800"stop="20220925120000+0800" channel="天映經典CCM">
+<programme start="20220925100000 +0800" stop="20220925120000 +0800" channel="天映經典CCM">
 <title lang="hk">三笑\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3781,7 +3781,7 @@ Cast：李菁, 凌波, 井淼
 </desc></programme>
 
 
-<programme start="20220925120000+0800"stop="20220925133000+0800" channel="天映經典CCM">
+<programme start="20220925120000 +0800" stop="20220925133000 +0800" channel="天映經典CCM">
 <title lang="hk">惡虎村\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3792,7 +3792,7 @@ Cast：舒佩佩, 岳華, 王俠
 </desc></programme>
 
 
-<programme start="20220925133000+0800"stop="20220925151000+0800" channel="天映經典CCM">
+<programme start="20220925133000 +0800" stop="20220925151000 +0800" channel="天映經典CCM">
 <title lang="hk">神經大俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3803,7 +3803,7 @@ Cast：元德, 惠英紅, 孟元文, 文雪兒
 </desc></programme>
 
 
-<programme start="20220925151000+0800"stop="20220925172500+0800" channel="天映經典CCM">
+<programme start="20220925151000 +0800" stop="20220925172500 +0800" channel="天映經典CCM">
 <title lang="hk">飛狐外傳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3814,7 +3814,7 @@ Cast：錢小豪, 江生, 楚湘雲, 郭追
 </desc></programme>
 
 
-<programme start="20220925172500+0800"stop="20220925193000+0800" channel="天映經典CCM">
+<programme start="20220925172500 +0800" stop="20220925193000 +0800" channel="天映經典CCM">
 <title lang="hk">千嬌百媚\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3825,7 +3825,7 @@ Cast：林黛, 陳厚, 範麗, 高寶樹, 麥基
 </desc></programme>
 
 
-<programme start="20220925193000+0800"stop="20220925210000+0800" channel="天映經典CCM">
+<programme start="20220925193000 +0800" stop="20220925210000 +0800" channel="天映經典CCM">
 <title lang="hk">江湖了斷\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3836,7 +3836,7 @@ Cast：羅莽, 白彪, 左燕翎, 孫健
 </desc></programme>
 
 
-<programme start="20220925210000+0800"stop="20220925224500+0800" channel="天映經典CCM">
+<programme start="20220925210000 +0800" stop="20220925224500 +0800" channel="天映經典CCM">
 <title lang="hk">宋宮秘史\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3847,7 +3847,7 @@ Cast：淩波, 金峰, 高寶樹, 井淼
 </desc></programme>
 
 
-<programme start="20220925224500+0800"stop="20220926003000+0800" channel="天映經典CCM">
+<programme start="20220925224500 +0800" stop="20220926003000 +0800" channel="天映經典CCM">
 <title lang="hk">龍虎溝\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3858,7 +3858,7 @@ Cast：鄭佩佩, 金漢, 林嘉
 </desc></programme>
 
 
-<programme start="20220926003000+0800"stop="20220926022500+0800" channel="天映經典CCM">
+<programme start="20220926003000 +0800" stop="20220926022500 +0800" channel="天映經典CCM">
 <title lang="hk">南北獅王\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3869,7 +3869,7 @@ Cast：汪禹, 錢月笙, 王龍威, 羅莽, 楊盼盼
 </desc></programme>
 
 
-<programme start="20220926022500+0800"stop="20220926040500+0800" channel="天映經典CCM">
+<programme start="20220926022500 +0800" stop="20220926040500 +0800" channel="天映經典CCM">
 <title lang="hk">北地胭脂\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3880,7 +3880,7 @@ Cast：何莉莉, 胡錦, 岳華, 於楓, 劉午琪
 </desc></programme>
 
 
-<programme start="20220926040500+0800"stop="20220926055500+0800" channel="天映經典CCM">
+<programme start="20220926040500 +0800" stop="20220926055500 +0800" channel="天映經典CCM">
 <title lang="hk">書劍恩仇錄\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3891,7 +3891,7 @@ Cast：狄龍, 白彪, 羅烈
 </desc></programme>
 
 
-<programme start="20220926055500+0800"stop="20220926073000+0800" channel="天映經典CCM">
+<programme start="20220926055500 +0800" stop="20220926073000 +0800" channel="天映經典CCM">
 <title lang="hk">水兒武士\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3902,7 +3902,7 @@ Cast：董瑋, 萬梓良, 惠英紅, 餘安安
 </desc></programme>
 
 
-<programme start="20220926073000+0800"stop="20220926091000+0800" channel="天映經典CCM">
+<programme start="20220926073000 +0800" stop="20220926091000 +0800" channel="天映經典CCM">
 <title lang="hk">楊過與小龍女\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3913,7 +3913,7 @@ Cast：張國榮, 翁靜晶, 陳觀泰, 劉雪華
 </desc></programme>
 
 
-<programme start="20220926091000+0800"stop="20220926105500+0800" channel="天映經典CCM">
+<programme start="20220926091000 +0800" stop="20220926105500 +0800" channel="天映經典CCM">
 <title lang="hk">憤怒青年\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3924,7 +3924,7 @@ Cast：李麗麗, 貝蒂, 王鍾
 </desc></programme>
 
 
-<programme start="20220926105500+0800"stop="20220926123000+0800" channel="天映經典CCM">
+<programme start="20220926105500 +0800" stop="20220926123000 +0800" channel="天映經典CCM">
 <title lang="hk">黑店\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3935,7 +3935,7 @@ Cast：施思, 康華
 </desc></programme>
 
 
-<programme start="20220926123000+0800"stop="20220926140500+0800" channel="天映經典CCM">
+<programme start="20220926123000 +0800" stop="20220926140500 +0800" channel="天映經典CCM">
 <title lang="hk">盤絲洞\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3946,7 +3946,7 @@ Cast：週龍章，何藩，彭鵬，田琛
 </desc></programme>
 
 
-<programme start="20220926140500+0800"stop="20220926154500+0800" channel="天映經典CCM">
+<programme start="20220926140500 +0800" stop="20220926154500 +0800" channel="天映經典CCM">
 <title lang="hk">鹿鼎記\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3957,7 +3957,7 @@ Cast：汪禹, 谷峰, 楚湘雲, 廖麗玲, 劉家輝
 </desc></programme>
 
 
-<programme start="20220926154500+0800"stop="20220926174500+0800" channel="天映經典CCM">
+<programme start="20220926154500 +0800" stop="20220926174500 +0800" channel="天映經典CCM">
 <title lang="hk">菁菁\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3968,7 +3968,7 @@ Cast：李菁, 金峰
 </desc></programme>
 
 
-<programme start="20220926174500+0800"stop="20220926192000+0800" channel="天映經典CCM">
+<programme start="20220926174500 +0800" stop="20220926192000 +0800" channel="天映經典CCM">
 <title lang="hk">俠客行\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3979,7 +3979,7 @@ Cast：郭追, 唐菁, 劉慧玲
 </desc></programme>
 
 
-<programme start="20220926192000+0800"stop="20220926210000+0800" channel="天映經典CCM">
+<programme start="20220926192000 +0800" stop="20220926210000 +0800" channel="天映經典CCM">
 <title lang="hk">狂戀詩\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -3990,7 +3990,7 @@ Cast：胡燕妮, 金漢, 楊帆, 金峰
 </desc></programme>
 
 
-<programme start="20220926210000+0800"stop="20220926223000+0800" channel="天映經典CCM">
+<programme start="20220926210000 +0800" stop="20220926223000 +0800" channel="天映經典CCM">
 <title lang="hk">女俠賣人頭\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4001,7 +4001,7 @@ Cast：焦姣, 陳亮, 王俠, 井淼, 張佩山
 </desc></programme>
 
 
-<programme start="20220926223000+0800"stop="20220927003500+0800" channel="天映經典CCM">
+<programme start="20220926223000 +0800" stop="20220927003500 +0800" channel="天映經典CCM">
 <title lang="hk">小雲雀\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4012,7 +4012,7 @@ Cast：陳厚, 顧媚
 </desc></programme>
 
 
-<programme start="20220927003500+0800"stop="20220927022000+0800" channel="天映經典CCM">
+<programme start="20220927003500 +0800" stop="20220927022000 +0800" channel="天映經典CCM">
 <title lang="hk">單程路\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4023,7 +4023,7 @@ Cast：麥德羅, 戴良純, 李修賢
 </desc></programme>
 
 
-<programme start="20220927022000+0800"stop="20220927041000+0800" channel="天映經典CCM">
+<programme start="20220927022000 +0800" stop="20220927041000 +0800" channel="天映經典CCM">
 <title lang="hk">港澳傳奇\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4034,7 +4034,7 @@ Cast：恬妮, 陳萍, 谷峰
 </desc></programme>
 
 
-<programme start="20220927041000+0800"stop="20220927062500+0800" channel="天映經典CCM">
+<programme start="20220927041000 +0800" stop="20220927062500 +0800" channel="天映經典CCM">
 <title lang="hk">故都春夢\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4045,7 +4045,7 @@ Cast：李麗華, 凌波, 關山
 </desc></programme>
 
 
-<programme start="20220927062500+0800"stop="20220927082500+0800" channel="天映經典CCM">
+<programme start="20220927062500 +0800" stop="20220927082500 +0800" channel="天映經典CCM">
 <title lang="hk">虎膽\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4056,7 +4056,7 @@ Cast：鄭佩佩, 岳華, 吳風, 羅維, 田豐
 </desc></programme>
 
 
-<programme start="20220927082500+0800"stop="20220927102500+0800" channel="天映經典CCM">
+<programme start="20220927082500 +0800" stop="20220927102500 +0800" channel="天映經典CCM">
 <title lang="hk">鑽石艷盜\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4067,7 +4067,7 @@ Cast：何莉莉, 凌雲
 </desc></programme>
 
 
-<programme start="20220927102500+0800"stop="20220927122500+0800" channel="天映經典CCM">
+<programme start="20220927102500 +0800" stop="20220927122500 +0800" channel="天映經典CCM">
 <title lang="hk">鐵旗門\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4078,7 +4078,7 @@ Cast：郭追, 江生, 王力, 鹿峰, 龍天翔
 </desc></programme>
 
 
-<programme start="20220927122500+0800"stop="20220927140500+0800" channel="天映經典CCM">
+<programme start="20220927122500 +0800" stop="20220927140500 +0800" channel="天映經典CCM">
 <title lang="hk">南鬥官三鬥北少爺\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4089,7 +4089,7 @@ Cast：傅聲, 張展鵬, 汪禹
 </desc></programme>
 
 
-<programme start="20220927140500+0800"stop="20220927161500+0800" channel="天映經典CCM">
+<programme start="20220927140500 +0800" stop="20220927161500 +0800" channel="天映經典CCM">
 <title lang="hk">不了情\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4100,7 +4100,7 @@ Cast：林黛, 關山, 高寶樹, 洛奇, 蔣光超
 </desc></programme>
 
 
-<programme start="20220927161500+0800"stop="20220927175000+0800" channel="天映經典CCM">
+<programme start="20220927161500 +0800" stop="20220927175000 +0800" channel="天映經典CCM">
 <title lang="hk">情俠追風劍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4111,7 +4111,7 @@ Cast：汪禹, 妞妞, 羅烈, 李麗麗
 </desc></programme>
 
 
-<programme start="20220927175000+0800"stop="20220927192000+0800" channel="天映經典CCM">
+<programme start="20220927175000 +0800" stop="20220927192000 +0800" channel="天映經典CCM">
 <title lang="hk">倩女幽魂\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4122,7 +4122,7 @@ Cast：樂蒂, 趙雷, 楊志卿, 洛奇
 </desc></programme>
 
 
-<programme start="20220927192000+0800"stop="20220927210000+0800" channel="天映經典CCM">
+<programme start="20220927192000 +0800" stop="20220927210000 +0800" channel="天映經典CCM">
 <title lang="hk">明月刀雪夜殲仇\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4133,7 +4133,7 @@ Cast：狄龍, 劉永, 施思, 爾冬升, 羅烈
 </desc></programme>
 
 
-<programme start="20220927210000+0800"stop="20220927224500+0800" channel="天映經典CCM">
+<programme start="20220927210000 +0800" stop="20220927224500 +0800" channel="天映經典CCM">
 <title lang="hk">魚美人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4144,7 +4144,7 @@ Cast：凌波, 李菁
 </desc></programme>
 
 
-<programme start="20220927224500+0800"stop="20220928002000+0800" channel="天映經典CCM">
+<programme start="20220927224500 +0800" stop="20220928002000 +0800" channel="天映經典CCM">
 <title lang="hk">暗渠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4155,7 +4155,7 @@ Cast：白彪, 王戎, 羅莾, 陳佩茜
 </desc></programme>
 
 
-<programme start="20220928002000+0800"stop="20220928022500+0800" channel="天映經典CCM">
+<programme start="20220928002000 +0800" stop="20220928022500 +0800" channel="天映經典CCM">
 <title lang="hk">武則天\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4166,7 +4166,7 @@ Cast：李麗華, 趙雷, 喬莊, 洛奇, 俞鳳至
 </desc></programme>
 
 
-<programme start="20220928022500+0800"stop="20220928043000+0800" channel="天映經典CCM">
+<programme start="20220928022500 +0800" stop="20220928043000 +0800" channel="天映經典CCM">
 <title lang="hk">長輩\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4177,7 +4177,7 @@ Cast：劉家良, 惠英紅, 小侯, 王龍威
 </desc></programme>
 
 
-<programme start="20220928043000+0800"stop="20220928063000+0800" channel="天映經典CCM">
+<programme start="20220928043000 +0800" stop="20220928063000 +0800" channel="天映經典CCM">
 <title lang="hk">群英會\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4188,7 +4188,7 @@ Cast：施思, 岳華, 何莉莉, 羅烈, 姜大衛, 狄龍
 </desc></programme>
 
 
-<programme start="20220928063000+0800"stop="20220928081000+0800" channel="天映經典CCM">
+<programme start="20220928063000 +0800" stop="20220928081000 +0800" channel="天映經典CCM">
 <title lang="hk">背叛師門\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4199,7 +4199,7 @@ Cast：陳觀泰, 王龍威, 文雪兒, 元德
 </desc></programme>
 
 
-<programme start="20220928081000+0800"stop="20220928101000+0800" channel="天映經典CCM">
+<programme start="20220928081000 +0800" stop="20220928101000 +0800" channel="天映經典CCM">
 <title lang="hk">女校春色\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4210,7 +4210,7 @@ Cast：李菁, 歐陽莎菲, 秦惠玲, 陳厚
 </desc></programme>
 
 
-<programme start="20220928101000+0800"stop="20220928115500+0800" channel="天映經典CCM">
+<programme start="20220928101000 +0800" stop="20220928115500 +0800" channel="天映經典CCM">
 <title lang="hk">儒俠\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4221,7 +4221,7 @@ Cast：張翼, 虞慧, 舒佩佩, 焦姣
 </desc></programme>
 
 
-<programme start="20220928115500+0800"stop="20220928135500+0800" channel="天映經典CCM">
+<programme start="20220928115500 +0800" stop="20220928135500 +0800" channel="天映經典CCM">
 <title lang="hk">金玉良緣紅樓夢\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4232,7 +4232,7 @@ Cast：林青霞, 張艾嘉, 狄波拉, 米雪
 </desc></programme>
 
 
-<programme start="20220928135500+0800"stop="20220928154500+0800" channel="天映經典CCM">
+<programme start="20220928135500 +0800" stop="20220928154500 +0800" channel="天映經典CCM">
 <title lang="hk">通天小子紅槍客\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4243,7 +4243,7 @@ Cast：汪禹, 穀峰, 王龍威, 元華
 </desc></programme>
 
 
-<programme start="20220928154500+0800"stop="20220928172500+0800" channel="天映經典CCM">
+<programme start="20220928154500 +0800" stop="20220928172500 +0800" channel="天映經典CCM">
 <title lang="hk">王昭君\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4254,7 +4254,7 @@ Cast：林黛, 趙雷, 洪波, 王月汀, 張翠英, 李英
 </desc></programme>
 
 
-<programme start="20220928172500+0800"stop="20220928190500+0800" channel="天映經典CCM">
+<programme start="20220928172500 +0800" stop="20220928190500 +0800" channel="天映經典CCM">
 <title lang="hk">卒仔抽車\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4265,7 +4265,7 @@ Cast：錢小豪, 麥德羅, 陳觀泰
 </desc></programme>
 
 
-<programme start="20220928190500+0800"stop="20220928210000+0800" channel="天映經典CCM">
+<programme start="20220928190500 +0800" stop="20220928210000 +0800" channel="天映經典CCM">
 <title lang="hk">玉堂春\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4276,7 +4276,7 @@ Cast：樂蒂, 趙雷, 高寶樹, 朱牧, 楊志卿
 </desc></programme>
 
 
-<programme start="20220928210000+0800"stop="20220928223500+0800" channel="天映經典CCM">
+<programme start="20220928210000 +0800" stop="20220928223500 +0800" channel="天映經典CCM">
 <title lang="hk">魔殿屠龍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4287,7 +4287,7 @@ Cast：爾冬升, 狄龍, 萬梓良, 鐘楚紅
 </desc></programme>
 
 
-<programme start="20220928223500+0800"stop="20220929003500+0800" channel="天映經典CCM">
+<programme start="20220928223500 +0800" stop="20220929003500 +0800" channel="天映經典CCM">
 <title lang="hk">西遊記\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4298,7 +4298,7 @@ Cast：岳華，彭鵬，田琛，何藩
 </desc></programme>
 
 
-<programme start="20220929003500+0800"stop="20220929023000+0800" channel="天映經典CCM">
+<programme start="20220929003500 +0800" stop="20220929023000 +0800" channel="天映經典CCM">
 <title lang="hk">武館\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4309,7 +4309,7 @@ Cast：劉家輝, 麥德羅, 谷峰, 惠英紅
 </desc></programme>
 
 
-<programme start="20220929023000+0800"stop="20220929041500+0800" channel="天映經典CCM">
+<programme start="20220929023000 +0800" stop="20220929041500 +0800" channel="天映經典CCM">
 <title lang="hk">青春鼓王\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4320,7 +4320,7 @@ Cast：何莉莉, 凌雲, 楊帆, 鄭文靜
 </desc></programme>
 
 
-<programme start="20220929041500+0800"stop="20220929054000+0800" channel="天映經典CCM">
+<programme start="20220929041500 +0800" stop="20220929054000 +0800" channel="天映經典CCM">
 <title lang="hk">楊貴妃\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4331,7 +4331,7 @@ Cast：李麗華, 嚴俊, 李香君
 </desc></programme>
 
 
-<programme start="20220929054000+0800"stop="20220929071500+0800" channel="天映經典CCM">
+<programme start="20220929054000 +0800" stop="20220929071500 +0800" channel="天映經典CCM">
 <title lang="hk">雙喜臨門\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4342,7 +4342,7 @@ Cast：梁醒波, 井莉, 金峰, 高寶樹, 魏平澳
 </desc></programme>
 
 
-<programme start="20220929071500+0800"stop="20220929090500+0800" channel="天映經典CCM">
+<programme start="20220929071500 +0800" stop="20220929090500 +0800" channel="天映經典CCM">
 <title lang="hk">紅樓夢\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4353,7 +4353,7 @@ Cast：樂蒂, 丁寧, 丁紅, 杜娟, 任潔
 </desc></programme>
 
 
-<programme start="20220929090500+0800"stop="20220929105000+0800" channel="天映經典CCM">
+<programme start="20220929090500 +0800" stop="20220929105000 +0800" channel="天映經典CCM">
 <title lang="hk">江山美人\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4364,7 +4364,7 @@ Cast：林黛, 趙雷, 金銓, 楊志卿, 王元龍
 </desc></programme>
 
 
-<programme start="20220929105000+0800"stop="20220929122500+0800" channel="天映經典CCM">
+<programme start="20220929105000 +0800" stop="20220929122500 +0800" channel="天映經典CCM">
 <title lang="hk">武林聖火令\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4375,7 +4375,7 @@ Cast：劉雪華, 莫少聰, 白彪, 郭追, 翁靜晶
 </desc></programme>
 
 
-<programme start="20220929122500+0800"stop="20220929141500+0800" channel="天映經典CCM">
+<programme start="20220929122500 +0800" stop="20220929141500 +0800" channel="天映經典CCM">
 <title lang="hk">雙鳳奇緣\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4386,7 +4386,7 @@ Cast：凌波, 方盈, 金峰, 金漢, 李菁
 </desc></programme>
 
 
-<programme start="20220929141500+0800"stop="20220929160000+0800" channel="天映經典CCM">
+<programme start="20220929141500 +0800" stop="20220929160000 +0800" channel="天映經典CCM">
 <title lang="hk">龍虎溝\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4397,7 +4397,7 @@ Cast：鄭佩佩, 金漢, 林嘉
 </desc></programme>
 
 
-<programme start="20220929160000+0800"stop="20220929174500+0800" channel="天映經典CCM">
+<programme start="20220929160000 +0800" stop="20220929174500 +0800" channel="天映經典CCM">
 <title lang="hk">白蛇傳\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4408,7 +4408,7 @@ Cast：林黛, 趙雷, 杜娟, 楊志卿, 尤光照
 </desc></programme>
 
 
-<programme start="20220929174500+0800"stop="20220929192000+0800" channel="天映經典CCM">
+<programme start="20220929174500 +0800" stop="20220929192000 +0800" channel="天映經典CCM">
 <title lang="hk">琴劍恩仇\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4419,7 +4419,7 @@ Cast：秦萍, 王羽, 馮寶寶
 </desc></programme>
 
 
-<programme start="20220929192000+0800"stop="20220929210000+0800" channel="天映經典CCM">
+<programme start="20220929192000 +0800" stop="20220929210000 +0800" channel="天映經典CCM">
 <title lang="hk">遺產五億圓\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4430,7 +4430,7 @@ Cast：邢慧, 金峰, 汪萍, 郭曼娜
 </desc></programme>
 
 
-<programme start="20220929210000+0800"stop="20220929225000+0800" channel="天映經典CCM">
+<programme start="20220929210000 +0800" stop="20220929225000 +0800" channel="天映經典CCM">
 <title lang="hk">少林與武當\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4441,7 +4441,7 @@ Cast：羅莽, 王力, 孫建, 江生, 文雪兒
 </desc></programme>
 
 
-<programme start="20220929225000+0800"stop="20220930003000+0800" channel="天映經典CCM">
+<programme start="20220929225000 +0800" stop="20220930003000 +0800" channel="天映經典CCM">
 <title lang="hk">蘭嶼之歌\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4452,7 +4452,7 @@ Cast：張沖, 鄭佩佩
 </desc></programme>
 
 
-<programme start="20220930003000+0800"stop="20220930021500+0800" channel="天映經典CCM">
+<programme start="20220930003000 +0800" stop="20220930021500 +0800" channel="天映經典CCM">
 <title lang="hk">至尊一劍\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4463,7 +4463,7 @@ Cast：爾冬陞, 白彪, 李殿朗
 </desc></programme>
 
 
-<programme start="20220930021500+0800"stop="20220930035500+0800" channel="天映經典CCM">
+<programme start="20220930021500 +0800" stop="20220930035500 +0800" channel="天映經典CCM">
 <title lang="hk">我為你狂\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4474,7 +4474,7 @@ Cast：艾迪, 蔣麗萍, 金燕玲
 </desc></programme>
 
 
-<programme start="20220930035500+0800"stop="20220930055000+0800" channel="天映經典CCM">
+<programme start="20220930035500 +0800" stop="20220930055000 +0800" channel="天映經典CCM">
 <title lang="hk">小煞星\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4485,7 +4485,7 @@ Cast：姜大衛, 汪萍, 狄龍
 </desc></programme>
 
 
-<programme start="20220930055000+0800"stop="20220930074000+0800" channel="天映經典CCM">
+<programme start="20220930055000 +0800" stop="20220930074000 +0800" channel="天映經典CCM">
 <title lang="hk">寶蓮燈\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4496,7 +4496,7 @@ Cast：林黛, 鄭佩佩, 李菁
 </desc></programme>
 
 
-<programme start="20220930074000+0800"stop="20220930093500+0800" channel="天映經典CCM">
+<programme start="20220930074000 +0800" stop="20220930093500 +0800" channel="天映經典CCM">
 <title lang="hk">南北獅王\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4507,7 +4507,7 @@ Cast：汪禹, 錢月笙, 王龍威, 羅莽, 楊盼盼
 </desc></programme>
 
 
-<programme start="20220930093500+0800"stop="20220930112500+0800" channel="天映經典CCM">
+<programme start="20220930093500 +0800" stop="20220930112500 +0800" channel="天映經典CCM">
 <title lang="hk">仙女下凡\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4518,7 +4518,7 @@ Cast：李菁, 金峰, 白璐, 李鵬飛
 </desc></programme>
 
 
-<programme start="20220930112500+0800"stop="20220930132000+0800" channel="天映經典CCM">
+<programme start="20220930112500 +0800" stop="20220930132000 +0800" channel="天映經典CCM">
 <title lang="hk">龍虎少爺\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4529,7 +4529,7 @@ Cast：劉家輝, 劉家榮, 張展鵬, 傅聲
 </desc></programme>
 
 
-<programme start="20220930132000+0800"stop="20220930152500+0800" channel="天映經典CCM">
+<programme start="20220930132000 +0800" stop="20220930152500 +0800" channel="天映經典CCM">
 <title lang="hk">小雲雀\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4540,7 +4540,7 @@ Cast：陳厚, 顧媚
 </desc></programme>
 
 
-<programme start="20220930152500+0800"stop="20220930172000+0800" channel="天映經典CCM">
+<programme start="20220930152500 +0800" stop="20220930172000 +0800" channel="天映經典CCM">
 <title lang="hk">海軍突擊隊\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4551,7 +4551,7 @@ Cast：劉永, 狄龍, 傅聲, 姜大衛, 施思
 </desc></programme>
 
 
-<programme start="20220930172000+0800"stop="20220930192000+0800" channel="天映經典CCM">
+<programme start="20220930172000 +0800" stop="20220930192000 +0800" channel="天映經典CCM">
 <title lang="hk">何日君再來\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4562,7 +4562,7 @@ Cast：陳厚, 張沖, 胡燕妮, 何莉莉
 </desc></programme>
 
 
-<programme start="20220930192000+0800"stop="20220930210000+0800" channel="天映經典CCM">
+<programme start="20220930192000 +0800" stop="20220930210000 +0800" channel="天映經典CCM">
 <title lang="hk">天蠶變\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4573,7 +4573,7 @@ Cast：徐少強, 劉永, 萬梓良, 劉雪華
 </desc></programme>
 
 
-<programme start="20220930210000+0800"stop="20220930223500+0800" channel="天映經典CCM">
+<programme start="20220930210000 +0800" stop="20220930223500 +0800" channel="天映經典CCM">
 <title lang="hk">慾燄狂流\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4584,7 +4584,7 @@ Cast：胡燕妮, 喬莊, 楊帆, 於倩
 </desc></programme>
 
 
-<programme start="20220930223500+0800"stop="20221001000500+0800" channel="天映經典CCM">
+<programme start="20220930223500 +0800" stop="20221001000500 +0800" channel="天映經典CCM">
 <title lang="hk">小子有種\HongKong</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -4593,6 +4593,7 @@ Cast：傅聲, 黃杏秀, 陳惠敏, 谷峰
 
 劇情簡介：緊張大師孫仲執導，一反過去風格，拍出一部諧趣惹笑的功夫處境喜劇。借西方文化和東方文化衝突下，中國人重拾民族信心，又寫出父子代溝問題，頗有深意。小鎮上，有放洋流學回來的假洋鬼子，借西方文明的優越感，處處欺壓村民。小子張小泰（傅聲）利用中國功夫，與假洋鬼子唐羅拔（王龍威）爭女友（黃杏秀），先破西洋拳，再敗日本劍道，大勝西洋劍。傅聲和黃杏秀以功夫跳西洋舞，惹笑風趣，叫人忍俊不禁。中國武術與西方搏擊對壘，刺激新鮮。傅聲充滿反叛氣息，和谷峰拍檔演鬥氣父子，一老一少，對白幽默，充滿時代感。
 </desc></programme>
+
 
   
   
