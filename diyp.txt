@@ -1,0 +1,404 @@
+
+LIVE-TV_736128235,#genre#
+
+LIVE SHOW,http://77bo.12345678022.com:80/live/cx_6648.flv
+三立LIVE新闻,http://23.237.10.66:16342
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+三立Set INEWS,http://98.142.138.122:1636/zhiboyuandakaTV/sanli743729.m3u8
+澳门莲花,http://nettvpro.live/hls/lotustv.php$高清1080P
+澳门莲花2,http://anren.live/HK/BiIOU11uLA.m3u8$高清1080P
+澳门莲花3,https://p.ggiptv.com/v/macaulotustv.php$高清720P
+美亚电影台,http://pull-flv-l6.ixigua.com/live/2.flv
+TVB翡翠台,http://98.142.138.122:1633/zhiboyuandakaTV/tvbjade.m3u8
+欧美大片,http://bp-caster.bestv.com.cn/102/2/video.m3u8
+惊险电影致命弯道4,https://s7.fsvod1.com/20220830/O9CuNRPZ/1200kb/hls/index.m3u8
+MTV白标en,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+天映经典CCM,http://120.84.96.53:808/hls/85/index.m3u8
+天映经典,http://171.108.239.13:8181/tsfile/live/1009_1.m3u8
+天映经典2,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+TVB剧集,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8
+TVB剧集2,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
+
+
+kktv5轮播,#genre#
+
+星光视界,http://hpull.kktv8.com/livekktv/150330251/playlist.m3u8
+经典老电影,http://171.108.239.70:8181/tsfile/live/1009_1.m3u8
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+女神影院,https://pull.kktv8.com/livekktv/99350550.flv
+午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+【星爷经典】午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+??【女神经典】??,https://pull.kktv8.com/livekktv/99350550.flv
+金马影院,https://pull.kktv8.com/livekktv/128600025.flv
+【经典重温】飞鹰影院,https://pull.kktv8.com/livekktv/155370802.flv
+【港片经典】贝爷影院,https://pull.kktv8.com/livekktv/99592144.flv
+富豪143960119,https://pull.kktv8.com/livekktv/143960119.flv
+【恐怖惊悚】鲲鹏剧场,https://pull.kktv8.com/livekktv/133756593.flv
+【武侠剧场】大片剧场,https://pull.kktv8.com/livekktv/154355027.flv
+【特种兵剧场】,https://pull.kktv8.com/livekktv/126236957.flv
+【古装重温】番茄影院,https://pull.kktv8.com/livekktv/155443364.flv
+Kk大明星,https://pull.kktv8.com/livekktv/104621340.flv
+【军旅剧场】,https://pull.kktv8.com/livekktv/149195765.flv
+【比芯影院】汇聚经典,https://pull.kktv8.com/livekktv/111536805.flv
+【怀旧剧院】致敬三国,https://pull.kktv8.com/livekktv/153793844.flv
+【菲猫影视】经典重现,https://pull.kktv8.com/livekktv/155906661.flv
+安鑫儿电影频道,https://pull.kktv8.com/livekktv/154056602.flv
+【小黄鸭影院】经典,https://pull.kktv8.com/livekktv/108225974.flv
+【电影影院】,https://pull.kktv8.com/livekktv/105372204.flv
+【时光电影】经典电影,https://pull.kktv8.com/livekktv/145530734.flv
+静默影院,https://pull.kktv8.com/livekktv/154966388.flv
+【经典剧场】,https://pull.kktv8.com/livekktv/100653018.flv
+睿睿影院,https://pull.kktv8.com/livekktv/157292865.flv
+【妖精电影】开心影院,https://pull.kktv8.com/livekktv/97958887.flv
+【超清影院】自助点播,https://pull.kktv8.com/livekktv/142943634.flv
+【发哥影院】,https://pull.kktv8.com/livekktv/155711839.flv
+【贝贝影视】,https://pull.kktv8.com/livekktv/149145174.flv
+【开心影院】星爷经典,https://pull.kktv8.com/livekktv/134129360.flv
+【好看电影院】,https://pull.kktv8.com/livekktv/156812317.flv
+【伟伟影院】,https://pull.kktv8.com/livekktv/156775230.flv
+[33影院],https://pull.kktv8.com/livekktv/156666157.flv
+
+
+yy轮播,#genre#
+
+10人铁笼大战(阿飞搏击),http://data.3g.yy.com/live/hls/1355277405/1355277405
+人间怪兽，大黑羊(虔诚),http://data.3g.yy.com/live/hls/1382690043/1382690043
+无规则男女摔跤(WWE-晨阳),http://data.3g.yy.com/live/hls/1351073299/1351073299
+精彩搏击战(钱小豪),http://data.3g.yy.com/live/hls/1354946972/1354946972
+快看！精彩摔跤(百度-阿峰-搏击),http://data.3g.yy.com/live/hls/1337194708/1337194708
+美女大战超好看(阿豪 挺住了),http://data.3g.yy.com/live/hls/1382768030/1382768030
+天呐~男女无规则~(阿福),http://data.3g.yy.com/live/hls/1382623703/1382623703
+快看！美女大战(狗子),http://data.3g.yy.com/live/hls/1459727675/1459727675
+美女无规则赛(天赐),http://data.3g.yy.com/live/hls/1355501554/1355501554
+yy经典剧集,http://data.3g.yy.com/live/hls/1382766568/1382766568
+yy港片鬼片500部(伊拉电影),http://mmitv.top/pltv/yy.php?id=1353059120
+电影-女鬼来了(阿良电影),http://mmitv.top/pltv/yy.php?id=1454587259
+绝版鬼片300部(湖北无心),http://mmitv.top/pltv/yy.php?id=1353587611
+听郭德纲讲相声(听郭德纲讲相声),http://mmitv.top/pltv/yy.php?id=1382736854
+开心一刻(开心),http://mmitv.top/pltv/yy.php?id=1353196797
+小品合集(小品合集),http://mmitv.top/pltv/yy.php?id=1354931503
+封神榜(妲己),http://mmitv.top/pltv/yy.php?id=29460894
+封神榜(大妞),http://mmitv.top/pltv/yy.php?id=1355268573
+风云雄霸天下(第二梦),http://mmitv.top/pltv/yy.php?id=37999586
+天龙八部(小铃儿),http://mmitv.top/pltv/yy.php?id=1351814644
+天龙八部-苏七七(苏七七),http://mmitv.top/pltv/yy.php?id=68260522
+昕朵儿鹿鼎记(昕朵儿),http://mmitv.top/pltv/yy.php?id=1355269576
+鹿鼎记-高清全集(小闹闹),http://mmitv.top/pltv/yy.php?id=1382704650
+【鹿鼎记】金庸经典(彤彤),http://mmitv.top/pltv/yy.php?id=28265277
+【战狼3吴京】首播(童菲菲),http://mmitv.top/pltv/yy.php?id=1449998579
+【战狼4】吴京(韓晶晶),http://mmitv.top/pltv/yy.php?id=1354784284
+【电影】动作系列(义+曦曦),http://mmitv.top/pltv/yy.php?id=14730996
+古惑仔全集(大美),http://mmitv.top/pltv/yy.php?id=1460913377
+星爷功夫 经典武侠(晓蝶祝大家中秋快乐),http://mmitv.top/pltv/yy.php?id=74613175
+星爷赌片 超经典(蜜蜜),http://mmitv.top/pltv/yy.php?id=1353881242
+举起手来(妮妮Nini),http://mmitv.top/pltv/yy.php?id=1382736877
+奇幻鬼怪300部(小乔),http://mmitv.top/pltv/yy.php?id=1459714870
+】济公】游本昌(点关注),http://mmitv.top/pltv/yy.php?id=25519088
+经典港片超好看(小情宝),http://mmitv.top/pltv/yy.php?id=1355364378
+经典港片600部(大雄),http://mmitv.top/pltv/yy.php?id=1382660958
+港片电影(小玖电影),http://mmitv.top/pltv/yy.php?id=33897188
+绝版电影600部(蛋蛋),http://mmitv.top/pltv/yy.php?id=1382764593
+僵尸鬼片大全 美女陪(爱宝鬼片),http://mmitv.top/pltv/yy.php?id=1335509613
+英叔全集经典电影(小姐姐),http://mmitv.top/pltv/yy.php?id=1354869861
+泡芙陪你看电影(小泡芙),http://mmitv.top/pltv/yy.php?id=24407222
+赵本山《超清版》(【聚星】小摩登),http://mmitv.top/pltv/yy.php?id=1382683959
+蜀山奇侠传(石生),http://mmitv.top/pltv/yy.php?id=1382766568
+英叔僵尸鬼片大全(林正英),http://mmitv.top/pltv/yy.php?id=1354575019
+鬼片喜剧动作大全(电影),http://mmitv.top/pltv/yy.php?id=1355480591
+
+
+
+douyu轮播,#genre#
+
+douyu邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
+鬼片恐怖惊悚,http://maomao.kandiantv.cn/douyu1.php?id=2935323
+恐怖故事,http://maomao.kandiantv.cn/douyu1.php?id=2337939
+douyu女神金,http://maomao.kandiantv.cn/douyu1.php?id=747764
+科幻动作,http://maomao.kandiantv.cn/douyu1.php?id=4332
+怡寳影院,http://maomao.kandiantv.cn/douyu1.php?id=434971
+粤语电影,http://maomao.kandiantv.cn/douyu1.php?id=6566671
+神乐影院,http://maomao.kandiantv.cn/douyu1.php?id=85894
+苹果影院,http://maomao.kandiantv.cn/douyu1.php?id=2793084
+萌牛影院,http://maomao.kandiantv.cn/douyu1.php?id=7494871
+午夜故事,http://maomao.kandiantv.cn/douyu1.php?id=8722254
+功夫港片,http://maomao.kandiantv.cn/douyu1.php?id=3637765
+超清港剧,http://maomao.kandiantv.cn/douyu1.php?id=223521
+桃花影院,http://maomao.kandiantv.cn/douyu1.php?id=7305938
+贝贝影院,http://maomao.kandiantv.cn/douyu1.php?id=431460
+译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
+幸运影院,http://maomao.kandiantv.cn/douyu1.php?id=7270927
+黎黎影院,http://maomao.kandiantv.cn/douyu1.php?id=7116591
+蚂蚱影院,http://maomao.kandiantv.cn/douyu1.php?id=6079455
+纪录片,http://maomao.kandiantv.cn/douyu1.php?id=4360438
+贝爷求生,http://maomao.kandiantv.cn/douyu1.php?id=454867
+野外生存,http://maomao.kandiantv.cn/douyu1.php?id=1339207
+邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
+鬼片恐怖惊悚,http://maomao.kandiantv.cn/douyu1.php?id=2935323
+恐怖故事,http://maomao.kandiantv.cn/douyu1.php?id=2337939
+科幻动作,http://maomao.kandiantv.cn/douyu1.php?id=4332
+怡寳影院,http://maomao.kandiantv.cn/douyu1.php?id=434971
+粤语电影,http://maomao.kandiantv.cn/douyu1.php?id=6566671
+神乐影院,http://maomao.kandiantv.cn/douyu1.php?id=85894
+苹果影院,http://maomao.kandiantv.cn/douyu1.php?id=2793084
+萌牛影院,http://maomao.kandiantv.cn/douyu1.php?id=7494871
+午夜故事,http://maomao.kandiantv.cn/douyu1.php?id=8722254
+功夫港片,http://maomao.kandiantv.cn/douyu1.php?id=3637765
+超清港剧,http://maomao.kandiantv.cn/douyu1.php?id=223521
+桃花影院,http://maomao.kandiantv.cn/douyu1.php?id=7305938
+贝贝影院,http://maomao.kandiantv.cn/douyu1.php?id=431460
+译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
+幸运影院,http://maomao.kandiantv.cn/douyu1.php?id=7270927
+黎黎影院,http://maomao.kandiantv.cn/douyu1.php?id=7116591
+蚂蚱影院,http://maomao.kandiantv.cn/douyu1.php?id=6079455
+纪录片,http://maomao.kandiantv.cn/douyu1.php?id=4360438
+贝爷求生,http://maomao.kandiantv.cn/douyu1.php?id=454867
+野外生存,http://maomao.kandiantv.cn/douyu1.php?id=1339207
+
+
+
+bili轮播,#genre#
+
+邵氏老老老电影(爱干饭的老实人),http://epg.112114.xyz/bili/1968287
+邵氏老老老电影(爱干饭的老实人)2,http://mmitv.top/pltv/bili.php?id=1968287
+邵氏老老老电影(爱干饭的老实人)3,http://1.117.152.239:39000/bili.php?id=1968287
+邵氏老老老电影(爱干饭的老实人)4,https://cn-sdyt-cu-01-31.bilivideo.com/live-bvc/701055/live_23601856_2325061.m3u8
+bili经典功夫台(勋香有你),http://mmitv.top/pltv/bili.php?id=21715386
+bili经典功夫台1(勋香有你),http://epg.112114.xyz/bili/21715386
+*bili经典功夫台2(勋香有你),https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+bili经典功夫台3(勋香有你),https://cn-sdyt-cu-01-22.bilivideo.com/live-bvc/289635/live_179302204_68184269.m3u8
+bili龍腾剧集(龍腾剧集HD),http://mmitv.top/pltv/bili.php?id=24848187
+bili龍腾剧集2(龍腾剧集HD),https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/
+bili經典劇集(bili_25192510001),http://zzy789.xyz/bili.php?id=23285297
+bili經典劇集2(bili_25192510001),https://cn-sdyt-cu-01-33.bilivideo.com/live-bvc/952721/live_1907351534_29661727.m3u8
+bili經典劇集3(bili_25192510001),https://cn-sdyt-cu-01-33.bilivideo.com/live-bvc/880791/live_1907351534_29661727.m3u8
+*bili經典劇集4(bili_25192510001),https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/880791/live_1907351534_29661727.m3u8
+bili经典功夫台-1(勋香有你),http://zzy789.xyz/bili.php?id=21715386
+bili经典功夫台-2(勋香有你),https://cn-sdyt-cu-01-22.bilivideo.com/live-bvc/289635/live_179302204_68184269.m3u8
+bili怀旧經典(哇油肯瑞利蛋丝)(四川方言),http://zzy789.xyz/bili.php?id=23169468
+bili怀旧經典2(哇油肯瑞利蛋丝(四川方言),https://cn-sdyt-cu-01-33.bilivideo.com/live-bvc/463789/live_233603799_86016368.m3u8
+bili經典电影(港台经典),http://zzy789.xyz/bili.php?id=24879511
+bili經典电影2(港台经典),https://cn-sdyt-cu-01-31.bilivideo.com/live-bvc/201334/live_1594619876_34410702.m3u8
+熊猫影视-2台(祁阳影视频道),http://mmitv.top/pltv/bili.php?id=21253818
+熊猫影视-2台(祁阳影视频道)2,https://cn-sdyt-cu-01-25.bilivideo.com/live-bvc/134537/live_400311478_37488632.m3u8
+星光导视(星光视界频道),http://mmitv.top/pltv/bili.php?id=23152385
+经典鬼片胆小勿进(林先生观影),http://mmitv.top/pltv/bili.php?id=21906879
+【4K修复】就算这样，也要笑着去努力啊(o_小雪_o),http://epg.112114.xyz/bili/23172056
+【阿梅】大片经典  24小时 每天更新(阿梅),http://epg.112114.xyz/bili/127343
+【阿希】乡村爱情，马大帅，刘老根混播(我就是阿希1),http://epg.112114.xyz/bili/3486181
+【宫崎骏】高清经典(宫崎骏是我的神),http://epg.112114.xyz/bili/9721161
+【国粤】谢谢你这么好看还来看我直播(锅里煎蛋丶),http://epg.112114.xyz/bili/24417938
+【怀旧影视】国语专场(怀旧点播),http://epg.112114.xyz/bili/8199817
+【林正英】 经典 24H(果冻萌布丁),http://epg.112114.xyz/bili/82997
+【林正英】僵尸 经典 女鬼 24H(果冻萌萌的),http://epg.112114.xyz/bili/70155
+【林正英】僵尸经典电影(秋子墨影),http://epg.112114.xyz/bili/25964993
+【松鼠】动作 悬疑 战争 高能 国产(极乐松鼠),http://epg.112114.xyz/bili/6837959
+【松鼠精选】动作片专场丨全明星阵容(松鼠电影屋),http://epg.112114.xyz/bili/6827037
+【西游-记】海爷7厅(海爷7厅西游记),http://epg.112114.xyz/bili/8409992
+【音悦台】东方Project作业音/点歌(芙芙炭),http://epg.112114.xyz/bili/6472211
+【影音馆】SNH48偶像光轨(知铃枫),http://epg.112114.xyz/bili/1242734
+【粤语】电视捞饭(漫游大世界),http://epg.112114.xyz/bili/15042228
+【粤语】精选怀旧剧集 有字幕(ann27996090),http://epg.112114.xyz/bili/23527591
+【周星驰】喜剧 动作 僵尸 24H(老公up),http://epg.112114.xyz/bili/47917
+365天  相声轮播(不过寻常),http://epg.112114.xyz/bili/23950940
+宝莲灯、新白娘子传奇、聊斋、奥特曼(嘉绒女王赵琼瑶),http://epg.112114.xyz/bili/24912334
+变形金刚(椎凪),http://epg.112114.xyz/bili/6076818
+变形金刚G1(巨兽特搜加斯比恩),http://epg.112114.xyz/bili/939703
+橙子1台(橙子一台),http://epg.112114.xyz/bili/23318788
+橙子2台(周口影视),http://epg.112114.xyz/bili/21571201
+反正系粤语(bellekrow),http://epg.112114.xyz/bili/24191026
+高清经典放映厅(後天以後),http://epg.112114.xyz/bili/23124447
+古龙金庸武侠剧场(amu134),http://epg.112114.xyz/bili/25129272
+古装剧戏说乾隆(梧佟宇),http://epg.112114.xyz/bili/25902274
+怀旧经典(哇油肯瑞利蛋丝),http://epg.112114.xyz/bili/23169468
+回顾经典，中国影视剧！(太古胤玄),http://epg.112114.xyz/bili/23490613
+僵尸 灵幻 喜剧 积分点播 新星(幻想余生夜),http://epg.112114.xyz/bili/22070492
+经典电影(凯哥影视剧),http://epg.112114.xyz/bili/25691894
+经典电影 电视剧  ?香港 华语 喜剧(GuangdongHakka),http://epg.112114.xyz/bili/21145280
+经典功夫台(勋香有你),http://epg.112114.xyz/bili/21715386
+经典古装剧《天仙配》七仙女(CCTV-精选热播剧),http://epg.112114.xyz/bili/23964058
+经典影视(工程人-贺),http://epg.112114.xyz/bili/25480975
+经典粤语原音//余乐舒华新力天(CC麦芽糖),http://epg.112114.xyz/bili/25922249
+林正英  僵尸  经典  24H(孩子快跑凤仙来了),http://epg.112114.xyz/bili/21360358
+林正英 僵尸 鬼片 搞笑 经典电影放碟中(咸鱼早上好),http://epg.112114.xyz/bili/21773771
+林正英 僵尸 女鬼 经典 高能 电影(小肥菜菜),http://epg.112114.xyz/bili/5226265
+林正英 喜剧 鬼片 僵尸(发记陆),http://epg.112114.xyz/bili/21104541
+龍腾剧集(龍腾剧集HD),http://epg.112114.xyz/bili/24848187
+倩女幽魂 极致画质(金角爱电影),http://epg.112114.xyz/bili/6304822
+倩女幽魂电视剧版(浦衣摇光),http://epg.112114.xyz/bili/23017862
+邵氏老老老电影 进来后切换到备用线路3(爱干饭的老实人),http://epg.112114.xyz/bili/1968287
+卫斯理、陆小凤-王振威、狄仁杰轮番直播(小小哔哩吖),http://epg.112114.xyz/bili/23009840
+卫斯理/鉴证/古灵/电影/隔世/十二粤语(LFJoey),http://epg.112114.xyz/bili/428247
+武侠剧(saihcl333),http://epg.112114.xyz/bili/23564649
+新白娘子传奇(欧阳哲SAMA),http://epg.112114.xyz/bili/7105519
+新白娘子传奇。24小时经典轮播(望天的狮子),http://epg.112114.xyz/bili/5960549
+新白娘子传奇4KHDR画质24小时轮播(1992缘系新白娘子传奇),http://epg.112114.xyz/bili/21762304
+熊猫影视-2台(祁阳影视频道),http://epg.112114.xyz/bili/21253818
+粤语 剧场(呜里单刀),http://epg.112114.xyz/bili/21221987
+粤语回忆杀(李恭梓),http://epg.112114.xyz/bili/6237182
+粤语经典(K_K_哥),http://epg.112114.xyz/bili/23205943
+周星驰成龙林正英王晶刘德华洪金宝电影(熊猫5823589),http://epg.112114.xyz/bili/21448296
+咒-吓人片大合集，胆小误入(只吃肉的野马),http://epg.112114.xyz/bili/22542143
+
+
+huya轮播,#genre#
+
+【周星星】星爷经典不间断(周星星),http://mmitv.top/pltv/huya.php?id=11342412
+英叔护体 | 林正英搞笑僵尸系列(7喜先生),http://mmitv.top/pltv/huya.php?id=11342421
+缝纫机·一起燥起来！(虎牙八点档),http://mmitv.top/pltv/huya.php?id=880261
+【虎牙影院】沈腾经典片放映(虎牙影院),http://mmitv.top/pltv/huya.php?id=11601968
+成龙经典武打动作片(偷心大盗ヽ龍宝),http://mmitv.top/pltv/huya.php?id=11342386
+周润发电影 小马哥归来(开船老湿基),http://mmitv.top/pltv/huya.php?id=11342387
+李连杰系列 武打高产王(核桃姐姐),http://mmitv.top/pltv/huya.php?id=11342390
+黄金配角 | 达叔永远的经典(红茶妹妹),http://mmitv.top/pltv/huya.php?id=11336592
+【警匪】不会演戏的警察不是好卧底(学妹爱学长),http://mmitv.top/pltv/huya.php?id=11352886
+杰森·斯坦森:郭达是你吗(超人的归来),http://mmitv.top/pltv/huya.php?id=21059588
+这些都是高智商的罪犯(小牡蛎),http://mmitv.top/pltv/huya.php?id=11352962
+历年贺岁档 笑就完事儿了(浮生没有若梦),http://mmitv.top/pltv/huya.php?id=11601986
+够劲，就是中国功夫(初心),http://mmitv.top/pltv/huya.php?id=11352941
+黑帮斗争 黑与白的对峙，情与义的泯灭(麋鹿),http://mmitv.top/pltv/huya.php?id=11342419
+刘德华电影_经典系列(安逗和黑仔),http://mmitv.top/pltv/huya.php?id=11342424
+经典之作·金庸群侠篇电影(逗比宝宝),http://mmitv.top/pltv/huya.php?id=11342427
+【黑帮大片】山鸡哥重现江湖(蓶1淳爷),http://mmitv.top/pltv/huya.php?id=11336719
+周星星粤语经典版~(Yummy),http://mmitv.top/pltv/huya.php?id=11336587
+Han国高分动作片 刺激过瘾(长岛冰茶-),http://mmitv.top/pltv/huya.php?id=11352884
+千面影帝梁家辉(苦瓜老姨),http://mmitv.top/pltv/huya.php?id=11342429
+快意江湖：金庸的武侠世界(可爱的小强),http://mmitv.top/pltv/huya.php?id=11342435
+动作电影来啦(虎牙放映厅),http://mmitv.top/pltv/huya.php?id=11602077
+【女神系列】邱淑贞 王祖贤 张曼玉(槽老师),http://mmitv.top/pltv/huya.php?id=11336571
+手心直冒汗！惊心动魄的灾难片(性感大妈),http://mmitv.top/pltv/huya.php?id=11602075
+变形jin刚，阿威(我是一颗小虎牙),http://mmitv.top/pltv/huya.php?id=21059596
+盗墓还得看经典的(Eric次元宝贝),http://mmitv.top/pltv/huya.php?id=21059552
+喜剧专场 看喜剧笑一笑吧(飙车的老司机),http://mmitv.top/pltv/huya.php?id=11352894
+【许氏三杰】快来 就差你了(科技这样玩),http://mmitv.top/pltv/huya.php?id=11602033
+玄幻剧场·体验另一种生活！(元芳看不到),http://mmitv.top/pltv/huya.php?id=11342414
+【喜剧专场】我们一起找乐子(小怪兽、),http://mmitv.top/pltv/huya.php?id=11602044
+洪金宝·童年回忆杀(一只大懒虫),http://mmitv.top/pltv/huya.php?id=11279251
+蜘蛛侠系列·biubiubiu(我是一颗小虎牙),http://mmitv.top/pltv/huya.php?id=21059599
+经典港剧笑嘻嘻(笙歌),http://mmitv.top/pltv/huya.php?id=11352965
+古墓系列·去冒险吧！(来听歌呀),http://mmitv.top/pltv/huya.php?id=11352913
+百看不厌的救援大片 ！(里昂保护的玛蒂达),http://mmitv.top/pltv/huya.php?id=21059594
+【赛车电影】秋名山我来了(昔日女神柳清茶-),http://mmitv.top/pltv/huya.php?id=11279247
+大场面战争片:一枚核弹爆炸(大铁锅炖大大鹅),http://mmitv.top/pltv/huya.php?id=21059574
+合家欢喜剧，欢乐笑哈哈！(牙缝多了根青菜),http://mmitv.top/pltv/huya.php?id=11352877
+搞笑喜剧：最佳拍档 开心鬼系列(暴走君丶阿罪),http://mmitv.top/pltv/huya.php?id=11342423
+永远怀念“黄药师”曾江(小蘑菇),http://mmitv.top/pltv/huya.php?id=11601981
+那些年的香gang贺岁片(阿森木木木),http://mmitv.top/pltv/huya.php?id=11601971
+高能反转，反转到怀疑人生(吞针主播),http://mmitv.top/pltv/huya.php?id=11352887
+情人节：港片教你追女仔(酒窝储存机),http://mmitv.top/pltv/huya.php?id=11602043
+法外狂徒张三李四(昵称违规-JBo8XZZWSw),http://mmitv.top/pltv/huya.php?id=11601965
+怪兽系列 巨蟒和大白鲨来袭(艾薇宝贝de宝贝),http://mmitv.top/pltv/huya.php?id=21059554
+悲剧结局的悲情古装片(羞涩的茄子),http://mmitv.top/pltv/huya.php?id=11336590
+校园热血电影，不比古惑仔差(阿飞),http://mmitv.top/pltv/huya.php?id=11352934
+【周星星】星爷经典不间断(周星星),http://mmitv.top/pltv/huya.php?id=11342412
+【笑傲江湖】吕颂贤就是哪个令狐冲！最被认可的笑傲江湖！(港剧慢品汇),http://mmitv.top/pltv/huya.php?id=23865142
+林正英《僵尸先生》僵尸片(Stone丶周周没睡醒),http://mmitv.top/pltv/huya.php?id=26659196
+僵尸翻生 第一次露脸人太多紧张(微竞-蛋白),http://mmitv.top/pltv/huya.php?id=27166378
+广东新人主播【唐人街探案】经典电影(妮妮X),http://mmitv.top/pltv/huya.php?id=27386962
+【林正英】贫道无能，被僵尸....(小紫A),http://mmitv.top/pltv/huya.php?id=xiaozi8
+生化危机4：战神再生(SJ-倾甜),http://mmitv.top/pltv/huya.php?id=396729
+英雄本色，主播也色(觅音-生蚝妹妹),http://mmitv.top/pltv/huya.php?id=27097616
+虫了个虫,明天12点电影(Mz虫虫),http://mmitv.top/pltv/huya.php?id=631393
+爱，死亡和机器人：机械脉搏，最极浪漫色彩的科幻动画(稻谷Movie),http://mmitv.top/pltv/huya.php?id=25767728
+降魔的-高能 都市司机化身降魔大师(鸡公碗),http://mmitv.top/pltv/huya.php?id=23734211
+更新：年度重口神片吓跑一半观众(扁豆看电影),http://mmitv.top/pltv/huya.php?id=bdcmovie
+钢铁侠小唐尼漫威大片  和小姐姐一起看(微竞-super懒懒),http://mmitv.top/pltv/huya.php?id=10761720
+【林正英】僵尸猛鬼大片(梦梦影视),http://mmitv.top/pltv/huya.php?id=25129377
+古天乐 刘德华 甄子丹港片动作(傲辰-影子),http://mmitv.top/pltv/huya.php?id=631396
+【婷儿陪看】指环王3王者无敌！(傲辰-婷妹ya),http://mmitv.top/pltv/huya.php?id=396736
+战狼 热血(小番薯呀-),http://mmitv.top/pltv/huya.php?id=27386138
+雷老虎！！雷老虎！~快进来看卉卉呀~(是小卉卉呢),http://mmitv.top/pltv/huya.php?id=18700853
+【夏洛特烦恼】,王宝强，沈腾超搞笑喜剧(Stone丶汐汐),http://mmitv.top/pltv/huya.php?id=27731569
+陪看【 城市猎人 】来喂猪了喂0v0(微竞-絮絮),http://mmitv.top/pltv/huya.php?id=25915860
+封神榜-陈浩民版哪吒(普通司机小马),http://mmitv.top/pltv/huya.php?id=23749096
+生化危机 系列连播(星球-肖肖),http://mmitv.top/pltv/huya.php?id=27545581
+笑傲江湖14：岳不群辟邪剑法神功大成，经典名场面！(非凡武林),http://mmitv.top/pltv/huya.php?id=21674665
+【沈腾专场】就你特么你叫小娴(正恒RM-小娴baby),http://mmitv.top/pltv/huya.php?id=26881668
+恐怖鬼片 枕边凶鬼 女怨尸(【鬼片】虎牙陪看),http://mmitv.top/pltv/huya.php?id=19383295
+英雄本色2(微竞-小婷子),http://mmitv.top/pltv/huya.php?id=10384726
+【寻秦记】穿越剧鼻祖·百看不厌的古天乐宣萱CP(我是周粤驰),http://mmitv.top/pltv/huya.php?id=23864973
+恐怖电影潜伏系列第四部：锁命亡魂(力哥影視),http://mmitv.top/pltv/huya.php?id=23419131
+【天龙八部】最佳版本天龙·97版黄日华超神作(堆堆港剧日常),http://mmitv.top/pltv/huya.php?id=23903123
+丐帮帮主乔峰驾到·樊少皇老戏骨(二次元控),http://mmitv.top/pltv/huya.php?id=11352912
+看小品·春晚经典非看不可(杀马特死神),http://mmitv.top/pltv/huya.php?id=11352875
+科幻电影：利用科技蒙蔽士兵的五感，让他们成为了纯粹的战争机器(亮哥讲电影),http://mmitv.top/pltv/huya.php?id=16144175
+Man威！等于等到你(老雷),http://mmitv.top/pltv/huya.php?id=11602034
+张卫健版西游记-当蜘蛛精看上了齐天大圣(我是靓宝),http://mmitv.top/pltv/huya.php?id=23728660
+搞笑恐怖类 弹幕护体(实力拔萝卜),http://mmitv.top/pltv/huya.php?id=11601960
+【林正英】英叔护体 喜剧僵尸系列 西洋鬼(【喜剧英叔】虎牙陪看),http://mmitv.top/pltv/huya.php?id=27717388
+末日废土大片《疯狂的麦克斯4》(鱼丸说电影),http://mmitv.top/pltv/huya.php?id=16615910
+洛基第一季第二集(枫哥影视),http://mmitv.top/pltv/huya.php?id=25007621
+和美咲一起来看~特警屠龙(AF-美咲),http://mmitv.top/pltv/huya.php?id=27547249
+神貂侠侣·小笼包版姑姑上线(老王夸我帅),http://mmitv.top/pltv/huya.php?id=11352964
+【王晶】港风导演代表(四大裁子之首),http://mmitv.top/pltv/huya.php?id=11602058
+追捕与反追捕、复仇与阻止复仇(北岛南城),http://mmitv.top/pltv/huya.php?id=11601962
+【射雕英雄传】黄版郭靖翁版黄蓉·还有谁能取代？(我只是个好人),http://mmitv.top/pltv/huya.php?id=23728674
+怪兽打架x异形世界：爽就完事了(梁非凡吃点啥),http://mmitv.top/pltv/huya.php?id=21059577
+布衣神相-一袭布衣 条条妙计(TVB动作大片),http://mmitv.top/pltv/huya.php?id=23865036
+马东锡新作，一人干翻整个团伙，拳拳到肉真男人(大聪明和魏乐乐影院),http://mmitv.top/pltv/huya.php?id=23304691
+港剧最佳拍档 | 许冠英合集(苏仨),http://mmitv.top/pltv/huya.php?id=11601972
+速肌:两个光头赛车的故事(一只梦幻小萌虎),http://mmitv.top/pltv/huya.php?id=21059556
+巨石强森系列:真肌肉就是爽(状元及第粥),http://mmitv.top/pltv/huya.php?id=21059581
+si神来了系列  好怕怕(胖次过肩摔),http://mmitv.top/pltv/huya.php?id=11352903
+变形jin刚，阿威(我是一颗小虎牙),http://mmitv.top/pltv/huya.php?id=21059596
+五位最有型的僵尸片道长，被低估的陈友、钟发(青年电影馆),http://mmitv.top/pltv/huya.php?id=qndyg
+蜘蛛侠系列·biubiubiu(我是一颗小虎牙),http://mmitv.top/pltv/huya.php?id=21059599
+金庸经典剧 24小时轮播(漓江塔景区售票阿姨),http://mmitv.top/pltv/huya.php?id=11602082
+天地争霸美猴王粤语版(我叫山鸡哥),http://mmitv.top/pltv/huya.php?id=23734246
+永远的经典女神,无法超越啊(小军迷),http://mmitv.top/pltv/huya.php?id=11352909
+机器人大战-谁是最凶猛机器之王！(葱爆牛柳鱂魚),http://mmitv.top/pltv/huya.php?id=26355778
+徐克武侠电影《断刀客》，赵文卓出道即巅峰，如今被奉为经典之作(小冉看电影),http://mmitv.top/pltv/huya.php?id=17341907
+收到！特种部队出发(千与千寻的思考),http://mmitv.top/pltv/huya.php?id=21059592
+陀枪师姐-TVB女星脸盲了(过儿想姑姑了),http://mmitv.top/pltv/huya.php?id=23749068
+邱淑贞太好看了吧?(Fighter),http://mmitv.top/pltv/huya.php?id=11352949
+殭尸道长2-比1更精彩(TVBaby),http://mmitv.top/pltv/huya.php?id=23865164
+DC宇宙来啦，有你喜欢的英雄吗？(炙恋兽兽),http://mmitv.top/pltv/huya.php?id=11342428
+射雕之九阴真经-姜大卫 张智霖(做人最要紧开心),http://mmitv.top/pltv/huya.php?id=23824164
+胆小勿入，5分钟起鸡皮疙瘩(三十既未息),http://mmitv.top/pltv/huya.php?id=26355846
+《血族》第一季第六集(白泽字幕2号),http://mmitv.top/pltv/huya.php?id=23784008
+高智商小鬼头电影！(个人向),http://mmitv.top/pltv/huya.php?id=11352963
+
+
+
+
+huya埋堆堆TVB,#genre#
+
+封神榜-陈浩民版哪吒(普通司机小马),http://mmitv.top/pltv/huya.php?id=23749096
+看孙悟空唐三藏取西经(TVB官方),http://mmitv.top/pltv/huya.php?id=23735126
+张卫健版西游记-当蜘蛛精看上了齐天大圣(我是靓宝),http://mmitv.top/pltv/huya.php?id=23728660
+楚汉骄雄-我恨做皇后 但我做刘邦的皇后(埋堆堆官方),http://mmitv.top/pltv/huya.php?id=23740156
+【寻秦记】穿越剧鼻祖·百看不厌的古天乐宣萱CP(我是周粤驰),http://mmitv.top/pltv/huya.php?id=23864973
+【天龙八部】最佳版本天龙·97版黄日华超神作(堆堆港剧日常),http://mmitv.top/pltv/huya.php?id=23903123
+【笑傲江湖】吕颂贤就是哪个令狐冲！最被认可的笑傲江湖！(港剧慢品汇),http://mmitv.top/pltv/huya.php?id=23865142
+【法证先锋2】超越前篇的佳作·无数人入坑法政就靠它！(我才是打工人),http://mmitv.top/pltv/huya.php?id=23860039
+【法证先锋3】振聋发聩的法庭辩论·文戏是真的棒！(iTVB大后宫),http://mmitv.top/pltv/huya.php?id=23863804
+【洗冤录】节奏贼快·经典TVB剧情·瘦子欧阳震华出演(堆堆港剧日记),http://mmitv.top/pltv/huya.php?id=23903130
+【神雕侠侣】不能超越的杨过和姑姑·古天乐最强出演(阿呀呀阿sir),http://mmitv.top/pltv/huya.php?id=23865171
+【法证先锋】经典之作·法证故事系列开创篇(埋堆搞搞震),http://mmitv.top/pltv/huya.php?id=23734169
+【使徒行者】正邪相斗 情义两难(音粤无国界),http://mmitv.top/pltv/huya.php?id=23734256
+【金装四大才子】唐伯虎的四大天团·完美的古装轻喜剧(港剧伴你行),http://mmitv.top/pltv/huya.php?id=23903183
+【射雕英雄传】黄版郭靖翁版黄蓉·还有谁能取代？(我只是个好人),http://mmitv.top/pltv/huya.php?id=23728674
+布衣神相-一袭布衣 条条妙计(TVB动作大片),http://mmitv.top/pltv/huya.php?id=23865036
+【创世纪】神预言，剧里的金融地产现在都成真了！(梁非凡吔X啦),http://mmitv.top/pltv/huya.php?id=23749083
+法证先锋(是大宝贝呀),http://mmitv.top/pltv/huya.php?id=23829543
+【施公奇案】越来越精彩慢热剧·扣人心弦的洗冤录续集(老板给次机会吧),http://mmitv.top/pltv/huya.php?id=23829447
+扫黄先锋·欧阳震华在不能不看(冷门港片大全),http://mmitv.top/pltv/huya.php?id=23903196
+状王宋世杰-第二部-张达明大战黄子华(一起来埋堆),http://mmitv.top/pltv/huya.php?id=23734183
+食为奴·王祖蓝的嘴万绮雯的腿(香港刑侦实录),http://mmitv.top/pltv/huya.php?id=23865058
+【大时代】史上主角疯子最多的片·荡气回肠大时代！(为所欲为的墨镜哥),http://mmitv.top/pltv/huya.php?id=23865161
+【天地男儿】后无来者的巅峰家族商战(正经纪录片),http://mmitv.top/pltv/huya.php?id=23860049
+水浒无间道-张智霖的现代版水浒(小喇叭佩囍),http://mmitv.top/pltv/huya.php?id=23863778
+爱·回家，经典之作(TVB爱情故事),http://mmitv.top/pltv/huya.php?id=23863818
+秀才遇到兵-演喜剧的陈豪，我可以！(Amy姐),http://mmitv.top/pltv/huya.php?id=23746486
+经典武侠-雪山飞狐 黄日华版(堆仔煲剧),http://mmitv.top/pltv/huya.php?id=23734176
+降魔的-高能 都市司机化身降魔大师(鸡公碗),http://mmitv.top/pltv/huya.php?id=23734211
+野蛮亲家血腥对线！(TV巴迪),http://mmitv.top/pltv/huya.php?id=23863796
+陀枪师姐-TVB女星脸盲了(过儿想姑姑了),http://mmitv.top/pltv/huya.php?id=23749068
+情事缉私档案-郭晋安郭蔼明的爱恨情仇(TVB追剧小能手),http://mmitv.top/pltv/huya.php?id=23865179
+殭尸道长2-比1更精彩(TVBaby),http://mmitv.top/pltv/huya.php?id=23865164
+射雕之九阴真经-姜大卫 张智霖(做人最要紧开心),http://mmitv.top/pltv/huya.php?id=23824164
+天地争霸美猴王粤语版(我叫山鸡哥),http://mmitv.top/pltv/huya.php?id=23734246
+看女神翁虹如何搞定邻牙利齿大状师(TVB职场剧大全),http://mmitv.top/pltv/huya.php?id=mdd02
+律政新人王-林峯胡杏儿的律政CP(TV八哥),http://mmitv.top/pltv/huya.php?id=23863787
+
+
