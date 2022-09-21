@@ -1,0 +1,746 @@
+
+#EXTM3U
+#EXTINF:-1 group-title="LIVE-TV",LIVE SHOW
+http://77bo.12345678022.com:80/live/cx_6648.flv
+#EXTINF:-1 group-title="LIVE-TV",三立LIVE新聞
+http://23.237.10.66:16342
+#EXTINF:-1 group-title="LIVE-TV",大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="LIVE-TV",三立Set INEWS
+http://98.142.138.122:1636/zhiboyuandakaTV/sanli743729.m3u8
+#EXTINF:-1 group-title="LIVE-TV",澳門蓮花
+http://nettvpro.live/hls/lotustv.php$高清1080P
+#EXTINF:-1 group-title="LIVE-TV",澳門蓮花2
+http://anren.live/HK/BiIOU11uLA.m3u8$高清1080P
+#EXTINF:-1 group-title="LIVE-TV",澳門蓮花3
+https://p.ggiptv.com/v/macaulotustv.php$高清720P
+#EXTINF:-1 group-title="LIVE-TV",美亞電影臺
+http://pull-flv-l6.ixigua.com/live/2.flv
+#EXTINF:-1 group-title="LIVE-TV",TVB翡翠臺
+http://98.142.138.122:1633/zhiboyuandakaTV/tvbjade.m3u8
+#EXTINF:-1 group-title="LIVE-TV",歐美大片
+http://bp-caster.bestv.com.cn/102/2/video.m3u8
+#EXTINF:-1 group-title="LIVE-TV",驚險電影致命彎道4
+https://s7.fsvod1.com/20220830/O9CuNRPZ/1200kb/hls/index.m3u8
+#EXTINF:-1 group-title="LIVE-TV",MTV白標en
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="LIVE-TV",天映經典CCM
+http://120.84.96.53:808/hls/85/index.m3u8
+#EXTINF:-1 group-title="LIVE-TV",天映經典
+http://171.108.239.13:8181/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="LIVE-TV",天映經典2
+http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+#EXTINF:-1 group-title="LIVE-TV",Y+頻道
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+#EXTINF:-1 group-title="LIVE-TV",TVB劇集
+http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8
+#EXTINF:-1 group-title="LIVE-TV",TVB劇集2
+http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
+#EXTINF:-1 group-title="kktv5 轮播",星光視界
+http://hpull.kktv8.com/livekktv/150330251/playlist.m3u8
+#EXTINF:-1 group-title="kktv5 轮播",經典老電影
+http://171.108.239.70:8181/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="kktv5 轮播",金馬影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="kktv5 轮播",女神影院
+https://pull.kktv8.com/livekktv/99350550.flv
+#EXTINF:-1 group-title="kktv5 轮播",午夜影院
+https://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 group-title="kktv5 轮播",【星爺經典】午夜影院
+https://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 group-title="kktv5 轮播",??【女神經典】??
+https://pull.kktv8.com/livekktv/99350550.flv
+#EXTINF:-1 group-title="kktv5 轮播",金馬影院
+https://pull.kktv8.com/livekktv/128600025.flv
+#EXTINF:-1 group-title="kktv5 轮播",【經典重溫】飛鷹影院
+https://pull.kktv8.com/livekktv/155370802.flv
+#EXTINF:-1 group-title="kktv5 轮播",【港片經典】貝爺影院
+https://pull.kktv8.com/livekktv/99592144.flv
+#EXTINF:-1 group-title="kktv5 轮播",富豪143960119
+https://pull.kktv8.com/livekktv/143960119.flv
+#EXTINF:-1 group-title="kktv5 轮播",【恐怖驚悚】鯤鵬劇場
+https://pull.kktv8.com/livekktv/133756593.flv
+#EXTINF:-1 group-title="kktv5 轮播",【武俠劇場】大片劇場
+https://pull.kktv8.com/livekktv/154355027.flv
+#EXTINF:-1 group-title="kktv5 轮播",【特種兵劇場】
+https://pull.kktv8.com/livekktv/126236957.flv
+#EXTINF:-1 group-title="kktv5 轮播",【古裝重溫】番茄影院
+https://pull.kktv8.com/livekktv/155443364.flv
+#EXTINF:-1 group-title="kktv5 轮播",Kk大明星
+https://pull.kktv8.com/livekktv/104621340.flv
+#EXTINF:-1 group-title="kktv5 轮播",【軍旅劇場】
+https://pull.kktv8.com/livekktv/149195765.flv
+#EXTINF:-1 group-title="kktv5 轮播",【比芯影院】匯聚經典
+https://pull.kktv8.com/livekktv/111536805.flv
+#EXTINF:-1 group-title="kktv5 轮播",【懷舊劇院】致敬三國
+https://pull.kktv8.com/livekktv/153793844.flv
+#EXTINF:-1 group-title="kktv5 轮播",【菲貓影視】經典重現
+https://pull.kktv8.com/livekktv/155906661.flv
+#EXTINF:-1 group-title="kktv5 轮播",安鑫兒電影頻道
+https://pull.kktv8.com/livekktv/154056602.flv
+#EXTINF:-1 group-title="kktv5 轮播",【小黃鴨影院】經典
+https://pull.kktv8.com/livekktv/108225974.flv
+#EXTINF:-1 group-title="kktv5 轮播",【電影影院】
+https://pull.kktv8.com/livekktv/105372204.flv
+#EXTINF:-1 group-title="kktv5 轮播",【時光電影】經典電影
+https://pull.kktv8.com/livekktv/145530734.flv
+#EXTINF:-1 group-title="kktv5 轮播",靜默影院
+https://pull.kktv8.com/livekktv/154966388.flv
+#EXTINF:-1 group-title="kktv5 轮播",【經典劇場】
+https://pull.kktv8.com/livekktv/100653018.flv
+#EXTINF:-1 group-title="kktv5 轮播",睿睿影院
+https://pull.kktv8.com/livekktv/157292865.flv
+#EXTINF:-1 group-title="kktv5 轮播",【妖精電影】開心影院
+https://pull.kktv8.com/livekktv/97958887.flv
+#EXTINF:-1 group-title="kktv5 轮播",【超清影院】自助點播
+https://pull.kktv8.com/livekktv/142943634.flv
+#EXTINF:-1 group-title="kktv5 轮播",【發哥影院】
+https://pull.kktv8.com/livekktv/155711839.flv
+#EXTINF:-1 group-title="kktv5 轮播",【貝貝影視】
+https://pull.kktv8.com/livekktv/149145174.flv
+#EXTINF:-1 group-title="kktv5 轮播",【開心影院】星爺經典
+https://pull.kktv8.com/livekktv/134129360.flv
+#EXTINF:-1 group-title="kktv5 轮播",【好看電影院】
+https://pull.kktv8.com/livekktv/156812317.flv
+#EXTINF:-1 group-title="kktv5 轮播",【偉偉影院】
+https://pull.kktv8.com/livekktv/156775230.flv
+#EXTINF:-1 group-title="kktv5 轮播",[33影院]
+https://pull.kktv8.com/livekktv/156666157.flv
+#EXTINF:-1 group-title="yy 轮播",10人鐵籠大戰(阿飛搏擊)
+http://data.3g.yy.com/live/hls/1355277405/1355277405
+#EXTINF:-1 group-title="yy 轮播",人間怪獸，大黑羊(虔誠)
+http://data.3g.yy.com/live/hls/1382690043/1382690043
+#EXTINF:-1 group-title="yy 轮播",無規則男女摔跤(WWE-晨陽)
+http://data.3g.yy.com/live/hls/1351073299/1351073299
+#EXTINF:-1 group-title="yy 轮播",精彩搏擊戰(錢小豪)
+http://data.3g.yy.com/live/hls/1354946972/1354946972
+#EXTINF:-1 group-title="yy 轮播",快看！精彩摔跤(百度-阿峰-搏擊)
+http://data.3g.yy.com/live/hls/1337194708/1337194708
+#EXTINF:-1 group-title="yy 轮播",美女大戰超好看(阿豪 挺住了)
+http://data.3g.yy.com/live/hls/1382768030/1382768030
+#EXTINF:-1 group-title="yy 轮播",天吶~男女無規則~(阿福)
+http://data.3g.yy.com/live/hls/1382623703/1382623703
+#EXTINF:-1 group-title="yy 轮播",快看！美女大戰(狗子)
+http://data.3g.yy.com/live/hls/1459727675/1459727675
+#EXTINF:-1 group-title="yy 轮播",美女無規則賽(天賜)
+http://data.3g.yy.com/live/hls/1355501554/1355501554
+#EXTINF:-1 group-title="yy 轮播",yy經典劇集
+http://data.3g.yy.com/live/hls/1382766568/1382766568
+#EXTINF:-1 group-title="yy 轮播",yy港片鬼片500部(伊拉電影)
+http://mmitv.top/pltv/yy.php?id=1353059120
+#EXTINF:-1 group-title="yy 轮播",電影-女鬼來了(阿良電影)
+http://mmitv.top/pltv/yy.php?id=1454587259
+#EXTINF:-1 group-title="yy 轮播",絕版鬼片300部(湖北無心)
+http://mmitv.top/pltv/yy.php?id=1353587611
+#EXTINF:-1 group-title="yy 轮播",聽郭德綱講相聲(聽郭德綱講相聲)
+http://mmitv.top/pltv/yy.php?id=1382736854
+#EXTINF:-1 group-title="yy 轮播",開心一刻(開心)
+http://mmitv.top/pltv/yy.php?id=1353196797
+#EXTINF:-1 group-title="yy 轮播",小品合集(小品合集)
+http://mmitv.top/pltv/yy.php?id=1354931503
+#EXTINF:-1 group-title="yy 轮播",封神榜(妲己)
+http://mmitv.top/pltv/yy.php?id=29460894
+#EXTINF:-1 group-title="yy 轮播",封神榜(大妞)
+http://mmitv.top/pltv/yy.php?id=1355268573
+#EXTINF:-1 group-title="yy 轮播",風云雄霸天下(第二夢)
+http://mmitv.top/pltv/yy.php?id=37999586
+#EXTINF:-1 group-title="yy 轮播",天龍八部(小鈴兒)
+http://mmitv.top/pltv/yy.php?id=1351814644
+#EXTINF:-1 group-title="yy 轮播",天龍八部-蘇七七(蘇七七)
+http://mmitv.top/pltv/yy.php?id=68260522
+#EXTINF:-1 group-title="yy 轮播",昕朵兒鹿鼎記(昕朵兒)
+http://mmitv.top/pltv/yy.php?id=1355269576
+#EXTINF:-1 group-title="yy 轮播",鹿鼎記-高清全集(小鬧鬧)
+http://mmitv.top/pltv/yy.php?id=1382704650
+#EXTINF:-1 group-title="yy 轮播",【鹿鼎記】金庸經典(彤彤)
+http://mmitv.top/pltv/yy.php?id=28265277
+#EXTINF:-1 group-title="yy 轮播",【戰狼3吳京】首播(童菲菲)
+http://mmitv.top/pltv/yy.php?id=1449998579
+#EXTINF:-1 group-title="yy 轮播",【戰狼4】吳京(韓晶晶)
+http://mmitv.top/pltv/yy.php?id=1354784284
+#EXTINF:-1 group-title="yy 轮播",【電影】動作系列(義+曦曦)
+http://mmitv.top/pltv/yy.php?id=14730996
+#EXTINF:-1 group-title="yy 轮播",古惑仔全集(大美)
+http://mmitv.top/pltv/yy.php?id=1460913377
+#EXTINF:-1 group-title="yy 轮播",星爺功夫 經典武俠(曉蝶祝大家中秋快樂)
+http://mmitv.top/pltv/yy.php?id=74613175
+#EXTINF:-1 group-title="yy 轮播",星爺賭片 超經典(蜜蜜)
+http://mmitv.top/pltv/yy.php?id=1353881242
+#EXTINF:-1 group-title="yy 轮播",舉起手來(妮妮Nini)
+http://mmitv.top/pltv/yy.php?id=1382736877
+#EXTINF:-1 group-title="yy 轮播",奇幻鬼怪300部(小喬)
+http://mmitv.top/pltv/yy.php?id=1459714870
+#EXTINF:-1 group-title="yy 轮播",】濟公】游本昌(點關注)
+http://mmitv.top/pltv/yy.php?id=25519088
+#EXTINF:-1 group-title="yy 轮播",經典港片超好看(小情寶)
+http://mmitv.top/pltv/yy.php?id=1355364378
+#EXTINF:-1 group-title="yy 轮播",經典港片600部(大雄)
+http://mmitv.top/pltv/yy.php?id=1382660958
+#EXTINF:-1 group-title="yy 轮播",港片電影(小玖電影)
+http://mmitv.top/pltv/yy.php?id=33897188
+#EXTINF:-1 group-title="yy 轮播",絕版電影600部(蛋蛋)
+http://mmitv.top/pltv/yy.php?id=1382764593
+#EXTINF:-1 group-title="yy 轮播",僵尸鬼片大全 美女陪(愛寶鬼片)
+http://mmitv.top/pltv/yy.php?id=1335509613
+#EXTINF:-1 group-title="yy 轮播",英叔全集經典電影(小姐姐)
+http://mmitv.top/pltv/yy.php?id=1354869861
+#EXTINF:-1 group-title="yy 轮播",泡芙陪你看電影(小泡芙)
+http://mmitv.top/pltv/yy.php?id=24407222
+#EXTINF:-1 group-title="yy 轮播",趙本山《超清版》(【聚星】小摩登)
+http://mmitv.top/pltv/yy.php?id=1382683959
+#EXTINF:-1 group-title="yy 轮播",蜀山奇俠傳(石生)
+http://mmitv.top/pltv/yy.php?id=1382766568
+#EXTINF:-1 group-title="yy 轮播",英叔僵尸鬼片大全(林正英)
+http://mmitv.top/pltv/yy.php?id=1354575019
+#EXTINF:-1 group-title="yy 轮播",鬼片喜劇動作大全(電影)
+http://mmitv.top/pltv/yy.php?id=1355480591
+#EXTINF:-1 group-title="douyu 轮播",douyu邵氏影院
+http://maomao.kandiantv.cn/douyu1.php?id=4246519
+#EXTINF:-1 group-title="douyu 轮播",鬼片恐怖驚悚
+http://maomao.kandiantv.cn/douyu1.php?id=2935323
+#EXTINF:-1 group-title="douyu 轮播",恐怖故事
+http://maomao.kandiantv.cn/douyu1.php?id=2337939
+#EXTINF:-1 group-title="douyu 轮播",douyu女神金
+http://maomao.kandiantv.cn/douyu1.php?id=747764
+#EXTINF:-1 group-title="douyu 轮播",科幻動作
+http://maomao.kandiantv.cn/douyu1.php?id=4332
+#EXTINF:-1 group-title="douyu 轮播",怡寳影院
+http://maomao.kandiantv.cn/douyu1.php?id=434971
+#EXTINF:-1 group-title="douyu 轮播",粵語電影
+http://maomao.kandiantv.cn/douyu1.php?id=6566671
+#EXTINF:-1 group-title="douyu 轮播",神樂影院
+http://maomao.kandiantv.cn/douyu1.php?id=85894
+#EXTINF:-1 group-title="douyu 轮播",蘋果影院
+http://maomao.kandiantv.cn/douyu1.php?id=2793084
+#EXTINF:-1 group-title="douyu 轮播",萌牛影院
+http://maomao.kandiantv.cn/douyu1.php?id=7494871
+#EXTINF:-1 group-title="douyu 轮播",午夜故事
+http://maomao.kandiantv.cn/douyu1.php?id=8722254
+#EXTINF:-1 group-title="douyu 轮播",功夫港片
+http://maomao.kandiantv.cn/douyu1.php?id=3637765
+#EXTINF:-1 group-title="douyu 轮播",超清港劇
+http://maomao.kandiantv.cn/douyu1.php?id=223521
+#EXTINF:-1 group-title="douyu 轮播",桃花影院
+http://maomao.kandiantv.cn/douyu1.php?id=7305938
+#EXTINF:-1 group-title="douyu 轮播",貝貝影院
+http://maomao.kandiantv.cn/douyu1.php?id=431460
+#EXTINF:-1 group-title="douyu 轮播",譯制國語
+http://maomao.kandiantv.cn/douyu1.php?id=2436390
+#EXTINF:-1 group-title="douyu 轮播",幸運影院
+http://maomao.kandiantv.cn/douyu1.php?id=7270927
+#EXTINF:-1 group-title="douyu 轮播",黎黎影院
+http://maomao.kandiantv.cn/douyu1.php?id=7116591
+#EXTINF:-1 group-title="douyu 轮播",螞蚱影院
+http://maomao.kandiantv.cn/douyu1.php?id=6079455
+#EXTINF:-1 group-title="douyu 轮播",紀錄片
+http://maomao.kandiantv.cn/douyu1.php?id=4360438
+#EXTINF:-1 group-title="douyu 轮播",貝爺求生
+http://maomao.kandiantv.cn/douyu1.php?id=454867
+#EXTINF:-1 group-title="douyu 轮播",野外生存
+http://maomao.kandiantv.cn/douyu1.php?id=1339207
+#EXTINF:-1 group-title="douyu 轮播",邵氏影院
+http://maomao.kandiantv.cn/douyu1.php?id=4246519
+#EXTINF:-1 group-title="douyu 轮播",鬼片恐怖驚悚
+http://maomao.kandiantv.cn/douyu1.php?id=2935323
+#EXTINF:-1 group-title="douyu 轮播",恐怖故事
+http://maomao.kandiantv.cn/douyu1.php?id=2337939
+#EXTINF:-1 group-title="douyu 轮播",科幻動作
+http://maomao.kandiantv.cn/douyu1.php?id=4332
+#EXTINF:-1 group-title="douyu 轮播",怡寳影院
+http://maomao.kandiantv.cn/douyu1.php?id=434971
+#EXTINF:-1 group-title="douyu 轮播",粵語電影
+http://maomao.kandiantv.cn/douyu1.php?id=6566671
+#EXTINF:-1 group-title="douyu 轮播",神樂影院
+http://maomao.kandiantv.cn/douyu1.php?id=85894
+#EXTINF:-1 group-title="douyu 轮播",蘋果影院
+http://maomao.kandiantv.cn/douyu1.php?id=2793084
+#EXTINF:-1 group-title="douyu 轮播",萌牛影院
+http://maomao.kandiantv.cn/douyu1.php?id=7494871
+#EXTINF:-1 group-title="douyu 轮播",午夜故事
+http://maomao.kandiantv.cn/douyu1.php?id=8722254
+#EXTINF:-1 group-title="douyu 轮播",功夫港片
+http://maomao.kandiantv.cn/douyu1.php?id=3637765
+#EXTINF:-1 group-title="douyu 轮播",超清港劇
+http://maomao.kandiantv.cn/douyu1.php?id=223521
+#EXTINF:-1 group-title="douyu 轮播",桃花影院
+http://maomao.kandiantv.cn/douyu1.php?id=7305938
+#EXTINF:-1 group-title="douyu 轮播",貝貝影院
+http://maomao.kandiantv.cn/douyu1.php?id=431460
+#EXTINF:-1 group-title="douyu 轮播",譯制國語
+http://maomao.kandiantv.cn/douyu1.php?id=2436390
+#EXTINF:-1 group-title="douyu 轮播",幸運影院
+http://maomao.kandiantv.cn/douyu1.php?id=7270927
+#EXTINF:-1 group-title="douyu 轮播",黎黎影院
+http://maomao.kandiantv.cn/douyu1.php?id=7116591
+#EXTINF:-1 group-title="douyu 轮播",螞蚱影院
+http://maomao.kandiantv.cn/douyu1.php?id=6079455
+#EXTINF:-1 group-title="douyu 轮播",紀錄片
+http://maomao.kandiantv.cn/douyu1.php?id=4360438
+#EXTINF:-1 group-title="douyu 轮播",貝爺求生
+http://maomao.kandiantv.cn/douyu1.php?id=454867
+#EXTINF:-1 group-title="douyu 轮播",野外生存
+http://maomao.kandiantv.cn/douyu1.php?id=1339207
+#EXTINF:-1 group-title="bili 轮播",邵氏老老老電影(愛干飯的老實人)
+http://epg.112114.xyz/bili/1968287
+#EXTINF:-1 group-title="bili 轮播",邵氏老老老電影(愛干飯的老實人)2
+http://mmitv.top/pltv/bili.php?id=1968287
+#EXTINF:-1 group-title="bili 轮播",邵氏老老老電影(愛干飯的老實人)3
+http://1.117.152.239:39000/bili.php?id=1968287
+#EXTINF:-1 group-title="bili 轮播",邵氏老老老電影(愛干飯的老實人)4
+https://cn-sdyt-cu-01-31.bilivideo.com/live-bvc/701055/live_23601856_2325061.m3u8
+#EXTINF:-1 group-title="bili 轮播",bili經典功夫臺(勛香有你)
+http://mmitv.top/pltv/bili.php?id=21715386
+#EXTINF:-1 group-title="bili 轮播",bili經典功夫臺1(勛香有你)
+http://epg.112114.xyz/bili/21715386
+#EXTINF:-1 group-title="bili 轮播",*bili經典功夫臺2(勛香有你)
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+#EXTINF:-1 group-title="bili 轮播",bili經典功夫臺3(勛香有你)
+https://cn-sdyt-cu-01-22.bilivideo.com/live-bvc/289635/live_179302204_68184269.m3u8
+#EXTINF:-1 group-title="bili 轮播",bili龍騰劇集(龍騰劇集HD)
+http://mmitv.top/pltv/bili.php?id=24848187
+#EXTINF:-1 group-title="bili 轮播",bili龍騰劇集2(龍騰劇集HD)
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/
+#EXTINF:-1 group-title="bili 轮播",bili經典劇集(bili_25192510001)
+http://zzy789.xyz/bili.php?id=23285297
+#EXTINF:-1 group-title="bili 轮播",bili經典劇集2(bili_25192510001)
+https://cn-sdyt-cu-01-33.bilivideo.com/live-bvc/952721/live_1907351534_29661727.m3u8
+#EXTINF:-1 group-title="bili 轮播",bili經典劇集3(bili_25192510001)
+https://cn-sdyt-cu-01-33.bilivideo.com/live-bvc/880791/live_1907351534_29661727.m3u8
+#EXTINF:-1 group-title="bili 轮播",*bili經典劇集4(bili_25192510001)
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/880791/live_1907351534_29661727.m3u8
+#EXTINF:-1 group-title="bili 轮播",bili經典功夫臺-1(勛香有你)
+http://zzy789.xyz/bili.php?id=21715386
+#EXTINF:-1 group-title="bili 轮播",bili經典功夫臺-2(勛香有你)
+https://cn-sdyt-cu-01-22.bilivideo.com/live-bvc/289635/live_179302204_68184269.m3u8
+#EXTINF:-1 group-title="bili 轮播",bili懷舊經典(哇油肯瑞利蛋絲)(四川方言)
+http://zzy789.xyz/bili.php?id=23169468
+#EXTINF:-1 group-title="bili 轮播",bili懷舊經典2(哇油肯瑞利蛋絲(四川方言)
+https://cn-sdyt-cu-01-33.bilivideo.com/live-bvc/463789/live_233603799_86016368.m3u8
+#EXTINF:-1 group-title="bili 轮播",bili經典電影(港臺經典)
+http://zzy789.xyz/bili.php?id=24879511
+#EXTINF:-1 group-title="bili 轮播",bili經典電影2(港臺經典)
+https://cn-sdyt-cu-01-31.bilivideo.com/live-bvc/201334/live_1594619876_34410702.m3u8
+#EXTINF:-1 group-title="bili 轮播",熊貓影視-2臺(祁陽影視頻道)
+http://mmitv.top/pltv/bili.php?id=21253818
+#EXTINF:-1 group-title="bili 轮播",熊貓影視-2臺(祁陽影視頻道)2
+https://cn-sdyt-cu-01-25.bilivideo.com/live-bvc/134537/live_400311478_37488632.m3u8
+#EXTINF:-1 group-title="bili 轮播",星光導視(星光視界頻道)
+http://mmitv.top/pltv/bili.php?id=23152385
+#EXTINF:-1 group-title="bili 轮播",經典鬼片膽小勿進(林先生觀影)
+http://mmitv.top/pltv/bili.php?id=21906879
+#EXTINF:-1 group-title="bili 轮播",【4K修復】就算這樣，也要笑著去努力啊(o_小雪_o)
+http://epg.112114.xyz/bili/23172056
+#EXTINF:-1 group-title="bili 轮播",【阿梅】大片經典  24小時 每天更新(阿梅)
+http://epg.112114.xyz/bili/127343
+#EXTINF:-1 group-title="bili 轮播",【阿希】鄉村愛情，馬大帥，劉老根混播(我就是阿希1)
+http://epg.112114.xyz/bili/3486181
+#EXTINF:-1 group-title="bili 轮播",【宮崎駿】高清經典(宮崎駿是我的神)
+http://epg.112114.xyz/bili/9721161
+#EXTINF:-1 group-title="bili 轮播",【國粵】謝謝你這么好看還來看我直播(鍋里煎蛋丶)
+http://epg.112114.xyz/bili/24417938
+#EXTINF:-1 group-title="bili 轮播",【懷舊影視】國語專場(懷舊點播)
+http://epg.112114.xyz/bili/8199817
+#EXTINF:-1 group-title="bili 轮播",【林正英】 經典 24H(果凍萌布丁)
+http://epg.112114.xyz/bili/82997
+#EXTINF:-1 group-title="bili 轮播",【林正英】僵尸 經典 女鬼 24H(果凍萌萌的)
+http://epg.112114.xyz/bili/70155
+#EXTINF:-1 group-title="bili 轮播",【林正英】僵尸經典電影(秋子墨影)
+http://epg.112114.xyz/bili/25964993
+#EXTINF:-1 group-title="bili 轮播",【松鼠】動作 懸疑 戰爭 高能 國產(極樂松鼠)
+http://epg.112114.xyz/bili/6837959
+#EXTINF:-1 group-title="bili 轮播",【松鼠精選】動作片專場丨全明星陣容(松鼠電影屋)
+http://epg.112114.xyz/bili/6827037
+#EXTINF:-1 group-title="bili 轮播",【西游-記】海爺7廳(海爺7廳西游記)
+http://epg.112114.xyz/bili/8409992
+#EXTINF:-1 group-title="bili 轮播",【音悅臺】東方Project作業音/點歌(芙芙炭)
+http://epg.112114.xyz/bili/6472211
+#EXTINF:-1 group-title="bili 轮播",【影音館】SNH48偶像光軌(知鈴楓)
+http://epg.112114.xyz/bili/1242734
+#EXTINF:-1 group-title="bili 轮播",【粵語】電視撈飯(漫游大世界)
+http://epg.112114.xyz/bili/15042228
+#EXTINF:-1 group-title="bili 轮播",【粵語】精選懷舊劇集 有字幕(ann27996090)
+http://epg.112114.xyz/bili/23527591
+#EXTINF:-1 group-title="bili 轮播",【周星馳】喜劇 動作 僵尸 24H(老公up)
+http://epg.112114.xyz/bili/47917
+#EXTINF:-1 group-title="bili 轮播",365天  相聲輪播(不過尋常)
+http://epg.112114.xyz/bili/23950940
+#EXTINF:-1 group-title="bili 轮播",寶蓮燈、新白娘子傳奇、聊齋、奧特曼(嘉絨女王趙瓊瑤)
+http://epg.112114.xyz/bili/24912334
+#EXTINF:-1 group-title="bili 轮播",變形金剛(椎凪)
+http://epg.112114.xyz/bili/6076818
+#EXTINF:-1 group-title="bili 轮播",變形金剛G1(巨獸特搜加斯比恩)
+http://epg.112114.xyz/bili/939703
+#EXTINF:-1 group-title="bili 轮播",橙子1臺(橙子一臺)
+http://epg.112114.xyz/bili/23318788
+#EXTINF:-1 group-title="bili 轮播",橙子2臺(周口影視)
+http://epg.112114.xyz/bili/21571201
+#EXTINF:-1 group-title="bili 轮播",反正系粵語(bellekrow)
+http://epg.112114.xyz/bili/24191026
+#EXTINF:-1 group-title="bili 轮播",高清經典放映廳(後天以後)
+http://epg.112114.xyz/bili/23124447
+#EXTINF:-1 group-title="bili 轮播",古龍金庸武俠劇場(amu134)
+http://epg.112114.xyz/bili/25129272
+#EXTINF:-1 group-title="bili 轮播",古裝劇戲說乾隆(梧佟宇)
+http://epg.112114.xyz/bili/25902274
+#EXTINF:-1 group-title="bili 轮播",懷舊經典(哇油肯瑞利蛋絲)
+http://epg.112114.xyz/bili/23169468
+#EXTINF:-1 group-title="bili 轮播",回顧經典，中國影視劇！(太古胤玄)
+http://epg.112114.xyz/bili/23490613
+#EXTINF:-1 group-title="bili 轮播",僵尸 靈幻 喜劇 積分點播 新星(幻想余生夜)
+http://epg.112114.xyz/bili/22070492
+#EXTINF:-1 group-title="bili 轮播",經典電影(凱哥影視劇)
+http://epg.112114.xyz/bili/25691894
+#EXTINF:-1 group-title="bili 轮播",經典電影 電視劇  ?香港 華語 喜劇(GuangdongHakka)
+http://epg.112114.xyz/bili/21145280
+#EXTINF:-1 group-title="bili 轮播",經典功夫臺(勛香有你)
+http://epg.112114.xyz/bili/21715386
+#EXTINF:-1 group-title="bili 轮播",經典古裝劇《天仙配》七仙女(CCTV-精選熱播劇)
+http://epg.112114.xyz/bili/23964058
+#EXTINF:-1 group-title="bili 轮播",經典影視(工程人-賀)
+http://epg.112114.xyz/bili/25480975
+#EXTINF:-1 group-title="bili 轮播",經典粵語原音//余樂舒華新力天(CC麥芽糖)
+http://epg.112114.xyz/bili/25922249
+#EXTINF:-1 group-title="bili 轮播",林正英  僵尸  經典  24H(孩子快跑鳳仙來了)
+http://epg.112114.xyz/bili/21360358
+#EXTINF:-1 group-title="bili 轮播",林正英 僵尸 鬼片 搞笑 經典電影放碟中(咸魚早上好)
+http://epg.112114.xyz/bili/21773771
+#EXTINF:-1 group-title="bili 轮播",林正英 僵尸 女鬼 經典 高能 電影(小肥菜菜)
+http://epg.112114.xyz/bili/5226265
+#EXTINF:-1 group-title="bili 轮播",林正英 喜劇 鬼片 僵尸(發記陸)
+http://epg.112114.xyz/bili/21104541
+#EXTINF:-1 group-title="bili 轮播",龍騰劇集(龍騰劇集HD)
+http://epg.112114.xyz/bili/24848187
+#EXTINF:-1 group-title="bili 轮播",倩女幽魂 極致畫質(金角愛電影)
+http://epg.112114.xyz/bili/6304822
+#EXTINF:-1 group-title="bili 轮播",倩女幽魂電視劇版(浦衣搖光)
+http://epg.112114.xyz/bili/23017862
+#EXTINF:-1 group-title="bili 轮播",邵氏老老老電影 進來后切換到備用線路3(愛干飯的老實人)
+http://epg.112114.xyz/bili/1968287
+#EXTINF:-1 group-title="bili 轮播",衛斯理、陸小鳳-王振威、狄仁杰輪番直播(小小嗶哩吖)
+http://epg.112114.xyz/bili/23009840
+#EXTINF:-1 group-title="bili 轮播",衛斯理/鑒證/古靈/電影/隔世/十二粵語(LFJoey)
+http://epg.112114.xyz/bili/428247
+#EXTINF:-1 group-title="bili 轮播",武俠劇(saihcl333)
+http://epg.112114.xyz/bili/23564649
+#EXTINF:-1 group-title="bili 轮播",新白娘子傳奇(歐陽哲SAMA)
+http://epg.112114.xyz/bili/7105519
+#EXTINF:-1 group-title="bili 轮播",新白娘子傳奇。24小時經典輪播(望天的獅子)
+http://epg.112114.xyz/bili/5960549
+#EXTINF:-1 group-title="bili 轮播",新白娘子傳奇4KHDR畫質24小時輪播(1992緣系新白娘子傳奇)
+http://epg.112114.xyz/bili/21762304
+#EXTINF:-1 group-title="bili 轮播",熊貓影視-2臺(祁陽影視頻道)
+http://epg.112114.xyz/bili/21253818
+#EXTINF:-1 group-title="bili 轮播",粵語 劇場(嗚里單刀)
+http://epg.112114.xyz/bili/21221987
+#EXTINF:-1 group-title="bili 轮播",粵語回憶殺(李恭梓)
+http://epg.112114.xyz/bili/6237182
+#EXTINF:-1 group-title="bili 轮播",粵語經典(K_K_哥)
+http://epg.112114.xyz/bili/23205943
+#EXTINF:-1 group-title="bili 轮播",周星馳成龍林正英王晶劉德華洪金寶電影(熊貓5823589)
+http://epg.112114.xyz/bili/21448296
+#EXTINF:-1 group-title="bili 轮播",咒-嚇人片大合集，膽小誤入(只吃肉的野馬)
+http://epg.112114.xyz/bili/22542143
+#EXTINF:-1 group-title="huya 轮播",【周星星】星爺經典不間斷(周星星)
+http://mmitv.top/pltv/huya.php?id=11342412
+#EXTINF:-1 group-title="huya 轮播",英叔護體 | 林正英搞笑僵尸系列(7喜先生)
+http://mmitv.top/pltv/huya.php?id=11342421
+#EXTINF:-1 group-title="huya 轮播",縫紉機·一起燥起來！(虎牙八點檔)
+http://mmitv.top/pltv/huya.php?id=880261
+#EXTINF:-1 group-title="huya 轮播",【虎牙影院】沈騰經典片放映(虎牙影院)
+http://mmitv.top/pltv/huya.php?id=11601968
+#EXTINF:-1 group-title="huya 轮播",成龍經典武打動作片(偷心大盜ヽ龍寶)
+http://mmitv.top/pltv/huya.php?id=11342386
+#EXTINF:-1 group-title="huya 轮播",周潤發電影 小馬哥歸來(開船老濕基)
+http://mmitv.top/pltv/huya.php?id=11342387
+#EXTINF:-1 group-title="huya 轮播",李連杰系列 武打高產王(核桃姐姐)
+http://mmitv.top/pltv/huya.php?id=11342390
+#EXTINF:-1 group-title="huya 轮播",黃金配角 | 達叔永遠的經典(紅茶妹妹)
+http://mmitv.top/pltv/huya.php?id=11336592
+#EXTINF:-1 group-title="huya 轮播",【警匪】不會演戲的警察不是好臥底(學妹愛學長)
+http://mmitv.top/pltv/huya.php?id=11352886
+#EXTINF:-1 group-title="huya 轮播",杰森·斯坦森:郭達是你嗎(超人的歸來)
+http://mmitv.top/pltv/huya.php?id=21059588
+#EXTINF:-1 group-title="huya 轮播",這些都是高智商的罪犯(小牡蠣)
+http://mmitv.top/pltv/huya.php?id=11352962
+#EXTINF:-1 group-title="huya 轮播",歷年賀歲檔 笑就完事兒了(浮生沒有若夢)
+http://mmitv.top/pltv/huya.php?id=11601986
+#EXTINF:-1 group-title="huya 轮播",夠勁，就是中國功夫(初心)
+http://mmitv.top/pltv/huya.php?id=11352941
+#EXTINF:-1 group-title="huya 轮播",黑幫斗爭 黑與白的對峙，情與義的泯滅(麋鹿)
+http://mmitv.top/pltv/huya.php?id=11342419
+#EXTINF:-1 group-title="huya 轮播",劉德華電影_經典系列(安逗和黑仔)
+http://mmitv.top/pltv/huya.php?id=11342424
+#EXTINF:-1 group-title="huya 轮播",經典之作·金庸群俠篇電影(逗比寶寶)
+http://mmitv.top/pltv/huya.php?id=11342427
+#EXTINF:-1 group-title="huya 轮播",【黑幫大片】山雞哥重現江湖(蓶1淳爺)
+http://mmitv.top/pltv/huya.php?id=11336719
+#EXTINF:-1 group-title="huya 轮播",周星星粵語經典版~(Yummy)
+http://mmitv.top/pltv/huya.php?id=11336587
+#EXTINF:-1 group-title="huya 轮播",Han國高分動作片 刺激過癮(長島冰茶-)
+http://mmitv.top/pltv/huya.php?id=11352884
+#EXTINF:-1 group-title="huya 轮播",千面影帝梁家輝(苦瓜老姨)
+http://mmitv.top/pltv/huya.php?id=11342429
+#EXTINF:-1 group-title="huya 轮播",快意江湖：金庸的武俠世界(可愛的小強)
+http://mmitv.top/pltv/huya.php?id=11342435
+#EXTINF:-1 group-title="huya 轮播",動作電影來啦(虎牙放映廳)
+http://mmitv.top/pltv/huya.php?id=11602077
+#EXTINF:-1 group-title="huya 轮播",【女神系列】邱淑貞 王祖賢 張曼玉(槽老師)
+http://mmitv.top/pltv/huya.php?id=11336571
+#EXTINF:-1 group-title="huya 轮播",手心直冒汗！驚心動魄的災難片(性感大媽)
+http://mmitv.top/pltv/huya.php?id=11602075
+#EXTINF:-1 group-title="huya 轮播",變形jin剛，阿威(我是一顆小虎牙)
+http://mmitv.top/pltv/huya.php?id=21059596
+#EXTINF:-1 group-title="huya 轮播",盜墓還得看經典的(Eric次元寶貝)
+http://mmitv.top/pltv/huya.php?id=21059552
+#EXTINF:-1 group-title="huya 轮播",喜劇專場 看喜劇笑一笑吧(飆車的老司機)
+http://mmitv.top/pltv/huya.php?id=11352894
+#EXTINF:-1 group-title="huya 轮播",【許氏三杰】快來 就差你了(科技這樣玩)
+http://mmitv.top/pltv/huya.php?id=11602033
+#EXTINF:-1 group-title="huya 轮播",玄幻劇場·體驗另一種生活！(元芳看不到)
+http://mmitv.top/pltv/huya.php?id=11342414
+#EXTINF:-1 group-title="huya 轮播",【喜劇專場】我們一起找樂子(小怪獸、)
+http://mmitv.top/pltv/huya.php?id=11602044
+#EXTINF:-1 group-title="huya 轮播",洪金寶·童年回憶殺(一只大懶蟲)
+http://mmitv.top/pltv/huya.php?id=11279251
+#EXTINF:-1 group-title="huya 轮播",蜘蛛俠系列·biubiubiu(我是一顆小虎牙)
+http://mmitv.top/pltv/huya.php?id=21059599
+#EXTINF:-1 group-title="huya 轮播",經典港劇笑嘻嘻(笙歌)
+http://mmitv.top/pltv/huya.php?id=11352965
+#EXTINF:-1 group-title="huya 轮播",古墓系列·去冒險吧！(來聽歌呀)
+http://mmitv.top/pltv/huya.php?id=11352913
+#EXTINF:-1 group-title="huya 轮播",百看不厭的救援大片 ！(里昂保護的瑪蒂達)
+http://mmitv.top/pltv/huya.php?id=21059594
+#EXTINF:-1 group-title="huya 轮播",【賽車電影】秋名山我來了(昔日女神柳清茶-)
+http://mmitv.top/pltv/huya.php?id=11279247
+#EXTINF:-1 group-title="huya 轮播",大場面戰爭片:一枚核彈爆炸(大鐵鍋燉大大鵝)
+http://mmitv.top/pltv/huya.php?id=21059574
+#EXTINF:-1 group-title="huya 轮播",合家歡喜劇，歡樂笑哈哈！(牙縫多了根青菜)
+http://mmitv.top/pltv/huya.php?id=11352877
+#EXTINF:-1 group-title="huya 轮播",搞笑喜劇：最佳拍檔 開心鬼系列(暴走君丶阿罪)
+http://mmitv.top/pltv/huya.php?id=11342423
+#EXTINF:-1 group-title="huya 轮播",永遠懷念“黃藥師”曾江(小蘑菇)
+http://mmitv.top/pltv/huya.php?id=11601981
+#EXTINF:-1 group-title="huya 轮播",那些年的香gang賀歲片(阿森木木木)
+http://mmitv.top/pltv/huya.php?id=11601971
+#EXTINF:-1 group-title="huya 轮播",高能反轉，反轉到懷疑人生(吞針主播)
+http://mmitv.top/pltv/huya.php?id=11352887
+#EXTINF:-1 group-title="huya 轮播",情人節：港片教你追女仔(酒窩儲存機)
+http://mmitv.top/pltv/huya.php?id=11602043
+#EXTINF:-1 group-title="huya 轮播",法外狂徒張三李四(昵稱違規-JBo8XZZWSw)
+http://mmitv.top/pltv/huya.php?id=11601965
+#EXTINF:-1 group-title="huya 轮播",怪獸系列 巨蟒和大白鯊來襲(艾薇寶貝de寶貝)
+http://mmitv.top/pltv/huya.php?id=21059554
+#EXTINF:-1 group-title="huya 轮播",悲劇結局的悲情古裝片(羞澀的茄子)
+http://mmitv.top/pltv/huya.php?id=11336590
+#EXTINF:-1 group-title="huya 轮播",校園熱血電影，不比古惑仔差(阿飛)
+http://mmitv.top/pltv/huya.php?id=11352934
+#EXTINF:-1 group-title="huya 轮播",【周星星】星爺經典不間斷(周星星)
+http://mmitv.top/pltv/huya.php?id=11342412
+#EXTINF:-1 group-title="huya 轮播",【笑傲江湖】呂頌賢就是哪個令狐沖！最被認可的笑傲江湖！(港劇慢品匯)
+http://mmitv.top/pltv/huya.php?id=23865142
+#EXTINF:-1 group-title="huya 轮播",林正英《僵尸先生》僵尸片(Stone丶周周沒睡醒)
+http://mmitv.top/pltv/huya.php?id=26659196
+#EXTINF:-1 group-title="huya 轮播",僵尸翻生 第一次露臉人太多緊張(微競-蛋白)
+http://mmitv.top/pltv/huya.php?id=27166378
+#EXTINF:-1 group-title="huya 轮播",廣東新人主播【唐人街探案】經典電影(妮妮X)
+http://mmitv.top/pltv/huya.php?id=27386962
+#EXTINF:-1 group-title="huya 轮播",【林正英】貧道無能，被僵尸....(小紫A)
+http://mmitv.top/pltv/huya.php?id=xiaozi8
+#EXTINF:-1 group-title="huya 轮播",生化危機4：戰神再生(SJ-傾甜)
+http://mmitv.top/pltv/huya.php?id=396729
+#EXTINF:-1 group-title="huya 轮播",英雄本色，主播也色(覓音-生蠔妹妹)
+http://mmitv.top/pltv/huya.php?id=27097616
+#EXTINF:-1 group-title="huya 轮播",蟲了個蟲,明天12點電影(Mz蟲蟲)
+http://mmitv.top/pltv/huya.php?id=631393
+#EXTINF:-1 group-title="huya 轮播",愛，死亡和機器人：機械脈搏，最極浪漫色彩的科幻動畫(稻谷Movie)
+http://mmitv.top/pltv/huya.php?id=25767728
+#EXTINF:-1 group-title="huya 轮播",降魔的-高能 都市司機化身降魔大師(雞公碗)
+http://mmitv.top/pltv/huya.php?id=23734211
+#EXTINF:-1 group-title="huya 轮播",更新：年度重口神片嚇跑一半觀眾(扁豆看電影)
+http://mmitv.top/pltv/huya.php?id=bdcmovie
+#EXTINF:-1 group-title="huya 轮播",鋼鐵俠小唐尼漫威大片  和小姐姐一起看(微競-super懶懶)
+http://mmitv.top/pltv/huya.php?id=10761720
+#EXTINF:-1 group-title="huya 轮播",【林正英】僵尸猛鬼大片(夢夢影視)
+http://mmitv.top/pltv/huya.php?id=25129377
+#EXTINF:-1 group-title="huya 轮播",古天樂 劉德華 甄子丹港片動作(傲辰-影子)
+http://mmitv.top/pltv/huya.php?id=631396
+#EXTINF:-1 group-title="huya 轮播",【婷兒陪看】指環王3王者無敵！(傲辰-婷妹ya)
+http://mmitv.top/pltv/huya.php?id=396736
+#EXTINF:-1 group-title="huya 轮播",戰狼 熱血(小番薯呀-)
+http://mmitv.top/pltv/huya.php?id=27386138
+#EXTINF:-1 group-title="huya 轮播",雷老虎！！雷老虎！~快進來看卉卉呀~(是小卉卉呢)
+http://mmitv.top/pltv/huya.php?id=18700853
+#EXTINF:-1 group-title="huya 轮播",【夏洛特煩惱】,王寶強，沈騰超搞笑喜劇(Stone丶汐汐)
+http://mmitv.top/pltv/huya.php?id=27731569
+#EXTINF:-1 group-title="huya 轮播",陪看【 城市獵人 】來喂豬了喂0v0(微競-絮絮)
+http://mmitv.top/pltv/huya.php?id=25915860
+#EXTINF:-1 group-title="huya 轮播",封神榜-陳浩民版哪吒(普通司機小馬)
+http://mmitv.top/pltv/huya.php?id=23749096
+#EXTINF:-1 group-title="huya 轮播",生化危機 系列連播(星球-肖肖)
+http://mmitv.top/pltv/huya.php?id=27545581
+#EXTINF:-1 group-title="huya 轮播",笑傲江湖14：岳不群辟邪劍法神功大成，經典名場面！(非凡武林)
+http://mmitv.top/pltv/huya.php?id=21674665
+#EXTINF:-1 group-title="huya 轮播",【沈騰專場】就你特么你叫小嫻(正恒RM-小嫻baby)
+http://mmitv.top/pltv/huya.php?id=26881668
+#EXTINF:-1 group-title="huya 轮播",恐怖鬼片 枕邊兇鬼 女怨尸(【鬼片】虎牙陪看)
+http://mmitv.top/pltv/huya.php?id=19383295
+#EXTINF:-1 group-title="huya 轮播",英雄本色2(微競-小婷子)
+http://mmitv.top/pltv/huya.php?id=10384726
+#EXTINF:-1 group-title="huya 轮播",【尋秦記】穿越劇鼻祖·百看不厭的古天樂宣萱CP(我是周粵馳)
+http://mmitv.top/pltv/huya.php?id=23864973
+#EXTINF:-1 group-title="huya 轮播",恐怖電影潛伏系列第四部：鎖命亡魂(力哥影視)
+http://mmitv.top/pltv/huya.php?id=23419131
+#EXTINF:-1 group-title="huya 轮播",【天龍八部】最佳版本天龍·97版黃日華超神作(堆堆港劇日常)
+http://mmitv.top/pltv/huya.php?id=23903123
+#EXTINF:-1 group-title="huya 轮播",丐幫幫主喬峰駕到·樊少皇老戲骨(二次元控)
+http://mmitv.top/pltv/huya.php?id=11352912
+#EXTINF:-1 group-title="huya 轮播",看小品·春晚經典非看不可(殺馬特死神)
+http://mmitv.top/pltv/huya.php?id=11352875
+#EXTINF:-1 group-title="huya 轮播",科幻電影：利用科技蒙蔽士兵的五感，讓他們成為了純粹的戰爭機器(亮哥講電影)
+http://mmitv.top/pltv/huya.php?id=16144175
+#EXTINF:-1 group-title="huya 轮播",Man威！等于等到你(老雷)
+http://mmitv.top/pltv/huya.php?id=11602034
+#EXTINF:-1 group-title="huya 轮播",張衛健版西游記-當蜘蛛精看上了齊天大圣(我是靚寶)
+http://mmitv.top/pltv/huya.php?id=23728660
+#EXTINF:-1 group-title="huya 轮播",搞笑恐怖類 彈幕護體(實力拔蘿卜)
+http://mmitv.top/pltv/huya.php?id=11601960
+#EXTINF:-1 group-title="huya 轮播",【林正英】英叔護體 喜劇僵尸系列 西洋鬼(【喜劇英叔】虎牙陪看)
+http://mmitv.top/pltv/huya.php?id=27717388
+#EXTINF:-1 group-title="huya 轮播",末日廢土大片《瘋狂的麥克斯4》(魚丸說電影)
+http://mmitv.top/pltv/huya.php?id=16615910
+#EXTINF:-1 group-title="huya 轮播",洛基第一季第二集(楓哥影視)
+http://mmitv.top/pltv/huya.php?id=25007621
+#EXTINF:-1 group-title="huya 轮播",和美咲一起來看~特警屠龍(AF-美咲)
+http://mmitv.top/pltv/huya.php?id=27547249
+#EXTINF:-1 group-title="huya 轮播",神貂俠侶·小籠包版姑姑上線(老王夸我帥)
+http://mmitv.top/pltv/huya.php?id=11352964
+#EXTINF:-1 group-title="huya 轮播",【王晶】港風導演代表(四大裁子之首)
+http://mmitv.top/pltv/huya.php?id=11602058
+#EXTINF:-1 group-title="huya 轮播",追捕與反追捕、復仇與阻止復仇(北島南城)
+http://mmitv.top/pltv/huya.php?id=11601962
+#EXTINF:-1 group-title="huya 轮播",【射雕英雄傳】黃版郭靖翁版黃蓉·還有誰能取代？(我只是個好人)
+http://mmitv.top/pltv/huya.php?id=23728674
+#EXTINF:-1 group-title="huya 轮播",怪獸打架x異形世界：爽就完事了(梁非凡吃點啥)
+http://mmitv.top/pltv/huya.php?id=21059577
+#EXTINF:-1 group-title="huya 轮播",布衣神相-一襲布衣 條條妙計(TVB動作大片)
+http://mmitv.top/pltv/huya.php?id=23865036
+#EXTINF:-1 group-title="huya 轮播",馬東錫新作，一人干翻整個團伙，拳拳到肉真男人(大聰明和魏樂樂影院)
+http://mmitv.top/pltv/huya.php?id=23304691
+#EXTINF:-1 group-title="huya 轮播",港劇最佳拍檔 | 許冠英合集(蘇仨)
+http://mmitv.top/pltv/huya.php?id=11601972
+#EXTINF:-1 group-title="huya 轮播",速肌:兩個光頭賽車的故事(一只夢幻小萌虎)
+http://mmitv.top/pltv/huya.php?id=21059556
+#EXTINF:-1 group-title="huya 轮播",巨石強森系列:真肌肉就是爽(狀元及第粥)
+http://mmitv.top/pltv/huya.php?id=21059581
+#EXTINF:-1 group-title="huya 轮播",si神來了系列  好怕怕(胖次過肩摔)
+http://mmitv.top/pltv/huya.php?id=11352903
+#EXTINF:-1 group-title="huya 轮播",變形jin剛，阿威(我是一顆小虎牙)
+http://mmitv.top/pltv/huya.php?id=21059596
+#EXTINF:-1 group-title="huya 轮播",五位最有型的僵尸片道長，被低估的陳友、鐘發(青年電影館)
+http://mmitv.top/pltv/huya.php?id=qndyg
+#EXTINF:-1 group-title="huya 轮播",蜘蛛俠系列·biubiubiu(我是一顆小虎牙)
+http://mmitv.top/pltv/huya.php?id=21059599
+#EXTINF:-1 group-title="huya 轮播",金庸經典劇 24小時輪播(漓江塔景區售票阿姨)
+http://mmitv.top/pltv/huya.php?id=11602082
+#EXTINF:-1 group-title="huya 轮播",天地爭霸美猴王粵語版(我叫山雞哥)
+http://mmitv.top/pltv/huya.php?id=23734246
+#EXTINF:-1 group-title="huya 轮播",永遠的經典女神,無法超越啊(小軍迷)
+http://mmitv.top/pltv/huya.php?id=11352909
+#EXTINF:-1 group-title="huya 轮播",機器人大戰-誰是最兇猛機器之王！(蔥爆牛柳鱂魚)
+http://mmitv.top/pltv/huya.php?id=26355778
+#EXTINF:-1 group-title="huya 轮播",徐克武俠電影《斷刀客》，趙文卓出道即巔峰，如今被奉為經典之作(小冉看電影)
+http://mmitv.top/pltv/huya.php?id=17341907
+#EXTINF:-1 group-title="huya 轮播",收到！特種部隊出發(千與千尋的思考)
+http://mmitv.top/pltv/huya.php?id=21059592
+#EXTINF:-1 group-title="huya 轮播",陀槍師姐-TVB女星臉盲了(過兒想姑姑了)
+http://mmitv.top/pltv/huya.php?id=23749068
+#EXTINF:-1 group-title="huya 轮播",邱淑貞太好看了吧?(Fighter)
+http://mmitv.top/pltv/huya.php?id=11352949
+#EXTINF:-1 group-title="huya 轮播",殭尸道長2-比1更精彩(TVBaby)
+http://mmitv.top/pltv/huya.php?id=23865164
+#EXTINF:-1 group-title="huya 轮播",DC宇宙來啦，有你喜歡的英雄嗎？(炙戀獸獸)
+http://mmitv.top/pltv/huya.php?id=11342428
+#EXTINF:-1 group-title="huya 轮播",射雕之九陰真經-姜大衛 張智霖(做人最要緊開心)
+http://mmitv.top/pltv/huya.php?id=23824164
+#EXTINF:-1 group-title="huya 轮播",膽小勿入，5分鐘起雞皮疙瘩(三十既未息)
+http://mmitv.top/pltv/huya.php?id=26355846
+#EXTINF:-1 group-title="huya 轮播",《血族》第一季第六集(白澤字幕2號)
+http://mmitv.top/pltv/huya.php?id=23784008
+#EXTINF:-1 group-title="huya 轮播",高智商小鬼頭電影！(個人向)
+http://mmitv.top/pltv/huya.php?id=11352963
+#EXTINF:-1 group-title="huya 埋堆堆TVB",封神榜-陳浩民版哪吒(普通司機小馬)
+http://mmitv.top/pltv/huya.php?id=23749096
+#EXTINF:-1 group-title="huya 埋堆堆TVB",看孫悟空唐三藏取西經(TVB官方)
+http://mmitv.top/pltv/huya.php?id=23735126
+#EXTINF:-1 group-title="huya 埋堆堆TVB",張衛健版西游記-當蜘蛛精看上了齊天大圣(我是靚寶)
+http://mmitv.top/pltv/huya.php?id=23728660
+#EXTINF:-1 group-title="huya 埋堆堆TVB",楚漢驕雄-我恨做皇后 但我做劉邦的皇后(埋堆堆官方)
+http://mmitv.top/pltv/huya.php?id=23740156
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【尋秦記】穿越劇鼻祖·百看不厭的古天樂宣萱CP(我是周粵馳)
+http://mmitv.top/pltv/huya.php?id=23864973
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【天龍八部】最佳版本天龍·97版黃日華超神作(堆堆港劇日常)
+http://mmitv.top/pltv/huya.php?id=23903123
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【笑傲江湖】呂頌賢就是哪個令狐沖！最被認可的笑傲江湖！(港劇慢品匯)
+http://mmitv.top/pltv/huya.php?id=23865142
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【法證先鋒2】超越前篇的佳作·無數人入坑法政就靠它！(我才是打工人)
+http://mmitv.top/pltv/huya.php?id=23860039
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【法證先鋒3】振聾發聵的法庭辯論·文戲是真的棒！(iTVB大后宮)
+http://mmitv.top/pltv/huya.php?id=23863804
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【洗冤錄】節奏賊快·經典TVB劇情·瘦子歐陽震華出演(堆堆港劇日記)
+http://mmitv.top/pltv/huya.php?id=23903130
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【神雕俠侶】不能超越的楊過和姑姑·古天樂最強出演(阿呀呀阿sir)
+http://mmitv.top/pltv/huya.php?id=23865171
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【法證先鋒】經典之作·法證故事系列開創篇(埋堆搞搞震)
+http://mmitv.top/pltv/huya.php?id=23734169
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【使徒行者】正邪相斗 情義兩難(音粵無國界)
+http://mmitv.top/pltv/huya.php?id=23734256
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【金裝四大才子】唐伯虎的四大天團·完美的古裝輕喜劇(港劇伴你行)
+http://mmitv.top/pltv/huya.php?id=23903183
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【射雕英雄傳】黃版郭靖翁版黃蓉·還有誰能取代？(我只是個好人)
+http://mmitv.top/pltv/huya.php?id=23728674
+#EXTINF:-1 group-title="huya 埋堆堆TVB",布衣神相-一襲布衣 條條妙計(TVB動作大片)
+http://mmitv.top/pltv/huya.php?id=23865036
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【創世紀】神預言，劇里的金融地產現在都成真了！(梁非凡吔X啦)
+http://mmitv.top/pltv/huya.php?id=23749083
+#EXTINF:-1 group-title="huya 埋堆堆TVB",法證先鋒(是大寶貝呀)
+http://mmitv.top/pltv/huya.php?id=23829543
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【施公奇案】越來越精彩慢熱劇·扣人心弦的洗冤錄續集(老板給次機會吧)
+http://mmitv.top/pltv/huya.php?id=23829447
+#EXTINF:-1 group-title="huya 埋堆堆TVB",掃黃先鋒·歐陽震華在不能不看(冷門港片大全)
+http://mmitv.top/pltv/huya.php?id=23903196
+#EXTINF:-1 group-title="huya 埋堆堆TVB",狀王宋世杰-第二部-張達明大戰黃子華(一起來埋堆)
+http://mmitv.top/pltv/huya.php?id=23734183
+#EXTINF:-1 group-title="huya 埋堆堆TVB",食為奴·王祖藍的嘴萬綺雯的腿(香港刑偵實錄)
+http://mmitv.top/pltv/huya.php?id=23865058
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【大時代】史上主角瘋子最多的片·蕩氣回腸大時代！(為所欲為的墨鏡哥)
+http://mmitv.top/pltv/huya.php?id=23865161
+#EXTINF:-1 group-title="huya 埋堆堆TVB",【天地男兒】后無來者的巔峰家族商戰(正經紀錄片)
+http://mmitv.top/pltv/huya.php?id=23860049
+#EXTINF:-1 group-title="huya 埋堆堆TVB",水滸無間道-張智霖的現代版水滸(小喇叭佩囍)
+http://mmitv.top/pltv/huya.php?id=23863778
+#EXTINF:-1 group-title="huya 埋堆堆TVB",愛·回家，經典之作(TVB愛情故事)
+http://mmitv.top/pltv/huya.php?id=23863818
+#EXTINF:-1 group-title="huya 埋堆堆TVB",秀才遇到兵-演喜劇的陳豪，我可以！(Amy姐)
+http://mmitv.top/pltv/huya.php?id=23746486
+#EXTINF:-1 group-title="huya 埋堆堆TVB",經典武俠-雪山飛狐 黃日華版(堆仔煲劇)
+http://mmitv.top/pltv/huya.php?id=23734176
+#EXTINF:-1 group-title="huya 埋堆堆TVB",降魔的-高能 都市司機化身降魔大師(雞公碗)
+http://mmitv.top/pltv/huya.php?id=23734211
+#EXTINF:-1 group-title="huya 埋堆堆TVB",野蠻親家血腥對線！(TV巴迪)
+http://mmitv.top/pltv/huya.php?id=23863796
+#EXTINF:-1 group-title="huya 埋堆堆TVB",陀槍師姐-TVB女星臉盲了(過兒想姑姑了)
+http://mmitv.top/pltv/huya.php?id=23749068
+#EXTINF:-1 group-title="huya 埋堆堆TVB",情事緝私檔案-郭晉安郭藹明的愛恨情仇(TVB追劇小能手)
+http://mmitv.top/pltv/huya.php?id=23865179
+#EXTINF:-1 group-title="huya 埋堆堆TVB",殭尸道長2-比1更精彩(TVBaby)
+http://mmitv.top/pltv/huya.php?id=23865164
+#EXTINF:-1 group-title="huya 埋堆堆TVB",射雕之九陰真經-姜大衛 張智霖(做人最要緊開心)
+http://mmitv.top/pltv/huya.php?id=23824164
+#EXTINF:-1 group-title="huya 埋堆堆TVB",天地爭霸美猴王粵語版(我叫山雞哥)
+http://mmitv.top/pltv/huya.php?id=23734246
+#EXTINF:-1 group-title="huya 埋堆堆TVB",看女神翁虹如何搞定鄰牙利齒大狀師(TVB職場劇大全)
+http://mmitv.top/pltv/huya.php?id=mdd02
+#EXTINF:-1 group-title="huya 埋堆堆TVB",律政新人王-林峯胡杏兒的律政CP(TV八哥)
+http://mmitv.top/pltv/huya.php?id=23863787
+
+
