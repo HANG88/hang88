@@ -1,0 +1,35 @@
+$c_start hang88私人$c_end_qq736128235
+天映经典CCM,http://162.19.247.76:22222/live/tyjd/index.m3u8
+东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
+东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻2,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+$c_start 113.117.74.12:8081/hls $c_end
+CCTV-1高清,http://113.117.74.12:8081/hls/138/index.m3u8
+CCTV-2高清,http://113.117.74.12:8081/hls/2/index.m3u8
+CCTV-3高清,http://113.117.74.12:8081/hls/3/index.m3u8
+CCTV-4高清,http://113.117.74.12:8081/hls/4/index.m3u8
+CCTV-5高清,http://113.117.74.12:8081/hls/5/index.m3u8
+CCTV-6高清,http://113.117.74.12:8081/hls/6/index.m3u8
+CCTV-7高清,http://113.117.74.12:8081/hls/7/index.m3u8
+CCTV-8高清,http://113.117.74.12:8081/hls/8/index.m3u8
+CCTV-9高清,http://113.117.74.12:8081/hls/9/index.m3u8
+CCTV-10高清,http://113.117.74.12:8081/hls/10/index.m3u8
+CCTV-11,http://113.117.74.12:8081/hls/11/index.m3u8
+CCTV-12高清,http://113.117.74.12:8081/hls/12/index.m3u8
+CCTV-13,http://113.117.74.12:8081/hls/13/index.m3u8
+CCTV-14,http://113.117.74.12:8081/hls/14/index.m3u8
+CCTV-15高清,http://113.117.74.12:8081/hls/15/index.m3u8
+CCTV5+高清,http://113.117.74.12:8081/hls/16/index.m3u8
+CCTV-17,http://113.117.74.12:8081/hls/17/index.m3u8
