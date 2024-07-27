@@ -1,4605 +1,788 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "https://www.tbc.net.tw/epg/Index#">
-<tv generator-info-name="http://epg.51zmt.top:8000" generator-info-url="QQ 736128235">
-
+ 
+<generator-info-name="iptv-pro"
+generator-info-url="https://iptv-pro.github.io/epg/"
+source-info-url="http://www.zap2it.com"
+tv generator-info-date="2024-04-14 12:00 +0800" >
 ========================================================================================================================
 <tv>
-  
-  
- </channel>
-<channel id="天映經典CCM">
-<display-name lang="zh">天映經典CCM</display-name>
-<icon src="http//www.programme-television.org/logo_channels/35x35/chaine_406.png"/>
-<url>https//www.tbc.net.tw/epg</url>
+
+
+▼<channel id="JStar極限台電影頻道">
+<display-name lang="TW">JStar極限台電影頻道</display-name>
+<icon src="https://www.kbro.com.tw/K01/catv-table-channel-detail_1_0_2.html#programTable?unique_id=292&channelnumber=912&channelname=JStar極限台電影頻道"/>
+<url>https//www.twmbroadband.com/T01/catv-table-channel-detail_1_0_2350.html#programTable?unique_id=912&channelnumber=912&channelname=JStar極限台電影頻道</url>
 </channel>
 
-<programme start="20220901005500 +0800" stop="20220901024000 +0800" channel="天映經典CCM">
-<title lang="hk">報仇\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：張徹
-Cast：姜大衛, 汪萍, 狄龍
-
-劇情簡介：武館師傅封與武生玉樓的妻子有著曖昧情愫，然而此事被玉樓察覺，並到其武館拆館及作出警告。後來封把玉樓殺了，玉樓的弟弟小樓於是展開為兄復仇之路。
-</desc></programme>
-
-
-<programme start="20220901024000 +0800" stop="20220901044000 +0800" channel="天映經典CCM">
-<title lang="hk">新不了情\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：潘壘
-Cast：胡燕妮, 淩雲, 林嘉, 方宇
-
-劇情簡介：歌女青青與建築師湯鵬南原是一對感情深厚的情侶，可惜好景不常，湯家突遭巨變，青青不惜出賣自己肉體以相助鵬南。但想不到竟被鵬南誤會而導致倆人分手。後來鵬南得知事情始末，欲挽回感情，可惜青青已患上絕症。
-</desc></programme>
-
-
-<programme start="20220901044000 +0800" stop="20220901062000 +0800" channel="天映經典CCM">
-<title lang="hk">清宮大刺殺\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：程剛, 華山
-Cast：谷峰, 王鍾, 狄龍, 燕南希
-
-劇情簡介：本清朝武俠片由程剛及華山兩大導演聯合執導、倪匡編劇。演出陣容包括狄龍飾特務馬騰，谷峰飾雍正，羅烈飾禦前侍衛宣寶鷹，施思飾清官之女，陳思佳飾馬騰妻等，故事描述，雍正雄才大略，殘忍狠毒，特組「血滴子」特務集團，以作暗殺反清人士的工具。不料，馬騰不值雍正濫殺無辜，乃叛變潛逃出宮。雍正怕後患無窮，命禦前侍衛剛振風（韋弘）及宣寶鷹，務必將馬緝拿到手。馬攜妻兒在昔日同僚追殺下，輾轉逃亡，匿於江南，開設打鐵館，並發明鐵傘以破血滴子...
-</desc></programme>
-
-
-<programme start="20220901062000 +0800" stop="20220901074500 +0800" channel="天映經典CCM">
-<title lang="hk">幫規\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：徐小明
-Cast：陳觀泰, 惠天賜, 白彪
-
-劇情簡介：本片由徐小明編劇及導演，拍於1982年。故事描述，元初，元人派大將軍莽依圖（陳觀泰）打擊反元分子；反元聯盟潛龍幫正處外憂內患，伏幫主、石副幫主雙雙去世，繼任人伏中原（惠天賜）又為石夫人（劉雅麗）持信證明為元人，中原遂私下追尋身世真相。期間中原往將軍府盜取結盟名冊時，幾乎遇險，幸為女飛賊林雪兒（戴良純）所救...
-</desc></programme>
-
-
-<programme start="20220901074500 +0800" stop="20220901092500 +0800" channel="天映經典CCM">
-<title lang="hk">玉羅剎\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：何夢華
-Cast：鄭佩佩, 唐菁
-
-劇情簡介：本片為何夢華導演，王福齡作曲，由俠女鄭佩佩主演。故事描述，每逢恐怖歌聲出現，必有閻家的人被署名「玉羅剎」者所殺。由於「玉羅剎」神出鬼沒，鬧得滿城風雨。冷秋寒（鄭佩佩）於酒館遇見徐英豪（唐菁），交談下，知彼也為尋仇而來；冷直告自己實為「玉羅剎」，殺閻家為替全家報仇，徐勸其勿濫殺無辜，冷不聽...
-</desc></programme>
-
-
-<programme start="20220901092500 +0800" stop="20220901111500 +0800" channel="天映經典CCM">
-<title lang="hk">寶蓮燈\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：岳楓
-Cast：林黛, 鄭佩佩, 李菁
-
-劇情簡介：這是一個耳熟能詳之中國民間神話故事。在大導演嶽楓的執導下，林黛一人分飾兩角，分別飾演聖母三娘，及難得反串男角飾演沉香；而李菁飾演靈芝仙姑，鄭佩佩反串飾演劉彥昌。鑽石級的演員陣容，三位影後級人馬同場演出，實屬難得。故事講述書生劉彥昌巧遇落入凡間的聖母三娘，二人一見鍾情，但因與二郎神結怨，屢遭迫害...
-</desc></programme>
-
-
-<programme start="20220901111500 +0800" stop="20220901125500 +0800" channel="天映經典CCM">
-<title lang="hk">楊過與小龍女\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：華山
-Cast：張國榮, 翁靜晶, 陳觀泰, 劉雪華
-
-劇情簡介：改編自金庸名著《神鵰俠侶》，由張國榮與翁靜晶分飾楊過與小龍女。劇情描述楊過逃離全真教，誤打誤撞與小龍女相遇。二人在古墓生活，本為融洽；後小龍女為師姐李莫愁（恬妮）所傷，更遭尹志平（洪新南）迷姦。小龍女誤以為失身於楊過，遂提婚議，楊過不知就裡加以婉拒，小龍女悲憤離開古墓。楊過四出訪尋，終與小龍女重逢；惟重提婚事，卻為黃蓉（劉雪華）勸阻。小龍女為不讓師徒戀損楊過聲譽，悄然出走...
-</desc></programme>
-
-
-<programme start="20220901125500 +0800" stop="20220901143500 +0800" channel="天映經典CCM">
-<title lang="hk">大軍閥\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李翰祥
-Cast：許冠文, 何莉莉, 宗華, 狄娜
-
-劇情簡介：一個土匪因助俄國抗擊日本而成為北方的大軍閥。由於他好大喜功又目不識丁，常常鬧出不少笑話。後來，當年曾被他無端殺死的戲班老闆之女出現，槍殺了這個賣國賊。
-</desc></programme>
-
-
-<programme start="20220901143500 +0800" stop="20220901161500 +0800" channel="天映經典CCM">
-<title lang="hk">大醉俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：胡金銓
-Cast：鄭佩佩, 岳華, 陳鴻烈
-
-劇情簡介：女俠「金燕子」的兄長被山賊擄走，幸得武功高強的「醉俠」範大悲相助，從作惡多端的寺廟主持手上救出兄長。本片曾代表香港出戰第39屆奧斯卡金像獎最佳外語片的首輪評選。
-</desc></programme>
-
-
-<programme start="20220901161500 +0800" stop="20220901175500 +0800" channel="天映經典CCM">
-<title lang="hk">青春萬歲\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：井上梅次
-Cast：丁珮, 林沖, 趙心研, 高苓
-
-劇情簡介：青年歌手趙克仁被夜總會老闆委托，到日本尋找他的女兒秋婷。克仁在日本遇到了少女花子、表妹荔萍、女歌手蘇珊、以及冒認是秋婷的女子。克仁愛上了蘇珊。當老闆親自去日本，便認出了蘇珊就是他的女兒秋婷...
-</desc></programme>
-
-
-<programme start="20220901175500 +0800" stop="20220901193000 +0800" channel="天映經典CCM">
-<title lang="hk">大內高手\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：林福地
-Cast：舒佩佩, 虞慧, 川原, 井淼, 黃宗迅
-
-劇情簡介：故事講述，巡按禦史傅秉忠（井淼飾）被皇上降下聖旨令其即行開缺回籍，傅裝好兩箱書，與僕人取山道回京城。傅主僕二人走到一座古鎮，遇見武功不凡的燕書棠（川原飾），傅乃出重金請他護送通過山路；未幾又遇見少女史雪蘭（舒佩佩飾）與丫環小梅（虞慧飾），稱因逃婚出來，迷失方向，請燕帶她倆走一程。一行人走入一座破廟渡宿，不料一入廟門即遭埋伏在裡面的匪徒襲擊，兩箱書被搶走，傅秉忠與史雪蘭更被匪徒擄進山洞...
-</desc></programme>
-
-
-<programme start="20220901193000 +0800" stop="20220901210000 +0800" channel="天映經典CCM">
-<title lang="hk">盤絲洞\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：何夢華
-Cast：週龍章，何藩，彭鵬，田琛
-
-劇情簡介：本片為邵氏「西遊記」系列的第三部作品。唐僧(何藩)落入了七位蜘蛛精的手中，希望食唐僧肉而得到永生。悟空(週龍章)、八戒(彭鵬)和沙僧(田琛)因此大鬧盤絲拯救唐僧。
-</desc></programme>
-
-
-<programme start="20220901210000 +0800" stop="20220901225500 +0800" channel="天映經典CCM">
-<title lang="hk">洪拳與詠春\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：張徹
-Cast：傅聲, 陳依齡, 戚冠軍, 劉家輝
-
-劇情簡介：清廷派人掃平少林寺，殺掉所有少林弟子。從中倖存出來的兩名弟子，分別拜入詠春及洪拳師傅門下，學習拳法。最終他們挾技擊敗敵人，並為死去師兄弟報仇。
-</desc></programme>
-
-
-<programme start="20220901225500 +0800" stop="20220902005000 +0800" channel="天映經典CCM">
-<title lang="hk">傾國傾城\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李翰祥
-Cast：盧燕, 蕭瑤, 狄龍
-
-劇情簡介：李翰祥史詩式電影，藝術成就及導演功力震驚中港台三地。本片榮獲金馬優等劇情片、最佳女主角及最佳彩色影片美術設計獎項。影後盧燕飾慈禧太後；處女演出即成名的蕭瑤，飾死後受追封為貴妃的珍妃；而為珍妃逝世而不近女色的光緒帝則是狄龍。
-</desc></programme>
-
-
-<programme start="20220902005000 +0800" stop="20220902024500 +0800" channel="天映經典CCM">
-<title lang="hk">英雄無淚\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：楚原
-Cast：傅聲, 白彪, 趙雅芝
-
-劇情簡介：江湖異人蕭大師鑄成寶劍「淚痕劍」，不料該劍顯現出兇兆，將會帶來武林浩劫，而他的親生子注定要死在此劍之下。蕭爲了使此劍不危害江湖，將它交給一位淡薄名利的弟子保管。數十年後該弟子把它傳給門徒小高，令其帶劍下山望化解江湖劫數。
-</desc></programme>
-
-
-<programme start="20220902024500 +0800" stop="20220902042500 +0800" channel="天映經典CCM">
-<title lang="hk">遺產五億圓\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：井上梅次
-Cast：邢慧, 金峰, 汪萍, 郭曼娜
-
-劇情簡介：導演井上梅次把鬼屋恐怖而充滿死亡陰影的氣氛呈現在您面前。劇中三女意外獲得大筆財產，必須遠赴日本領取，途中遇上三位男人，也想分一杯羹。正當大家各懷鬼胎，彼此攻擊、賄賂甚至出賣對方，企圖獨佔鉅款時，殊不知更驚悚的遭遇正嚴陣以待。
-</desc></programme>
-
-
-<programme start="20220902042500 +0800" stop="20220902060500 +0800" channel="天映經典CCM">
-<title lang="hk">老夫子奇趣錄\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：王風
-Cast：王沙, 芬妮, 矮冬瓜
-
-劇情簡介：導演王風以香港小市民的生活為主題，再次把漫畫「老夫子」搬上銀幕，保證笑破您的肚皮。這次，大蕃薯開了一家中醫，但傳統的中醫似乎不為超級摩登的香港接受。不論他再怎麼嘗試，他的所作所為反而趕走了上門的生意。該怎麼辦？老夫子出馬，萬事OK！
-</desc></programme>
-
-
-<programme start="20220902060500 +0800" stop="20220902074000 +0800" channel="天映經典CCM">
-<title lang="hk">娃娃夫人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：金洙容
-Cast：李菁, 凌雲, 凌玲, 張佩山
-
-劇情簡介：此乃「娃娃皇後」李菁的代表作，榮獲第十八屆亞洲影展「最受歡迎女主角」獎。三十五歲的男教師林明（淩雲飾）娶了十七歲的女學生珍珍（李菁飾）。兩人在同一學校上課，隱藏夫妻秘密。珍發覺林明常被女生包圍，而林又發現珍常被男老師追求，期間笑料百出。
-</desc></programme>
-
-
-<programme start="20220902074000 +0800" stop="20220902092000 +0800" channel="天映經典CCM">
-<title lang="hk">遊俠情\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：龍逸昇
-Cast：惠英紅, 何家勁, 關芝琳
-
-劇情簡介：杜孟飛奉命下山闖蕩江湖，途中救出遭黑道中人捉拿的沐婉兒，杜挺身相救，沐萬分感激。未幾，杜又救出被黑道中人圍攻的少女李賽男。及後，杜無意中得知一段二十年前的江湖恩怨，黑道首領是李之殺父仇人，而沐則是黑道首領失散的女兒…
-</desc></programme>
-
-
-<programme start="20220902092000 +0800" stop="20220902110000 +0800" channel="天映經典CCM">
-<title lang="hk">狂戀詩\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：楊樹希
-Cast：胡燕妮, 金漢, 楊帆, 金峰
-
-劇情簡介：大偉（金漢飾）和小春（楊帆飾）是同胞兄弟，一個放浪，一個含蓄。小春在舞會邂逅女子珠迪（胡燕妮），情心一片。大偉發現珠迪有個年老丈夫，得知此秘密，大偉以此威脅，迫珠迪和他幽會，自始珠迪週旋三個男人之間... 導演以女性角度大膽描寫男女情關，手法細膩，而結局亦出人意表。
-</desc></programme>
-
-
-<programme start="20220902110000 +0800" stop="20220902125500 +0800" channel="天映經典CCM">
-<title lang="hk">金燕子\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：張徹
-Cast：鄭佩佩, 王羽, 羅烈
-
-劇情簡介：白衣大俠和黑色醉俠同時愛上女俠金燕子。三人卻聯手對付江湖中的惡勢力。在一場生死對決展開前，金燕子還是遲遲未能作出自己感情的抉擇。
-</desc></programme>
-
-
-<programme start="20220902125500 +0800" stop="20220902143000 +0800" channel="天映經典CCM">
-<title lang="hk">蘭嶼之歌\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：潘壘
-Cast：張沖, 鄭佩佩
-
-劇情簡介：蘭嶼紅蟲為患，島上人只信大頭目及巫醫巴達（黃宗迅飾）兩人。年青醫生何維德（張沖飾）到蘭嶼找尋曾到此研究紅蟲而失蹤的父親，因而與未婚妻白丹娜（何莉莉飾）鬧翻。後來何與孤女雅蘭（鄭佩佩飾）相愛，惹來西呼達（王俠飾）嫉妒；同時何為島民治病，令巴達信眾日減，西呼達、巴達均伺機殺何，何身陷險境而不自知……
-</desc></programme>
-
-
-<programme start="20220902143000 +0800" stop="20220902160000 +0800" channel="天映經典CCM">
-<title lang="hk">惡爺\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：桂治洪
-Cast：孟元文, 元華, 王沙, 尤翠玲, 王龍威
-
-劇情簡介：本片為桂治洪於1980年執導的功夫喜劇。故事講述，惡少洪毛九（林輝煌）不時到蘇記飯店滋事搗蛋，蘇老闆（王沙）欺善怕惡，把滿腔氣憤發洩在夥記阿七（孟元文）身上。後阿七發覺小廚師張彪（元華）武功不凡，遂暗中模仿其動作練武；一日洪毛九又來飯店滋擾，阿七施展出所練功夫打得洪毛九狼狽而逃...
-</desc></programme>
-
-
-<programme start="20220902160000 +0800" stop="20220902174500 +0800" channel="天映經典CCM">
-<title lang="hk">女巡按\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：楊帆
-Cast：李菁, 蕭湘, 祝菁
-
-劇情簡介：影後李菁的代表作，蕭湘反串文必正，傾慕官府小姐霍定金（李菁飾），賣身混入霍家，二人私定終身，必正被陷害入獄，定金設法營救... 此片黃梅調曲詞動人，票房橫掃臺灣及東南亞。
-</desc></programme>
-
-
-<programme start="20220902174500 +0800" stop="20220902192000 +0800" channel="天映經典CCM">
-<title lang="hk">清宮啟示錄\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：魯俊谷
-Cast：劉永, 劉雪華, 莫少聰
-
-劇情簡介：清帝康熙自知不久人世，決定傳位於十四太子（莫少聰飾）；後十四太子忽遭面殺手行刺，幸為親信曾靜（徐少強飾）所救。原來四太子（劉永飾）早已覬覦帝位，乃派人行刺胞弟；四太子計畫失敗後，收買曾靜不果，乃四出求賢，卒覓得文武雙全之年羹堯（白彪飾）相助，更拉攏反清文人呂留良（穀峰飾）及其女呂四娘（劉雪華飾）等，佯稱若助其登上帝位，誓必履行「滿漢一家」之協議...
-</desc></programme>
-
-
-<programme start="20220902192000 +0800" stop="20220902210000 +0800" channel="天映經典CCM">
-<title lang="hk">貂蟬\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李翰祥
-Cast：林黛, 趙雷, 楊志卿, 羅維
-
-劇情簡介：漢朝末年太師董卓霸道專橫，弄權禍國，忠臣王允誓要利用貂蟬的美色設計除掉董卓。王允得知董卓的義子呂布見貂蟬貌若天仙一見鍾情，於是將計就計把貂蟬獻給董卓為妾，終使父子反目。呂布最後殺了父親董卓，自此與貂蟬成為眷屬。
-</desc></programme>
-
-
-<programme start="20220902210000 +0800" stop="20220902224000 +0800" channel="天映經典CCM">
-<title lang="hk">紅粉動江湖\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：魯俊谷
-Cast：陳觀泰, 米雪, 林秀君, 元德
-
-劇情簡介：富家女田思思(米雪飾)刁蠻成性，喜武功，侍婢（林秀君飾）常講述武林故事及高手秦歌（陳觀泰飾）瀟灑風流，萬夫莫敵，田為之心慕神往。田不甘父親將其許配予他人，與婢女扮男裝，出走尋訪秦歌...
-</desc></programme>
-
-
-<programme start="20220902224000 +0800" stop="20220903001000 +0800" channel="天映經典CCM">
-<title lang="hk">鬼屋麗人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：週旭江
-Cast：張美瑤, 楊麗花, 雷鳴, 崔福生
-
-劇情簡介：本片是根據《聊齋》中之《書癡》改編，故事描述玉柱被叔叔郎中元欺負，搬進常鬧鬼的「孝廉府」。然後玉柱遇上了顏如玉，二人及後結成夫婦。郎中元之友史良金竟拐走如玉，將其迷姦。良金妻妾更毒害如玉，如玉化成厲鬼，將中元、良金等人殺害。玉柱因如玉已不在人世，不禁一陣辛酸。
-</desc></programme>
-
-
-<programme start="20220903001000 +0800" stop="20220903015000 +0800" channel="天映經典CCM">
-<title lang="hk">掌門人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：劉家良
-Cast：劉家良, 惠英紅, 劉家輝, 張展鵬
-
-劇情簡介：為「功夫大導」劉家良於1983年自編自導自演的作品。故事描述，劉代師傅主持國術會，一向平安無事，適逢會館搬遷，劉派女兒惠英紅接掌；新舊派作風回異，劉只得離去；後因惠頻惹是非，劉聞訊即回巢聲援…
-</desc></programme>
-
-
-<programme start="20220903015000 +0800" stop="20220903035000 +0800" channel="天映經典CCM">
-<title lang="hk">金玉良緣紅樓夢\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李翰祥
-Cast：林青霞, 張艾嘉, 狄波拉, 米雪
-
-劇情簡介：由李翰祥重新包裝的《紅樓夢》，榮獲第十五屆金馬獎最佳劇情片美術設計獎，以及第二十四屆亞洲影展最佳服裝及最佳美術設計獎。影後林青霞和張艾嘉分別飾演風流才子賈寶玉及如花美眷林黛玉，深刻演繹悲天憫人的寶黛之戀...
-</desc></programme>
-
-
-<programme start="20220903035000 +0800" stop="20220903054500 +0800" channel="天映經典CCM">
-<title lang="hk">菁菁\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：嚴俊
-Cast：李菁, 金峰
-
-劇情簡介：故事講述茶居老闆女菁菁與伐木工羅貴生相戀，菁父聞說惡霸看中菁，忙找生籌備婚事；不料翌日生即奉命運送木材進城，只得與菁暫別。生進城後，鎮上即有謠言，說生已在城裡另訂親事；另一方面菁無意中發現惡霸向寡婦施暴，寡婦不甘受辱自殺，惡霸欲殺人滅口，菁身陷險境。
-</desc></programme>
-
-
-<programme start="20220903054500 +0800" stop="20220903072500 +0800" channel="天映經典CCM">
-<title lang="hk">雙鐲\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：黃玉珊
-Cast：陳德容, 劉小慧, 郭晉安, 陶大宇
-
-劇情簡介："少女惠花（陳德容）及秀姑（劉小慧）自小情同姊妹，二人在媽祖廟內結為姐妹夫妻，互換手鐲為盟。秀出嫁，花對秀的戀慕更為沈迷。秀丈夫阿光（郭晉安）申請外調特區工作獲準，擬偕秀同行；花竟欲刺死秀然後自殺，下手之際忽聞秀已有身孕，花竟決定...
-
-第11屆香港電影金像獎最佳電影歌曲 - 《似是故人來》（梅豔芳主唱）"
-</desc></programme>
-
-
-<programme start="20220903072500 +0800" stop="20220903091500 +0800" channel="天映經典CCM">
-<title lang="hk">佛跳牆\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李翰祥
-Cast：野峰, 於榮, 艾飛, 邵音音
-
-劇情簡介：本片共有四個單元：首個故事描述一對母子因施予濟公一碗豆漿而逃過喪命之危；其二說濟公幫助賣菜漢逃離貴利的滋擾；其三寫濟公以櫻桃化夜明珠，教訓大盜一頓；最後是濟公以巧計捉弄胡作非爲的相爺父子。
-</desc></programme>
-
-
-<programme start="20220903091500 +0800" stop="20220903105500 +0800" channel="天映經典CCM">
-<title lang="hk">五郎八卦棍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：劉家良
-Cast：劉家輝, 傅聲, 李麗麗, 汪禹, 麥德羅, 小侯
-
-劇情簡介：本武俠片由劉家良自編自導自演，倪匡聯合編劇，為功夫巨星傅聲之不朽遺作。故事描述，北宋中葉，外患目亟，遼國欲吞併中原，王爺耶律連（王威龍）屢次率兵入寇，宋朝君臣昏庸，無力禦侮，賴楊家將拒敵，方可粗安。朝中侫臣潘美與管規既嫉妒楊家將功業，竟通番賣國，勾結遼人，害楊家將傷亡殆盡；楊家只得五郎（劉家輝）及六郎（傅聲）自亂軍中突圍。後五郎出家，在寺中練成八卦棍法，向潘等報復...
-</desc></programme>
-
-
-<programme start="20220903105500 +0800" stop="20220903123500 +0800" channel="天映經典CCM">
-<title lang="hk">王昭君\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李翰祥
-Cast：林黛, 趙雷, 洪波, 王月汀, 張翠英, 李英
-
-劇情簡介：王昭君拒絕賄賂畫師，於是一直被畫師畫醜致未被皇帝看上。但皇帝初遇昭君後，驚為天人，即選中她。畫師被逐後，為報復而設計將昭君與匈奴可汗和親。皇帝因拒絕婚事即引來兩國爭戰，以致王昭君最後為了平息戰亂不得不犧牲自己。
-</desc></programme>
-
-
-<programme start="20220903123500 +0800" stop="20220903141000 +0800" channel="天映經典CCM">
-<title lang="hk">少年蘇乞兒\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：劉仕裕
-Cast：劉家輝, 白彪, 汪禹, 王龍威
-
-劇情簡介：廣東十虎之一蘇乞兒乃清代武林傳奇人物，曾有多部以其出身和經歷為題材的電影面世，本片拍於1985年，由劉仕裕導演、王晶編劇、劉家輝飾演少年蘇燦。劇情講述，蘇燦為蘇家酒莊主人蘇瑞（關海山）之長子，生性恬淡隨和，但喜酗酒及流連妓院，令老父深感不滿。一日，燦在學校與同學打架，被逐出校，被逼追隨墊師梁鴻（白彪）讀書。燦在偶然機會下發現梁鴻身懷絕技，央其收之為徒。後蘇家遭北方劇盜蜈蚣（王龍威）滅門，梁鴻亦死於蜈蚣暗算之下，燦為著公仇私恨，與蜈蚣展開一場生死決...
-</desc></programme>
-
-
-<programme start="20220903141000 +0800" stop="20220903155500 +0800" channel="天映經典CCM">
-<title lang="hk">宋宮秘史\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：高立
-Cast：淩波, 金峰, 高寶樹, 井淼
-
-劇情簡介：包公發現劉妃在二十年前為保其位而謀害李妃，將李妃剛誕下的兒子調走後，把她逐出皇宮。於是，包公用妙計誘大太監郭槐認罪，揭發當年他與劉妃合謀陷害李妃之姦計，並將劉妃定罪。而李妃也被接回皇宮，與已為皇帝的兒子團聚。
-</desc></programme>
-
-
-<programme start="20220903155500 +0800" stop="20220903174500 +0800" channel="天映經典CCM">
-<title lang="hk">少林與武當\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：張徹
-Cast：羅莽, 王力, 孫建, 江生, 文雪兒
-
-劇情簡介：清朝年間，少林派以反清復明為志，武當派卻為清廷所用，兩大門派因而逐漸形成敵對局面，並掀起一場又一場的打鬥…
-</desc></programme>
-
-
-<programme start="20220903174500 +0800" stop="20220903192000 +0800" channel="天映經典CCM">
-<title lang="hk">人蛇鼠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：孫仲
-Cast：宗華, 韋弘, 丹娜
-
-劇情簡介：莊家農場獨子莊士德（宗華）外國歸來，接手由胡麟（韋弘）管理的產業。胡一直與德之表妹曼玲（丹娜）勾結，圖取莊家產業，並欲利用曼玲美色迷惑德！怎知在阿芬（蕭瑤）飼養的小蛇「西西」幫助下，反令德與芬結成夫婦。後來胡買來一條專咬人的野老鼠，欲將德之初生嬰兒咬死，「西西」為救嬰兒，與野鼠作殊死搏鬥...
-</desc></programme>
-
-
-<programme start="20220903192000 +0800" stop="20220903210000 +0800" channel="天映經典CCM">
-<title lang="hk">黑鷹\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：戴高美
-Cast：胡燕妮, 杜娟, 張沖, 王俠
-
-劇情簡介：新加坡的黑鷹組織專與香港保險業作對。私家偵探張世傑從黑鷹領袖陳祖培女兒麗思入手。他倆認識後，不斷受到狙擊追殺，原來陳祖培於一年前已遭人殺害，胡媚用陳名義發號施令，為非作歹。張世傑與黑鷹集團展開連場激戰！
-</desc></programme>
-
-
-<programme start="20220903210000 +0800" stop="20220903223500 +0800" channel="天映經典CCM">
-<title lang="hk">82家房客\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李沛權
-Cast：惠英紅, 丁佩, 陳百祥
-
-劇情簡介：香港半山的一幢古屋，住著業主張小姐（丁佩飾）與姘夫炳少（陳百祥飾）士輝、（劉家輝飾）、口水驃（盧大偉飾）等，來自江湖四海，各種背景職業的人。地產商曾公子（曹查理飾）欲收購大屋，炳少見錢開眼。一連串之逼遷與反逼遷的行動相繼展開，笑中有淚，淚中有笑，最後收購計畫終告失敗，全部住客同被政府徙置於新型屋村。
-</desc></programme>
-
-
-<programme start="20220903223500 +0800" stop="20220904002500 +0800" channel="天映經典CCM">
-<title lang="hk">請帖\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：孫仲
-Cast：汪禹, 陳觀泰, 羅烈, 林秀君
-
-劇情簡介：故事描述，青年俠士辛酸（汪禹）得悉王爺擬委託四大殺手押送神秘箱子往西安，且將付出十萬兩銀子作酬金，辛遂殺四人，持四人的頭顱往見王爺，求接辦保鏢事，蓋辛欲得該筆巨額酬金作賑災之用，王爺允之。辛途遇妙手怪丐楊風（羅烈）、無形劍客古非天（陳觀泰）及美豔女俠水仙花（林秀君）等高手截劫，險惡重重，卻原來這當中牽涉通敵叛國的大陰謀...
-</desc></programme>
-
-
-<programme start="20220904002500 +0800" stop="20220904023000 +0800" channel="天映經典CCM">
-<title lang="hk">不了情\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：陶秦
-Cast：林黛, 關山, 高寶樹, 洛奇, 蔣光超
-
-劇情簡介：少女李青青喪母後到香港投奔舅父，無意中結識了建築商之子湯鵬南，幷得其幫助當上了夜總會的紅歌女。李青青感激鵬南，鵬南也欣賞青青，兩人漸生情愫。面對種種困境和誤會，他倆的感情故事會有怎樣的結局？
-</desc></programme>
-
-
-<programme start="20220904023000 +0800" stop="20220904041500 +0800" channel="天映經典CCM">
-<title lang="hk">金衣大俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：嶽楓
-Cast：何莉莉, 高遠, 舒佩佩, 王俠
-
-劇情簡介：故事講述女俠俞飛霞，被武林盟主誤會她是運用「黑沙掌」，偷去神功寶書的幪面少女。於是她女扮男裝，混入少林寺暗中查探真相...
-</desc></programme>
-
-
-<programme start="20220904041500 +0800" stop="20220904060500 +0800" channel="天映經典CCM">
-<title lang="hk">雙鳳奇緣\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：週詩祿
-Cast：凌波, 方盈, 金峰, 金漢, 李菁
-
-劇情簡介：秦鳳笙（金峰飾）、鳳簫（凌波飾）兄妹才情敏捷，滿腹經綸，卻常受繼母夏氏（高寶樹飾）刻薄。鳳簫自幼許與李如龍（金漢飾）為妻，夏氏貪圖富貴，強逼如龍退婚；如龍不肯，夏氏再施毒計誣告如龍偷盜，將其收在獄中。鳳簫為救如龍，與侍婢春蘭（李菁飾）喬扮男裝上京，更以如龍之名赴考，一舉而中恩科狀元。明世宗（井淼飾）見鳳簫長得一表非凡，乃命相國夏言（蔣光超飾）為媒，招為駙馬。洞房之夕，鳳簫向公主（方盈飾）言明真相，並說服公主，安排一條妙計……
-</desc></programme>
-
-
-<programme start="20220904060500 +0800" stop="20220904075000 +0800" channel="天映經典CCM">
-<title lang="hk">沒有老公的日子\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：陳動奇
-Cast：袁詠儀, 張智霖, 葉德嫻, 何超儀
-
-劇情簡介：黃太太（葉德嫻 飾）獨力撫養兒子Alex（張智霖 飾）成人，與媳婦阿彤（袁詠儀 飾）一起生活。豈料Alex意外逝世，死前道出外遇女友黑仔（何超儀 飾）已懷有身孕。結果三名沒有老公的女人同住一室...
-</desc></programme>
-
-
-<programme start="20220904075000 +0800" stop="20220904093500 +0800" channel="天映經典CCM">
-<title lang="hk">魚美人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：高立
-Cast：凌波, 李菁
-
-劇情簡介：張珍與金寵之女牡丹早有婚約，金寵卻欲退婚。張珍偶遇化身金牡丹樣子的鯉魚精，兩人漸生情愫。一天，金寵請包公來公斷兩個真假牡丹，包公為成全二人，推辭此案……
-</desc></programme>
-
-
-<programme start="20220904093500 +0800" stop="20220904111000 +0800" channel="天映經典CCM">
-<title lang="hk">洪拳大師\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：唐佳
-Cast：狄龍, 劉雪華, 麥德羅
-
-劇情簡介：廣東十虎之首的鐵橋三為人景仰，擁有徒弟無數。當時達官貴人都以吸食鴉片為時尚，而鐵橋三亦隨俗吸食，身子因此漸受毒害。後來，鐵橋三更被煙館主人擊敗，幸得徒弟捨身相救，他才不致喪命。於是，鐵橋三決心戒掉鴉片，重新振作。
-</desc></programme>
-
-
-<programme start="20220904111000 +0800" stop="20220904124000 +0800" channel="天映經典CCM">
-<title lang="hk">倩女幽魂\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李翰祥
-Cast：樂蒂, 趙雷, 楊志卿, 洛奇
-
-劇情簡介：本片為李翰祥導演的不朽名作，講的是寧採臣和聶小倩的人鬼書生戀。樹妖姥姥逼小倩取採臣性命，幸得劍客燕赤霞所救，掀起人鬼鬥法。
-</desc></programme>
-
-
-<programme start="20220904124000 +0800" stop="20220904144000 +0800" channel="天映經典CCM">
-<title lang="hk">何日君再來\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：秦劍
-Cast：陳厚, 張沖, 胡燕妮, 何莉莉
-
-劇情簡介：電影奇才秦劍的不朽佳作，富家子音樂家（陳厚飾）愛上歌女（胡燕妮飾），不理家人反對秘密結婚。後因丈夫被生活折磨而弄致失明，妻子重披歌衣上舞臺。
-</desc></programme>
-
-
-<programme start="20220904144000 +0800" stop="20220904161500 +0800" channel="天映經典CCM">
-<title lang="hk">鬼馬神偷\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：魯俊谷
-Cast：劉永, 梁家仁, 梁韻蕊
-
-劇情簡介：魯俊谷、張權、於洋三人乃沙煲兄弟，三人合力獲得寶物「雙面神」，不料卻給胡起尾注，將三人毒殺，獨吞「雙面神」，三沙煲兄弟臨死前囑其妻子以沙煲鐲煉為憑，使其後人相認，並設法將寶物奪回。劉永、梁家仁及梁韻蕊是他們的後人，在不打不相識之下重逢，為了完成亡父的遺志，三人齊心向胡偷回寶物。梁韻蕊早已混入胡家中，色誘胡之子汪禹，作為內應查出「雙面神」之收藏地點。劉永與梁家仁則扮鬼扮馬，偷天換日，最後偷得雙面神！
-</desc></programme>
-
-
-<programme start="20220904161500 +0800" stop="20220904174500 +0800" channel="天映經典CCM">
-<title lang="hk">雙俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：張徹
-Cast：姜大衛, 狄龍, 谷峰, 楊斯
-
-劇情簡介：宋朝康王被困於金營巨宅，看守者是金太子及高手萬天奎。義士鮑廷天欲救康王，找來輕功高手邊幅仗義相助。二人以繩索飛蕩過崖，設法救出康王。
-</desc></programme>
-
-
-<programme start="20220904174500 +0800" stop="20220904192000 +0800" channel="天映經典CCM">
-<title lang="hk">天使出更\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：陳友
-Cast：陳友, 林建明, 張堅庭
-
-劇情簡介：溫拿樂隊鼓手陳友在電影界當導演，拍過不少出色的喜劇片，且別具一格。本片正是由他自導自演，並夥拍張堅庭、文雋及黃宏基編劇，另有林建明及陳秀雯主演，鍾鎮濤及楚原客串。話說醫務署發覺聖慕倫醫院的醫療水準及設備大有問題，原來該院院長（楚原飾）體弱多病，院務交陳醫生（陳友飾）主理；但陳個性主觀，行事不依規章，連手下一班見習醫生亦各具「特性」，時鬧笑話，弄至院務混亂。院長決定聘用資深護士長（林建明飾）進行改革...
-</desc></programme>
-
-
-<programme start="20220904192000 +0800" stop="20220904210000 +0800" channel="天映經典CCM">
-<title lang="hk">禦貓三戲錦毛鼠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：劉家良
-Cast：傅聲, 鄭少秋, 惠英紅
-
-劇情簡介：展昭、白玉堂武功不相上下。白一次無意中救了皇帝獲嘉封，卻不相信其身份，揚長而去。後皇帝再遇險，被展所救，展即獲禦封。白不忿盜去玉璽，欲戲弄展，幸展武功高強，終不辱皇命而回。
-</desc></programme>
-
-
-<programme start="20220904210000 +0800" stop="20220904224000 +0800" channel="天映經典CCM">
-<title lang="hk">武松\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李翰祥
-Cast：汪萍，狄龍，劉永, 谷峰
-
-劇情簡介：一次醉酒後，武松赤手空拳打死一隻猛虎，因此被任命為都頭。武松兄長武大郎的妻子潘金蓮色誘武松，但遭他拒絕。後來，潘金蓮和富戶西門慶有染，及後姦情敗露，兩人繼而毒死了武大郎。武松知悉後，先殺潘金蓮再殺西門慶，為兄長報仇。
-</desc></programme>
-
-
-<programme start="20220904224000 +0800" stop="20220905003500 +0800" channel="天映經典CCM">
-<title lang="hk">武館\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：劉家良
-Cast：劉家輝, 麥德羅, 谷峰, 惠英紅
-
-劇情簡介：黃飛鴻與天壽武館之王隱林年少氣盛，得罪陸正甫武館少主，從而掀起武館間的正面衝突。本片是劉家良導演最得意的作品，更是1981年十大賣座電影之一。
-</desc></programme>
-
-
-<programme start="20220905003500 +0800" stop="20220905020500 +0800" channel="天映經典CCM">
-<title lang="hk">多咀街\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：王風
-Cast：邵氏紅星電視藝員
-
-劇情簡介：本片為王風於1974年編導之處境喜劇，由李修賢、仙杜拉、梁天、羅蘭及鄭君綿等邵氏旗下紅星暨無線電視著名藝員聯合主演。片中「多咀街」是一條丁字形的熱鬧街道，住客大多是各行各業的小市民。他們對社會所發生的大小事情喜歡談論.七嘴八舌，招惹是非；三言兩語，道出人情冷暖，有道是：言為心聲。不管是粵劇藝員、暴發戶、黑社會人物或司機，他們說的話是嬉笑怒罵或冷嘲熱諷也好，都足以反映出現實社會人情百態之一斑。
-</desc></programme>
-
-
-<programme start="20220905020500 +0800" stop="20220905034500 +0800" channel="天映經典CCM">
-<title lang="hk">沖霄樓\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：張徹
-Cast：鹿峰, 王力, 龍天翔, 孫建, 錢小豪
-
-劇情簡介：改編自俠義小說《七俠五義》，人物繁多，情節多變，難得張徹處理得有條不紊，角色性格分明。故事講述襄陽王在王府中，建造的沖霄樓機關密佈，又廣招花蝴蝶花沖、神手大聖鄧車和小諸葛沈仲元等江湖俠士加盟，伺機造反。包公得悉襄陽王叛跡，乃命門生顏春敏前往調查。
-</desc></programme>
-
-
-<programme start="20220905034500 +0800" stop="20220905052500 +0800" channel="天映經典CCM">
-<title lang="hk">明月刀雪夜殲仇\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：楚原
-Cast：狄龍, 劉永, 施思, 爾冬升, 羅烈
-
-劇情簡介：改編自古龍原著小說，講述「天下第一快刀」傅紅雪為報父仇，萬裡尋兇；期間墮入七名兇手布下之圈套，處境岌岌可危...
-</desc></programme>
-
-
-<programme start="20220905052500 +0800" stop="20220905065500 +0800" channel="天映經典CCM">
-<title lang="hk">太極拳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：鮑學禮
-Cast：陳沃夫, 施思, 韋弘, 詹森
-
-劇情簡介：顧定是太極高手，卻隱藏身份為一名建築工人。當他的女朋友被惡霸強暴後，顧定唯有迫不得已出手讓惡霸受到應有的懲罰，彰顯公義。
-</desc></programme>
-
-
-<programme start="20220905065500 +0800" stop="20220905083500 +0800" channel="天映經典CCM">
-<title lang="hk">星際鈍胎\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：章國明
-Cast：伊雷, 鍾楚紅, 盧大偉, 譚天南
-
-劇情簡介：既性感又無知的漂亮寶貝李天珍（鍾楚紅），被外星人捉上飛碟，發生第三類接觸，當她想一死以示清白之際，卻遇上同有輕生念頭的失敗私家偵探伊電（伊雷），二人互吐心聲，覺得此生可戀後，一連串更不可置信的奇遇及「鮮花配牛糞」的愛情故事開始了。
-</desc></programme>
-
-
-<programme start="20220905083500 +0800" stop="20220905100500 +0800" channel="天映經典CCM">
-<title lang="hk">女殺手\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：麥志和
-Cast：何莉莉, 張佩山, 黃宗迅, 井淼
-
-劇情簡介：女殺手（何莉莉）被組織控制，強逼去殺商界名人石英，險中殺人滅口的陷阱。她不想淪為殺人工具，決心進行報仇大計，故事曲折離奇...
-</desc></programme>
-
-
-<programme start="20220905100500 +0800" stop="20220905122000 +0800" channel="天映經典CCM">
-<title lang="hk">船\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：陶秦
-Cast：何莉莉, 林嘉, 井莉, 金漢
-
-劇情簡介：《船》是陶秦愛情片中的傑作，錯綜雜的愛情連線將故事帶出。嘉文（楊帆飾）跟妻可欣（何莉莉飾）、湘怡（井莉飾）、及紀遠（金漢飾）在劇中本為朋友，卻發生了多角戀情，結局令人唏噓。
-</desc></programme>
-
-
-<programme start="20220905122000 +0800" stop="20220905140000 +0800" channel="天映經典CCM">
-<title lang="hk">天蠶變\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：魯俊谷
-Cast：徐少強, 劉永, 萬梓良, 劉雪華
-
-劇情簡介：武當雜役雲飛揚（徐少強飾）為掌門青松之私生子，青隱藏身份暗中傳授雲武功。青與無敵門主獨孤無敵（萬梓良飾）十年一戰而敗，無敵忌憚青師兄燕沖天的天蠶功，期以兩年後約青再戰！青收傅玉書（劉永飾）為徒，怎知傅為逍遙谷主之孫，入武當就為報仇及偷學絕藝。傅使計刺殺青，嫁禍雲，並接任掌門。雲被追殺，得無敵女兒鳳（楊菁菁飾）相救，帶往見其母沈夫人，得知鳳是其同父異母之妹，更得天蠶功抄本！雲最後練成天蠶功，清理門戶，為父報仇，但仍要面對獨孤無敵...
-</desc></programme>
-
-
-<programme start="20220905140000 +0800" stop="20220905160000 +0800" channel="天映經典CCM">
-<title lang="hk">武則天\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李翰祥
-Cast：李麗華, 趙雷, 喬莊, 洛奇, 俞鳳至
-
-劇情簡介：武則天有傾國之貌，絕世才華，十四歲時更被唐太宗召為才人，但太宗死後卻入寺為尼，卻又與繼位之唐高宗有染，生有二子。時皇後與蕭妃爭寵，命武則天回宮以制妃子，卻反陷害皇後。武則天獲封皇後之後，更誅殺兩太子。直到高宗病亡，武後臨朝，成為史上第一個女皇帝。
-</desc></programme>
-
-
-<programme start="20220905160000 +0800" stop="20220905173500 +0800" channel="天映經典CCM">
-<title lang="hk">女捕快\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：申江
-Cast：施思, 羅烈, 張佩山
-
-劇情簡介：故事講述，萬勝鏢局總鏢頭陳華堂，懾於白眉道姑的威望，撫養對頭人焦家的兒子炎兒，卻不許其習武，炎兒遂偷練父傳之「烈焰刀法」。十年後，城中出現蒙面採花大盜，女捕快泠如霜特來偵查，並將炎兒擒獲；然而採花大盜，原來是陳之長子正豪，炎兒實遭陳氏父子嫁禍。炎兒越獄而逃，誓要洗脫罪名……
-</desc></programme>
-
-
-<programme start="20220905173500 +0800" stop="20220905191000 +0800" channel="天映經典CCM">
-<title lang="hk">春暖花開\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：岳楓
-Cast：舒佩佩、李麗麗、林嘉、楊帆、金峰、夏儀秋
-
-劇情簡介：故事描述，陳太太有女潔玉（舒佩佩）及美玉（李麗麗），潔玉已工作，美玉仍求學；適逢陳家有空房出租，少奇（楊帆）來租，一談即合；潔玉三個姊姊，皆與租客結婚，所以潔玉表姊趙靜蘭（林嘉）之母決仿效陳家租房選婿；未幾，有一醫科學生欣農（金峰）來租房，趙母見他是理想快婿，忙出租。原來少奇與欣農是同學，少奇老成寡言，被潔玉、美玉視為怪人，欣農則只顧談戀愛……
-</desc></programme>
-
-
-<programme start="20220905191000 +0800" stop="20220905210000 +0800" channel="天映經典CCM">
-<title lang="hk">死囚\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：姜大衛
-Cast：李麗麗, 蔡弘, 姜大衛
-
-劇情簡介：由「亞洲影帝」姜大衛自導自演，倪匡寫劇本，描述流浪漢（蔡弘飾）含冤入獄，在獄中遇上扒手（姜大衛），二人為黑獄蒙冤，設法越獄；誰料此次的逃獄竟使二人成真正的死囚...
-</desc></programme>
-
-
-<programme start="20220905210000 +0800" stop="20220905225000 +0800" channel="天映經典CCM">
-<title lang="hk">女子公寓\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：井上梅次
-Cast：丁佩, 楊帆, 李麗麗, 區燕菁, 夏萍
-
-劇情簡介：本片為日本名導井上梅次編導，王福齡配樂，由丁佩、楊帆及李麗麗主演。故事背景為一幢女子公寓，房東陳太太（歐陽莎菲飾）痛恨男人，嚴禁男性進入，不幸，女房客卻多靠男性而活；歌女尤淑文（丁佩飾）由台北飛到香港，找尋失蹤的妹妹；尤經作曲家王德生（楊帆飾）介紹到居所樓上之女子公寓居住...
-</desc></programme>
-
-
-<programme start="20220905225000 +0800" stop="20220906003000 +0800" channel="天映經典CCM">
-<title lang="hk">背叛師門\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：魯俊谷
-Cast：陳觀泰, 王龍威, 文雪兒, 元德
-
-劇情簡介：高堅（元德）是武林大豪石正仲門下小弟子，但因石正仲性格偏執，常不問是非情由就對高堅施以懲罰。一次，高救了師父的仇人金天運（陳觀泰飾），金為報恩將武功授給高，高卻被判「背叛師門」之罪...
-</desc></programme>
-
-
-<programme start="20220906003000 +0800" stop="20220906021000 +0800" channel="天映經典CCM">
-<title lang="hk">城市之光\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：張堅庭
-Cast：陳友, 惠英紅, 招文欣, 吳詠琪
-
-劇情簡介：導演張堅庭在本片體現香港八十年代的大城小景；陳友與妻子惠英紅從大陸來港投靠父親，卻發現他並非如信中所言生活富足。東方之珠的美夢換來悲喜交集。
-</desc></programme>
-
-
-<programme start="20220906021000 +0800" stop="20220906034000 +0800" channel="天映經典CCM">
-<title lang="hk">江湖了斷\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：黃泰來
-Cast：羅莽, 白彪, 左燕翎, 孫健
-
-劇情簡介：故事描述，羅莽、尹相林、強漢、湯鎮宗及左燕翎五人偷渡赴港時，湯不慎誤踏陷阱，羅等欲救不果，看駐軍逼近，只得舍湯而去。四人到港後，三男淪為黑幫打手，一次私下行劫時，失手被捕入獄。尹、強出獄後即被殺害，督察白彪疑是仇家所為，遂提前釋放羅，企圖引出兇手...
-</desc></programme>
-
-
-<programme start="20220906034000 +0800" stop="20220906051500 +0800" channel="天映經典CCM">
-<title lang="hk">情俠追風劍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：何夢華
-Cast：汪禹, 妞妞, 羅烈, 李麗麗
-
-劇情簡介：白一鵬(淩雲)的全家遭「冷血五祖」殺害, 白闖冷家報仇, 與善良的冷秋霞(李麗麗)結合, 白被冷家追殺下跳崖, 眾人以為白已死。 冷靈芝(妞妞)乃是白與秋霞女兒, 後與父徒弟夏侯曉桐(汪禹), 將「冷血五祖」殲滅。
-</desc></programme>
-
-
-<programme start="20220906051500 +0800" stop="20220906065500 +0800" channel="天映經典CCM">
-<title lang="hk">神經大俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：魯俊谷
-Cast：元德, 惠英紅, 孟元文, 文雪兒
-
-劇情簡介：總督大人把鴛鴦刀交給滿清皇帝，大內高手卓天雄暗中保護，雙刀仍落入蕭中慧等人手中。蕭父大壽當日，卓天雄欲奪回雙刀，後來得知蕭中慧和袁冠南是被清廷滅門的袁、蕭兩家之後，更獲悉雙刀的秘密。
-</desc></programme>
-
-
-<programme start="20220906065500 +0800" stop="20220906084000 +0800" channel="天映經典CCM">
-<title lang="hk">乾隆下揚州\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李翰祥
-Cast：劉永, 姜南, 李昆
-
-劇情簡介：乾隆皇繼續微服南巡，這次得大臣和大學士陪行，他們一行三人來到揚州，期限遇上不少趣事。
-</desc></programme>
-
-
-<programme start="20220906084000 +0800" stop="20220906102000 +0800" channel="天映經典CCM">
-<title lang="hk">神劍震江湖\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：徐增宏
-Cast：鄭佩佩, 張翼, 舒佩佩, 羅烈
-
-劇情簡介：餘乾文與同門師弟鄭坤元奉師父之命下山尋訪「天地劍」，以免它落入壞人手中造成武林浩劫。餘乾文途中巧遇五毒教教主之女蘇皎皎，兩人情投意合。可惜，當蘇皎皎意外地弄傷鄭坤元後，事情也開始變得越來越複雜。
-</desc></programme>
-
-
-<programme start="20220906102000 +0800" stop="20220906120500 +0800" channel="天映經典CCM">
-<title lang="hk">茅山殭屍拳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：劉家良
-Cast：汪禹, 劉家輝, 黃杏秀
-
-劇情簡介：以少林功夫片聞名的劉家良，這次打的是殭屍功夫。片中，劉家榮與汪禹飾演以「趕屍」為業的師徒，一次趕屍期間，因同時趕著九具屍體上路，顧此失彼下，走失了兩具殭屍，其中一具是個行為古怪的光頭屍。其實，他並非真殭屍，而是劉家輝所飾的江湖漢子，他擅殭屍拳，但被姦人設計陷害下，瑯璫入獄，面臨死境，冒險越獄逃出後，遂假扮殭屍以混人耳目；但最終又為姦人發現行蹤，在「趕屍」師徒協助下，展開連場激戰...
-</desc></programme>
-
-
-<programme start="20220906120500 +0800" stop="20220906135000 +0800" channel="天映經典CCM">
-<title lang="hk">至尊一劍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：李百齡
-Cast：爾冬陞, 白彪, 李殿朗
-
-劇情簡介：魔山派秦五新（白彪飾）劍術高超，連敗九十九名劍手，終在最後一擊敗在劍神（王戎飾）手上。五新知其欠缺一柄寶劍，遂殺死著名鑄劍師老鷹（谷峰飾），奪取稀世的「老鷹寶劍」。老鷹之子燕北（爾冬陞飾）悲痛萬分，矢誓報仇，不自量力挑戰五新，結果被打落懸崖之下...
-</desc></programme>
-
-
-<programme start="20220906135000 +0800" stop="20220906153000 +0800" channel="天映經典CCM">
-<title lang="hk">我們戀愛去了\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：陳浩
-Cast：華倫, 林鳳嬌, 陳浩
-
-劇情簡介：管 氏公司董事長管有成（儀銘飾演），已屆退休之年，決由其子大用（華倫飾演）繼其衣砵。大用母（李偉飾演），則急於替子完婚，選定珠寶商之女碧霞，及著名畫 家之女千麗，由大用挑選其一爲妻。可是二女皆非大用心目中的對象。某日，大用在偶然機會下，巧遇寶貝育幼院劉院長（魯平飾演）之甥女連蓮（林鳳嬌飾演）， 雙方發生誤會。大用急於逃離現場，匆忙中遺下皮包。連蓮只得根據皮包中之地址，將皮包送回給大用。而此際大用剛好與二女敷衍，見連蓮至，情急智生，硬將連 蓮成爲未婚妻，川息二女之心。但與連蓮又發生第二次誤會...
-</desc></programme>
-
-
-<programme start="20220906153000 +0800" stop="20220906172500 +0800" channel="天映經典CCM">
-<title lang="hk">南北獅王\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：徐蝦, 錢月笙
-Cast：汪禹, 錢月笙, 王龍威, 羅莽, 楊盼盼
-
-劇情簡介：七十年代武打明星汪禹主演的清裝功夫片。故事講述以「反清復明」為號召的天地會，恐被清廷一網打盡，遂將會員名冊分成兩份，送往機密地點。天地會中人紅娘子（楊盼盼）遇上剛直的失業捕快阿雲（羅莽），邀其協助把名冊送到朱標（王龍威）的武館去，期間遇到聰敏的棺材舖夥計阿寸（汪禹），發生連串笑料。及後紅被原為清廷走狗的朱所殺，雲為代紅執行任務，終亦重傷身亡。最後任務便落在阿寸身上，寸與朱展開連番追逐，最後為寸所殺，而寸亦身陷劣境之中...
-</desc></programme>
-
-
-<programme start="20220906172500 +0800" stop="20220906192500 +0800" channel="天映經典CCM">
-<title lang="hk">西遊記\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：何夢華
-Cast：岳華，彭鵬，田琛，何藩
-
-劇情簡介：故事講述唐僧(何藩)赴西天取經，中途在五指山收服馬騮精(岳華) ；在高家莊收服豬八戒(彭鵬)；在流沙河收服沙悟淨(田琛)的種種情節。
-</desc></programme>
-
-
-<programme start="20220906192500 +0800" stop="20220906210000 +0800" channel="天映經典CCM">
-<title lang="hk">文素臣\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：薛群
-Cast：李菁, 喬莊, 何莉莉
-
-劇情簡介：「龍門七俠」之首文素臣命六俠入昭慶寺探察，他們不慎被主持明空殺害。明空更設計殺害林巡按，幸得文所救。文素臣潛入寺內與明空一戰為六俠報仇，林巡按下令官兵攻入昭慶寺，聯合文殲滅所有姦僧。
-</desc></programme>
-
-
-<programme start="20220906210000 +0800" stop="20220906222500 +0800" channel="天映經典CCM">
-<title lang="hk">鬼新娘\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：週旭江
-Cast：邢慧, 楊帆, 顧媚, 雷鳴
-
-劇情簡介：七十年代偶像巨星邢慧和楊帆帶來的驚悚片，提醒您千萬別娶被附身的女人為妻，她絕對不會放過您！劇中的女鬼生前被叔叔姦殺，現在要借用邢慧的身體報仇！
-</desc></programme>
-
-
-<programme start="20220906222500 +0800" stop="20220907000000 +0800" channel="天映經典CCM">
-<title lang="hk">大內高手\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Director：林福地
-Cast：舒佩佩, 虞慧, 川原, 井淼, 黃宗迅
-
-劇情簡介：故事講述，巡按禦史傅秉忠（井淼飾）被皇上降下聖旨令其即行開缺回籍，傅裝好兩箱書，與僕人取山道回京城。傅主僕二人走到一座古鎮，遇見武功不凡的燕書棠（川原飾），傅乃出重金請他護送通過山路；未幾又遇見少女史雪蘭（舒佩佩飾）與丫環小梅（虞慧飾），稱因逃婚出來，迷失方向，請燕帶她倆走一程。一行人走入一座破廟渡宿，不料一入廟門即遭埋伏在裡面的匪徒襲擊，兩箱書被搶走，傅秉忠與史雪蘭更被匪徒擄進山洞...
-</desc></programme>
-
-
-<programme start="20220907000000 +0800" stop="20220907014000 +0800" channel="天映經典CCM">
-<title lang="hk">樑上君子\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：徐蝦
-Cast：錢小豪, 羅莽, 董驃, 廖麗玲
-
-劇情簡介：本片為徐蝦導演。 董驃, 錢小豪及蔣金飾扒手, 惟董失手被捕; 董出獄後裝南洋闊客, 隨錢及蔣返家, 因為想扮相古怪, 惹途人圍觀, 三人乘機施妙手, 更向盤問的保安隊長羅莽自詡身份特殊, 使羅躬身謝罪...
-</desc></programme>
-
-
-<programme start="20220907014000 +0800" stop="20220907031500 +0800" channel="天映經典CCM">
-<title lang="hk">琴劍恩仇\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：徐增宏
-Cast：秦萍, 王羽, 馮寶寶
-
-劇情簡介：桂武(王羽飾)和甘聯珠(秦萍飾)夫婦共闖江湖、報恩仇，得女俠紅姑(淩波飾)之助，技藝大進，博得鴛鴦劍俠美名；桂甘今受紅姑所托，將殺人利器「鳳琴」送往家中；誰料途經飛虎寨，不慎以「鳳琴」射傷少寨主，當夜琴亦為神偷盜去...
-</desc></programme>
-
-
-<programme start="20220907031500 +0800" stop="20220907045000 +0800" channel="天映經典CCM">
-<title lang="hk">封神劫\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：華山
-Cast：劉永, 劉雪華, 龍天翔, 趙國
-
-劇情簡介：故事講述，宋太祖趙匡胤（王戎飾）之弟光義（趙國飾）恃建國有功，囂張跋扈，逼殺南唐後主李煜（陳家奇飾），李之舊部李浪（劉永飾）矢誓報仇。太傅陳搏（龍天翔飾）因欲修煉成仙，必先得皇帝封誥，故與光義妥協，助其奪取帝位，事成後由光義祭天封為華山神仙。陳搏帶光義夜闖禁宮，弒兄自立，並殺死李浪等心腹大患...
-</desc></programme>
-
-
-<programme start="20220907045000 +0800" stop="20220907062000 +0800" channel="天映經典CCM">
-<title lang="hk">女俠賣人頭\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：鄭昌和
-Cast：焦姣, 陳亮, 王俠, 井淼, 張佩山
-
-劇情簡介：俠女花碧蓮（焦姣）愛上鄰村的駱宏勛（陳亮），其父花振芳（井淼）去說親，卻遭駱母拒絕。碧蓮深心不忿，找上駱家，把宏勛打倒來消氣。後碧蓮為救人而得罪賭棍萬三句（樊梅生），萬率眾圍殺碧蓮，幸宏勛及時趕來相救。萬之主人王倫（張佩山）知悉一切後，重金收買知府，將宏勛打下冤獄。碧蓮往探監，見宏勛奄奄一息，遂隻身闖進王倫練武場，大戰眾強徒，並取下王倫助手首級。翌日，碧蓮把血淋淋的人頭掛在竹竿上，到市上去叫賣，結果驚動官差，被捉進衙門...
-</desc></programme>
-
-
-<programme start="20220907062000 +0800" stop="20220907080000 +0800" channel="天映經典CCM">
-<title lang="hk">布衣神相\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊穀
-Cast：徐少強, 萬梓良, 劉永, 陳觀泰, 劉雪華
-
-劇情簡介：故事描述雲飛揚（徐少強飾）練就天蠶神功後，雖躍為江湖上兩大高手之一，卻厭倦江湖，無心爭霸，與愛侶倫婉兒（劉雪華飾）隱居；反之獨孤無敵（萬梓良飾）卻閉關苦練滅絕魔功。隨著二人暫息紛爭，東瀛甲賀派教主纖月蒼龍軒（陳觀泰飾）卻欲稱霸中原...
-</desc></programme>
-
-
-<programme start="20220907080000 +0800" stop="20220907100500 +0800" channel="天映經典CCM">
-<title lang="hk">小雲雀\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：薛群
-Cast：陳厚, 顧媚
-
-劇情簡介：記者仕泰爲發掘歌星小雲雀的秘密，假扮大亨接近小雲雀。後來仕泰的假大亨身份被揭穿，小雲雀大怒，請來真正大亨揭穿仕泰的身份。怎料大亨很欣賞仕泰的應變能力，實時聘請他爲助手，處理歌星登台事宜。
-</desc></programme>
-
-
-<programme start="20220907100500 +0800" stop="20220907121000 +0800" channel="天映經典CCM">
-<title lang="hk">長輩\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：劉家良, 惠英紅, 小侯, 王龍威
-
-劇情簡介：家境富裕的大財主立帶男為填房，為了避免那不可靠的侄子奪取家產，他在病重前立下遺囑，更要求帶男將遺囑交給省城的另一侄子。當帶男這個年輕長輩遇上子侄子及他的兒子時，更鬧出一連串的笑話。 惠英紅更藉此奪第一屆香港金像影後。
-</desc></programme>
-
-
-<programme start="20220907121000 +0800" stop="20220907135500 +0800" channel="天映經典CCM">
-<title lang="hk">江山美人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：林黛, 趙雷, 金銓, 楊志卿, 王元龍
-
-劇情簡介：正德皇帝江南遇李鳳，兩人互生情愫。臨別前正德聲言回京後會立即迎娶李鳳，一年易逝消息杳然，李因思念成病，正德聞大傅啟奏，才如夢方覺...
-</desc></programme>
-
-
-<programme start="20220907135500 +0800" stop="20220907153500 +0800" channel="天映經典CCM">
-<title lang="hk">紅粉動江湖\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：陳觀泰, 米雪, 林秀君, 元德
-
-劇情簡介：富家女田思思(米雪飾)刁蠻成性，喜武功，侍婢（林秀君飾）常講述武林故事及高手秦歌（陳觀泰飾）瀟灑風流，萬夫莫敵，田為之心慕神往。田不甘父親將其許配予他人，與婢女扮男裝，出走尋訪秦歌...
-</desc></programme>
-
-
-<programme start="20220907153500 +0800" stop="20220907171500 +0800" channel="天映經典CCM">
-<title lang="hk">人皮燈籠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：劉永, 陳觀泰, 羅烈
-
-劇情簡介：趙春方曾於決鬥敗於龍帥之手下。七年後，龍帥為在賞燈大會上奪魁，往尋趙春方代為製造別緻燈籠。趙春方藉此暗中佈下復仇大計。龍帥之妻無固失蹤後，他驚聞有關人皮燈籠的傳說，並開始懷疑趙春方與失蹤事件有關......
-</desc></programme>
-
-
-<programme start="20220907171500 +0800" stop="20220907184500 +0800" channel="天映經典CCM">
-<title lang="hk">黑店\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：葉榮祖
-Cast：施思, 康華
-
-劇情簡介：本片由葉榮祖導演，施思、康華及谷峰領銜主演。故事講述，江湖上傳出消息，巡撫海剛峰（楊志卿）辭官歸裡，所攜箱篋中珠寶價值連城，於是引起了一些歹人的覬覦。高家店店主高山峰（王俠）、其姘婦鄧三娘（於楓），以及數幫黑道人物，均於高家店埋伏，準備等待海剛峰經過之時伺機下手...
-</desc></programme>
-
-
-<programme start="20220907184500 +0800" stop="20220907210000 +0800" channel="天映經典CCM">
-<title lang="hk">故都春夢\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：邵氏全體導演
-Cast：李麗華, 凌波, 關山
-
-劇情簡介：本片榮獲1965年金馬獎最佳女主角(李麗華)及最佳男配角(井淼)，是集全體邵氏導演心血的作品。《故都春夢》故事源自膾炙人口的《啼笑因緣》，內容描述民國初年，富家子範嘉恕（關山飾）戀上歌女岑逢仙（李麗華飾），同時又唯賣藝少女官繡珠（凌波飾）及貌似岑的財政廳長女兒賀莉霞（李麗華分飾）所迷戀。張大帥（井淼飾）垂涎岑，更姦污了她。嘉恕後得繡珠相助，才從大帥手中救回愛人。
-</desc></programme>
-
-
-<programme start="20220907210000 +0800" stop="20220907223000 +0800" channel="天映經典CCM">
-<title lang="hk">惡爺\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：桂治洪
-Cast：孟元文, 元華, 王沙, 尤翠玲, 王龍威
-
-劇情簡介：本片為桂治洪於1980年執導的功夫喜劇。故事講述，惡少洪毛九（林輝煌）不時到蘇記飯店滋事搗蛋，蘇老闆（王沙）欺善怕惡，把滿腔氣憤發洩在夥記阿七（孟元文）身上。後阿七發覺小廚師張彪（元華）武功不凡，遂暗中模仿其動作練武；一日洪毛九又來飯店滋擾，阿七施展出所練功夫打得洪毛九狼狽而逃...
-</desc></programme>
-
-
-<programme start="20220907223000 +0800" stop="20220908001000 +0800" channel="天映經典CCM">
-<title lang="hk">女秀才\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：高立
-Cast：凌波, 金峰
-
-劇情簡介：歌唱古裝彩色鉅片《女秀才》，由《魚美人》金像導演高立執導，張徹編劇，亞洲影後凌波，夥拍曾在《雙鳳奇緣》結片緣的英俊小生金峰，還有漂亮小生何藩、美艷女星金菲，葉青、楊志卿、王惠芳、馬笑儂、胡同等演員陣容合演。聞蜚蛾（凌波飾）自幼女扮男裝從父習武，後更考得秀才功名，堪稱文武全才。同窗好友杜子中（何藩飾）與魏撰之（金峰飾）雖與蜚蛾日夕相對，均不知其是女兒身。聞母見女兒年紀不小，不該再扮男裝，勸蜚蛾選撰之或子中為夫婿。不料蜚娥與二人情誼相同，一時無法抉擇，遂決定由天定奪，怎知陰差陽錯，選婿之箭落於撰之手中。蜚娥後悔不已，才知自己意屬子中。此時聞父被姦臣陷害，蜚娥決意為之雪冤，途中於強盜手中救出景員外之女景芙春（金霏飾）。芙春感蜚蛾救命之恩，有意終身相許；蜚蛾見情不可卻，只得與芙春訂下親事……
-</desc></programme>
-
-
-<programme start="20220908001000 +0800" stop="20220908020000 +0800" channel="天映經典CCM">
-<title lang="hk">書劍恩仇錄\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：狄龍, 白彪, 羅烈
-
-劇情簡介：乾隆（白彪飾）原來並非皇位繼承人，而在出生時被調包，但他一直被蒙在鼓裡，直至地下組織紅花會的人相告。而紅花會總舵主陳家洛（狄龍飾）是其同胞兄弟。兩弟兄因身世和利益必需身不由己地彼此對抗…
-</desc></programme>
-
-
-<programme start="20220908020000 +0800" stop="20220908040000 +0800" channel="天映經典CCM">
-<title lang="hk">三笑\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：岳楓
-Cast：李菁, 凌波, 井淼
-
-劇情簡介：風流才子唐伯虎邂逅了丫鬟秋香，被她所吸引，遂決定隱瞞身份，進入華家作書僮，藉此接近秋香，並向她表明自己的身份和來意，可惜秋香並不相信。最後，唐伯虎憑藉其出眾的個人才智及好友的協助下，終於抱得美人歸。
-</desc></programme>
-
-
-<programme start="20220908040000 +0800" stop="20220908053000 +0800" channel="天映經典CCM">
-<title lang="hk">三十年細說從頭\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：劉永, 戴良純, 李殿馨
-
-劇情簡介：大導演李翰祥改編自己大受歡迎的專欄，盡現電影圈光怪陸離的趣事及傳聞，由愛將劉永和戴良純扮演不同角色，保證令你捧腹大笑。
-</desc></programme>
-
-
-<programme start="20220908053000 +0800" stop="20220908073000 +0800" channel="天映經典CCM">
-<title lang="hk">虎膽\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：羅維
-Cast：鄭佩佩, 岳華, 吳風, 羅維, 田豐
-
-劇情簡介：明惠帝被篡位後，太子被藏匿在武林義士的黑龍會中，卻被武林敗類所襲擊，迫使入世未深的劍客及俠女帶著太子逃亡。他們一路上危機重重，幸得其他義士拔刀相助……
-</desc></programme>
-
-
-<programme start="20220908073000 +0800" stop="20220908093500 +0800" channel="天映經典CCM">
-<title lang="hk">千嬌百媚\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陶秦
-Cast：林黛, 陳厚, 範麗, 高寶樹, 麥基
-
-劇情簡介：有才華的女藝員蘭蘭與梅梅新加入「馬氏歌舞團」，蘭蘭與團主馬英不和。馬英在報紙匿名徵求女友，蘭蘭與他以匿名用書信往來，互生情愫。相約見面時，兩人膽怯退縮。歌舞團獲邀到日本表演，由馬英帶領，蘭蘭擔任女主角，二人的關係可否趁機會發展？
-</desc></programme>
-
-
-<programme start="20220908093500 +0800" stop="20220908115000 +0800" channel="天映經典CCM">
-<title lang="hk">飛狐外傳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：錢小豪, 江生, 楚湘雲, 郭追
-
-劇情簡介：十八年前，胡斐（錢小豪飾演）之父胡一刀（鹿峰飾演），與苗人鳳（郭追 飾演）交換刀劍比武，被己刀傷，繼而身亡，原來胡之刀早被田歸農（江生飾演）塗上毒藥；苗妻南蘭（楚湘雲 飾演）被田勾引，竟拋夫棄女，後田更以毒粉弄瞎苗雙眼；斐見苗受此遭遇，決定代其向藥王求救，亦因此碰上一生中最愛的藥王傳人程靈素（黃敏儀飾演）……
-</desc></programme>
-
-
-<programme start="20220908115000 +0800" stop="20220908135000 +0800" channel="天映經典CCM">
-<title lang="hk">群英會\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹, 岳楓, 程剛
-Cast：施思, 岳華, 何莉莉, 羅烈, 姜大衛, 狄龍
-
-劇情簡介：本片集岳華、施思、何莉莉、薑大衛及狄龍等數十紅星合演，由三個單元故事組成，為岳楓、程剛及張徹聯合執導，當年就有「花一張票價，看三套電影」的稱譽。嶽楓之〈鐵弓緣〉講述一對青年男女因一把鐵弓而結緣、程剛之〈胭脂虎〉講述一群絕色妓女的故事、張徹之〈白水灘〉講述梁山英雄後代的故事。
-</desc></programme>
-
-
-<programme start="20220908135000 +0800" stop="20220908153500 +0800" channel="天映經典CCM">
-<title lang="hk">金衣大俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：嶽楓
-Cast：何莉莉, 高遠, 舒佩佩, 王俠
-
-劇情簡介：故事講述女俠俞飛霞，被武林盟主誤會她是運用「黑沙掌」，偷去神功寶書的幪面少女。於是她女扮男裝，混入少林寺暗中查探真相...
-</desc></programme>
-
-
-<programme start="20220908153500 +0800" stop="20220908171500 +0800" channel="天映經典CCM">
-<title lang="hk">貂蟬\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：林黛, 趙雷, 楊志卿, 羅維
-
-劇情簡介：漢朝末年太師董卓霸道專橫，弄權禍國，忠臣王允誓要利用貂蟬的美色設計除掉董卓。王允得知董卓的義子呂布見貂蟬貌若天仙一見鍾情，於是將計就計把貂蟬獻給董卓為妾，終使父子反目。呂布最後殺了父親董卓，自此與貂蟬成為眷屬。
-</desc></programme>
-
-
-<programme start="20220908171500 +0800" stop="20220908190000 +0800" channel="天映經典CCM">
-<title lang="hk">陸小鳳之決戰前後\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：岳華, 白彪, 劉永, 楚湘雲, 井莉
-
-劇情簡介：古龍小說中陸小鳳是五大著名人物。1981年，古龍熱潮仍在蔓延時，導演楚原再下一城，把陸小鳳故事中最為人津津樂道之《決戰紫金之巔》搬上大銀幕。故事描述，陸小鳳（劉永）忽聞當代二大劍客葉孤城（白彪）與西門吹雪（岳華），將於月圓之夜在紫金之巔決鬥，忖度二人識英雄重英雄，素未置媯鼰o利害衝突，當無決鬥必要，猜事有蹺蹊，與花滿樓（孫建）及司空摘星等好友研究不果，遂重金買消息，卻知西門吹雪忽然把決戰押後一個月...
-</desc></programme>
-
-
-<programme start="20220908190000 +0800" stop="20220908210000 +0800" channel="天映經典CCM">
-<title lang="hk">萬花迎春\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陶秦
-Cast：樂蒂, 陳厚, 高寶樹, 藍娣, 蔣光超
-
-劇情簡介：喜劇小生陳厚和樂蒂夫妻檔的舞姿和演技堪稱一絕，故事講述富家女混入歌舞團，兩冤家情花暗種。
-</desc></programme>
-
-
-<programme start="20220908210000 +0800" stop="20220908224000 +0800" channel="天映經典CCM">
-<title lang="hk">南北少林\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：李連傑，黃秋燕
-
-劇情簡介：智明在北少林習武，司馬燕則在南少林習武，兩人分別為報殺父之仇而合力行刺貪官，引發激戰連場!
-</desc></programme>
-
-
-<programme start="20220908224000 +0800" stop="20220909004000 +0800" channel="天映經典CCM">
-<title lang="hk">女校春色\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：李菁, 歐陽莎菲, 秦惠玲, 陳厚
-
-劇情簡介：化學教師陳子風（陳厚飾演）在一間保守的女校任教，與青梅竹馬的李海倫（李菁飾演）共事。陳在醫務所拾得棄嬰，後把棄嬰帶到學校照顧，卻被學生謠傳嬰孩乃陳與李之私生子。陳不但輕鬆面對，還將朝氣帶入校園，大受學生歡迎，李亦漸漸愛上陳。但保守派對陳之作風不滿，侍機剷除陳。
-</desc></programme>
-
-
-<programme start="20220909004000 +0800" stop="20220909023500 +0800" channel="天映經典CCM">
-<title lang="hk">海軍突擊隊\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：劉永, 狄龍, 傅聲, 姜大衛, 施思
-
-劇情簡介：由狄龍、傅聲、姜大衛、劉永等巨星主演。故事描述二次大戰日軍侵佔上海，中國海軍力量薄弱，難以跟日艦抗衡；為保存戰力，在長江布下水雷，將一艘魚雷快艇偽裝成漁船，乘夜突襲...
-</desc></programme>
-
-
-<programme start="20220909023500 +0800" stop="20220909041500 +0800" channel="天映經典CCM">
-<title lang="hk">青春1000日\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：敬海林
-Cast：劉少君, 陳佩茜,戴良純
-
-劇情簡介：凌玫瑰（陳佩茜）與方素美（戴良純）是一對感情要好的同窗。凌幼失怙恃，由當舞女之姊撫養成長，方則出身富家，受母呵護備至。畢業後，凌由淪落風塵攀至選美冠軍，方則滿足於平淡生活中；但她們卻偏偏同時愛上劉醫生（劉永）。最後一件意想不到的事發生，它改寫了他們三人的一生……
-</desc></programme>
-
-
-<programme start="20220909041500 +0800" stop="20220909054500 +0800" channel="天映經典CCM">
-<title lang="hk">多咀街\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：王風
-Cast：邵氏紅星電視藝員
-
-劇情簡介：本片為王風於1974年編導之處境喜劇，由李修賢、仙杜拉、梁天、羅蘭及鄭君綿等邵氏旗下紅星暨無線電視著名藝員聯合主演。片中「多咀街」是一條丁字形的熱鬧街道，住客大多是各行各業的小市民。他們對社會所發生的大小事情喜歡談論.七嘴八舌，招惹是非；三言兩語，道出人情冷暖，有道是：言為心聲。不管是粵劇藝員、暴發戶、黑社會人物或司機，他們說的話是嬉笑怒罵或冷嘲熱諷也好，都足以反映出現實社會人情百態之一斑。
-</desc></programme>
-
-
-<programme start="20220909054500 +0800" stop="20220909071500 +0800" channel="天映經典CCM">
-<title lang="hk">暗渠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：藍乃才
-Cast：白彪, 王戎, 羅莾, 陳佩茜
-
-劇情簡介：本片為八十年代由藍乃才導演的寫實警匪片。故事講述偵緝警長趙敬才(羅莽 飾)因一次行動，連累下屬被劫匪擊斃，而被上司指責處事魯莽，改派督察邱正明(苗僑偉 飾)接辦案件。敬才與正明辦案作風迥異，衝突日多。職業殺手利子健(白彪 飾)受僱來港狙殺殷商徐文(王戎 飾)，豈料行動時卻誤中副車，僅殺死徐文之助手；當徐文查得殺手為子健後，急欲除之。警方接獲線報，即派正明與敬才率隊出發，阻止黑幫火拼……
-</desc></programme>
-
-
-<programme start="20220909071500 +0800" stop="20220909085500 +0800" channel="天映經典CCM">
-<title lang="hk">大軍閥\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：許冠文, 何莉莉, 宗華, 狄娜
-
-劇情簡介：一個土匪因助俄國抗擊日本而成為北方的大軍閥。由於他好大喜功又目不識丁，常常鬧出不少笑話。後來，當年曾被他無端殺死的戲班老闆之女出現，槍殺了這個賣國賊。
-</desc></programme>
-
-
-<programme start="20220909085500 +0800" stop="20220909103000 +0800" channel="天映經典CCM">
-<title lang="hk">少年蘇乞兒\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉仕裕
-Cast：劉家輝, 白彪, 汪禹, 王龍威
-
-劇情簡介：廣東十虎之一蘇乞兒乃清代武林傳奇人物，曾有多部以其出身和經歷為題材的電影面世，本片拍於1985年，由劉仕裕導演、王晶編劇、劉家輝飾演少年蘇燦。劇情講述，蘇燦為蘇家酒莊主人蘇瑞（關海山）之長子，生性恬淡隨和，但喜酗酒及流連妓院，令老父深感不滿。一日，燦在學校與同學打架，被逐出校，被逼追隨墊師梁鴻（白彪）讀書。燦在偶然機會下發現梁鴻身懷絕技，央其收之為徒。後蘇家遭北方劇盜蜈蚣（王龍威）滅門，梁鴻亦死於蜈蚣暗算之下，燦為著公仇私恨，與蜈蚣展開一場生死決...
-</desc></programme>
-
-
-<programme start="20220909103000 +0800" stop="20220909120500 +0800" channel="天映經典CCM">
-<title lang="hk">天使出更\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陳友
-Cast：陳友, 林建明, 張堅庭
-
-劇情簡介：溫拿樂隊鼓手陳友在電影界當導演，拍過不少出色的喜劇片，且別具一格。本片正是由他自導自演，並夥拍張堅庭、文雋及黃宏基編劇，另有林建明及陳秀雯主演，鍾鎮濤及楚原客串。話說醫務署發覺聖慕倫醫院的醫療水準及設備大有問題，原來該院院長（楚原飾）體弱多病，院務交陳醫生（陳友飾）主理；但陳個性主觀，行事不依規章，連手下一班見習醫生亦各具「特性」，時鬧笑話，弄至院務混亂。院長決定聘用資深護士長（林建明飾）進行改革...
-</desc></programme>
-
-
-<programme start="20220909120500 +0800" stop="20220909134500 +0800" channel="天映經典CCM">
-<title lang="hk">五郎八卦棍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：劉家輝, 傅聲, 李麗麗, 汪禹, 麥德羅, 小侯
-
-劇情簡介：本武俠片由劉家良自編自導自演，倪匡聯合編劇，為功夫巨星傅聲之不朽遺作。故事描述，北宋中葉，外患目亟，遼國欲吞併中原，王爺耶律連（王威龍）屢次率兵入寇，宋朝君臣昏庸，無力禦侮，賴楊家將拒敵，方可粗安。朝中侫臣潘美與管規既嫉妒楊家將功業，竟通番賣國，勾結遼人，害楊家將傷亡殆盡；楊家只得五郎（劉家輝）及六郎（傅聲）自亂軍中突圍。後五郎出家，在寺中練成八卦棍法，向潘等報復...
-</desc></programme>
-
-
-<programme start="20220909134500 +0800" stop="20220909153000 +0800" channel="天映經典CCM">
-<title lang="hk">沒有老公的日子\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陳動奇
-Cast：袁詠儀, 張智霖, 葉德嫻, 何超儀
-
-劇情簡介：黃太太（葉德嫻 飾）獨力撫養兒子Alex（張智霖 飾）成人，與媳婦阿彤（袁詠儀 飾）一起生活。豈料Alex意外逝世，死前道出外遇女友黑仔（何超儀 飾）已懷有身孕。結果三名沒有老公的女人同住一室...
-</desc></programme>
-
-
-<programme start="20220909153000 +0800" stop="20220909172000 +0800" channel="天映經典CCM">
-<title lang="hk">請帖\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：汪禹, 陳觀泰, 羅烈, 林秀君
-
-劇情簡介：故事描述，青年俠士辛酸（汪禹）得悉王爺擬委託四大殺手押送神秘箱子往西安，且將付出十萬兩銀子作酬金，辛遂殺四人，持四人的頭顱往見王爺，求接辦保鏢事，蓋辛欲得該筆巨額酬金作賑災之用，王爺允之。辛途遇妙手怪丐楊風（羅烈）、無形劍客古非天（陳觀泰）及美豔女俠水仙花（林秀君）等高手截劫，險惡重重，卻原來這當中牽涉通敵叛國的大陰謀...
-</desc></programme>
-
-
-<programme start="20220909172000 +0800" stop="20220909190500 +0800" channel="天映經典CCM">
-<title lang="hk">青春鼓王\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：何莉莉, 凌雲, 楊帆, 鄭文靜
-
-劇情簡介：船員孫志彊巧合成爲「火花大樂隊」的鼓手，他因急於成名，答應幫助音樂雜志出版人李源明接近樂隊經理黃麗真，以換取源明的力捧。終於，志彊得償所願，一炮而紅，源明郤逼他實踐諾言，與麗真斷絕來往。志彊受到極大打擊，唯有忍痛離開樂隊與麗真...
-</desc></programme>
-
-
-<programme start="20220909190500 +0800" stop="20220909210000 +0800" channel="天映經典CCM">
-<title lang="hk">小煞星\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：姜大衛, 汪萍, 狄龍
-
-劇情簡介：強宜本是夜總會歌星，後來為尋初戀女友水仙的下落，被人帶到匪幫的木屋。原來，強宜少年時誤入歧途，有打劫殺人的犯罪紀錄，綽號「小煞星」。一哥要脅他共同打劫珠寶行，否則公開他的秘密。強宜假意應承，從長計議。想不到當日行動踏入珠寶行，發現售貨員竟然是初戀女友水仙！
-</desc></programme>
-
-
-<programme start="20220909210000 +0800" stop="20220909223500 +0800" channel="天映經典CCM">
-<title lang="hk">弟子也瘋狂\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：邱家雄
-Cast：劉家輝, 汪禹, 羅莽, 錢小豪
-
-劇情簡介：方世玉、洪熙官及胡惠乾三大少林俗家弟子初抵寺，即與悟清等出家弟子互爭高下，使到少林無日安寧，連方丈亦啼笑皆非。
-</desc></programme>
-
-
-<programme start="20220909223500 +0800" stop="20220910001000 +0800" channel="天映經典CCM">
-<title lang="hk">水兒武士\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：查傳誼
-Cast：董瑋, 萬梓良, 惠英紅, 餘安安
-
-劇情簡介：水兒（傅欣瑜）原是大太子之私生女，流落青樓 ，二太子（梁家輝）欲利用水兒揭大太子醜行以謀皇位。大太子不惜派殺手暗殺水兒，而二太子則命燕十三（莫少聰）、練飛霞（餘安安）等護送水兒回宮。兩批人沿途激戰，水兒得武士（董瑋）相救避禍隱居荒村，然二人性格迥異經常引起衝突。
-</desc></programme>
-
-
-<programme start="20220910001000 +0800" stop="20220910015500 +0800" channel="天映經典CCM">
-<title lang="hk">白蛇傳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：岳楓
-Cast：林黛, 趙雷, 杜娟, 楊志卿, 尤光照
-
-劇情簡介：妖精白素貞（林黛飾）跟妹妹青青（杜娟飾）在凡間巧遇前世救命恩人書生許仙（趙雷飾），後更以身相許給許仙。後和尚法海揭穿其身份並把這對苦命鴛鴦拆散...
-</desc></programme>
-
-
-<programme start="20220910015500 +0800" stop="20220910033500 +0800" channel="天映經典CCM">
-<title lang="hk">南鬥官三鬥北少爺\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：傅聲, 劉家榮
-Cast：傅聲, 張展鵬, 汪禹
-
-劇情簡介：廣東大良富家子鬥官(張展鵬)學得一身功夫，在鄉間常闖禍；其母希望鬥官娶妻立品，乃遣其上京參加香格格招親大會。其實鬥官所以答允上京，目的是找名傳京城的三名北少爺-「千術北少爺」車載(傅聲)、泡妞高手「真厲害」(陳百祥)，和「神偷北少爺」時三手(汪禹)一較高下。四人不打不相識，最後更成為好友，一起合力對付仇家三眼道人(王龍威)...
-</desc></programme>
-
-
-<programme start="20220910033500 +0800" stop="20220910052500 +0800" channel="天映經典CCM">
-<title lang="hk">死囚\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：姜大衛
-Cast：李麗麗, 蔡弘, 姜大衛
-
-劇情簡介：由「亞洲影帝」姜大衛自導自演，倪匡寫劇本，描述流浪漢（蔡弘飾）含冤入獄，在獄中遇上扒手（姜大衛），二人為黑獄蒙冤，設法越獄；誰料此次的逃獄竟使二人成真正的死囚...
-</desc></programme>
-
-
-<programme start="20220910052500 +0800" stop="20220910072500 +0800" channel="天映經典CCM">
-<title lang="hk">何日君再來\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：秦劍
-Cast：陳厚, 張沖, 胡燕妮, 何莉莉
-
-劇情簡介：電影奇才秦劍的不朽佳作，富家子音樂家（陳厚飾）愛上歌女（胡燕妮飾），不理家人反對秘密結婚。後因丈夫被生活折磨而弄致失明，妻子重披歌衣上舞臺。
-</desc></programme>
-
-
-<programme start="20220910072500 +0800" stop="20220910085500 +0800" channel="天映經典CCM">
-<title lang="hk">惡虎村\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：岳楓, 汪平
-Cast：舒佩佩, 岳華, 王俠
-
-劇情簡介：資深大導演嶽楓退休前最後一部電影。九姑娘（舒佩佩飾）之兄巴傑（康華飾）勾結惡虎村惡霸胡蛟（王俠飾），圖劫鏢銀，被「鐵沙掌」駱宏勛（嶽華飾）打傷。胡蛟恐事發後被巴家追究，下毒將巴傑毒斃，嫁禍駱宏勛，巴家上下誓欲殺死駱報仇……
-</desc></programme>
-
-
-<programme start="20220910085500 +0800" stop="20220910103500 +0800" channel="天映經典CCM">
-<title lang="hk">老夫子奇趣錄\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：王風
-Cast：王沙, 芬妮, 矮冬瓜
-
-劇情簡介：導演王風以香港小市民的生活為主題，再次把漫畫「老夫子」搬上銀幕，保證笑破您的肚皮。這次，大蕃薯開了一家中醫，但傳統的中醫似乎不為超級摩登的香港接受。不論他再怎麼嘗試，他的所作所為反而趕走了上門的生意。該怎麼辦？老夫子出馬，萬事OK！
-</desc></programme>
-
-
-<programme start="20220910103500 +0800" stop="20220910121500 +0800" channel="天映經典CCM">
-<title lang="hk">玉羅剎\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：何夢華
-Cast：鄭佩佩, 唐菁
-
-劇情簡介：本片為何夢華導演，王福齡作曲，由俠女鄭佩佩主演。故事描述，每逢恐怖歌聲出現，必有閻家的人被署名「玉羅剎」者所殺。由於「玉羅剎」神出鬼沒，鬧得滿城風雨。冷秋寒（鄭佩佩）於酒館遇見徐英豪（唐菁），交談下，知彼也為尋仇而來；冷直告自己實為「玉羅剎」，殺閻家為替全家報仇，徐勸其勿濫殺無辜，冷不聽...
-</desc></programme>
-
-
-<programme start="20220910121500 +0800" stop="20220910133500 +0800" channel="天映經典CCM">
-<title lang="hk">楊貴妃\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：李麗華, 嚴俊, 李香君
-
-劇情簡介：唐明皇十分寵愛妃子楊貴妃，導致終日尋歡作樂，荒廢國事，更將所有國事交貴妃之兄丞相楊國忠處理。丞相卻因貪贓枉法，暴虐無道，引起軍民共憤。民眾乘機造反要弒唐明皇，貴妃自知難逃一死，於是最終投繯自盡。
-</desc></programme>
-
-
-<programme start="20220910133500 +0800" stop="20220910151500 +0800" channel="天映經典CCM">
-<title lang="hk">掌門人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：劉家良, 惠英紅, 劉家輝, 張展鵬
-
-劇情簡介：為「功夫大導」劉家良於1983年自編自導自演的作品。故事描述，劉代師傅主持國術會，一向平安無事，適逢會館搬遷，劉派女兒惠英紅接掌；新舊派作風回異，劉只得離去；後因惠頻惹是非，劉聞訊即回巢聲援…
-</desc></programme>
-
-
-<programme start="20220910151500 +0800" stop="20220910173000 +0800" channel="天映經典CCM">
-<title lang="hk">船\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陶秦
-Cast：何莉莉, 林嘉, 井莉, 金漢
-
-劇情簡介：《船》是陶秦愛情片中的傑作，錯綜雜的愛情連線將故事帶出。嘉文（楊帆飾）跟妻可欣（何莉莉飾）、湘怡（井莉飾）、及紀遠（金漢飾）在劇中本為朋友，卻發生了多角戀情，結局令人唏噓。
-</desc></programme>
-
-
-<programme start="20220910173000 +0800" stop="20220910191000 +0800" channel="天映經典CCM">
-<title lang="hk">楊過與小龍女\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：華山
-Cast：張國榮, 翁靜晶, 陳觀泰, 劉雪華
-
-劇情簡介：改編自金庸名著《神鵰俠侶》，由張國榮與翁靜晶分飾楊過與小龍女。劇情描述楊過逃離全真教，誤打誤撞與小龍女相遇。二人在古墓生活，本為融洽；後小龍女為師姐李莫愁（恬妮）所傷，更遭尹志平（洪新南）迷姦。小龍女誤以為失身於楊過，遂提婚議，楊過不知就裡加以婉拒，小龍女悲憤離開古墓。楊過四出訪尋，終與小龍女重逢；惟重提婚事，卻為黃蓉（劉雪華）勸阻。小龍女為不讓師徒戀損楊過聲譽，悄然出走...
-</desc></programme>
-
-
-<programme start="20220910191000 +0800" stop="20220910210000 +0800" channel="天映經典CCM">
-<title lang="hk">紅樓夢\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：袁秋楓
-Cast：樂蒂, 丁寧, 丁紅, 杜娟, 任潔
-
-劇情簡介：由袁秋楓執導的《紅樓夢》被譽為同名電影當中的經典之作。素有「古典美人」之稱的樂蒂將美麗卻略帶哀怨神韻的黛玉傳神演繹，配合音樂大師王福齡的音樂，將寶玉與黛玉一段蕩氣迴腸的苦戀刻劃得細膩動人。
-</desc></programme>
-
-
-<programme start="20220910210000 +0800" stop="20220910224000 +0800" channel="天映經典CCM">
-<title lang="hk">大醉俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：胡金銓
-Cast：鄭佩佩, 岳華, 陳鴻烈
-
-劇情簡介：女俠「金燕子」的兄長被山賊擄走，幸得武功高強的「醉俠」範大悲相助，從作惡多端的寺廟主持手上救出兄長。本片曾代表香港出戰第39屆奧斯卡金像獎最佳外語片的首輪評選。
-</desc></programme>
-
-
-<programme start="20220910224000 +0800" stop="20220911003500 +0800" channel="天映經典CCM">
-<title lang="hk">菁菁\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：嚴俊
-Cast：李菁, 金峰
-
-劇情簡介：故事講述茶居老闆女菁菁與伐木工羅貴生相戀，菁父聞說惡霸看中菁，忙找生籌備婚事；不料翌日生即奉命運送木材進城，只得與菁暫別。生進城後，鎮上即有謠言，說生已在城裡另訂親事；另一方面菁無意中發現惡霸向寡婦施暴，寡婦不甘受辱自殺，惡霸欲殺人滅口，菁身陷險境。
-</desc></programme>
-
-
-<programme start="20220911003500 +0800" stop="20220911022000 +0800" channel="天映經典CCM">
-<title lang="hk">儒俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：高立
-Cast：張翼, 虞慧, 舒佩佩, 焦姣
-
-劇情簡介：本片改編之金庸小說《書劍恩仇錄》。年青劍客被指派為秘密愛國組織「日月會」的總舵主。他誓要對抗與敵勾結的大將軍，保護國家民族。期間，劍客遇上年輕女俠及兩位美麗的維族公主，她們三人都同時對他產生愛慕之情。
-</desc></programme>
-
-
-<programme start="20220911022000 +0800" stop="20220911040000 +0800" channel="天映經典CCM">
-<title lang="hk">狂戀詩\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楊樹希
-Cast：胡燕妮, 金漢, 楊帆, 金峰
-
-劇情簡介：大偉（金漢飾）和小春（楊帆飾）是同胞兄弟，一個放浪，一個含蓄。小春在舞會邂逅女子珠迪（胡燕妮），情心一片。大偉發現珠迪有個年老丈夫，得知此秘密，大偉以此威脅，迫珠迪和他幽會，自始珠迪週旋三個男人之間... 導演以女性角度大膽描寫男女情關，手法細膩，而結局亦出人意表。
-</desc></programme>
-
-
-<programme start="20220911040000 +0800" stop="20220911054000 +0800" channel="天映經典CCM">
-<title lang="hk">青春萬歲\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：丁珮, 林沖, 趙心研, 高苓
-
-劇情簡介：青年歌手趙克仁被夜總會老闆委托，到日本尋找他的女兒秋婷。克仁在日本遇到了少女花子、表妹荔萍、女歌手蘇珊、以及冒認是秋婷的女子。克仁愛上了蘇珊。當老闆親自去日本，便認出了蘇珊就是他的女兒秋婷...
-</desc></programme>
-
-
-<programme start="20220911054000 +0800" stop="20220911073000 +0800" channel="天映經典CCM">
-<title lang="hk">女子公寓\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：丁佩, 楊帆, 李麗麗, 區燕菁, 夏萍
-
-劇情簡介：本片為日本名導井上梅次編導，王福齡配樂，由丁佩、楊帆及李麗麗主演。故事背景為一幢女子公寓，房東陳太太（歐陽莎菲飾）痛恨男人，嚴禁男性進入，不幸，女房客卻多靠男性而活；歌女尤淑文（丁佩飾）由台北飛到香港，找尋失蹤的妹妹；尤經作曲家王德生（楊帆飾）介紹到居所樓上之女子公寓居住...
-</desc></programme>
-
-
-<programme start="20220911073000 +0800" stop="20220911092000 +0800" channel="天映經典CCM">
-<title lang="hk">少林與武當\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：羅莽, 王力, 孫建, 江生, 文雪兒
-
-劇情簡介：清朝年間，少林派以反清復明為志，武當派卻為清廷所用，兩大門派因而逐漸形成敵對局面，並掀起一場又一場的打鬥…
-</desc></programme>
-
-
-<programme start="20220911092000 +0800" stop="20220911110000 +0800" channel="天映經典CCM">
-<title lang="hk">城市之光\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張堅庭
-Cast：陳友, 惠英紅, 招文欣, 吳詠琪
-
-劇情簡介：導演張堅庭在本片體現香港八十年代的大城小景；陳友與妻子惠英紅從大陸來港投靠父親，卻發現他並非如信中所言生活富足。東方之珠的美夢換來悲喜交集。
-</desc></programme>
-
-
-<programme start="20220911110000 +0800" stop="20220911125500 +0800" channel="天映經典CCM">
-<title lang="hk">英雄無淚\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：傅聲, 白彪, 趙雅芝
-
-劇情簡介：江湖異人蕭大師鑄成寶劍「淚痕劍」，不料該劍顯現出兇兆，將會帶來武林浩劫，而他的親生子注定要死在此劍之下。蕭爲了使此劍不危害江湖，將它交給一位淡薄名利的弟子保管。數十年後該弟子把它傳給門徒小高，令其帶劍下山望化解江湖劫數。
-</desc></programme>
-
-
-<programme start="20220911125500 +0800" stop="20220911143000 +0800" channel="天映經典CCM">
-<title lang="hk">娃娃夫人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：金洙容
-Cast：李菁, 凌雲, 凌玲, 張佩山
-
-劇情簡介：此乃「娃娃皇後」李菁的代表作，榮獲第十八屆亞洲影展「最受歡迎女主角」獎。三十五歲的男教師林明（淩雲飾）娶了十七歲的女學生珍珍（李菁飾）。兩人在同一學校上課，隱藏夫妻秘密。珍發覺林明常被女生包圍，而林又發現珍常被男老師追求，期間笑料百出。
-</desc></programme>
-
-
-<programme start="20220911143000 +0800" stop="20220911160000 +0800" channel="天映經典CCM">
-<title lang="hk">女殺手\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：麥志和
-Cast：何莉莉, 張佩山, 黃宗迅, 井淼
-
-劇情簡介：女殺手（何莉莉）被組織控制，強逼去殺商界名人石英，險中殺人滅口的陷阱。她不想淪為殺人工具，決心進行報仇大計，故事曲折離奇...
-</desc></programme>
-
-
-<programme start="20220911160000 +0800" stop="20220911173000 +0800" channel="天映經典CCM">
-<title lang="hk">三十年細說從頭\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：劉永, 戴良純, 李殿馨
-
-劇情簡介：大導演李翰祥改編自己大受歡迎的專欄，盡現電影圈光怪陸離的趣事及傳聞，由愛將劉永和戴良純扮演不同角色，保證令你捧腹大笑。
-</desc></programme>
-
-
-<programme start="20220911173000 +0800" stop="20220911191000 +0800" channel="天映經典CCM">
-<title lang="hk">遊俠情\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：龍逸昇
-Cast：惠英紅, 何家勁, 關芝琳
-
-劇情簡介：杜孟飛奉命下山闖蕩江湖，途中救出遭黑道中人捉拿的沐婉兒，杜挺身相救，沐萬分感激。未幾，杜又救出被黑道中人圍攻的少女李賽男。及後，杜無意中得知一段二十年前的江湖恩怨，黑道首領是李之殺父仇人，而沐則是黑道首領失散的女兒…
-</desc></programme>
-
-
-<programme start="20220911191000 +0800" stop="20220911210000 +0800" channel="天映經典CCM">
-<title lang="hk">雙鳳奇緣\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：週詩祿
-Cast：凌波, 方盈, 金峰, 金漢, 李菁
-
-劇情簡介：秦鳳笙（金峰飾）、鳳簫（凌波飾）兄妹才情敏捷，滿腹經綸，卻常受繼母夏氏（高寶樹飾）刻薄。鳳簫自幼許與李如龍（金漢飾）為妻，夏氏貪圖富貴，強逼如龍退婚；如龍不肯，夏氏再施毒計誣告如龍偷盜，將其收在獄中。鳳簫為救如龍，與侍婢春蘭（李菁飾）喬扮男裝上京，更以如龍之名赴考，一舉而中恩科狀元。明世宗（井淼飾）見鳳簫長得一表非凡，乃命相國夏言（蔣光超飾）為媒，招為駙馬。洞房之夕，鳳簫向公主（方盈飾）言明真相，並說服公主，安排一條妙計……
-</desc></programme>
-
-
-<programme start="20220911210000 +0800" stop="20220911225500 +0800" channel="天映經典CCM">
-<title lang="hk">龍虎少爺\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家榮
-Cast：劉家輝, 劉家榮, 張展鵬, 傅聲
-
-劇情簡介：本片由已故一代功夫巨星傅聲與擅演少林武僧的劉家輝領銜主演，劉家榮自導自演、王晶編劇。故事描述，執到寶（傅聲）為武功了得的尋寶專家，因聞招九積（張展鵬）自稱有張保仔寶藏之線索，乃往賭場將其救出；招雲古董商人魯古董（劉家榮）藏有張生前一批信札，執、招夜竊不遂，以敲碎古玩要脅，取得信札；惟信札字跡陳舊，僅認清法華寺字樣；彼時適逢高僧無相（劉家輝）下山，執遂假扮瘋僧約無相談禪，招則暗闖其房搜尋秘密...
-</desc></programme>
-
-
-<programme start="20220911225500 +0800" stop="20220912003500 +0800" channel="天映經典CCM">
-<title lang="hk">雙鐲\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：黃玉珊
-Cast：陳德容, 劉小慧, 郭晉安, 陶大宇
-
-劇情簡介："少女惠花（陳德容）及秀姑（劉小慧）自小情同姊妹，二人在媽祖廟內結為姐妹夫妻，互換手鐲為盟。秀出嫁，花對秀的戀慕更為沈迷。秀丈夫阿光（郭晉安）申請外調特區工作獲準，擬偕秀同行；花竟欲刺死秀然後自殺，下手之際忽聞秀已有身孕，花竟決定...
-
-第11屆香港電影金像獎最佳電影歌曲 - 《似是故人來》（梅豔芳主唱）"
-</desc></programme>
-
-
-<programme start="20220912003500 +0800" stop="20220912021500 +0800" channel="天映經典CCM">
-<title lang="hk">卒仔抽車\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：江龍
-Cast：錢小豪, 麥德羅, 陳觀泰
-
-劇情簡介：阿旦(麥德羅飾)、墨魚(蔣金飾)、阿喜(劉玉璞飾)、荷官(錢小豪飾)等一群窮小子，遇上生活寂寥的富豪崔東成(陳觀泰飾)，達成了一個賭局，要於十日內偷得崔的名車。五人與崔鬥智鬥力，終戰勝億萬富豪！
-</desc></programme>
-
-
-<programme start="20220912021500 +0800" stop="20220912041000 +0800" channel="天映經典CCM">
-<title lang="hk">玉堂春\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥, 胡金銓
-Cast：樂蒂, 趙雷, 高寶樹, 朱牧, 楊志卿
-
-劇情簡介：王金龍（趙雷飾）與名妓蘇三（樂蒂飾）相愛，無奈無錢被趕出富春院。蘇被老鴇（紅薇飾）賣予富戶沈燕林（楊志卿飾）為妾，卻被沈妻（高寶樹飾）誣告毒殺親夫，判以死罪。已考取功名的王，決意開堂覆審救蘇...
-</desc></programme>
-
-
-<programme start="20220912041000 +0800" stop="20220912054000 +0800" channel="天映經典CCM">
-<title lang="hk">鬼屋麗人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：週旭江
-Cast：張美瑤, 楊麗花, 雷鳴, 崔福生
-
-劇情簡介：本片是根據《聊齋》中之《書癡》改編，故事描述玉柱被叔叔郎中元欺負，搬進常鬧鬼的「孝廉府」。然後玉柱遇上了顏如玉，二人及後結成夫婦。郎中元之友史良金竟拐走如玉，將其迷姦。良金妻妾更毒害如玉，如玉化成厲鬼，將中元、良金等人殺害。玉柱因如玉已不在人世，不禁一陣辛酸。
-</desc></programme>
-
-
-<programme start="20220912054000 +0800" stop="20220912070500 +0800" channel="天映經典CCM">
-<title lang="hk">鬼新娘\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：週旭江
-Cast：邢慧, 楊帆, 顧媚, 雷鳴
-
-劇情簡介：七十年代偶像巨星邢慧和楊帆帶來的驚悚片，提醒您千萬別娶被附身的女人為妻，她絕對不會放過您！劇中的女鬼生前被叔叔姦殺，現在要借用邢慧的身體報仇！
-</desc></programme>
-
-
-<programme start="20220912070500 +0800" stop="20220912085000 +0800" channel="天映經典CCM">
-<title lang="hk">宋宮秘史\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：高立
-Cast：淩波, 金峰, 高寶樹, 井淼
-
-劇情簡介：包公發現劉妃在二十年前為保其位而謀害李妃，將李妃剛誕下的兒子調走後，把她逐出皇宮。於是，包公用妙計誘大太監郭槐認罪，揭發當年他與劉妃合謀陷害李妃之姦計，並將劉妃定罪。而李妃也被接回皇宮，與已為皇帝的兒子團聚。
-</desc></programme>
-
-
-<programme start="20220912085000 +0800" stop="20220912103000 +0800" channel="天映經典CCM">
-<title lang="hk">新飛狐外傳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉仕裕
-Cast：惠英紅, 萬梓良, 黃日華
-
-劇情簡介：故事講述了號稱打遍天下無敵手的苗人鳳，與大俠胡一刀不打不相識又識英雄重英雄，在比武過程中中了姦計，苗誤殺了胡，胡妻亦為夫殉情。兒子胡斐長大後誓要報仇……斐先後邂逅袁紫衣，程靈素二女，發展一段無私的三角戀。
-</desc></programme>
-
-
-<programme start="20220912103000 +0800" stop="20220912121000 +0800" channel="天映經典CCM">
-<title lang="hk">樑上君子\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：徐蝦
-Cast：錢小豪, 羅莽, 董驃, 廖麗玲
-
-劇情簡介：本片為徐蝦導演。 董驃, 錢小豪及蔣金飾扒手, 惟董失手被捕; 董出獄後裝南洋闊客, 隨錢及蔣返家, 因為想扮相古怪, 惹途人圍觀, 三人乘機施妙手, 更向盤問的保安隊長羅莽自詡身份特殊, 使羅躬身謝罪...
-</desc></programme>
-
-
-<programme start="20220912121000 +0800" stop="20220912135000 +0800" channel="天映經典CCM">
-<title lang="hk">黑鷹\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：戴高美
-Cast：胡燕妮, 杜娟, 張沖, 王俠
-
-劇情簡介：新加坡的黑鷹組織專與香港保險業作對。私家偵探張世傑從黑鷹領袖陳祖培女兒麗思入手。他倆認識後，不斷受到狙擊追殺，原來陳祖培於一年前已遭人殺害，胡媚用陳名義發號施令，為非作歹。張世傑與黑鷹集團展開連場激戰！
-</desc></programme>
-
-
-<programme start="20220912135000 +0800" stop="20220912153500 +0800" channel="天映經典CCM">
-<title lang="hk">魚美人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：高立
-Cast：凌波, 李菁
-
-劇情簡介：張珍與金寵之女牡丹早有婚約，金寵卻欲退婚。張珍偶遇化身金牡丹樣子的鯉魚精，兩人漸生情愫。一天，金寵請包公來公斷兩個真假牡丹，包公為成全二人，推辭此案……
-</desc></programme>
-
-
-<programme start="20220912153500 +0800" stop="20220912173500 +0800" channel="天映經典CCM">
-<title lang="hk">鐵旗門\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：郭追, 江生, 王力, 鹿峰, 龍天翔
-
-劇情簡介：本片為張徹導演，他與倪匡聯合編劇，並由郭追、江生、鹿峰及龍天翔等主演。故事描述，正派「鐵旗門」與反派「神鷹堂」，一直對立。一次，「神鷹堂」堂主以向「鐵旗門」陪罪為辭，邀「鐵旗門」門主鐵麟偕弟子往總壇喝酒；鐵認為內中有詐，不宜前往，但大弟子曹風（鹿峰）則力言將計就計，若彼等有所行動，就乘機將他們消滅，鐵允之。「神鷹堂」果然十面埋伏，鐵等將敵人逐一殲滅；惟鐵竟在混亂中遇害，卻未知死於誰手...
-</desc></programme>
-
-
-<programme start="20220912173500 +0800" stop="20220912191500 +0800" channel="天映經典CCM">
-<title lang="hk">女秀才\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：高立
-Cast：凌波, 金峰
-
-劇情簡介：歌唱古裝彩色鉅片《女秀才》，由《魚美人》金像導演高立執導，張徹編劇，亞洲影後凌波，夥拍曾在《雙鳳奇緣》結片緣的英俊小生金峰，還有漂亮小生何藩、美艷女星金菲，葉青、楊志卿、王惠芳、馬笑儂、胡同等演員陣容合演。聞蜚蛾（凌波飾）自幼女扮男裝從父習武，後更考得秀才功名，堪稱文武全才。同窗好友杜子中（何藩飾）與魏撰之（金峰飾）雖與蜚蛾日夕相對，均不知其是女兒身。聞母見女兒年紀不小，不該再扮男裝，勸蜚蛾選撰之或子中為夫婿。不料蜚娥與二人情誼相同，一時無法抉擇，遂決定由天定奪，怎知陰差陽錯，選婿之箭落於撰之手中。蜚娥後悔不已，才知自己意屬子中。此時聞父被姦臣陷害，蜚娥決意為之雪冤，途中於強盜手中救出景員外之女景芙春（金霏飾）。芙春感蜚蛾救命之恩，有意終身相許；蜚蛾見情不可卻，只得與芙春訂下親事……
-</desc></programme>
-
-
-<programme start="20220912191500 +0800" stop="20220912210000 +0800" channel="天映經典CCM">
-<title lang="hk">至尊一劍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李百齡
-Cast：爾冬陞, 白彪, 李殿朗
-
-劇情簡介：魔山派秦五新（白彪飾）劍術高超，連敗九十九名劍手，終在最後一擊敗在劍神（王戎飾）手上。五新知其欠缺一柄寶劍，遂殺死著名鑄劍師老鷹（谷峰飾），奪取稀世的「老鷹寶劍」。老鷹之子燕北（爾冬陞飾）悲痛萬分，矢誓報仇，不自量力挑戰五新，結果被打落懸崖之下...
-</desc></programme>
-
-
-<programme start="20220912210000 +0800" stop="20220912223500 +0800" channel="天映經典CCM">
-<title lang="hk">雙喜臨門\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：秦劍
-Cast：梁醒波, 井莉, 金峰, 高寶樹, 魏平澳
-
-劇情簡介：李明珠與朱國棟同學變戀人，學成歸國，預備共結佳偶，卻不知兩者父親為死對頭，兩父均反對婚事。後來國棟朋友想出妙計，教明珠、國棟裝死。朱父見愛子因婚姻不自由而死，竟答應死後成夫婦，明珠、國棟馬上復活。朱父最終答應婚事，但李父堅決不允許，更與朱父大打出手！
-</desc></programme>
-
-
-<programme start="20220912223500 +0800" stop="20220913001000 +0800" channel="天映經典CCM">
-<title lang="hk">清宮啟示錄\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：劉永, 劉雪華, 莫少聰
-
-劇情簡介：清帝康熙自知不久人世，決定傳位於十四太子（莫少聰飾）；後十四太子忽遭面殺手行刺，幸為親信曾靜（徐少強飾）所救。原來四太子（劉永飾）早已覬覦帝位，乃派人行刺胞弟；四太子計畫失敗後，收買曾靜不果，乃四出求賢，卒覓得文武雙全之年羹堯（白彪飾）相助，更拉攏反清文人呂留良（穀峰飾）及其女呂四娘（劉雪華飾）等，佯稱若助其登上帝位，誓必履行「滿漢一家」之協議...
-</desc></programme>
-
-
-<programme start="20220913001000 +0800" stop="20220913021000 +0800" channel="天映經典CCM">
-<title lang="hk">西遊記\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：何夢華
-Cast：岳華，彭鵬，田琛，何藩
-
-劇情簡介：故事講述唐僧(何藩)赴西天取經，中途在五指山收服馬騮精(岳華) ；在高家莊收服豬八戒(彭鵬)；在流沙河收服沙悟淨(田琛)的種種情節。
-</desc></programme>
-
-
-<programme start="20220913021000 +0800" stop="20220913035500 +0800" channel="天映經典CCM">
-<title lang="hk">小子有種\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：傅聲, 黃杏秀, 陳惠敏, 谷峰
-
-劇情簡介：緊張大師孫仲執導，一反過去風格，拍出一部諧趣惹笑的功夫處境喜劇。借西方文化和東方文化衝突下，中國人重拾民族信心，又寫出父子代溝問題，頗有深意。小鎮上，有放洋流學回來的假洋鬼子，借西方文明的優越感，處處欺壓村民。小子張小泰（傅聲）利用中國功夫，與假洋鬼子唐羅拔（王龍威）爭女友（黃杏秀），先破西洋拳，再敗日本劍道，大勝西洋劍。傅聲和黃杏秀以功夫跳西洋舞，惹笑風趣，叫人忍俊不禁。中國武術與西方搏擊對壘，刺激新鮮。傅聲充滿反叛氣息，和谷峰拍檔演鬥氣父子，一老一少，對白幽默，充滿時代感。
-</desc></programme>
-
-
-<programme start="20220913035500 +0800" stop="20220913055000 +0800" channel="天映經典CCM">
-<title lang="hk">金燕子\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：鄭佩佩, 王羽, 羅烈
-
-劇情簡介：白衣大俠和黑色醉俠同時愛上女俠金燕子。三人卻聯手對付江湖中的惡勢力。在一場生死對決展開前，金燕子還是遲遲未能作出自己感情的抉擇。
-</desc></programme>
-
-
-<programme start="20220913055000 +0800" stop="20220913074500 +0800" channel="天映經典CCM">
-<title lang="hk">碧血劍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：郭追, 文雪兒, 江生, 井莉
-
-劇情簡介：此金庸電影為張徹導演的版本，拍於1981年，劇情主要說，明朝末年，忠臣袁崇煥被害，其幼子袁承志（郭追）由啞僕救出，逃往華山拜掌門人穆人清為師。在山上學武的期間，袁無意中於山洞內發現武林前輩金蛇郎君（龍天翔）之骸骨，他埋葬了金，並在機關中獲得金蛇秘笈；袁練就金蛇劍後，即履行金遺囑，赴衢州石樑尋訪女子溫儀（井莉）。途中，袁遇上青青（文雪兒），因此捲入了溫家的糾紛中，後來才引出青原來是金的女兒，儀則是金妻...
-</desc></programme>
-
-
-<programme start="20220913074500 +0800" stop="20220913094000 +0800" channel="天映經典CCM">
-<title lang="hk">洪拳與詠春\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：傅聲, 陳依齡, 戚冠軍, 劉家輝
-
-劇情簡介：清廷派人掃平少林寺，殺掉所有少林弟子。從中倖存出來的兩名弟子，分別拜入詠春及洪拳師傅門下，學習拳法。最終他們挾技擊敗敵人，並為死去師兄弟報仇。
-</desc></programme>
-
-
-<programme start="20220913094000 +0800" stop="20220913112000 +0800" channel="天映經典CCM">
-<title lang="hk">蘭嶼之歌\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：潘壘
-Cast：張沖, 鄭佩佩
-
-劇情簡介：蘭嶼紅蟲為患，島上人只信大頭目及巫醫巴達（黃宗迅飾）兩人。年青醫生何維德（張沖飾）到蘭嶼找尋曾到此研究紅蟲而失蹤的父親，因而與未婚妻白丹娜（何莉莉飾）鬧翻。後來何與孤女雅蘭（鄭佩佩飾）相愛，惹來西呼達（王俠飾）嫉妒；同時何為島民治病，令巴達信眾日減，西呼達、巴達均伺機殺何，何身陷險境而不自知……
-</desc></programme>
-
-
-<programme start="20220913112000 +0800" stop="20220913125500 +0800" channel="天映經典CCM">
-<title lang="hk">洪拳大師\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：唐佳
-Cast：狄龍, 劉雪華, 麥德羅
-
-劇情簡介：廣東十虎之首的鐵橋三為人景仰，擁有徒弟無數。當時達官貴人都以吸食鴉片為時尚，而鐵橋三亦隨俗吸食，身子因此漸受毒害。後來，鐵橋三更被煙館主人擊敗，幸得徒弟捨身相救，他才不致喪命。於是，鐵橋三決心戒掉鴉片，重新振作。
-</desc></programme>
-
-
-<programme start="20220913125500 +0800" stop="20220913143500 +0800" channel="天映經典CCM">
-<title lang="hk">我為你狂\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：金炳興
-Cast：艾迪, 蔣麗萍, 金燕玲
-
-劇情簡介：的士司機阿發（艾迪飾）與少女阿霞(蔣麗萍飾)相愛已久，但發有神經錯亂，霞為除心理負擔，忍痛分手; 發大鬧霞家並斷指示真心，令霞感動而復合。然發卻不務正業，令霞甚為反感;一次爭執間，發狂性大發，霞流產，再次離開發...
-</desc></programme>
-
-
-<programme start="20220913143500 +0800" stop="20220913161500 +0800" channel="天映經典CCM">
-<title lang="hk">沖霄樓\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：鹿峰, 王力, 龍天翔, 孫建, 錢小豪
-
-劇情簡介：改編自俠義小說《七俠五義》，人物繁多，情節多變，難得張徹處理得有條不紊，角色性格分明。故事講述襄陽王在王府中，建造的沖霄樓機關密佈，又廣招花蝴蝶花沖、神手大聖鄧車和小諸葛沈仲元等江湖俠士加盟，伺機造反。包公得悉襄陽王叛跡，乃命門生顏春敏前往調查。
-</desc></programme>
-
-
-<programme start="20220913161500 +0800" stop="20220913174500 +0800" channel="天映經典CCM">
-<title lang="hk">多咀街\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：王風
-Cast：邵氏紅星電視藝員
-
-劇情簡介：本片為王風於1974年編導之處境喜劇，由李修賢、仙杜拉、梁天、羅蘭及鄭君綿等邵氏旗下紅星暨無線電視著名藝員聯合主演。片中「多咀街」是一條丁字形的熱鬧街道，住客大多是各行各業的小市民。他們對社會所發生的大小事情喜歡談論.七嘴八舌，招惹是非；三言兩語，道出人情冷暖，有道是：言為心聲。不管是粵劇藝員、暴發戶、黑社會人物或司機，他們說的話是嬉笑怒罵或冷嘲熱諷也好，都足以反映出現實社會人情百態之一斑。
-</desc></programme>
-
-
-<programme start="20220913174500 +0800" stop="20220913192000 +0800" channel="天映經典CCM">
-<title lang="hk">武林聖火令\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：劉雪華, 莫少聰, 白彪, 郭追, 翁靜晶
-
-劇情簡介：本故事由著名電視監蕭笙提供，故事描述尹天仇（莫少聰飾）的父母取得神器的藏令訣後，遭靜音師太（劉雪華飾）及魔頭半怪（白彪飾）所殺，幸尹為鬼叟（郭追飾）所救，後鬼遣其取聖火令復仇...
-</desc></programme>
-
-
-<programme start="20220913192000 +0800" stop="20220913210000 +0800" channel="天映經典CCM">
-<title lang="hk">人皮燈籠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：劉永, 陳觀泰, 羅烈
-
-劇情簡介：趙春方曾於決鬥敗於龍帥之手下。七年後，龍帥為在賞燈大會上奪魁，往尋趙春方代為製造別緻燈籠。趙春方藉此暗中佈下復仇大計。龍帥之妻無固失蹤後，他驚聞有關人皮燈籠的傳說，並開始懷疑趙春方與失蹤事件有關......
-</desc></programme>
-
-
-<programme start="20220913210000 +0800" stop="20220913224000 +0800" channel="天映經典CCM">
-<title lang="hk">連城訣\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：牟敦芾
-Cast：岳華, 施思, 白彪, 廖麗玲
-
-劇情簡介：丁典（白彪）獲得秘典「神照經」及可以成為天下第一巨富的「連城訣」，且與知府淩退思（岳華）的女兒霜華（施思）相戀，淩為奪秘典，將丁打下牢獄。狄雲（吳元俊）於死囚獄中認識丁，被傳授「神照功」。淩狠心對女兒下毒手，丁憤然與狄越獄，結果被毒死，而「連城訣」竟然在...
-</desc></programme>
-
-
-<programme start="20220913224000 +0800" stop="20220914003500 +0800" channel="天映經典CCM">
-<title lang="hk">鑽石艷盜\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：何莉莉, 凌雲
-
-劇情簡介：艷盜夜來香（何莉莉）和大賊夜爵士（凌雲），兩人不謀而合，圖盜林麗利（崔芝淑）身上的維納斯的眼淚巨鑽。夜來香認識了林，並伺機下手。不料林勾搭了夜爵士，夜來香在他們一夜纏綿時，偷去巨鑽，再把假鑽放回聖經中，而夜爵士又悄悄盜去假石，自此真假難分。兩大盜相遇，惺惺相識之餘，更是情敵難分。
-</desc></programme>
-
-
-<programme start="20220914003500 +0800" stop="20220914022000 +0800" channel="天映經典CCM">
-<title lang="hk">龍虎溝\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：嶽楓
-Cast：鄭佩佩, 金漢, 林嘉
-
-劇情簡介：導演岳楓由1932年開始在上海拍片，並在香港創作長達二十多年，擅於應付不同的題材與類型，可謂中國電影的見證人。本片為岳氏於1966年執導之民初動作片，劇情主要描述，二妞（鄭佩佩）收到父親遇害前寫下的仇人名單，遂連同兄長建明（金漢）展開一幕奇情追兇...
-</desc></programme>
-
-
-<programme start="20220914022000 +0800" stop="20220914042000 +0800" channel="天映經典CCM">
-<title lang="hk">萬花迎春\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陶秦
-Cast：樂蒂, 陳厚, 高寶樹, 藍娣, 蔣光超
-
-劇情簡介：喜劇小生陳厚和樂蒂夫妻檔的舞姿和演技堪稱一絕，故事講述富家女混入歌舞團，兩冤家情花暗種。
-</desc></programme>
-
-
-<programme start="20220914042000 +0800" stop="20220914060000 +0800" channel="天映經典CCM">
-<title lang="hk">布衣神相\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊穀
-Cast：徐少強, 萬梓良, 劉永, 陳觀泰, 劉雪華
-
-劇情簡介：故事描述雲飛揚（徐少強飾）練就天蠶神功後，雖躍為江湖上兩大高手之一，卻厭倦江湖，無心爭霸，與愛侶倫婉兒（劉雪華飾）隱居；反之獨孤無敵（萬梓良飾）卻閉關苦練滅絕魔功。隨著二人暫息紛爭，東瀛甲賀派教主纖月蒼龍軒（陳觀泰飾）卻欲稱霸中原...
-</desc></programme>
-
-
-<programme start="20220914060000 +0800" stop="20220914073500 +0800" channel="天映經典CCM">
-<title lang="hk">少年蘇乞兒\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉仕裕
-Cast：劉家輝, 白彪, 汪禹, 王龍威
-
-劇情簡介：廣東十虎之一蘇乞兒乃清代武林傳奇人物，曾有多部以其出身和經歷為題材的電影面世，本片拍於1985年，由劉仕裕導演、王晶編劇、劉家輝飾演少年蘇燦。劇情講述，蘇燦為蘇家酒莊主人蘇瑞（關海山）之長子，生性恬淡隨和，但喜酗酒及流連妓院，令老父深感不滿。一日，燦在學校與同學打架，被逐出校，被逼追隨墊師梁鴻（白彪）讀書。燦在偶然機會下發現梁鴻身懷絕技，央其收之為徒。後蘇家遭北方劇盜蜈蚣（王龍威）滅門，梁鴻亦死於蜈蚣暗算之下，燦為著公仇私恨，與蜈蚣展開一場生死決...
-</desc></programme>
-
-
-<programme start="20220914073500 +0800" stop="20220914091000 +0800" channel="天映經典CCM">
-<title lang="hk">慾燄狂流\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：羅臻
-Cast：胡燕妮, 喬莊, 楊帆, 於倩
-
-劇情簡介：故事描述飾花花公子的喬莊與好友楊帆，同時愛上胡燕妮，但楊成人之美。但喬因生殖力弱，故當胡懷孕時，就懷疑妻與楊有染…
-</desc></programme>
-
-
-<programme start="20220914091000 +0800" stop="20220914105000 +0800" channel="天映經典CCM">
-<title lang="hk">禦貓三戲錦毛鼠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：傅聲, 鄭少秋, 惠英紅
-
-劇情簡介：展昭、白玉堂武功不相上下。白一次無意中救了皇帝獲嘉封，卻不相信其身份，揚長而去。後皇帝再遇險，被展所救，展即獲禦封。白不忿盜去玉璽，欲戲弄展，幸展武功高強，終不辱皇命而回。
-</desc></programme>
-
-
-<programme start="20220914105000 +0800" stop="20220914122500 +0800" channel="天映經典CCM">
-<title lang="hk">人蛇鼠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：宗華, 韋弘, 丹娜
-
-劇情簡介：莊家農場獨子莊士德（宗華）外國歸來，接手由胡麟（韋弘）管理的產業。胡一直與德之表妹曼玲（丹娜）勾結，圖取莊家產業，並欲利用曼玲美色迷惑德！怎知在阿芬（蕭瑤）飼養的小蛇「西西」幫助下，反令德與芬結成夫婦。後來胡買來一條專咬人的野老鼠，欲將德之初生嬰兒咬死，「西西」為救嬰兒，與野鼠作殊死搏鬥...
-</desc></programme>
-
-
-<programme start="20220914122500 +0800" stop="20220914141500 +0800" channel="天映經典CCM">
-<title lang="hk">死囚\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：姜大衛
-Cast：李麗麗, 蔡弘, 姜大衛
-
-劇情簡介：由「亞洲影帝」姜大衛自導自演，倪匡寫劇本，描述流浪漢（蔡弘飾）含冤入獄，在獄中遇上扒手（姜大衛），二人為黑獄蒙冤，設法越獄；誰料此次的逃獄竟使二人成真正的死囚...
-</desc></programme>
-
-
-<programme start="20220914141500 +0800" stop="20220914161000 +0800" channel="天映經典CCM">
-<title lang="hk">傾國傾城\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：盧燕, 蕭瑤, 狄龍
-
-劇情簡介：李翰祥史詩式電影，藝術成就及導演功力震驚中港台三地。本片榮獲金馬優等劇情片、最佳女主角及最佳彩色影片美術設計獎項。影後盧燕飾慈禧太後；處女演出即成名的蕭瑤，飾死後受追封為貴妃的珍妃；而為珍妃逝世而不近女色的光緒帝則是狄龍。
-</desc></programme>
-
-
-<programme start="20220914161000 +0800" stop="20220914173500 +0800" channel="天映經典CCM">
-<title lang="hk">幫規\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：徐小明
-Cast：陳觀泰, 惠天賜, 白彪
-
-劇情簡介：本片由徐小明編劇及導演，拍於1982年。故事描述，元初，元人派大將軍莽依圖（陳觀泰）打擊反元分子；反元聯盟潛龍幫正處外憂內患，伏幫主、石副幫主雙雙去世，繼任人伏中原（惠天賜）又為石夫人（劉雅麗）持信證明為元人，中原遂私下追尋身世真相。期間中原往將軍府盜取結盟名冊時，幾乎遇險，幸為女飛賊林雪兒（戴良純）所救...
-</desc></programme>
-
-
-<programme start="20220914173500 +0800" stop="20220914192500 +0800" channel="天映經典CCM">
-<title lang="hk">佛跳牆\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：野峰, 於榮, 艾飛, 邵音音
-
-劇情簡介：本片共有四個單元：首個故事描述一對母子因施予濟公一碗豆漿而逃過喪命之危；其二說濟公幫助賣菜漢逃離貴利的滋擾；其三寫濟公以櫻桃化夜明珠，教訓大盜一頓；最後是濟公以巧計捉弄胡作非爲的相爺父子。
-</desc></programme>
-
-
-<programme start="20220914192500 +0800" stop="20220914210000 +0800" channel="天映經典CCM">
-<title lang="hk">情俠追風劍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：何夢華
-Cast：汪禹, 妞妞, 羅烈, 李麗麗
-
-劇情簡介：白一鵬(淩雲)的全家遭「冷血五祖」殺害, 白闖冷家報仇, 與善良的冷秋霞(李麗麗)結合, 白被冷家追殺下跳崖, 眾人以為白已死。 冷靈芝(妞妞)乃是白與秋霞女兒, 後與父徒弟夏侯曉桐(汪禹), 將「冷血五祖」殲滅。
-</desc></programme>
-
-
-<programme start="20220914210000 +0800" stop="20220914225000 +0800" channel="天映經典CCM">
-<title lang="hk">仙女下凡\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：何夢華
-Cast：李菁, 金峰, 白璐, 李鵬飛
-
-劇情簡介：生活在天宮的仙女七妹嚮往凡間的生活，一夜她偷駕祥雲下凡到了香港，人生路不熟的仙女差點上了不法分子的當，幸得董自立所救。董原為孤兒院主持人，因經濟拮據，被迫將院址押給許財發；期限到的時候；又被勒令搬家。另一方面，七妹屢次施法助董，卻被指是鬼魂……
-</desc></programme>
-
-
-<programme start="20220914225000 +0800" stop="20220915002500 +0800" channel="天映經典CCM">
-<title lang="hk">女捕快\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：申江
-Cast：施思, 羅烈, 張佩山
-
-劇情簡介：故事講述，萬勝鏢局總鏢頭陳華堂，懾於白眉道姑的威望，撫養對頭人焦家的兒子炎兒，卻不許其習武，炎兒遂偷練父傳之「烈焰刀法」。十年後，城中出現蒙面採花大盜，女捕快泠如霜特來偵查，並將炎兒擒獲；然而採花大盜，原來是陳之長子正豪，炎兒實遭陳氏父子嫁禍。炎兒越獄而逃，誓要洗脫罪名……
-</desc></programme>
-
-
-<programme start="20220915002500 +0800" stop="20220915020500 +0800" channel="天映經典CCM">
-<title lang="hk">北地胭脂\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：何莉莉, 胡錦, 岳華, 於楓, 劉午琪
-
-劇情簡介：本片由三個發生在妓院「百花樓」的單元故事組成，乃李翰祥編導的典型豔情喜劇：〈花街柳巷〉講述妓女大琴（於楓飾）不甘淪落為娼，竟冒險向巡官告狀，要求救她脫離火坑；〈滿宮春色〉講述同治皇帝（汪禹飾）大婚之前，往妓院尋歡，終於染上梅毒不治；〈遊龍豔史〉講述正德皇帝（岳華飾）與名妓佛動心（何莉莉飾）同入鴛帳...
-</desc></programme>
-
-
-<programme start="20220915020500 +0800" stop="20220915041500 +0800" channel="天映經典CCM">
-<title lang="hk">飛狐外傳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：錢小豪, 江生, 楚湘雲, 郭追
-
-劇情簡介：十八年前，胡斐（錢小豪飾演）之父胡一刀（鹿峰飾演），與苗人鳳（郭追 飾演）交換刀劍比武，被己刀傷，繼而身亡，原來胡之刀早被田歸農（江生飾演）塗上毒藥；苗妻南蘭（楚湘雲 飾演）被田勾引，竟拋夫棄女，後田更以毒粉弄瞎苗雙眼；斐見苗受此遭遇，決定代其向藥王求救，亦因此碰上一生中最愛的藥王傳人程靈素（黃敏儀飾演）……
-</desc></programme>
-
-
-<programme start="20220915041500 +0800" stop="20220915054500 +0800" channel="天映經典CCM">
-<title lang="hk">惡虎村\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：岳楓, 汪平
-Cast：舒佩佩, 岳華, 王俠
-
-劇情簡介：資深大導演嶽楓退休前最後一部電影。九姑娘（舒佩佩飾）之兄巴傑（康華飾）勾結惡虎村惡霸胡蛟（王俠飾），圖劫鏢銀，被「鐵沙掌」駱宏勛（嶽華飾）打傷。胡蛟恐事發後被巴家追究，下毒將巴傑毒斃，嫁禍駱宏勛，巴家上下誓欲殺死駱報仇……
-</desc></programme>
-
-
-<programme start="20220915054500 +0800" stop="20220915071500 +0800" channel="天映經典CCM">
-<title lang="hk">女殺手\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：麥志和
-Cast：何莉莉, 張佩山, 黃宗迅, 井淼
-
-劇情簡介：女殺手（何莉莉）被組織控制，強逼去殺商界名人石英，險中殺人滅口的陷阱。她不想淪為殺人工具，決心進行報仇大計，故事曲折離奇...
-</desc></programme>
-
-
-<programme start="20220915071500 +0800" stop="20220915084500 +0800" channel="天映經典CCM">
-<title lang="hk">雙俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：姜大衛, 狄龍, 谷峰, 楊斯
-
-劇情簡介：宋朝康王被困於金營巨宅，看守者是金太子及高手萬天奎。義士鮑廷天欲救康王，找來輕功高手邊幅仗義相助。二人以繩索飛蕩過崖，設法救出康王。
-</desc></programme>
-
-
-<programme start="20220915084500 +0800" stop="20220915105000 +0800" channel="天映經典CCM">
-<title lang="hk">不了情\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陶秦
-Cast：林黛, 關山, 高寶樹, 洛奇, 蔣光超
-
-劇情簡介：少女李青青喪母後到香港投奔舅父，無意中結識了建築商之子湯鵬南，幷得其幫助當上了夜總會的紅歌女。李青青感激鵬南，鵬南也欣賞青青，兩人漸生情愫。面對種種困境和誤會，他倆的感情故事會有怎樣的結局？
-</desc></programme>
-
-
-<programme start="20220915105000 +0800" stop="20220915123500 +0800" channel="天映經典CCM">
-<title lang="hk">通天小子紅槍客\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：汪禹, 穀峰, 王龍威, 元華
-
-劇情簡介：本片為孫仲導演，倪匡編劇，唐佳武術指導。故事描述，「通天少爺」李寶通（汪禹）乃棉胎店老闆李昌建（谷峰）之獨子，平素不服父親管教外，還經常整蠱作怪；古板嚴謹的李昌建，屢遭兒子作弄亦不自知。寶通經常暗中替喬裝乞丐的偵緝隊長陳英剛（元彬）買食物，並向他學習武功；後英剛給「紅槍客」林飛（元華）殺死，寶通正好在暗處看見事發經過，並偷聽到林飛所透露的犯案者名字。此時，寶通行蹤被發現，幸寶通機智，得以逃脫，惟其胸部上的蒼鷹刺青已被林飛看到...
-</desc></programme>
-
-
-<programme start="20220915123500 +0800" stop="20220915140500 +0800" channel="天映經典CCM">
-<title lang="hk">鬼屋麗人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：週旭江
-Cast：張美瑤, 楊麗花, 雷鳴, 崔福生
-
-劇情簡介：本片是根據《聊齋》中之《書癡》改編，故事描述玉柱被叔叔郎中元欺負，搬進常鬧鬼的「孝廉府」。然後玉柱遇上了顏如玉，二人及後結成夫婦。郎中元之友史良金竟拐走如玉，將其迷姦。良金妻妾更毒害如玉，如玉化成厲鬼，將中元、良金等人殺害。玉柱因如玉已不在人世，不禁一陣辛酸。
-</desc></programme>
-
-
-<programme start="20220915140500 +0800" stop="20220915153500 +0800" channel="天映經典CCM">
-<title lang="hk">江湖了斷\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：黃泰來
-Cast：羅莽, 白彪, 左燕翎, 孫健
-
-劇情簡介：故事描述，羅莽、尹相林、強漢、湯鎮宗及左燕翎五人偷渡赴港時，湯不慎誤踏陷阱，羅等欲救不果，看駐軍逼近，只得舍湯而去。四人到港後，三男淪為黑幫打手，一次私下行劫時，失手被捕入獄。尹、強出獄後即被殺害，督察白彪疑是仇家所為，遂提前釋放羅，企圖引出兇手...
-</desc></programme>
-
-
-<programme start="20220915153500 +0800" stop="20220915172500 +0800" channel="天映經典CCM">
-<title lang="hk">女子公寓\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：丁佩, 楊帆, 李麗麗, 區燕菁, 夏萍
-
-劇情簡介：本片為日本名導井上梅次編導，王福齡配樂，由丁佩、楊帆及李麗麗主演。故事背景為一幢女子公寓，房東陳太太（歐陽莎菲飾）痛恨男人，嚴禁男性進入，不幸，女房客卻多靠男性而活；歌女尤淑文（丁佩飾）由台北飛到香港，找尋失蹤的妹妹；尤經作曲家王德生（楊帆飾）介紹到居所樓上之女子公寓居住...
-</desc></programme>
-
-
-<programme start="20220915172500 +0800" stop="20220915192000 +0800" channel="天映經典CCM">
-<title lang="hk">武館\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：劉家輝, 麥德羅, 谷峰, 惠英紅
-
-劇情簡介：黃飛鴻與天壽武館之王隱林年少氣盛，得罪陸正甫武館少主，從而掀起武館間的正面衝突。本片是劉家良導演最得意的作品，更是1981年十大賣座電影之一。
-</desc></programme>
-
-
-<programme start="20220915192000 +0800" stop="20220915210000 +0800" channel="天映經典CCM">
-<title lang="hk">我們戀愛去了\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陳浩
-Cast：華倫, 林鳳嬌, 陳浩
-
-劇情簡介：管 氏公司董事長管有成（儀銘飾演），已屆退休之年，決由其子大用（華倫飾演）繼其衣砵。大用母（李偉飾演），則急於替子完婚，選定珠寶商之女碧霞，及著名畫 家之女千麗，由大用挑選其一爲妻。可是二女皆非大用心目中的對象。某日，大用在偶然機會下，巧遇寶貝育幼院劉院長（魯平飾演）之甥女連蓮（林鳳嬌飾演）， 雙方發生誤會。大用急於逃離現場，匆忙中遺下皮包。連蓮只得根據皮包中之地址，將皮包送回給大用。而此際大用剛好與二女敷衍，見連蓮至，情急智生，硬將連 蓮成爲未婚妻，川息二女之心。但與連蓮又發生第二次誤會...
-</desc></programme>
-
-
-<programme start="20220915210000 +0800" stop="20220915223000 +0800" channel="天映經典CCM">
-<title lang="hk">太極拳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：鮑學禮
-Cast：陳沃夫, 施思, 韋弘, 詹森
-
-劇情簡介：顧定是太極高手，卻隱藏身份為一名建築工人。當他的女朋友被惡霸強暴後，顧定唯有迫不得已出手讓惡霸受到應有的懲罰，彰顯公義。
-</desc></programme>
-
-
-<programme start="20220915223000 +0800" stop="20220916001500 +0800" channel="天映經典CCM">
-<title lang="hk">乾隆下揚州\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：劉永, 姜南, 李昆
-
-劇情簡介：乾隆皇繼續微服南巡，這次得大臣和大學士陪行，他們一行三人來到揚州，期限遇上不少趣事。
-</desc></programme>
-
-
-<programme start="20220916001500 +0800" stop="20220916015500 +0800" channel="天映經典CCM">
-<title lang="hk">五郎八卦棍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：劉家輝, 傅聲, 李麗麗, 汪禹, 麥德羅, 小侯
-
-劇情簡介：本武俠片由劉家良自編自導自演，倪匡聯合編劇，為功夫巨星傅聲之不朽遺作。故事描述，北宋中葉，外患目亟，遼國欲吞併中原，王爺耶律連（王威龍）屢次率兵入寇，宋朝君臣昏庸，無力禦侮，賴楊家將拒敵，方可粗安。朝中侫臣潘美與管規既嫉妒楊家將功業，竟通番賣國，勾結遼人，害楊家將傷亡殆盡；楊家只得五郎（劉家輝）及六郎（傅聲）自亂軍中突圍。後五郎出家，在寺中練成八卦棍法，向潘等報復...
-</desc></programme>
-
-
-<programme start="20220916015500 +0800" stop="20220916032500 +0800" channel="天映經典CCM">
-<title lang="hk">倩女幽魂\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：樂蒂, 趙雷, 楊志卿, 洛奇
-
-劇情簡介：本片為李翰祥導演的不朽名作，講的是寧採臣和聶小倩的人鬼書生戀。樹妖姥姥逼小倩取採臣性命，幸得劍客燕赤霞所救，掀起人鬼鬥法。
-</desc></programme>
-
-
-<programme start="20220916032500 +0800" stop="20220916050500 +0800" channel="天映經典CCM">
-<title lang="hk">天蠶變\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：徐少強, 劉永, 萬梓良, 劉雪華
-
-劇情簡介：武當雜役雲飛揚（徐少強飾）為掌門青松之私生子，青隱藏身份暗中傳授雲武功。青與無敵門主獨孤無敵（萬梓良飾）十年一戰而敗，無敵忌憚青師兄燕沖天的天蠶功，期以兩年後約青再戰！青收傅玉書（劉永飾）為徒，怎知傅為逍遙谷主之孫，入武當就為報仇及偷學絕藝。傅使計刺殺青，嫁禍雲，並接任掌門。雲被追殺，得無敵女兒鳳（楊菁菁飾）相救，帶往見其母沈夫人，得知鳳是其同父異母之妹，更得天蠶功抄本！雲最後練成天蠶功，清理門戶，為父報仇，但仍要面對獨孤無敵...
-</desc></programme>
-
-
-<programme start="20220916050500 +0800" stop="20220916065000 +0800" channel="天映經典CCM">
-<title lang="hk">單程路\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李修賢
-Cast：麥德羅, 戴良純, 李修賢
-
-劇情簡介：本片為香港金像奬影帝李修賢自導自演之作。李修賢是一摩托車行東主，曾是著名車手，惟一次意外中傷殘；他對麥德羅飾的學徒甚為賞識，麥因李之啟蒙而在澳門賽車中奪標。李聞悉麥參與非法賽車，予以規勸，惟麥受盛名之累，欲罷不能……
-</desc></programme>
-
-
-<programme start="20220916065000 +0800" stop="20220916081000 +0800" channel="天映經典CCM">
-<title lang="hk">楊貴妃\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：李麗華, 嚴俊, 李香君
-
-劇情簡介：唐明皇十分寵愛妃子楊貴妃，導致終日尋歡作樂，荒廢國事，更將所有國事交貴妃之兄丞相楊國忠處理。丞相卻因貪贓枉法，暴虐無道，引起軍民共憤。民眾乘機造反要弒唐明皇，貴妃自知難逃一死，於是最終投繯自盡。
-</desc></programme>
-
-
-<programme start="20220916081000 +0800" stop="20220916095500 +0800" channel="天映經典CCM">
-<title lang="hk">金衣大俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：嶽楓
-Cast：何莉莉, 高遠, 舒佩佩, 王俠
-
-劇情簡介：故事講述女俠俞飛霞，被武林盟主誤會她是運用「黑沙掌」，偷去神功寶書的幪面少女。於是她女扮男裝，混入少林寺暗中查探真相...
-</desc></programme>
-
-
-<programme start="20220916095500 +0800" stop="20220916113000 +0800" channel="天映經典CCM">
-<title lang="hk">82家房客\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李沛權
-Cast：惠英紅, 丁佩, 陳百祥
-
-劇情簡介：香港半山的一幢古屋，住著業主張小姐（丁佩飾）與姘夫炳少（陳百祥飾）士輝、（劉家輝飾）、口水驃（盧大偉飾）等，來自江湖四海，各種背景職業的人。地產商曾公子（曹查理飾）欲收購大屋，炳少見錢開眼。一連串之逼遷與反逼遷的行動相繼展開，笑中有淚，淚中有笑，最後收購計畫終告失敗，全部住客同被政府徙置於新型屋村。
-</desc></programme>
-
-
-<programme start="20220916113000 +0800" stop="20220916130500 +0800" channel="天映經典CCM">
-<title lang="hk">文素臣\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：薛群
-Cast：李菁, 喬莊, 何莉莉
-
-劇情簡介：「龍門七俠」之首文素臣命六俠入昭慶寺探察，他們不慎被主持明空殺害。明空更設計殺害林巡按，幸得文所救。文素臣潛入寺內與明空一戰為六俠報仇，林巡按下令官兵攻入昭慶寺，聯合文殲滅所有姦僧。
-</desc></programme>
-
-
-<programme start="20220916130500 +0800" stop="20220916144500 +0800" channel="天映經典CCM">
-<title lang="hk">武松\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：汪萍，狄龍，劉永, 谷峰
-
-劇情簡介：一次醉酒後，武松赤手空拳打死一隻猛虎，因此被任命為都頭。武松兄長武大郎的妻子潘金蓮色誘武松，但遭他拒絕。後來，潘金蓮和富戶西門慶有染，及後姦情敗露，兩人繼而毒死了武大郎。武松知悉後，先殺潘金蓮再殺西門慶，為兄長報仇。
-</desc></programme>
-
-
-<programme start="20220916144500 +0800" stop="20220916162000 +0800" channel="天映經典CCM">
-<title lang="hk">雙喜臨門\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：秦劍
-Cast：梁醒波, 井莉, 金峰, 高寶樹, 魏平澳
-
-劇情簡介：李明珠與朱國棟同學變戀人，學成歸國，預備共結佳偶，卻不知兩者父親為死對頭，兩父均反對婚事。後來國棟朋友想出妙計，教明珠、國棟裝死。朱父見愛子因婚姻不自由而死，竟答應死後成夫婦，明珠、國棟馬上復活。朱父最終答應婚事，但李父堅決不允許，更與朱父大打出手！
-</desc></programme>
-
-
-<programme start="20220916162000 +0800" stop="20220916180000 +0800" channel="天映經典CCM">
-<title lang="hk">背叛師門\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：陳觀泰, 王龍威, 文雪兒, 元德
-
-劇情簡介：高堅（元德）是武林大豪石正仲門下小弟子，但因石正仲性格偏執，常不問是非情由就對高堅施以懲罰。一次，高救了師父的仇人金天運（陳觀泰飾），金為報恩將武功授給高，高卻被判「背叛師門」之罪...
-</desc></programme>
-
-
-<programme start="20220916180000 +0800" stop="20220916192500 +0800" channel="天映經典CCM">
-<title lang="hk">鬼新娘\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：週旭江
-Cast：邢慧, 楊帆, 顧媚, 雷鳴
-
-劇情簡介：七十年代偶像巨星邢慧和楊帆帶來的驚悚片，提醒您千萬別娶被附身的女人為妻，她絕對不會放過您！劇中的女鬼生前被叔叔姦殺，現在要借用邢慧的身體報仇！
-</desc></programme>
-
-
-<programme start="20220916192500 +0800" stop="20220916210000 +0800" channel="天映經典CCM">
-<title lang="hk">封神劫\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：華山
-Cast：劉永, 劉雪華, 龍天翔, 趙國
-
-劇情簡介：故事講述，宋太祖趙匡胤（王戎飾）之弟光義（趙國飾）恃建國有功，囂張跋扈，逼殺南唐後主李煜（陳家奇飾），李之舊部李浪（劉永飾）矢誓報仇。太傅陳搏（龍天翔飾）因欲修煉成仙，必先得皇帝封誥，故與光義妥協，助其奪取帝位，事成後由光義祭天封為華山神仙。陳搏帶光義夜闖禁宮，弒兄自立，並殺死李浪等心腹大患...
-</desc></programme>
-
-
-<programme start="20220916210000 +0800" stop="20220916224500 +0800" channel="天映經典CCM">
-<title lang="hk">江山美人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：林黛, 趙雷, 金銓, 楊志卿, 王元龍
-
-劇情簡介：正德皇帝江南遇李鳳，兩人互生情愫。臨別前正德聲言回京後會立即迎娶李鳳，一年易逝消息杳然，李因思念成病，正德聞大傅啟奏，才如夢方覺...
-</desc></programme>
-
-
-<programme start="20220916224500 +0800" stop="20220917001500 +0800" channel="天映經典CCM">
-<title lang="hk">黑店\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：葉榮祖
-Cast：施思, 康華
-
-劇情簡介：本片由葉榮祖導演，施思、康華及谷峰領銜主演。故事講述，江湖上傳出消息，巡撫海剛峰（楊志卿）辭官歸裡，所攜箱篋中珠寶價值連城，於是引起了一些歹人的覬覦。高家店店主高山峰（王俠）、其姘婦鄧三娘（於楓），以及數幫黑道人物，均於高家店埋伏，準備等待海剛峰經過之時伺機下手...
-</desc></programme>
-
-
-<programme start="20220917001500 +0800" stop="20220917015500 +0800" channel="天映經典CCM">
-<title lang="hk">王昭君\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：林黛, 趙雷, 洪波, 王月汀, 張翠英, 李英
-
-劇情簡介：王昭君拒絕賄賂畫師，於是一直被畫師畫醜致未被皇帝看上。但皇帝初遇昭君後，驚為天人，即選中她。畫師被逐後，為報復而設計將昭君與匈奴可汗和親。皇帝因拒絕婚事即引來兩國爭戰，以致王昭君最後為了平息戰亂不得不犧牲自己。
-</desc></programme>
-
-
-<programme start="20220917015500 +0800" stop="20220917033500 +0800" channel="天映經典CCM">
-<title lang="hk">大醉俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：胡金銓
-Cast：鄭佩佩, 岳華, 陳鴻烈
-
-劇情簡介：女俠「金燕子」的兄長被山賊擄走，幸得武功高強的「醉俠」範大悲相助，從作惡多端的寺廟主持手上救出兄長。本片曾代表香港出戰第39屆奧斯卡金像獎最佳外語片的首輪評選。
-</desc></programme>
-
-
-<programme start="20220917033500 +0800" stop="20220917051500 +0800" channel="天映經典CCM">
-<title lang="hk">南北少林\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：李連傑，黃秋燕
-
-劇情簡介：智明在北少林習武，司馬燕則在南少林習武，兩人分別為報殺父之仇而合力行刺貪官，引發激戰連場!
-</desc></programme>
-
-
-<programme start="20220917051500 +0800" stop="20220917064500 +0800" channel="天映經典CCM">
-<title lang="hk">惡爺\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：桂治洪
-Cast：孟元文, 元華, 王沙, 尤翠玲, 王龍威
-
-劇情簡介：本片為桂治洪於1980年執導的功夫喜劇。故事講述，惡少洪毛九（林輝煌）不時到蘇記飯店滋事搗蛋，蘇老闆（王沙）欺善怕惡，把滿腔氣憤發洩在夥記阿七（孟元文）身上。後阿七發覺小廚師張彪（元華）武功不凡，遂暗中模仿其動作練武；一日洪毛九又來飯店滋擾，阿七施展出所練功夫打得洪毛九狼狽而逃...
-</desc></programme>
-
-
-<programme start="20220917064500 +0800" stop="20220917082500 +0800" channel="天映經典CCM">
-<title lang="hk">卒仔抽車\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：江龍
-Cast：錢小豪, 麥德羅, 陳觀泰
-
-劇情簡介：阿旦(麥德羅飾)、墨魚(蔣金飾)、阿喜(劉玉璞飾)、荷官(錢小豪飾)等一群窮小子，遇上生活寂寥的富豪崔東成(陳觀泰飾)，達成了一個賭局，要於十日內偷得崔的名車。五人與崔鬥智鬥力，終戰勝億萬富豪！
-</desc></programme>
-
-
-<programme start="20220917082500 +0800" stop="20220917100000 +0800" channel="天映經典CCM">
-<title lang="hk">春暖花開\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：岳楓
-Cast：舒佩佩、李麗麗、林嘉、楊帆、金峰、夏儀秋
-
-劇情簡介：故事描述，陳太太有女潔玉（舒佩佩）及美玉（李麗麗），潔玉已工作，美玉仍求學；適逢陳家有空房出租，少奇（楊帆）來租，一談即合；潔玉三個姊姊，皆與租客結婚，所以潔玉表姊趙靜蘭（林嘉）之母決仿效陳家租房選婿；未幾，有一醫科學生欣農（金峰）來租房，趙母見他是理想快婿，忙出租。原來少奇與欣農是同學，少奇老成寡言，被潔玉、美玉視為怪人，欣農則只顧談戀愛……
-</desc></programme>
-
-
-<programme start="20220917100000 +0800" stop="20220917115500 +0800" channel="天映經典CCM">
-<title lang="hk">碧血劍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：郭追, 文雪兒, 江生, 井莉
-
-劇情簡介：此金庸電影為張徹導演的版本，拍於1981年，劇情主要說，明朝末年，忠臣袁崇煥被害，其幼子袁承志（郭追）由啞僕救出，逃往華山拜掌門人穆人清為師。在山上學武的期間，袁無意中於山洞內發現武林前輩金蛇郎君（龍天翔）之骸骨，他埋葬了金，並在機關中獲得金蛇秘笈；袁練就金蛇劍後，即履行金遺囑，赴衢州石樑尋訪女子溫儀（井莉）。途中，袁遇上青青（文雪兒），因此捲入了溫家的糾紛中，後來才引出青原來是金的女兒，儀則是金妻...
-</desc></programme>
-
-
-<programme start="20220917115500 +0800" stop="20220917133500 +0800" channel="天映經典CCM">
-<title lang="hk">青春1000日\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：敬海林
-Cast：劉少君, 陳佩茜,戴良純
-
-劇情簡介：凌玫瑰（陳佩茜）與方素美（戴良純）是一對感情要好的同窗。凌幼失怙恃，由當舞女之姊撫養成長，方則出身富家，受母呵護備至。畢業後，凌由淪落風塵攀至選美冠軍，方則滿足於平淡生活中；但她們卻偏偏同時愛上劉醫生（劉永）。最後一件意想不到的事發生，它改寫了他們三人的一生……
-</desc></programme>
-
-
-<programme start="20220917133500 +0800" stop="20220917151500 +0800" channel="天映經典CCM">
-<title lang="hk">布衣神相\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊穀
-Cast：徐少強, 萬梓良, 劉永, 陳觀泰, 劉雪華
-
-劇情簡介：故事描述雲飛揚（徐少強飾）練就天蠶神功後，雖躍為江湖上兩大高手之一，卻厭倦江湖，無心爭霸，與愛侶倫婉兒（劉雪華飾）隱居；反之獨孤無敵（萬梓良飾）卻閉關苦練滅絕魔功。隨著二人暫息紛爭，東瀛甲賀派教主纖月蒼龍軒（陳觀泰飾）卻欲稱霸中原...
-</desc></programme>
-
-
-<programme start="20220917151500 +0800" stop="20220917171500 +0800" channel="天映經典CCM">
-<title lang="hk">金玉良緣紅樓夢\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：林青霞, 張艾嘉, 狄波拉, 米雪
-
-劇情簡介：由李翰祥重新包裝的《紅樓夢》，榮獲第十五屆金馬獎最佳劇情片美術設計獎，以及第二十四屆亞洲影展最佳服裝及最佳美術設計獎。影後林青霞和張艾嘉分別飾演風流才子賈寶玉及如花美眷林黛玉，深刻演繹悲天憫人的寶黛之戀...
-</desc></programme>
-
-
-<programme start="20220917171500 +0800" stop="20220917192000 +0800" channel="天映經典CCM">
-<title lang="hk">長輩\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：劉家良, 惠英紅, 小侯, 王龍威
-
-劇情簡介：家境富裕的大財主立帶男為填房，為了避免那不可靠的侄子奪取家產，他在病重前立下遺囑，更要求帶男將遺囑交給省城的另一侄子。當帶男這個年輕長輩遇上子侄子及他的兒子時，更鬧出一連串的笑話。 惠英紅更藉此奪第一屆香港金像影後。
-</desc></programme>
-
-
-<programme start="20220917192000 +0800" stop="20220917210000 +0800" channel="天映經典CCM">
-<title lang="hk">神經大俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：元德, 惠英紅, 孟元文, 文雪兒
-
-劇情簡介：總督大人把鴛鴦刀交給滿清皇帝，大內高手卓天雄暗中保護，雙刀仍落入蕭中慧等人手中。蕭父大壽當日，卓天雄欲奪回雙刀，後來得知蕭中慧和袁冠南是被清廷滅門的袁、蕭兩家之後，更獲悉雙刀的秘密。
-</desc></programme>
-
-
-<programme start="20220917210000 +0800" stop="20220917223500 +0800" channel="天映經典CCM">
-<title lang="hk">俠客行\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：郭追, 唐菁, 劉慧玲
-
-劇情簡介：路人甲狗雜種走火入魔失去記憶後, 被誤認為幫主。原來幫主名為石中玉和他長成一樣, 是雪山派的劣徒後逃跑了。後來石中玉終於出現了......
-</desc></programme>
-
-
-<programme start="20220917223500 +0800" stop="20220918003500 +0800" channel="天映經典CCM">
-<title lang="hk">三笑\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：岳楓
-Cast：李菁, 凌波, 井淼
-
-劇情簡介：風流才子唐伯虎邂逅了丫鬟秋香，被她所吸引，遂決定隱瞞身份，進入華家作書僮，藉此接近秋香，並向她表明自己的身份和來意，可惜秋香並不相信。最後，唐伯虎憑藉其出眾的個人才智及好友的協助下，終於抱得美人歸。
-</desc></programme>
-
-
-<programme start="20220918003500 +0800" stop="20220918021500 +0800" channel="天映經典CCM">
-<title lang="hk">鹿鼎記\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：華山
-Cast：汪禹, 谷峰, 楚湘雲, 廖麗玲, 劉家輝
-
-劇情簡介：本片改編自金庸同名名著。足智多謀的韋小寶（汪禹飾）獲康熙（劉家輝飾）賞識，被派去尋找四十二張經，尋經期間因揭發冒充太後之女子而獲康熙獎賞...
-</desc></programme>
-
-
-<programme start="20220918021500 +0800" stop="20220918034500 +0800" channel="天映經典CCM">
-<title lang="hk">盤絲洞\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：何夢華
-Cast：週龍章，何藩，彭鵬，田琛
-
-劇情簡介：本片為邵氏「西遊記」系列的第三部作品。唐僧(何藩)落入了七位蜘蛛精的手中，希望食唐僧肉而得到永生。悟空(週龍章)、八戒(彭鵬)和沙僧(田琛)因此大鬧盤絲拯救唐僧。
-</desc></programme>
-
-
-<programme start="20220918034500 +0800" stop="20220918052500 +0800" channel="天映經典CCM">
-<title lang="hk">陸小鳳之決戰前後\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：岳華, 白彪, 劉永, 楚湘雲, 井莉
-
-劇情簡介：古龍小說中陸小鳳是五大著名人物。1981年，古龍熱潮仍在蔓延時，導演楚原再下一城，把陸小鳳故事中最為人津津樂道之《決戰紫金之巔》搬上大銀幕。故事描述，陸小鳳（劉永）忽聞當代二大劍客葉孤城（白彪）與西門吹雪（岳華），將於月圓之夜在紫金之巔決鬥，忖度二人識英雄重英雄，素未置媯鼰o利害衝突，當無決鬥必要，猜事有蹺蹊，與花滿樓（孫建）及司空摘星等好友研究不果，遂重金買消息，卻知西門吹雪忽然把決戰押後一個月...
-</desc></programme>
-
-
-<programme start="20220918052500 +0800" stop="20220918070500 +0800" channel="天映經典CCM">
-<title lang="hk">掌門人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：劉家良, 惠英紅, 劉家輝, 張展鵬
-
-劇情簡介：為「功夫大導」劉家良於1983年自編自導自演的作品。故事描述，劉代師傅主持國術會，一向平安無事，適逢會館搬遷，劉派女兒惠英紅接掌；新舊派作風回異，劉只得離去；後因惠頻惹是非，劉聞訊即回巢聲援…
-</desc></programme>
-
-
-<programme start="20220918070500 +0800" stop="20220918084500 +0800" channel="天映經典CCM">
-<title lang="hk">青春萬歲\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：丁珮, 林沖, 趙心研, 高苓
-
-劇情簡介：青年歌手趙克仁被夜總會老闆委托，到日本尋找他的女兒秋婷。克仁在日本遇到了少女花子、表妹荔萍、女歌手蘇珊、以及冒認是秋婷的女子。克仁愛上了蘇珊。當老闆親自去日本，便認出了蘇珊就是他的女兒秋婷...
-</desc></programme>
-
-
-<programme start="20220918084500 +0800" stop="20220918102000 +0800" channel="天映經典CCM">
-<title lang="hk">琴劍恩仇\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：徐增宏
-Cast：秦萍, 王羽, 馮寶寶
-
-劇情簡介：桂武(王羽飾)和甘聯珠(秦萍飾)夫婦共闖江湖、報恩仇，得女俠紅姑(淩波飾)之助，技藝大進，博得鴛鴦劍俠美名；桂甘今受紅姑所托，將殺人利器「鳳琴」送往家中；誰料途經飛虎寨，不慎以「鳳琴」射傷少寨主，當夜琴亦為神偷盜去...
-</desc></programme>
-
-
-<programme start="20220918102000 +0800" stop="20220918120500 +0800" channel="天映經典CCM">
-<title lang="hk">憤怒青年\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹, 桂治洪
-Cast：李麗麗, 貝蒂, 王鍾
-
-劇情簡介：沈昌（王鐘飾）生性沉鬱，與父親缺乏溝通，被人利用，誤入歧途。昌逃不過暴力的魔爪和色情的引誘，竟然出賣父親，讓父親慘死。昌悲悔交加，獨闖飛仔巢，逐一將之擊斃，自已也進入瘋狂狀態。
-</desc></programme>
-
-
-<programme start="20220918120500 +0800" stop="20220918140500 +0800" channel="天映經典CCM">
-<title lang="hk">虎膽\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：羅維
-Cast：鄭佩佩, 岳華, 吳風, 羅維, 田豐
-
-劇情簡介：明惠帝被篡位後，太子被藏匿在武林義士的黑龍會中，卻被武林敗類所襲擊，迫使入世未深的劍客及俠女帶著太子逃亡。他們一路上危機重重，幸得其他義士拔刀相助……
-</desc></programme>
-
-
-<programme start="20220918140500 +0800" stop="20220918155000 +0800" channel="天映經典CCM">
-<title lang="hk">茅山殭屍拳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：汪禹, 劉家輝, 黃杏秀
-
-劇情簡介：以少林功夫片聞名的劉家良，這次打的是殭屍功夫。片中，劉家榮與汪禹飾演以「趕屍」為業的師徒，一次趕屍期間，因同時趕著九具屍體上路，顧此失彼下，走失了兩具殭屍，其中一具是個行為古怪的光頭屍。其實，他並非真殭屍，而是劉家輝所飾的江湖漢子，他擅殭屍拳，但被姦人設計陷害下，瑯璫入獄，面臨死境，冒險越獄逃出後，遂假扮殭屍以混人耳目；但最終又為姦人發現行蹤，在「趕屍」師徒協助下，展開連場激戰...
-</desc></programme>
-
-
-<programme start="20220918155000 +0800" stop="20220918173000 +0800" channel="天映經典CCM">
-<title lang="hk">新飛狐外傳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉仕裕
-Cast：惠英紅, 萬梓良, 黃日華
-
-劇情簡介：故事講述了號稱打遍天下無敵手的苗人鳳，與大俠胡一刀不打不相識又識英雄重英雄，在比武過程中中了姦計，苗誤殺了胡，胡妻亦為夫殉情。兒子胡斐長大後誓要報仇……斐先後邂逅袁紫衣，程靈素二女，發展一段無私的三角戀。
-</desc></programme>
-
-
-<programme start="20220918173000 +0800" stop="20220918192000 +0800" channel="天映經典CCM">
-<title lang="hk">寶蓮燈\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：岳楓
-Cast：林黛, 鄭佩佩, 李菁
-
-劇情簡介：這是一個耳熟能詳之中國民間神話故事。在大導演嶽楓的執導下，林黛一人分飾兩角，分別飾演聖母三娘，及難得反串男角飾演沉香；而李菁飾演靈芝仙姑，鄭佩佩反串飾演劉彥昌。鑽石級的演員陣容，三位影後級人馬同場演出，實屬難得。故事講述書生劉彥昌巧遇落入凡間的聖母三娘，二人一見鍾情，但因與二郎神結怨，屢遭迫害...
-</desc></programme>
-
-
-<programme start="20220918192000 +0800" stop="20220918210000 +0800" channel="天映經典CCM">
-<title lang="hk">南鬥官三鬥北少爺\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：傅聲, 劉家榮
-Cast：傅聲, 張展鵬, 汪禹
-
-劇情簡介：廣東大良富家子鬥官(張展鵬)學得一身功夫，在鄉間常闖禍；其母希望鬥官娶妻立品，乃遣其上京參加香格格招親大會。其實鬥官所以答允上京，目的是找名傳京城的三名北少爺-「千術北少爺」車載(傅聲)、泡妞高手「真厲害」(陳百祥)，和「神偷北少爺」時三手(汪禹)一較高下。四人不打不相識，最後更成為好友，一起合力對付仇家三眼道人(王龍威)...
-</desc></programme>
-
-
-<programme start="20220918210000 +0800" stop="20220918224000 +0800" channel="天映經典CCM">
-<title lang="hk">星際鈍胎\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：章國明
-Cast：伊雷, 鍾楚紅, 盧大偉, 譚天南
-
-劇情簡介：既性感又無知的漂亮寶貝李天珍（鍾楚紅），被外星人捉上飛碟，發生第三類接觸，當她想一死以示清白之際，卻遇上同有輕生念頭的失敗私家偵探伊電（伊雷），二人互吐心聲，覺得此生可戀後，一連串更不可置信的奇遇及「鮮花配牛糞」的愛情故事開始了。
-</desc></programme>
-
-
-<programme start="20220918224000 +0800" stop="20220919004000 +0800" channel="天映經典CCM">
-<title lang="hk">鐵旗門\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：郭追, 江生, 王力, 鹿峰, 龍天翔
-
-劇情簡介：本片為張徹導演，他與倪匡聯合編劇，並由郭追、江生、鹿峰及龍天翔等主演。故事描述，正派「鐵旗門」與反派「神鷹堂」，一直對立。一次，「神鷹堂」堂主以向「鐵旗門」陪罪為辭，邀「鐵旗門」門主鐵麟偕弟子往總壇喝酒；鐵認為內中有詐，不宜前往，但大弟子曹風（鹿峰）則力言將計就計，若彼等有所行動，就乘機將他們消滅，鐵允之。「神鷹堂」果然十面埋伏，鐵等將敵人逐一殲滅；惟鐵竟在混亂中遇害，卻未知死於誰手...
-</desc></programme>
-
-
-<programme start="20220919004000 +0800" stop="20220919023000 +0800" channel="天映經典CCM">
-<title lang="hk">港澳傳奇\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：恬妮, 陳萍, 谷峰
-
-劇情簡介：澳門古玩店老闆（谷峰飾），識破老婆與估衣鋪老闆（王俠飾）有染後，威脅胡幫他引誘垂涎已久的王妻（陳萍飾）；香港賭徒（石修飾）在澳賭場邂逅流黑市夫人（恬妮飾），事後恬要求與石同居，結局出人意表...
-</desc></programme>
-
-
-<programme start="20220919023000 +0800" stop="20220919041500 +0800" channel="天映經典CCM">
-<title lang="hk">風流韻事\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：恬妮, 陳萍, 楊群, 岳華
-
-劇情簡介：本片講述了三個故事，各種風流韻事。《蕭翼賺蘭亭》講述唐太宗李世民收盡天下王羲之的書法，獨缺《蘭亭序》，禦史蕭翼多才多藝，設計從辯才和尚那裡騙取《蘭亭序》......《蕙蓮》以林偉圖設計謀殺李鵬飛為序幕，以李在橋上看奇書《金瓶梅》展開劇情；而《小神仙》則又由偷牛、捉姦和小神仙同藥師之間的鬥法三個小故事組成。
-</desc></programme>
-
-
-<programme start="20220919041500 +0800" stop="20220919055000 +0800" channel="天映經典CCM">
-<title lang="hk">魔殿屠龍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：爾冬升, 狄龍, 萬梓良, 鐘楚紅
-
-劇情簡介：本片算是金庸《倚天屠龍記》之外傳。由爾冬升飾張無忌、狄龍飾蒙古戰士、萬梓良飾宋青書及鍾楚紅飾蒙古公主。故事講述張無忌取回倚天劍、屠龍刀，供放在明教總壇，並將九陽神功秘笈刻於三重峰密室之中，由已皈依佛門的金毛獅王監守，原經交回少林...
-</desc></programme>
-
-
-<programme start="20220919055000 +0800" stop="20220919073000 +0800" channel="天映經典CCM">
-<title lang="hk">遊俠情\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：龍逸昇
-Cast：惠英紅, 何家勁, 關芝琳
-
-劇情簡介：杜孟飛奉命下山闖蕩江湖，途中救出遭黑道中人捉拿的沐婉兒，杜挺身相救，沐萬分感激。未幾，杜又救出被黑道中人圍攻的少女李賽男。及後，杜無意中得知一段二十年前的江湖恩怨，黑道首領是李之殺父仇人，而沐則是黑道首領失散的女兒…
-</desc></programme>
-
-
-<programme start="20220919073000 +0800" stop="20220919092500 +0800" channel="天映經典CCM">
-<title lang="hk">英雄無淚\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：傅聲, 白彪, 趙雅芝
-
-劇情簡介：江湖異人蕭大師鑄成寶劍「淚痕劍」，不料該劍顯現出兇兆，將會帶來武林浩劫，而他的親生子注定要死在此劍之下。蕭爲了使此劍不危害江湖，將它交給一位淡薄名利的弟子保管。數十年後該弟子把它傳給門徒小高，令其帶劍下山望化解江湖劫數。
-</desc></programme>
-
-
-<programme start="20220919092500 +0800" stop="20220919110000 +0800" channel="天映經典CCM">
-<title lang="hk">三十年細說從頭\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：劉永, 戴良純, 李殿馨
-
-劇情簡介：大導演李翰祥改編自己大受歡迎的專欄，盡現電影圈光怪陸離的趣事及傳聞，由愛將劉永和戴良純扮演不同角色，保證令你捧腹大笑。
-</desc></programme>
-
-
-<programme start="20220919110000 +0800" stop="20220919123500 +0800" channel="天映經典CCM">
-<title lang="hk">大內高手\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：林福地
-Cast：舒佩佩, 虞慧, 川原, 井淼, 黃宗迅
-
-劇情簡介：故事講述，巡按禦史傅秉忠（井淼飾）被皇上降下聖旨令其即行開缺回籍，傅裝好兩箱書，與僕人取山道回京城。傅主僕二人走到一座古鎮，遇見武功不凡的燕書棠（川原飾），傅乃出重金請他護送通過山路；未幾又遇見少女史雪蘭（舒佩佩飾）與丫環小梅（虞慧飾），稱因逃婚出來，迷失方向，請燕帶她倆走一程。一行人走入一座破廟渡宿，不料一入廟門即遭埋伏在裡面的匪徒襲擊，兩箱書被搶走，傅秉忠與史雪蘭更被匪徒擄進山洞...
-</desc></programme>
-
-
-<programme start="20220919123500 +0800" stop="20220919141500 +0800" channel="天映經典CCM">
-<title lang="hk">雙鐲\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：黃玉珊
-Cast：陳德容, 劉小慧, 郭晉安, 陶大宇
-
-劇情簡介："少女惠花（陳德容）及秀姑（劉小慧）自小情同姊妹，二人在媽祖廟內結為姐妹夫妻，互換手鐲為盟。秀出嫁，花對秀的戀慕更為沈迷。秀丈夫阿光（郭晉安）申請外調特區工作獲準，擬偕秀同行；花竟欲刺死秀然後自殺，下手之際忽聞秀已有身孕，花竟決定...
-
-第11屆香港電影金像獎最佳電影歌曲 - 《似是故人來》（梅豔芳主唱）"
-</desc></programme>
-
-
-<programme start="20220919141500 +0800" stop="20220919155500 +0800" channel="天映經典CCM">
-<title lang="hk">明月刀雪夜殲仇\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：狄龍, 劉永, 施思, 爾冬升, 羅烈
-
-劇情簡介：改編自古龍原著小說，講述「天下第一快刀」傅紅雪為報父仇，萬裡尋兇；期間墮入七名兇手布下之圈套，處境岌岌可危...
-</desc></programme>
-
-
-<programme start="20220919155500 +0800" stop="20220919174500 +0800" channel="天映經典CCM">
-<title lang="hk">仙女下凡\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：何夢華
-Cast：李菁, 金峰, 白璐, 李鵬飛
-
-劇情簡介：生活在天宮的仙女七妹嚮往凡間的生活，一夜她偷駕祥雲下凡到了香港，人生路不熟的仙女差點上了不法分子的當，幸得董自立所救。董原為孤兒院主持人，因經濟拮據，被迫將院址押給許財發；期限到的時候；又被勒令搬家。另一方面，七妹屢次施法助董，卻被指是鬼魂……
-</desc></programme>
-
-
-<programme start="20220919174500 +0800" stop="20220919191500 +0800" channel="天映經典CCM">
-<title lang="hk">暗渠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：藍乃才
-Cast：白彪, 王戎, 羅莾, 陳佩茜
-
-劇情簡介：本片為八十年代由藍乃才導演的寫實警匪片。故事講述偵緝警長趙敬才(羅莽 飾)因一次行動，連累下屬被劫匪擊斃，而被上司指責處事魯莽，改派督察邱正明(苗僑偉 飾)接辦案件。敬才與正明辦案作風迥異，衝突日多。職業殺手利子健(白彪 飾)受僱來港狙殺殷商徐文(王戎 飾)，豈料行動時卻誤中副車，僅殺死徐文之助手；當徐文查得殺手為子健後，急欲除之。警方接獲線報，即派正明與敬才率隊出發，阻止黑幫火拼……
-</desc></programme>
-
-
-<programme start="20220919191500 +0800" stop="20220919210000 +0800" channel="天映經典CCM">
-<title lang="hk">女巡按\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楊帆
-Cast：李菁, 蕭湘, 祝菁
-
-劇情簡介：影後李菁的代表作，蕭湘反串文必正，傾慕官府小姐霍定金（李菁飾），賣身混入霍家，二人私定終身，必正被陷害入獄，定金設法營救... 此片黃梅調曲詞動人，票房橫掃臺灣及東南亞。
-</desc></programme>
-
-
-<programme start="20220919210000 +0800" stop="20220919225000 +0800" channel="天映經典CCM">
-<title lang="hk">書劍恩仇錄\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：狄龍, 白彪, 羅烈
-
-劇情簡介：乾隆（白彪飾）原來並非皇位繼承人，而在出生時被調包，但他一直被蒙在鼓裡，直至地下組織紅花會的人相告。而紅花會總舵主陳家洛（狄龍飾）是其同胞兄弟。兩弟兄因身世和利益必需身不由己地彼此對抗…
-</desc></programme>
-
-
-<programme start="20220919225000 +0800" stop="20220920003500 +0800" channel="天映經典CCM">
-<title lang="hk">青春鼓王\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：何莉莉, 凌雲, 楊帆, 鄭文靜
-
-劇情簡介：船員孫志彊巧合成爲「火花大樂隊」的鼓手，他因急於成名，答應幫助音樂雜志出版人李源明接近樂隊經理黃麗真，以換取源明的力捧。終於，志彊得償所願，一炮而紅，源明郤逼他實踐諾言，與麗真斷絕來往。志彊受到極大打擊，唯有忍痛離開樂隊與麗真...
-</desc></programme>
-
-
-<programme start="20220920003500 +0800" stop="20220920023500 +0800" channel="天映經典CCM">
-<title lang="hk">群英會\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹, 岳楓, 程剛
-Cast：施思, 岳華, 何莉莉, 羅烈, 姜大衛, 狄龍
-
-劇情簡介：本片集岳華、施思、何莉莉、薑大衛及狄龍等數十紅星合演，由三個單元故事組成，為岳楓、程剛及張徹聯合執導，當年就有「花一張票價，看三套電影」的稱譽。嶽楓之〈鐵弓緣〉講述一對青年男女因一把鐵弓而結緣、程剛之〈胭脂虎〉講述一群絕色妓女的故事、張徹之〈白水灘〉講述梁山英雄後代的故事。
-</desc></programme>
-
-
-<programme start="20220920023500 +0800" stop="20220920041000 +0800" channel="天映經典CCM">
-<title lang="hk">鬼馬神偷\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：劉永, 梁家仁, 梁韻蕊
-
-劇情簡介：魯俊谷、張權、於洋三人乃沙煲兄弟，三人合力獲得寶物「雙面神」，不料卻給胡起尾注，將三人毒殺，獨吞「雙面神」，三沙煲兄弟臨死前囑其妻子以沙煲鐲煉為憑，使其後人相認，並設法將寶物奪回。劉永、梁家仁及梁韻蕊是他們的後人，在不打不相識之下重逢，為了完成亡父的遺志，三人齊心向胡偷回寶物。梁韻蕊早已混入胡家中，色誘胡之子汪禹，作為內應查出「雙面神」之收藏地點。劉永與梁家仁則扮鬼扮馬，偷天換日，最後偷得雙面神！
-</desc></programme>
-
-
-<programme start="20220920041000 +0800" stop="20220920055000 +0800" channel="天映經典CCM">
-<title lang="hk">神劍震江湖\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：徐增宏
-Cast：鄭佩佩, 張翼, 舒佩佩, 羅烈
-
-劇情簡介：餘乾文與同門師弟鄭坤元奉師父之命下山尋訪「天地劍」，以免它落入壞人手中造成武林浩劫。餘乾文途中巧遇五毒教教主之女蘇皎皎，兩人情投意合。可惜，當蘇皎皎意外地弄傷鄭坤元後，事情也開始變得越來越複雜。
-</desc></programme>
-
-
-<programme start="20220920055000 +0800" stop="20220920074000 +0800" channel="天映經典CCM">
-<title lang="hk">請帖\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：汪禹, 陳觀泰, 羅烈, 林秀君
-
-劇情簡介：故事描述，青年俠士辛酸（汪禹）得悉王爺擬委託四大殺手押送神秘箱子往西安，且將付出十萬兩銀子作酬金，辛遂殺四人，持四人的頭顱往見王爺，求接辦保鏢事，蓋辛欲得該筆巨額酬金作賑災之用，王爺允之。辛途遇妙手怪丐楊風（羅烈）、無形劍客古非天（陳觀泰）及美豔女俠水仙花（林秀君）等高手截劫，險惡重重，卻原來這當中牽涉通敵叛國的大陰謀...
-</desc></programme>
-
-
-<programme start="20220920074000 +0800" stop="20220920091500 +0800" channel="天映經典CCM">
-<title lang="hk">娃娃夫人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：金洙容
-Cast：李菁, 凌雲, 凌玲, 張佩山
-
-劇情簡介：此乃「娃娃皇後」李菁的代表作，榮獲第十八屆亞洲影展「最受歡迎女主角」獎。三十五歲的男教師林明（淩雲飾）娶了十七歲的女學生珍珍（李菁飾）。兩人在同一學校上課，隱藏夫妻秘密。珍發覺林明常被女生包圍，而林又發現珍常被男老師追求，期間笑料百出。
-</desc></programme>
-
-
-<programme start="20220920091500 +0800" stop="20220920105500 +0800" channel="天映經典CCM">
-<title lang="hk">連城訣\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：牟敦芾
-Cast：岳華, 施思, 白彪, 廖麗玲
-
-劇情簡介：丁典（白彪）獲得秘典「神照經」及可以成為天下第一巨富的「連城訣」，且與知府淩退思（岳華）的女兒霜華（施思）相戀，淩為奪秘典，將丁打下牢獄。狄雲（吳元俊）於死囚獄中認識丁，被傳授「神照功」。淩狠心對女兒下毒手，丁憤然與狄越獄，結果被毒死，而「連城訣」竟然在...
-</desc></programme>
-
-
-<programme start="20220920105500 +0800" stop="20220920123500 +0800" channel="天映經典CCM">
-<title lang="hk">女秀才\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：高立
-Cast：凌波, 金峰
-
-劇情簡介：歌唱古裝彩色鉅片《女秀才》，由《魚美人》金像導演高立執導，張徹編劇，亞洲影後凌波，夥拍曾在《雙鳳奇緣》結片緣的英俊小生金峰，還有漂亮小生何藩、美艷女星金菲，葉青、楊志卿、王惠芳、馬笑儂、胡同等演員陣容合演。聞蜚蛾（凌波飾）自幼女扮男裝從父習武，後更考得秀才功名，堪稱文武全才。同窗好友杜子中（何藩飾）與魏撰之（金峰飾）雖與蜚蛾日夕相對，均不知其是女兒身。聞母見女兒年紀不小，不該再扮男裝，勸蜚蛾選撰之或子中為夫婿。不料蜚娥與二人情誼相同，一時無法抉擇，遂決定由天定奪，怎知陰差陽錯，選婿之箭落於撰之手中。蜚娥後悔不已，才知自己意屬子中。此時聞父被姦臣陷害，蜚娥決意為之雪冤，途中於強盜手中救出景員外之女景芙春（金霏飾）。芙春感蜚蛾救命之恩，有意終身相許；蜚蛾見情不可卻，只得與芙春訂下親事……
-</desc></programme>
-
-
-<programme start="20220920123500 +0800" stop="20220920141500 +0800" channel="天映經典CCM">
-<title lang="hk">禦貓三戲錦毛鼠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：傅聲, 鄭少秋, 惠英紅
-
-劇情簡介：展昭、白玉堂武功不相上下。白一次無意中救了皇帝獲嘉封，卻不相信其身份，揚長而去。後皇帝再遇險，被展所救，展即獲禦封。白不忿盜去玉璽，欲戲弄展，幸展武功高強，終不辱皇命而回。
-</desc></programme>
-
-
-<programme start="20220920141500 +0800" stop="20220920160500 +0800" channel="天映經典CCM">
-<title lang="hk">紅樓夢\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：袁秋楓
-Cast：樂蒂, 丁寧, 丁紅, 杜娟, 任潔
-
-劇情簡介：由袁秋楓執導的《紅樓夢》被譽為同名電影當中的經典之作。素有「古典美人」之稱的樂蒂將美麗卻略帶哀怨神韻的黛玉傳神演繹，配合音樂大師王福齡的音樂，將寶玉與黛玉一段蕩氣迴腸的苦戀刻劃得細膩動人。
-</desc></programme>
-
-
-<programme start="20220920160500 +0800" stop="20220920173500 +0800" channel="天映經典CCM">
-<title lang="hk">女俠賣人頭\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：鄭昌和
-Cast：焦姣, 陳亮, 王俠, 井淼, 張佩山
-
-劇情簡介：俠女花碧蓮（焦姣）愛上鄰村的駱宏勛（陳亮），其父花振芳（井淼）去說親，卻遭駱母拒絕。碧蓮深心不忿，找上駱家，把宏勛打倒來消氣。後碧蓮為救人而得罪賭棍萬三句（樊梅生），萬率眾圍殺碧蓮，幸宏勛及時趕來相救。萬之主人王倫（張佩山）知悉一切後，重金收買知府，將宏勛打下冤獄。碧蓮往探監，見宏勛奄奄一息，遂隻身闖進王倫練武場，大戰眾強徒，並取下王倫助手首級。翌日，碧蓮把血淋淋的人頭掛在竹竿上，到市上去叫賣，結果驚動官差，被捉進衙門...
-</desc></programme>
-
-
-<programme start="20220920173500 +0800" stop="20220920191500 +0800" channel="天映經典CCM">
-<title lang="hk">城市之光\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張堅庭
-Cast：陳友, 惠英紅, 招文欣, 吳詠琪
-
-劇情簡介：導演張堅庭在本片體現香港八十年代的大城小景；陳友與妻子惠英紅從大陸來港投靠父親，卻發現他並非如信中所言生活富足。東方之珠的美夢換來悲喜交集。
-</desc></programme>
-
-
-<programme start="20220920191500 +0800" stop="20220920210000 +0800" channel="天映經典CCM">
-<title lang="hk">單程路\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李修賢
-Cast：麥德羅, 戴良純, 李修賢
-
-劇情簡介：本片為香港金像奬影帝李修賢自導自演之作。李修賢是一摩托車行東主，曾是著名車手，惟一次意外中傷殘；他對麥德羅飾的學徒甚為賞識，麥因李之啟蒙而在澳門賽車中奪標。李聞悉麥參與非法賽車，予以規勸，惟麥受盛名之累，欲罷不能……
-</desc></programme>
-
-
-<programme start="20220920210000 +0800" stop="20220920230500 +0800" channel="天映經典CCM">
-<title lang="hk">千嬌百媚\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陶秦
-Cast：林黛, 陳厚, 範麗, 高寶樹, 麥基
-
-劇情簡介：有才華的女藝員蘭蘭與梅梅新加入「馬氏歌舞團」，蘭蘭與團主馬英不和。馬英在報紙匿名徵求女友，蘭蘭與他以匿名用書信往來，互生情愫。相約見面時，兩人膽怯退縮。歌舞團獲邀到日本表演，由馬英帶領，蘭蘭擔任女主角，二人的關係可否趁機會發展？
-</desc></programme>
-
-
-<programme start="20220920230500 +0800" stop="20220921003000 +0800" channel="天映經典CCM">
-<title lang="hk">幫規\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：徐小明
-Cast：陳觀泰, 惠天賜, 白彪
-
-劇情簡介：本片由徐小明編劇及導演，拍於1982年。故事描述，元初，元人派大將軍莽依圖（陳觀泰）打擊反元分子；反元聯盟潛龍幫正處外憂內患，伏幫主、石副幫主雙雙去世，繼任人伏中原（惠天賜）又為石夫人（劉雅麗）持信證明為元人，中原遂私下追尋身世真相。期間中原往將軍府盜取結盟名冊時，幾乎遇險，幸為女飛賊林雪兒（戴良純）所救...
-</desc></programme>
-
-
-<programme start="20220921003000 +0800" stop="20220921020500 +0800" channel="天映經典CCM">
-<title lang="hk">天使出更\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陳友
-Cast：陳友, 林建明, 張堅庭
-
-劇情簡介：溫拿樂隊鼓手陳友在電影界當導演，拍過不少出色的喜劇片，且別具一格。本片正是由他自導自演，並夥拍張堅庭、文雋及黃宏基編劇，另有林建明及陳秀雯主演，鍾鎮濤及楚原客串。話說醫務署發覺聖慕倫醫院的醫療水準及設備大有問題，原來該院院長（楚原飾）體弱多病，院務交陳醫生（陳友飾）主理；但陳個性主觀，行事不依規章，連手下一班見習醫生亦各具「特性」，時鬧笑話，弄至院務混亂。院長決定聘用資深護士長（林建明飾）進行改革...
-</desc></programme>
-
-
-<programme start="20220921020500 +0800" stop="20220921034500 +0800" channel="天映經典CCM">
-<title lang="hk">紅粉動江湖\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：陳觀泰, 米雪, 林秀君, 元德
-
-劇情簡介：富家女田思思(米雪飾)刁蠻成性，喜武功，侍婢（林秀君飾）常講述武林故事及高手秦歌（陳觀泰飾）瀟灑風流，萬夫莫敵，田為之心慕神往。田不甘父親將其許配予他人，與婢女扮男裝，出走尋訪秦歌...
-</desc></programme>
-
-
-<programme start="20220921034500 +0800" stop="20220921052000 +0800" channel="天映經典CCM">
-<title lang="hk">82家房客\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李沛權
-Cast：惠英紅, 丁佩, 陳百祥
-
-劇情簡介：香港半山的一幢古屋，住著業主張小姐（丁佩飾）與姘夫炳少（陳百祥飾）士輝、（劉家輝飾）、口水驃（盧大偉飾）等，來自江湖四海，各種背景職業的人。地產商曾公子（曹查理飾）欲收購大屋，炳少見錢開眼。一連串之逼遷與反逼遷的行動相繼展開，笑中有淚，淚中有笑，最後收購計畫終告失敗，全部住客同被政府徙置於新型屋村。
-</desc></programme>
-
-
-<programme start="20220921052000 +0800" stop="20220921070000 +0800" channel="天映經典CCM">
-<title lang="hk">遺產五億圓\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：邢慧, 金峰, 汪萍, 郭曼娜
-
-劇情簡介：導演井上梅次把鬼屋恐怖而充滿死亡陰影的氣氛呈現在您面前。劇中三女意外獲得大筆財產，必須遠赴日本領取，途中遇上三位男人，也想分一杯羹。正當大家各懷鬼胎，彼此攻擊、賄賂甚至出賣對方，企圖獨佔鉅款時，殊不知更驚悚的遭遇正嚴陣以待。
-</desc></programme>
-
-
-<programme start="20220921070000 +0800" stop="20220921084500 +0800" channel="天映經典CCM">
-<title lang="hk">我們戀愛去了\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陳浩
-Cast：華倫, 林鳳嬌, 陳浩
-
-劇情簡介：管 氏公司董事長管有成（儀銘飾演），已屆退休之年，決由其子大用（華倫飾演）繼其衣砵。大用母（李偉飾演），則急於替子完婚，選定珠寶商之女碧霞，及著名畫 家之女千麗，由大用挑選其一爲妻。可是二女皆非大用心目中的對象。某日，大用在偶然機會下，巧遇寶貝育幼院劉院長（魯平飾演）之甥女連蓮（林鳳嬌飾演）， 雙方發生誤會。大用急於逃離現場，匆忙中遺下皮包。連蓮只得根據皮包中之地址，將皮包送回給大用。而此際大用剛好與二女敷衍，見連蓮至，情急智生，硬將連 蓮成爲未婚妻，川息二女之心。但與連蓮又發生第二次誤會...
-</desc></programme>
-
-
-<programme start="20220921084500 +0800" stop="20220921102500 +0800" channel="天映經典CCM">
-<title lang="hk">黑鷹\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：戴高美
-Cast：胡燕妮, 杜娟, 張沖, 王俠
-
-劇情簡介：新加坡的黑鷹組織專與香港保險業作對。私家偵探張世傑從黑鷹領袖陳祖培女兒麗思入手。他倆認識後，不斷受到狙擊追殺，原來陳祖培於一年前已遭人殺害，胡媚用陳名義發號施令，為非作歹。張世傑與黑鷹集團展開連場激戰！
-</desc></programme>
-
-
-<programme start="20220921102500 +0800" stop="20220921121000 +0800" channel="天映經典CCM">
-<title lang="hk">陸小鳳之決戰前後\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：岳華, 白彪, 劉永, 楚湘雲, 井莉
-
-劇情簡介：古龍小說中陸小鳳是五大著名人物。1981年，古龍熱潮仍在蔓延時，導演楚原再下一城，把陸小鳳故事中最為人津津樂道之《決戰紫金之巔》搬上大銀幕。故事描述，陸小鳳（劉永）忽聞當代二大劍客葉孤城（白彪）與西門吹雪（岳華），將於月圓之夜在紫金之巔決鬥，忖度二人識英雄重英雄，素未置媯鼰o利害衝突，當無決鬥必要，猜事有蹺蹊，與花滿樓（孫建）及司空摘星等好友研究不果，遂重金買消息，卻知西門吹雪忽然把決戰押後一個月...
-</desc></programme>
-
-
-<programme start="20220921121000 +0800" stop="20220921134500 +0800" channel="天映經典CCM">
-<title lang="hk">封神劫\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：華山
-Cast：劉永, 劉雪華, 龍天翔, 趙國
-
-劇情簡介：故事講述，宋太祖趙匡胤（王戎飾）之弟光義（趙國飾）恃建國有功，囂張跋扈，逼殺南唐後主李煜（陳家奇飾），李之舊部李浪（劉永飾）矢誓報仇。太傅陳搏（龍天翔飾）因欲修煉成仙，必先得皇帝封誥，故與光義妥協，助其奪取帝位，事成後由光義祭天封為華山神仙。陳搏帶光義夜闖禁宮，弒兄自立，並殺死李浪等心腹大患...
-</desc></programme>
-
-
-<programme start="20220921134500 +0800" stop="20220921152500 +0800" channel="天映經典CCM">
-<title lang="hk">老夫子奇趣錄\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：王風
-Cast：王沙, 芬妮, 矮冬瓜
-
-劇情簡介：導演王風以香港小市民的生活為主題，再次把漫畫「老夫子」搬上銀幕，保證笑破您的肚皮。這次，大蕃薯開了一家中醫，但傳統的中醫似乎不為超級摩登的香港接受。不論他再怎麼嘗試，他的所作所為反而趕走了上門的生意。該怎麼辦？老夫子出馬，萬事OK！
-</desc></programme>
-
-
-<programme start="20220921152500 +0800" stop="20220921172000 +0800" channel="天映經典CCM">
-<title lang="hk">小煞星\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：姜大衛, 汪萍, 狄龍
-
-劇情簡介：強宜本是夜總會歌星，後來為尋初戀女友水仙的下落，被人帶到匪幫的木屋。原來，強宜少年時誤入歧途，有打劫殺人的犯罪紀錄，綽號「小煞星」。一哥要脅他共同打劫珠寶行，否則公開他的秘密。強宜假意應承，從長計議。想不到當日行動踏入珠寶行，發現售貨員竟然是初戀女友水仙！
-</desc></programme>
-
-
-<programme start="20220921172000 +0800" stop="20220921190500 +0800" channel="天映經典CCM">
-<title lang="hk">乾隆下揚州\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：劉永, 姜南, 李昆
-
-劇情簡介：乾隆皇繼續微服南巡，這次得大臣和大學士陪行，他們一行三人來到揚州，期限遇上不少趣事。
-</desc></programme>
-
-
-<programme start="20220921190500 +0800" stop="20220921210000 +0800" channel="天映經典CCM">
-<title lang="hk">海軍突擊隊\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：劉永, 狄龍, 傅聲, 姜大衛, 施思
-
-劇情簡介：由狄龍、傅聲、姜大衛、劉永等巨星主演。故事描述二次大戰日軍侵佔上海，中國海軍力量薄弱，難以跟日艦抗衡；為保存戰力，在長江布下水雷，將一艘魚雷快艇偽裝成漁船，乘夜突襲...
-</desc></programme>
-
-
-<programme start="20220921210000 +0800" stop="20220921224500 +0800" channel="天映經典CCM">
-<title lang="hk">白蛇傳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：岳楓
-Cast：林黛, 趙雷, 杜娟, 楊志卿, 尤光照
-
-劇情簡介：妖精白素貞（林黛飾）跟妹妹青青（杜娟飾）在凡間巧遇前世救命恩人書生許仙（趙雷飾），後更以身相許給許仙。後和尚法海揭穿其身份並把這對苦命鴛鴦拆散...
-</desc></programme>
-
-
-<programme start="20220921224500 +0800" stop="20220922002000 +0800" channel="天映經典CCM">
-<title lang="hk">武林聖火令\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：劉雪華, 莫少聰, 白彪, 郭追, 翁靜晶
-
-劇情簡介：本故事由著名電視監蕭笙提供，故事描述尹天仇（莫少聰飾）的父母取得神器的藏令訣後，遭靜音師太（劉雪華飾）及魔頭半怪（白彪飾）所殺，幸尹為鬼叟（郭追飾）所救，後鬼遣其取聖火令復仇...
-</desc></programme>
-
-
-<programme start="20220922002000 +0800" stop="20220922020000 +0800" channel="天映經典CCM">
-<title lang="hk">貂蟬\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：林黛, 趙雷, 楊志卿, 羅維
-
-劇情簡介：漢朝末年太師董卓霸道專橫，弄權禍國，忠臣王允誓要利用貂蟬的美色設計除掉董卓。王允得知董卓的義子呂布見貂蟬貌若天仙一見鍾情，於是將計就計把貂蟬獻給董卓為妾，終使父子反目。呂布最後殺了父親董卓，自此與貂蟬成為眷屬。
-</desc></programme>
-
-
-<programme start="20220922020000 +0800" stop="20220922034000 +0800" channel="天映經典CCM">
-<title lang="hk">玉羅剎\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：何夢華
-Cast：鄭佩佩, 唐菁
-
-劇情簡介：本片為何夢華導演，王福齡作曲，由俠女鄭佩佩主演。故事描述，每逢恐怖歌聲出現，必有閻家的人被署名「玉羅剎」者所殺。由於「玉羅剎」神出鬼沒，鬧得滿城風雨。冷秋寒（鄭佩佩）於酒館遇見徐英豪（唐菁），交談下，知彼也為尋仇而來；冷直告自己實為「玉羅剎」，殺閻家為替全家報仇，徐勸其勿濫殺無辜，冷不聽...
-</desc></programme>
+▼<channel id="彩虹電影台">
+<display-name lang="TW">彩虹電影台</display-name>
+<icon src="https://www.kbro.com.tw/images/programlogo/rainbow_m.jpg"/>
+<url>https://www.kbro.com.tw/K01/catv-table-channel-detail_1_0_2.html#programTable?unique_id=292&channelnumber=902&channelname=彩虹電影台/</url>
+</channel>
 
+▼<channel id="TVB粵語片台">
+<display-name lang="HK">TVB粵語片台</display-name>
+<icon src="https://w7.pngwing.com/pngs/128/482/png-transparent-tvb-network-vision-tvb-jade-粤语片台-tvb-classic-channel-vision-logo-television-text-logo.png"/>
+<url>https://www.mytvsuper.com/tc/epg/200/粤语片台/</url>
+</channel>
 
-<programme start="20220922034000 +0800" stop="20220922052000 +0800" channel="天映經典CCM">
-<title lang="hk">鹿鼎記\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：華山
-Cast：汪禹, 谷峰, 楚湘雲, 廖麗玲, 劉家輝
-
-劇情簡介：本片改編自金庸同名名著。足智多謀的韋小寶（汪禹飾）獲康熙（劉家輝飾）賞識，被派去尋找四十二張經，尋經期間因揭發冒充太後之女子而獲康熙獎賞...
-</desc></programme>
-
-
-<programme start="20220922052000 +0800" stop="20220922065500 +0800" channel="天映經典CCM">
-<title lang="hk">俠客行\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：郭追, 唐菁, 劉慧玲
-
-劇情簡介：路人甲狗雜種走火入魔失去記憶後, 被誤認為幫主。原來幫主名為石中玉和他長成一樣, 是雪山派的劣徒後逃跑了。後來石中玉終於出現了......
-</desc></programme>
-
-
-<programme start="20220922065500 +0800" stop="20220922084000 +0800" channel="天映經典CCM">
-<title lang="hk">茅山殭屍拳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：汪禹, 劉家輝, 黃杏秀
-
-劇情簡介：以少林功夫片聞名的劉家良，這次打的是殭屍功夫。片中，劉家榮與汪禹飾演以「趕屍」為業的師徒，一次趕屍期間，因同時趕著九具屍體上路，顧此失彼下，走失了兩具殭屍，其中一具是個行為古怪的光頭屍。其實，他並非真殭屍，而是劉家輝所飾的江湖漢子，他擅殭屍拳，但被姦人設計陷害下，瑯璫入獄，面臨死境，冒險越獄逃出後，遂假扮殭屍以混人耳目；但最終又為姦人發現行蹤，在「趕屍」師徒協助下，展開連場激戰...
-</desc></programme>
-
-
-<programme start="20220922084000 +0800" stop="20220922105500 +0800" channel="天映經典CCM">
-<title lang="hk">故都春夢\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：邵氏全體導演
-Cast：李麗華, 凌波, 關山
-
-劇情簡介：本片榮獲1965年金馬獎最佳女主角(李麗華)及最佳男配角(井淼)，是集全體邵氏導演心血的作品。《故都春夢》故事源自膾炙人口的《啼笑因緣》，內容描述民國初年，富家子範嘉恕（關山飾）戀上歌女岑逢仙（李麗華飾），同時又唯賣藝少女官繡珠（凌波飾）及貌似岑的財政廳長女兒賀莉霞（李麗華分飾）所迷戀。張大帥（井淼飾）垂涎岑，更姦污了她。嘉恕後得繡珠相助，才從大帥手中救回愛人。
-</desc></programme>
-
-
-<programme start="20220922105500 +0800" stop="20220922123000 +0800" channel="天映經典CCM">
-<title lang="hk">水兒武士\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：查傳誼
-Cast：董瑋, 萬梓良, 惠英紅, 餘安安
-
-劇情簡介：水兒（傅欣瑜）原是大太子之私生女，流落青樓 ，二太子（梁家輝）欲利用水兒揭大太子醜行以謀皇位。大太子不惜派殺手暗殺水兒，而二太子則命燕十三（莫少聰）、練飛霞（餘安安）等護送水兒回宮。兩批人沿途激戰，水兒得武士（董瑋）相救避禍隱居荒村，然二人性格迥異經常引起衝突。
-</desc></programme>
-
-
-<programme start="20220922123000 +0800" stop="20220922140500 +0800" channel="天映經典CCM">
-<title lang="hk">慾燄狂流\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：羅臻
-Cast：胡燕妮, 喬莊, 楊帆, 於倩
-
-劇情簡介：故事描述飾花花公子的喬莊與好友楊帆，同時愛上胡燕妮，但楊成人之美。但喬因生殖力弱，故當胡懷孕時，就懷疑妻與楊有染…
-</desc></programme>
-
-
-<programme start="20220922140500 +0800" stop="20220922160000 +0800" channel="天映經典CCM">
-<title lang="hk">碧血劍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：郭追, 文雪兒, 江生, 井莉
-
-劇情簡介：此金庸電影為張徹導演的版本，拍於1981年，劇情主要說，明朝末年，忠臣袁崇煥被害，其幼子袁承志（郭追）由啞僕救出，逃往華山拜掌門人穆人清為師。在山上學武的期間，袁無意中於山洞內發現武林前輩金蛇郎君（龍天翔）之骸骨，他埋葬了金，並在機關中獲得金蛇秘笈；袁練就金蛇劍後，即履行金遺囑，赴衢州石樑尋訪女子溫儀（井莉）。途中，袁遇上青青（文雪兒），因此捲入了溫家的糾紛中，後來才引出青原來是金的女兒，儀則是金妻...
-</desc></programme>
-
-
-<programme start="20220922160000 +0800" stop="20220922173500 +0800" channel="天映經典CCM">
-<title lang="hk">弟子也瘋狂\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：邱家雄
-Cast：劉家輝, 汪禹, 羅莽, 錢小豪
-
-劇情簡介：方世玉、洪熙官及胡惠乾三大少林俗家弟子初抵寺，即與悟清等出家弟子互爭高下，使到少林無日安寧，連方丈亦啼笑皆非。
-</desc></programme>
-
-
-<programme start="20220922173500 +0800" stop="20220922191500 +0800" channel="天映經典CCM">
-<title lang="hk">小子有種\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：傅聲, 黃杏秀, 陳惠敏, 谷峰
-
-劇情簡介：緊張大師孫仲執導，一反過去風格，拍出一部諧趣惹笑的功夫處境喜劇。借西方文化和東方文化衝突下，中國人重拾民族信心，又寫出父子代溝問題，頗有深意。小鎮上，有放洋流學回來的假洋鬼子，借西方文明的優越感，處處欺壓村民。小子張小泰（傅聲）利用中國功夫，與假洋鬼子唐羅拔（王龍威）爭女友（黃杏秀），先破西洋拳，再敗日本劍道，大勝西洋劍。傅聲和黃杏秀以功夫跳西洋舞，惹笑風趣，叫人忍俊不禁。中國武術與西方搏擊對壘，刺激新鮮。傅聲充滿反叛氣息，和谷峰拍檔演鬥氣父子，一老一少，對白幽默，充滿時代感。
-</desc></programme>
-
-
-<programme start="20220922191500 +0800" stop="20220922210000 +0800" channel="天映經典CCM">
-<title lang="hk">沒有老公的日子\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：陳動奇
-Cast：袁詠儀, 張智霖, 葉德嫻, 何超儀
-
-劇情簡介：黃太太（葉德嫻 飾）獨力撫養兒子Alex（張智霖 飾）成人，與媳婦阿彤（袁詠儀 飾）一起生活。豈料Alex意外逝世，死前道出外遇女友黑仔（何超儀 飾）已懷有身孕。結果三名沒有老公的女人同住一室...
-</desc></programme>
-
-
-<programme start="20220922210000 +0800" stop="20220922223500 +0800" channel="天映經典CCM">
-<title lang="hk">洪拳大師\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：唐佳
-Cast：狄龍, 劉雪華, 麥德羅
-
-劇情簡介：廣東十虎之首的鐵橋三為人景仰，擁有徒弟無數。當時達官貴人都以吸食鴉片為時尚，而鐵橋三亦隨俗吸食，身子因此漸受毒害。後來，鐵橋三更被煙館主人擊敗，幸得徒弟捨身相救，他才不致喪命。於是，鐵橋三決心戒掉鴉片，重新振作。
-</desc></programme>
-
-
-<programme start="20220922223500 +0800" stop="20220923003500 +0800" channel="天映經典CCM">
-<title lang="hk">武則天\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：李麗華, 趙雷, 喬莊, 洛奇, 俞鳳至
-
-劇情簡介：武則天有傾國之貌，絕世才華，十四歲時更被唐太宗召為才人，但太宗死後卻入寺為尼，卻又與繼位之唐高宗有染，生有二子。時皇後與蕭妃爭寵，命武則天回宮以制妃子，卻反陷害皇後。武則天獲封皇後之後，更誅殺兩太子。直到高宗病亡，武後臨朝，成為史上第一個女皇帝。
-</desc></programme>
-
-
-<programme start="20220923003500 +0800" stop="20220923021000 +0800" channel="天映經典CCM">
-<title lang="hk">清宮啟示錄\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：劉永, 劉雪華, 莫少聰
-
-劇情簡介：清帝康熙自知不久人世，決定傳位於十四太子（莫少聰飾）；後十四太子忽遭面殺手行刺，幸為親信曾靜（徐少強飾）所救。原來四太子（劉永飾）早已覬覦帝位，乃派人行刺胞弟；四太子計畫失敗後，收買曾靜不果，乃四出求賢，卒覓得文武雙全之年羹堯（白彪飾）相助，更拉攏反清文人呂留良（穀峰飾）及其女呂四娘（劉雪華飾）等，佯稱若助其登上帝位，誓必履行「滿漢一家」之協議...
-</desc></programme>
-
 
-<programme start="20220923021000 +0800" stop="20220923035000 +0800" channel="天映經典CCM">
-<title lang="hk">人皮燈籠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：劉永, 陳觀泰, 羅烈
-
-劇情簡介：趙春方曾於決鬥敗於龍帥之手下。七年後，龍帥為在賞燈大會上奪魁，往尋趙春方代為製造別緻燈籠。趙春方藉此暗中佈下復仇大計。龍帥之妻無固失蹤後，他驚聞有關人皮燈籠的傳說，並開始懷疑趙春方與失蹤事件有關......
-</desc></programme>
-
-
-<programme start="20220923035000 +0800" stop="20220923052500 +0800" channel="天映經典CCM">
-<title lang="hk">文素臣\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：薛群
-Cast：李菁, 喬莊, 何莉莉
-
-劇情簡介：「龍門七俠」之首文素臣命六俠入昭慶寺探察，他們不慎被主持明空殺害。明空更設計殺害林巡按，幸得文所救。文素臣潛入寺內與明空一戰為六俠報仇，林巡按下令官兵攻入昭慶寺，聯合文殲滅所有姦僧。
-</desc></programme>
-
-
-<programme start="20220923052500 +0800" stop="20220923071000 +0800" channel="天映經典CCM">
-<title lang="hk">女巡按\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楊帆
-Cast：李菁, 蕭湘, 祝菁
-
-劇情簡介：影後李菁的代表作，蕭湘反串文必正，傾慕官府小姐霍定金（李菁飾），賣身混入霍家，二人私定終身，必正被陷害入獄，定金設法營救... 此片黃梅調曲詞動人，票房橫掃臺灣及東南亞。
-</desc></programme>
-
-
-<programme start="20220923071000 +0800" stop="20220923085000 +0800" channel="天映經典CCM">
-<title lang="hk">青春1000日\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：敬海林
-Cast：劉少君, 陳佩茜,戴良純
-
-劇情簡介：凌玫瑰（陳佩茜）與方素美（戴良純）是一對感情要好的同窗。凌幼失怙恃，由當舞女之姊撫養成長，方則出身富家，受母呵護備至。畢業後，凌由淪落風塵攀至選美冠軍，方則滿足於平淡生活中；但她們卻偏偏同時愛上劉醫生（劉永）。最後一件意想不到的事發生，它改寫了他們三人的一生……
-</desc></programme>
-
-
-<programme start="20220923085000 +0800" stop="20220923103000 +0800" channel="天映經典CCM">
-<title lang="hk">沖霄樓\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：鹿峰, 王力, 龍天翔, 孫建, 錢小豪
-
-劇情簡介：改編自俠義小說《七俠五義》，人物繁多，情節多變，難得張徹處理得有條不紊，角色性格分明。故事講述襄陽王在王府中，建造的沖霄樓機關密佈，又廣招花蝴蝶花沖、神手大聖鄧車和小諸葛沈仲元等江湖俠士加盟，伺機造反。包公得悉襄陽王叛跡，乃命門生顏春敏前往調查。
-</desc></programme>
-
-
-<programme start="20220923103000 +0800" stop="20220923122000 +0800" channel="天映經典CCM">
-<title lang="hk">佛跳牆\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：野峰, 於榮, 艾飛, 邵音音
-
-劇情簡介：本片共有四個單元：首個故事描述一對母子因施予濟公一碗豆漿而逃過喪命之危；其二說濟公幫助賣菜漢逃離貴利的滋擾；其三寫濟公以櫻桃化夜明珠，教訓大盜一頓；最後是濟公以巧計捉弄胡作非爲的相爺父子。
-</desc></programme>
-
-
-<programme start="20220923122000 +0800" stop="20220923135000 +0800" channel="天映經典CCM">
-<title lang="hk">雙俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：姜大衛, 狄龍, 谷峰, 楊斯
-
-劇情簡介：宋朝康王被困於金營巨宅，看守者是金太子及高手萬天奎。義士鮑廷天欲救康王，找來輕功高手邊幅仗義相助。二人以繩索飛蕩過崖，設法救出康王。
-</desc></programme>
-
-
-<programme start="20220923135000 +0800" stop="20220923154500 +0800" channel="天映經典CCM">
-<title lang="hk">玉堂春\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥, 胡金銓
-Cast：樂蒂, 趙雷, 高寶樹, 朱牧, 楊志卿
+▼<channel id="澳门莲花">
+<display-name lang="MA">澳门莲花</display-name>
+<icon src="http//www.macaulotustv.cc/Public/images/nav_top.png"/>
+<url>http//www.macaulotustv.cc/#page9</url>
+</channel>
 
-劇情簡介：王金龍（趙雷飾）與名妓蘇三（樂蒂飾）相愛，無奈無錢被趕出富春院。蘇被老鴇（紅薇飾）賣予富戶沈燕林（楊志卿飾）為妾，卻被沈妻（高寶樹飾）誣告毒殺親夫，判以死罪。已考取功名的王，決意開堂覆審救蘇...
-</desc></programme>
-
-
-<programme start="20220923154500 +0800" stop="20220923172000 +0800" channel="天映經典CCM">
-<title lang="hk">魔殿屠龍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：爾冬升, 狄龍, 萬梓良, 鐘楚紅
 
-劇情簡介：本片算是金庸《倚天屠龍記》之外傳。由爾冬升飾張無忌、狄龍飾蒙古戰士、萬梓良飾宋青書及鍾楚紅飾蒙古公主。故事講述張無忌取回倚天劍、屠龍刀，供放在明教總壇，並將九陽神功秘笈刻於三重峰密室之中，由已皈依佛門的金毛獅王監守，原經交回少林...
-</desc></programme>
+▼<channel id="douyu邵氏影院">
+<display-name lang="HK">douyu邵氏影院</display-name>
+<display-name>douyu邵氏影院</display-name>
+<icon src="https://gitee.com/hang88/hang88/raw/master/TV-logo/邵氏电影.jpg"/>
+<url>http://www.macaulotustv.cc/#page9</url>
+</channel>
 
 
-<programme start="20220923172000 +0800" stop="20220923191500 +0800" channel="天映經典CCM">
-<title lang="hk">鑽石艷盜\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：何莉莉, 凌雲
+▼<channel id="天映經典CCM">
+<display-name lang="HK">天映經典CCM</display-name>
+<icon src="http://www.programme-television.org/logo_channels/35x35/chaine_406.png"/>
+<url>https://www.tbc.net.tw/epg</url>
+</channel>
 
-劇情簡介：艷盜夜來香（何莉莉）和大賊夜爵士（凌雲），兩人不謀而合，圖盜林麗利（崔芝淑）身上的維納斯的眼淚巨鑽。夜來香認識了林，並伺機下手。不料林勾搭了夜爵士，夜來香在他們一夜纏綿時，偷去巨鑽，再把假鑽放回聖經中，而夜爵士又悄悄盜去假石，自此真假難分。兩大盜相遇，惺惺相識之餘，更是情敵難分。
-</desc></programme>
 
 
-<programme start="20220923191500 +0800" stop="20220923210000 +0800" channel="天映經典CCM">
-<title lang="hk">儒俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：高立
-Cast：張翼, 虞慧, 舒佩佩, 焦姣
+▼<channel id="Star Movies">
+<display-name lang="zh">Star Movies</display-name>
+<icon src="https://i0.wp.com/img.isuper.tv/live-tv/star-movies-live.jpg"/>
+<url>https://www.360-zhibo.com/program/1620/7.htm/</url>
+</channel>
 
-劇情簡介：本片改編之金庸小說《書劍恩仇錄》。年青劍客被指派為秘密愛國組織「日月會」的總舵主。他誓要對抗與敵勾結的大將軍，保護國家民族。期間，劍客遇上年輕女俠及兩位美麗的維族公主，她們三人都同時對他產生愛慕之情。
-</desc></programme>
+▼<channel id="x901">
+<display-name lang="zh">冰火頻道</display-name>
+<icon src="https://i0.wp.com/img.isuper.tv/live-tv/冰火頻道.jpg"/>
+<url>https://.htm/</url>
+</channel>
 
 
-<programme start="20220923210000 +0800" stop="20220923224000 +0800" channel="天映經典CCM">
-<title lang="hk">我為你狂\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：金炳興
-Cast：艾迪, 蔣麗萍, 金燕玲
+▼<channel id="x903">
+<display-name lang="zh">成人極品台</display-name>
+<icon src="https://i0.wp.com/img.isuper.tv/live-tv/成人極品台.jpg"/>
+<url>https://.htm/</url>
+</channel>
 
-劇情簡介：的士司機阿發（艾迪飾）與少女阿霞(蔣麗萍飾)相愛已久，但發有神經錯亂，霞為除心理負擔，忍痛分手; 發大鬧霞家並斷指示真心，令霞感動而復合。然發卻不務正業，令霞甚為反感;一次爭執間，發狂性大發，霞流產，再次離開發...
-</desc></programme>
+=====================================================================================================================
 
 
-<programme start="20220923224000 +0800" stop="20220924002500 +0800" channel="天映經典CCM">
-<title lang="hk">通天小子紅槍客\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727000000 +0800" stop="20240727020000 +0800" channel="冰火頻道">
+<title lang="hk">美咲佳奈: 醉酒的接吻狂女上司(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：孫仲
-Cast：汪禹, 穀峰, 王龍威, 元華
-
-劇情簡介：本片為孫仲導演，倪匡編劇，唐佳武術指導。故事描述，「通天少爺」李寶通（汪禹）乃棉胎店老闆李昌建（谷峰）之獨子，平素不服父親管教外，還經常整蠱作怪；古板嚴謹的李昌建，屢遭兒子作弄亦不自知。寶通經常暗中替喬裝乞丐的偵緝隊長陳英剛（元彬）買食物，並向他學習武功；後英剛給「紅槍客」林飛（元華）殺死，寶通正好在暗處看見事發經過，並偷聽到林飛所透露的犯案者名字。此時，寶通行蹤被發現，幸寶通機智，得以逃脫，惟其胸部上的蒼鷹刺青已被林飛看到...
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220924002500 +0800" stop="20220924021000 +0800" channel="天映經典CCM">
-<title lang="hk">風流韻事\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：恬妮, 陳萍, 楊群, 岳華
+劇情簡介：
 
-劇情簡介：本片講述了三個故事，各種風流韻事。《蕭翼賺蘭亭》講述唐太宗李世民收盡天下王羲之的書法，獨缺《蘭亭序》，禦史蕭翼多才多藝，設計從辯才和尚那裡騙取《蘭亭序》......《蕙蓮》以林偉圖設計謀殺李鵬飛為序幕，以李在橋上看奇書《金瓶梅》展開劇情；而《小神仙》則又由偷牛、捉姦和小神仙同藥師之間的鬥法三個小故事組成。
 </desc></programme>
 
 
-<programme start="20220924021000 +0800" stop="20220924034500 +0800" channel="天映經典CCM">
-<title lang="hk">女捕快\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727020000 +0800" stop="20240727043000 +0800" channel="冰火頻道">
+<title lang="hk">Madonna熟女: 濃情接吻泡泡浴(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：申江
-Cast：施思, 羅烈, 張佩山
-
-劇情簡介：故事講述，萬勝鏢局總鏢頭陳華堂，懾於白眉道姑的威望，撫養對頭人焦家的兒子炎兒，卻不許其習武，炎兒遂偷練父傳之「烈焰刀法」。十年後，城中出現蒙面採花大盜，女捕快泠如霜特來偵查，並將炎兒擒獲；然而採花大盜，原來是陳之長子正豪，炎兒實遭陳氏父子嫁禍。炎兒越獄而逃，誓要洗脫罪名……
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220924034500 +0800" stop="20220924052000 +0800" channel="天映經典CCM">
-<title lang="hk">人蛇鼠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：宗華, 韋弘, 丹娜
+劇情簡介：
 
-劇情簡介：莊家農場獨子莊士德（宗華）外國歸來，接手由胡麟（韋弘）管理的產業。胡一直與德之表妹曼玲（丹娜）勾結，圖取莊家產業，並欲利用曼玲美色迷惑德！怎知在阿芬（蕭瑤）飼養的小蛇「西西」幫助下，反令德與芬結成夫婦。後來胡買來一條專咬人的野老鼠，欲將德之初生嬰兒咬死，「西西」為救嬰兒，與野鼠作殊死搏鬥...
 </desc></programme>
 
 
-<programme start="20220924052000 +0800" stop="20220924072000 +0800" channel="天映經典CCM">
-<title lang="hk">萬花迎春\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727043000 +0800" stop="20240727053000 +0800" channel="冰火頻道">
+<title lang="hk">辻井穗乃果: 爆乳風俗娘的初戀中出(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：陶秦
-Cast：樂蒂, 陳厚, 高寶樹, 藍娣, 蔣光超
-
-劇情簡介：喜劇小生陳厚和樂蒂夫妻檔的舞姿和演技堪稱一絕，故事講述富家女混入歌舞團，兩冤家情花暗種。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220924072000 +0800" stop="20220924091500 +0800" channel="天映經典CCM">
-<title lang="hk">龍虎少爺\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家榮
-Cast：劉家輝, 劉家榮, 張展鵬, 傅聲
+劇情簡介：
 
-劇情簡介：本片由已故一代功夫巨星傅聲與擅演少林武僧的劉家輝領銜主演，劉家榮自導自演、王晶編劇。故事描述，執到寶（傅聲）為武功了得的尋寶專家，因聞招九積（張展鵬）自稱有張保仔寶藏之線索，乃往賭場將其救出；招雲古董商人魯古董（劉家榮）藏有張生前一批信札，執、招夜竊不遂，以敲碎古玩要脅，取得信札；惟信札字跡陳舊，僅認清法華寺字樣；彼時適逢高僧無相（劉家輝）下山，執遂假扮瘋僧約無相談禪，招則暗闖其房搜尋秘密...
 </desc></programme>
 
 
-<programme start="20220924091500 +0800" stop="20220924105500 +0800" channel="天映經典CCM">
-<title lang="hk">武松\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727053000 +0800" stop="20240727080000 +0800" channel="冰火頻道">
+<title lang="hk">明日見未來: 超豪華中出頂級體驗(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：李翰祥
-Cast：汪萍，狄龍，劉永, 谷峰
 
-劇情簡介：一次醉酒後，武松赤手空拳打死一隻猛虎，因此被任命為都頭。武松兄長武大郎的妻子潘金蓮色誘武松，但遭他拒絕。後來，潘金蓮和富戶西門慶有染，及後姦情敗露，兩人繼而毒死了武大郎。武松知悉後，先殺潘金蓮再殺西門慶，為兄長報仇。
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220924105500 +0800" stop="20220924122500 +0800" channel="天映經典CCM">
-<title lang="hk">太極拳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：鮑學禮
-Cast：陳沃夫, 施思, 韋弘, 詹森
+劇情簡介：
 
-劇情簡介：顧定是太極高手，卻隱藏身份為一名建築工人。當他的女朋友被惡霸強暴後，顧定唯有迫不得已出手讓惡霸受到應有的懲罰，彰顯公義。
 </desc></programme>
 
 
-<programme start="20220924122500 +0800" stop="20220924140500 +0800" channel="天映經典CCM">
-<title lang="hk">星際鈍胎\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727080000 +0800" stop="20240727100000 +0800" channel="冰火頻道">
+<title lang="hk">Madonna熟女: 重遇青梅竹馬的巨乳人妻(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：章國明
-Cast：伊雷, 鍾楚紅, 盧大偉, 譚天南
-
-劇情簡介：既性感又無知的漂亮寶貝李天珍（鍾楚紅），被外星人捉上飛碟，發生第三類接觸，當她想一死以示清白之際，卻遇上同有輕生念頭的失敗私家偵探伊電（伊雷），二人互吐心聲，覺得此生可戀後，一連串更不可置信的奇遇及「鮮花配牛糞」的愛情故事開始了。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220924140500 +0800" stop="20220924154500 +0800" channel="天映經典CCM">
-<title lang="hk">神劍震江湖\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：徐增宏
-Cast：鄭佩佩, 張翼, 舒佩佩, 羅烈
+劇情簡介：
 
-劇情簡介：餘乾文與同門師弟鄭坤元奉師父之命下山尋訪「天地劍」，以免它落入壞人手中造成武林浩劫。餘乾文途中巧遇五毒教教主之女蘇皎皎，兩人情投意合。可惜，當蘇皎皎意外地弄傷鄭坤元後，事情也開始變得越來越複雜。
 </desc></programme>
 
 
-<programme start="20220924154500 +0800" stop="20220924174500 +0800" channel="天映經典CCM">
-<title lang="hk">女校春色\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727100000 +0800" stop="20240727120000 +0800" channel="冰火頻道">
+<title lang="hk">Premium Time: 出軌美麗人妻(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：井上梅次
-Cast：李菁, 歐陽莎菲, 秦惠玲, 陳厚
-
-劇情簡介：化學教師陳子風（陳厚飾演）在一間保守的女校任教，與青梅竹馬的李海倫（李菁飾演）共事。陳在醫務所拾得棄嬰，後把棄嬰帶到學校照顧，卻被學生謠傳嬰孩乃陳與李之私生子。陳不但輕鬆面對，還將朝氣帶入校園，大受學生歡迎，李亦漸漸愛上陳。但保守派對陳之作風不滿，侍機剷除陳。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220924174500 +0800" stop="20220924192000 +0800" channel="天映經典CCM">
-<title lang="hk">鬼馬神偷\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：劉永, 梁家仁, 梁韻蕊
+劇情簡介：
 
-劇情簡介：魯俊谷、張權、於洋三人乃沙煲兄弟，三人合力獲得寶物「雙面神」，不料卻給胡起尾注，將三人毒殺，獨吞「雙面神」，三沙煲兄弟臨死前囑其妻子以沙煲鐲煉為憑，使其後人相認，並設法將寶物奪回。劉永、梁家仁及梁韻蕊是他們的後人，在不打不相識之下重逢，為了完成亡父的遺志，三人齊心向胡偷回寶物。梁韻蕊早已混入胡家中，色誘胡之子汪禹，作為內應查出「雙面神」之收藏地點。劉永與梁家仁則扮鬼扮馬，偷天換日，最後偷得雙面神！
 </desc></programme>
 
 
-<programme start="20220924192000 +0800" stop="20220924210000 +0800" channel="天映經典CCM">
-<title lang="hk">大軍閥\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727120000 +0800" stop="20240727143000 +0800" channel="冰火頻道">
+<title lang="hk">Madonna熟女: 中出解禁(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：李翰祥
-Cast：許冠文, 何莉莉, 宗華, 狄娜
-
-劇情簡介：一個土匪因助俄國抗擊日本而成為北方的大軍閥。由於他好大喜功又目不識丁，常常鬧出不少笑話。後來，當年曾被他無端殺死的戲班老闆之女出現，槍殺了這個賣國賊。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220924210000 +0800" stop="20220924225500 +0800" channel="天映經典CCM">
-<title lang="hk">金燕子\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：鄭佩佩, 王羽, 羅烈
+劇情簡介：
 
-劇情簡介：白衣大俠和黑色醉俠同時愛上女俠金燕子。三人卻聯手對付江湖中的惡勢力。在一場生死對決展開前，金燕子還是遲遲未能作出自己感情的抉擇。
 </desc></programme>
 
 
-<programme start="20220924225500 +0800" stop="20220925003500 +0800" channel="天映經典CCM">
-<title lang="hk">樑上君子\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727143000 +0800" stop="20240727170000 +0800" channel="冰火頻道">
+<title lang="hk">八蜜凛: 唾液交織激吻性交(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：徐蝦
-Cast：錢小豪, 羅莽, 董驃, 廖麗玲
 
-劇情簡介：本片為徐蝦導演。 董驃, 錢小豪及蔣金飾扒手, 惟董失手被捕; 董出獄後裝南洋闊客, 隨錢及蔣返家, 因為想扮相古怪, 惹途人圍觀, 三人乘機施妙手, 更向盤問的保安隊長羅莽自詡身份特殊, 使羅躬身謝罪...
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220925003500 +0800" stop="20220925023000 +0800" channel="天映經典CCM">
-<title lang="hk">洪拳與詠春\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：傅聲, 陳依齡, 戚冠軍, 劉家輝
+劇情簡介：
 
-劇情簡介：清廷派人掃平少林寺，殺掉所有少林弟子。從中倖存出來的兩名弟子，分別拜入詠春及洪拳師傅門下，學習拳法。最終他們挾技擊敗敵人，並為死去師兄弟報仇。
 </desc></programme>
 
 
-<programme start="20220925023000 +0800" stop="20220925044500 +0800" channel="天映經典CCM">
-<title lang="hk">船\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727170000 +0800" stop="20240727180000 +0800" channel="冰火頻道">
+<title lang="hk">希崎Jessica: 濃情唾液大激吻(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：陶秦
-Cast：何莉莉, 林嘉, 井莉, 金漢
-
-劇情簡介：《船》是陶秦愛情片中的傑作，錯綜雜的愛情連線將故事帶出。嘉文（楊帆飾）跟妻可欣（何莉莉飾）、湘怡（井莉飾）、及紀遠（金漢飾）在劇中本為朋友，卻發生了多角戀情，結局令人唏噓。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220925044500 +0800" stop="20220925062500 +0800" channel="天映經典CCM">
-<title lang="hk">連城訣\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：牟敦芾
-Cast：岳華, 施思, 白彪, 廖麗玲
+劇情簡介：
 
-劇情簡介：丁典（白彪）獲得秘典「神照經」及可以成為天下第一巨富的「連城訣」，且與知府淩退思（岳華）的女兒霜華（施思）相戀，淩為奪秘典，將丁打下牢獄。狄雲（吳元俊）於死囚獄中認識丁，被傳授「神照功」。淩狠心對女兒下毒手，丁憤然與狄越獄，結果被毒死，而「連城訣」竟然在...
 </desc></programme>
 
 
-<programme start="20220925062500 +0800" stop="20220925082000 +0800" channel="天映經典CCM">
-<title lang="hk">傾國傾城\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727180000 +0800" stop="20240727200000 +0800" channel="冰火頻道">
+<title lang="hk">Madonna熟女: 人妻與男公關(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：李翰祥
-Cast：盧燕, 蕭瑤, 狄龍
-
-劇情簡介：李翰祥史詩式電影，藝術成就及導演功力震驚中港台三地。本片榮獲金馬優等劇情片、最佳女主角及最佳彩色影片美術設計獎項。影後盧燕飾慈禧太後；處女演出即成名的蕭瑤，飾死後受追封為貴妃的珍妃；而為珍妃逝世而不近女色的光緒帝則是狄龍。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220925082000 +0800" stop="20220925100000 +0800" channel="天映經典CCM">
-<title lang="hk">南北少林\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：李連傑，黃秋燕
+劇情簡介：
 
-劇情簡介：智明在北少林習武，司馬燕則在南少林習武，兩人分別為報殺父之仇而合力行刺貪官，引發激戰連場!
 </desc></programme>
 
 
-<programme start="20220925100000 +0800" stop="20220925120000 +0800" channel="天映經典CCM">
-<title lang="hk">三笑\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727200000 +0800" stop="20240727220000 +0800" channel="冰火頻道">
+<title lang="hk">南條彩: 絕倫性愛沼澤(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：岳楓
-Cast：李菁, 凌波, 井淼
-
-劇情簡介：風流才子唐伯虎邂逅了丫鬟秋香，被她所吸引，遂決定隱瞞身份，進入華家作書僮，藉此接近秋香，並向她表明自己的身份和來意，可惜秋香並不相信。最後，唐伯虎憑藉其出眾的個人才智及好友的協助下，終於抱得美人歸。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220925120000 +0800" stop="20220925133000 +0800" channel="天映經典CCM">
-<title lang="hk">惡虎村\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：岳楓, 汪平
-Cast：舒佩佩, 岳華, 王俠
+劇情簡介：
 
-劇情簡介：資深大導演嶽楓退休前最後一部電影。九姑娘（舒佩佩飾）之兄巴傑（康華飾）勾結惡虎村惡霸胡蛟（王俠飾），圖劫鏢銀，被「鐵沙掌」駱宏勛（嶽華飾）打傷。胡蛟恐事發後被巴家追究，下毒將巴傑毒斃，嫁禍駱宏勛，巴家上下誓欲殺死駱報仇……
 </desc></programme>
 
 
-<programme start="20220925133000 +0800" stop="20220925151000 +0800" channel="天映經典CCM">
-<title lang="hk">神經大俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727220000 +0800" stop="20240727220000 +0800" channel="冰火頻道">
+<title lang="hk">山手梨愛: 粉絲們的特別性愛活動(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：魯俊谷
-Cast：元德, 惠英紅, 孟元文, 文雪兒
 
-劇情簡介：總督大人把鴛鴦刀交給滿清皇帝，大內高手卓天雄暗中保護，雙刀仍落入蕭中慧等人手中。蕭父大壽當日，卓天雄欲奪回雙刀，後來得知蕭中慧和袁冠南是被清廷滅門的袁、蕭兩家之後，更獲悉雙刀的秘密。
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220925151000 +0800" stop="20220925172500 +0800" channel="天映經典CCM">
-<title lang="hk">飛狐外傳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：錢小豪, 江生, 楚湘雲, 郭追
+劇情簡介：
 
-劇情簡介：十八年前，胡斐（錢小豪飾演）之父胡一刀（鹿峰飾演），與苗人鳳（郭追 飾演）交換刀劍比武，被己刀傷，繼而身亡，原來胡之刀早被田歸農（江生飾演）塗上毒藥；苗妻南蘭（楚湘雲 飾演）被田勾引，竟拋夫棄女，後田更以毒粉弄瞎苗雙眼；斐見苗受此遭遇，決定代其向藥王求救，亦因此碰上一生中最愛的藥王傳人程靈素（黃敏儀飾演）……
 </desc></programme>
 
 
-<programme start="20220925172500 +0800" stop="20220925193000 +0800" channel="天映經典CCM">
-<title lang="hk">千嬌百媚\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240727220000 +0800" stop="20240728000000 +0800" channel="冰火頻道">
+<title lang="hk">山手梨愛: 粉絲們的特別性愛活動(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：陶秦
-Cast：林黛, 陳厚, 範麗, 高寶樹, 麥基
-
-劇情簡介：有才華的女藝員蘭蘭與梅梅新加入「馬氏歌舞團」，蘭蘭與團主馬英不和。馬英在報紙匿名徵求女友，蘭蘭與他以匿名用書信往來，互生情愫。相約見面時，兩人膽怯退縮。歌舞團獲邀到日本表演，由馬英帶領，蘭蘭擔任女主角，二人的關係可否趁機會發展？
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220925193000 +0800" stop="20220925210000 +0800" channel="天映經典CCM">
-<title lang="hk">江湖了斷\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：黃泰來
-Cast：羅莽, 白彪, 左燕翎, 孫健
+劇情簡介：
 
-劇情簡介：故事描述，羅莽、尹相林、強漢、湯鎮宗及左燕翎五人偷渡赴港時，湯不慎誤踏陷阱，羅等欲救不果，看駐軍逼近，只得舍湯而去。四人到港後，三男淪為黑幫打手，一次私下行劫時，失手被捕入獄。尹、強出獄後即被殺害，督察白彪疑是仇家所為，遂提前釋放羅，企圖引出兇手...
 </desc></programme>
 
 
-<programme start="20220925210000 +0800" stop="20220925224500 +0800" channel="天映經典CCM">
-<title lang="hk">宋宮秘史\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240728000000 +0800" stop="20240728020000 +0800" channel="冰火頻道">
+<title lang="hk">二葉惠麻: 成為Av女優的理由(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：高立
-Cast：淩波, 金峰, 高寶樹, 井淼
-
-劇情簡介：包公發現劉妃在二十年前為保其位而謀害李妃，將李妃剛誕下的兒子調走後，把她逐出皇宮。於是，包公用妙計誘大太監郭槐認罪，揭發當年他與劉妃合謀陷害李妃之姦計，並將劉妃定罪。而李妃也被接回皇宮，與已為皇帝的兒子團聚。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220925224500 +0800" stop="20220926003000 +0800" channel="天映經典CCM">
-<title lang="hk">龍虎溝\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：嶽楓
-Cast：鄭佩佩, 金漢, 林嘉
+劇情簡介：
 
-劇情簡介：導演岳楓由1932年開始在上海拍片，並在香港創作長達二十多年，擅於應付不同的題材與類型，可謂中國電影的見證人。本片為岳氏於1966年執導之民初動作片，劇情主要描述，二妞（鄭佩佩）收到父親遇害前寫下的仇人名單，遂連同兄長建明（金漢）展開一幕奇情追兇...
 </desc></programme>
 
 
-<programme start="20220926003000 +0800" stop="20220926022500 +0800" channel="天映經典CCM">
-<title lang="hk">南北獅王\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240728020000 +0800" stop="20240728043000 +0800" channel="冰火頻道">
+<title lang="hk">Madonna熟女: 人妻不動產(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：徐蝦, 錢月笙
-Cast：汪禹, 錢月笙, 王龍威, 羅莽, 楊盼盼
-
-劇情簡介：七十年代武打明星汪禹主演的清裝功夫片。故事講述以「反清復明」為號召的天地會，恐被清廷一網打盡，遂將會員名冊分成兩份，送往機密地點。天地會中人紅娘子（楊盼盼）遇上剛直的失業捕快阿雲（羅莽），邀其協助把名冊送到朱標（王龍威）的武館去，期間遇到聰敏的棺材舖夥計阿寸（汪禹），發生連串笑料。及後紅被原為清廷走狗的朱所殺，雲為代紅執行任務，終亦重傷身亡。最後任務便落在阿寸身上，寸與朱展開連番追逐，最後為寸所殺，而寸亦身陷劣境之中...
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220926022500 +0800" stop="20220926040500 +0800" channel="天映經典CCM">
-<title lang="hk">北地胭脂\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：何莉莉, 胡錦, 岳華, 於楓, 劉午琪
+劇情簡介：
 
-劇情簡介：本片由三個發生在妓院「百花樓」的單元故事組成，乃李翰祥編導的典型豔情喜劇：〈花街柳巷〉講述妓女大琴（於楓飾）不甘淪落為娼，竟冒險向巡官告狀，要求救她脫離火坑；〈滿宮春色〉講述同治皇帝（汪禹飾）大婚之前，往妓院尋歡，終於染上梅毒不治；〈遊龍豔史〉講述正德皇帝（岳華飾）與名妓佛動心（何莉莉飾）同入鴛帳...
 </desc></programme>
 
 
-<programme start="20220926040500 +0800" stop="20220926055500 +0800" channel="天映經典CCM">
-<title lang="hk">書劍恩仇錄\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="20240728043000 +0800" stop="20240728061000 +0800" channel="冰火頻道">
+<title lang="hk">闊太時間 - 識食男 月野帶人(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：楚原
-Cast：狄龍, 白彪, 羅烈
 
-劇情簡介：乾隆（白彪飾）原來並非皇位繼承人，而在出生時被調包，但他一直被蒙在鼓裡，直至地下組織紅花會的人相告。而紅花會總舵主陳家洛（狄龍飾）是其同胞兄弟。兩弟兄因身世和利益必需身不由己地彼此對抗…
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220926055500 +0800" stop="20220926073000 +0800" channel="天映經典CCM">
-<title lang="hk">水兒武士\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：查傳誼
-Cast：董瑋, 萬梓良, 惠英紅, 餘安安
+劇情簡介：
 
-劇情簡介：水兒（傅欣瑜）原是大太子之私生女，流落青樓 ，二太子（梁家輝）欲利用水兒揭大太子醜行以謀皇位。大太子不惜派殺手暗殺水兒，而二太子則命燕十三（莫少聰）、練飛霞（餘安安）等護送水兒回宮。兩批人沿途激戰，水兒得武士（董瑋）相救避禍隱居荒村，然二人性格迥異經常引起衝突。
 </desc></programme>
-
 
-<programme start="20220926073000 +0800" stop="20220926091000 +0800" channel="天映經典CCM">
-<title lang="hk">楊過與小龍女\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：華山
-Cast：張國榮, 翁靜晶, 陳觀泰, 劉雪華
 
-劇情簡介：改編自金庸名著《神鵰俠侶》，由張國榮與翁靜晶分飾楊過與小龍女。劇情描述楊過逃離全真教，誤打誤撞與小龍女相遇。二人在古墓生活，本為融洽；後小龍女為師姐李莫愁（恬妮）所傷，更遭尹志平（洪新南）迷姦。小龍女誤以為失身於楊過，遂提婚議，楊過不知就裡加以婉拒，小龍女悲憤離開古墓。楊過四出訪尋，終與小龍女重逢；惟重提婚事，卻為黃蓉（劉雪華）勸阻。小龍女為不讓師徒戀損楊過聲譽，悄然出走...
-</desc></programme>
 
+========================================================================================================================
 
-<programme start="20220926091000 +0800" stop="20220926105500 +0800" channel="天映經典CCM">
-<title lang="hk">憤怒青年\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+ 
+▼<programme start="202407270000 +0800" stop="202407270100 +0800" channel="成人極品台">
+<title lang="hk">激凸東瀛 傾聽草食系男生煩惱的漂亮空姐(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：張徹, 桂治洪
-Cast：李麗麗, 貝蒂, 王鍾
-
-劇情簡介：沈昌（王鐘飾）生性沉鬱，與父親缺乏溝通，被人利用，誤入歧途。昌逃不過暴力的魔爪和色情的引誘，竟然出賣父親，讓父親慘死。昌悲悔交加，獨闖飛仔巢，逐一將之擊斃，自已也進入瘋狂狀態。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220926105500 +0800" stop="20220926123000 +0800" channel="天映經典CCM">
-<title lang="hk">黑店\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：葉榮祖
-Cast：施思, 康華
+劇情簡介：
 
-劇情簡介：本片由葉榮祖導演，施思、康華及谷峰領銜主演。故事講述，江湖上傳出消息，巡撫海剛峰（楊志卿）辭官歸裡，所攜箱篋中珠寶價值連城，於是引起了一些歹人的覬覦。高家店店主高山峰（王俠）、其姘婦鄧三娘（於楓），以及數幫黑道人物，均於高家店埋伏，準備等待海剛峰經過之時伺機下手...
 </desc></programme>
 
 
-<programme start="20220926123000 +0800" stop="20220926140500 +0800" channel="天映經典CCM">
-<title lang="hk">盤絲洞\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407270100 +0800" stop="202407270200 +0800" channel="成人極品台">
+<title lang="hk">乳樂無窮 搭訕滑雪場超可愛的美女們(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：何夢華
-Cast：週龍章，何藩，彭鵬，田琛
-
-劇情簡介：本片為邵氏「西遊記」系列的第三部作品。唐僧(何藩)落入了七位蜘蛛精的手中，希望食唐僧肉而得到永生。悟空(週龍章)、八戒(彭鵬)和沙僧(田琛)因此大鬧盤絲拯救唐僧。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220926140500 +0800" stop="20220926154500 +0800" channel="天映經典CCM">
-<title lang="hk">鹿鼎記\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：華山
-Cast：汪禹, 谷峰, 楚湘雲, 廖麗玲, 劉家輝
+劇情簡介：
 
-劇情簡介：本片改編自金庸同名名著。足智多謀的韋小寶（汪禹飾）獲康熙（劉家輝飾）賞識，被派去尋找四十二張經，尋經期間因揭發冒充太後之女子而獲康熙獎賞...
 </desc></programme>
 
 
-<programme start="20220926154500 +0800" stop="20220926174500 +0800" channel="天映經典CCM">
-<title lang="hk">菁菁\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407270200 +0800" stop="202407270300 +0800" channel="成人極品台">
+<title lang="hk">人氣女優 沉溺在高潮的爆乳人妻-推川悠里(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：嚴俊
-Cast：李菁, 金峰
 
-劇情簡介：故事講述茶居老闆女菁菁與伐木工羅貴生相戀，菁父聞說惡霸看中菁，忙找生籌備婚事；不料翌日生即奉命運送木材進城，只得與菁暫別。生進城後，鎮上即有謠言，說生已在城裡另訂親事；另一方面菁無意中發現惡霸向寡婦施暴，寡婦不甘受辱自殺，惡霸欲殺人滅口，菁身陷險境。
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220926174500 +0800" stop="20220926192000 +0800" channel="天映經典CCM">
-<title lang="hk">俠客行\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：郭追, 唐菁, 劉慧玲
+劇情簡介：
 
-劇情簡介：路人甲狗雜種走火入魔失去記憶後, 被誤認為幫主。原來幫主名為石中玉和他長成一樣, 是雪山派的劣徒後逃跑了。後來石中玉終於出現了......
 </desc></programme>
 
 
-<programme start="20220926192000 +0800" stop="20220926210000 +0800" channel="天映經典CCM">
-<title lang="hk">狂戀詩\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407270300 +0800" stop="202407270400 +0800" channel="成人極品台">
+<title lang="hk">專題企劃 Ol午餐時間來拍片-星川凜凜花(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：楊樹希
-Cast：胡燕妮, 金漢, 楊帆, 金峰
-
-劇情簡介：大偉（金漢飾）和小春（楊帆飾）是同胞兄弟，一個放浪，一個含蓄。小春在舞會邂逅女子珠迪（胡燕妮），情心一片。大偉發現珠迪有個年老丈夫，得知此秘密，大偉以此威脅，迫珠迪和他幽會，自始珠迪週旋三個男人之間... 導演以女性角度大膽描寫男女情關，手法細膩，而結局亦出人意表。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220926210000 +0800" stop="20220926223000 +0800" channel="天映經典CCM">
-<title lang="hk">女俠賣人頭\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：鄭昌和
-Cast：焦姣, 陳亮, 王俠, 井淼, 張佩山
+劇情簡介：
 
-劇情簡介：俠女花碧蓮（焦姣）愛上鄰村的駱宏勛（陳亮），其父花振芳（井淼）去說親，卻遭駱母拒絕。碧蓮深心不忿，找上駱家，把宏勛打倒來消氣。後碧蓮為救人而得罪賭棍萬三句（樊梅生），萬率眾圍殺碧蓮，幸宏勛及時趕來相救。萬之主人王倫（張佩山）知悉一切後，重金收買知府，將宏勛打下冤獄。碧蓮往探監，見宏勛奄奄一息，遂隻身闖進王倫練武場，大戰眾強徒，並取下王倫助手首級。翌日，碧蓮把血淋淋的人頭掛在竹竿上，到市上去叫賣，結果驚動官差，被捉進衙門...
 </desc></programme>
 
 
-<programme start="20220926223000 +0800" stop="20220927003500 +0800" channel="天映經典CCM">
-<title lang="hk">小雲雀\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407270400 +0800" stop="202407270500 +0800" channel="成人極品台">
+<title lang="hk">熱爆推介 出租美女-瀨名光莉(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：薛群
-Cast：陳厚, 顧媚
-
-劇情簡介：記者仕泰爲發掘歌星小雲雀的秘密，假扮大亨接近小雲雀。後來仕泰的假大亨身份被揭穿，小雲雀大怒，請來真正大亨揭穿仕泰的身份。怎料大亨很欣賞仕泰的應變能力，實時聘請他爲助手，處理歌星登台事宜。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220927003500 +0800" stop="20220927022000 +0800" channel="天映經典CCM">
-<title lang="hk">單程路\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李修賢
-Cast：麥德羅, 戴良純, 李修賢
+劇情簡介：
 
-劇情簡介：本片為香港金像奬影帝李修賢自導自演之作。李修賢是一摩托車行東主，曾是著名車手，惟一次意外中傷殘；他對麥德羅飾的學徒甚為賞識，麥因李之啟蒙而在澳門賽車中奪標。李聞悉麥參與非法賽車，予以規勸，惟麥受盛名之累，欲罷不能……
 </desc></programme>
 
 
-<programme start="20220927022000 +0800" stop="20220927041000 +0800" channel="天映經典CCM">
-<title lang="hk">港澳傳奇\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407270500 +0800" stop="202407270600 +0800" channel="成人極品台">
+<title lang="hk">令和性典 美巨乳性愛誘惑-真木今日子(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：李翰祥
-Cast：恬妮, 陳萍, 谷峰
-
-劇情簡介：澳門古玩店老闆（谷峰飾），識破老婆與估衣鋪老闆（王俠飾）有染後，威脅胡幫他引誘垂涎已久的王妻（陳萍飾）；香港賭徒（石修飾）在澳賭場邂逅流黑市夫人（恬妮飾），事後恬要求與石同居，結局出人意表...
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220927041000 +0800" stop="20220927062500 +0800" channel="天映經典CCM">
-<title lang="hk">故都春夢\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：邵氏全體導演
-Cast：李麗華, 凌波, 關山
+劇情簡介：
 
-劇情簡介：本片榮獲1965年金馬獎最佳女主角(李麗華)及最佳男配角(井淼)，是集全體邵氏導演心血的作品。《故都春夢》故事源自膾炙人口的《啼笑因緣》，內容描述民國初年，富家子範嘉恕（關山飾）戀上歌女岑逢仙（李麗華飾），同時又唯賣藝少女官繡珠（凌波飾）及貌似岑的財政廳長女兒賀莉霞（李麗華分飾）所迷戀。張大帥（井淼飾）垂涎岑，更姦污了她。嘉恕後得繡珠相助，才從大帥手中救回愛人。
 </desc></programme>
 
 
-<programme start="20220927062500 +0800" stop="20220927082500 +0800" channel="天映經典CCM">
-<title lang="hk">虎膽\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407270600 +0800" stop="202407270700 +0800" channel="成人極品台">
+<title lang="hk">激凸東瀛 傾聽草食系男生煩惱的漂亮空姐(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：羅維
-Cast：鄭佩佩, 岳華, 吳風, 羅維, 田豐
 
-劇情簡介：明惠帝被篡位後，太子被藏匿在武林義士的黑龍會中，卻被武林敗類所襲擊，迫使入世未深的劍客及俠女帶著太子逃亡。他們一路上危機重重，幸得其他義士拔刀相助……
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220927082500 +0800" stop="20220927102500 +0800" channel="天映經典CCM">
-<title lang="hk">鑽石艷盜\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：井上梅次
-Cast：何莉莉, 凌雲
+劇情簡介：
 
-劇情簡介：艷盜夜來香（何莉莉）和大賊夜爵士（凌雲），兩人不謀而合，圖盜林麗利（崔芝淑）身上的維納斯的眼淚巨鑽。夜來香認識了林，並伺機下手。不料林勾搭了夜爵士，夜來香在他們一夜纏綿時，偷去巨鑽，再把假鑽放回聖經中，而夜爵士又悄悄盜去假石，自此真假難分。兩大盜相遇，惺惺相識之餘，更是情敵難分。
 </desc></programme>
 
 
-<programme start="20220927102500 +0800" stop="20220927122500 +0800" channel="天映經典CCM">
-<title lang="hk">鐵旗門\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407270700 +0800" stop="202407270800 +0800" channel="成人極品台">
+<title lang="hk">乳樂無窮 搭訕滑雪場超可愛的美女們(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：張徹
-Cast：郭追, 江生, 王力, 鹿峰, 龍天翔
-
-劇情簡介：本片為張徹導演，他與倪匡聯合編劇，並由郭追、江生、鹿峰及龍天翔等主演。故事描述，正派「鐵旗門」與反派「神鷹堂」，一直對立。一次，「神鷹堂」堂主以向「鐵旗門」陪罪為辭，邀「鐵旗門」門主鐵麟偕弟子往總壇喝酒；鐵認為內中有詐，不宜前往，但大弟子曹風（鹿峰）則力言將計就計，若彼等有所行動，就乘機將他們消滅，鐵允之。「神鷹堂」果然十面埋伏，鐵等將敵人逐一殲滅；惟鐵竟在混亂中遇害，卻未知死於誰手...
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220927122500 +0800" stop="20220927140500 +0800" channel="天映經典CCM">
-<title lang="hk">南鬥官三鬥北少爺\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：傅聲, 劉家榮
-Cast：傅聲, 張展鵬, 汪禹
+劇情簡介：
 
-劇情簡介：廣東大良富家子鬥官(張展鵬)學得一身功夫，在鄉間常闖禍；其母希望鬥官娶妻立品，乃遣其上京參加香格格招親大會。其實鬥官所以答允上京，目的是找名傳京城的三名北少爺-「千術北少爺」車載(傅聲)、泡妞高手「真厲害」(陳百祥)，和「神偷北少爺」時三手(汪禹)一較高下。四人不打不相識，最後更成為好友，一起合力對付仇家三眼道人(王龍威)...
 </desc></programme>
 
 
-<programme start="20220927140500 +0800" stop="20220927161500 +0800" channel="天映經典CCM">
-<title lang="hk">不了情\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407270800 +0800" stop="202407270900 +0800" channel="成人極品台">
+<title lang="hk">人氣女優 沉溺在高潮的爆乳人妻-推川悠里(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：陶秦
-Cast：林黛, 關山, 高寶樹, 洛奇, 蔣光超
-
-劇情簡介：少女李青青喪母後到香港投奔舅父，無意中結識了建築商之子湯鵬南，幷得其幫助當上了夜總會的紅歌女。李青青感激鵬南，鵬南也欣賞青青，兩人漸生情愫。面對種種困境和誤會，他倆的感情故事會有怎樣的結局？
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220927161500 +0800" stop="20220927175000 +0800" channel="天映經典CCM">
-<title lang="hk">情俠追風劍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：何夢華
-Cast：汪禹, 妞妞, 羅烈, 李麗麗
+劇情簡介：
 
-劇情簡介：白一鵬(淩雲)的全家遭「冷血五祖」殺害, 白闖冷家報仇, 與善良的冷秋霞(李麗麗)結合, 白被冷家追殺下跳崖, 眾人以為白已死。 冷靈芝(妞妞)乃是白與秋霞女兒, 後與父徒弟夏侯曉桐(汪禹), 將「冷血五祖」殲滅。
 </desc></programme>
 
 
-<programme start="20220927175000 +0800" stop="20220927192000 +0800" channel="天映經典CCM">
-<title lang="hk">倩女幽魂\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407270900 +0800" stop="202407271000 +0800" channel="成人極品台">
+<title lang="hk">專題企劃 Ol午餐時間來拍片-星川凜凜花(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：李翰祥
-Cast：樂蒂, 趙雷, 楊志卿, 洛奇
-
-劇情簡介：本片為李翰祥導演的不朽名作，講的是寧採臣和聶小倩的人鬼書生戀。樹妖姥姥逼小倩取採臣性命，幸得劍客燕赤霞所救，掀起人鬼鬥法。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220927192000 +0800" stop="20220927210000 +0800" channel="天映經典CCM">
-<title lang="hk">明月刀雪夜殲仇\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：狄龍, 劉永, 施思, 爾冬升, 羅烈
+劇情簡介：
 
-劇情簡介：改編自古龍原著小說，講述「天下第一快刀」傅紅雪為報父仇，萬裡尋兇；期間墮入七名兇手布下之圈套，處境岌岌可危...
 </desc></programme>
 
 
-<programme start="20220927210000 +0800" stop="20220927224500 +0800" channel="天映經典CCM">
-<title lang="hk">魚美人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407271000 +0800" stop="202407271100 +0800" channel="成人極品台">
+<title lang="hk">熱爆推介 出租美女-瀨名光莉(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：高立
-Cast：凌波, 李菁
 
-劇情簡介：張珍與金寵之女牡丹早有婚約，金寵卻欲退婚。張珍偶遇化身金牡丹樣子的鯉魚精，兩人漸生情愫。一天，金寵請包公來公斷兩個真假牡丹，包公為成全二人，推辭此案……
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220927224500 +0800" stop="20220928002000 +0800" channel="天映經典CCM">
-<title lang="hk">暗渠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：藍乃才
-Cast：白彪, 王戎, 羅莾, 陳佩茜
+劇情簡介：
 
-劇情簡介：本片為八十年代由藍乃才導演的寫實警匪片。故事講述偵緝警長趙敬才(羅莽 飾)因一次行動，連累下屬被劫匪擊斃，而被上司指責處事魯莽，改派督察邱正明(苗僑偉 飾)接辦案件。敬才與正明辦案作風迥異，衝突日多。職業殺手利子健(白彪 飾)受僱來港狙殺殷商徐文(王戎 飾)，豈料行動時卻誤中副車，僅殺死徐文之助手；當徐文查得殺手為子健後，急欲除之。警方接獲線報，即派正明與敬才率隊出發，阻止黑幫火拼……
 </desc></programme>
 
 
-<programme start="20220928002000 +0800" stop="20220928022500 +0800" channel="天映經典CCM">
-<title lang="hk">武則天\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407271100 +0800" stop="202407271200 +0800" channel="成人極品台">
+<title lang="hk">令和性典 美巨乳性愛誘惑-真木今日子(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：李翰祥
-Cast：李麗華, 趙雷, 喬莊, 洛奇, 俞鳳至
-
-劇情簡介：武則天有傾國之貌，絕世才華，十四歲時更被唐太宗召為才人，但太宗死後卻入寺為尼，卻又與繼位之唐高宗有染，生有二子。時皇後與蕭妃爭寵，命武則天回宮以制妃子，卻反陷害皇後。武則天獲封皇後之後，更誅殺兩太子。直到高宗病亡，武後臨朝，成為史上第一個女皇帝。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220928022500 +0800" stop="20220928043000 +0800" channel="天映經典CCM">
-<title lang="hk">長輩\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：劉家良, 惠英紅, 小侯, 王龍威
+劇情簡介：
 
-劇情簡介：家境富裕的大財主立帶男為填房，為了避免那不可靠的侄子奪取家產，他在病重前立下遺囑，更要求帶男將遺囑交給省城的另一侄子。當帶男這個年輕長輩遇上子侄子及他的兒子時，更鬧出一連串的笑話。 惠英紅更藉此奪第一屆香港金像影後。
 </desc></programme>
 
 
-<programme start="20220928043000 +0800" stop="20220928063000 +0800" channel="天映經典CCM">
-<title lang="hk">群英會\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407271200 +0800" stop="202407271300 +0800" channel="成人極品台">
+<title lang="hk">激凸東瀛 傾聽草食系男生煩惱的漂亮空姐(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：張徹, 岳楓, 程剛
-Cast：施思, 岳華, 何莉莉, 羅烈, 姜大衛, 狄龍
-
-劇情簡介：本片集岳華、施思、何莉莉、薑大衛及狄龍等數十紅星合演，由三個單元故事組成，為岳楓、程剛及張徹聯合執導，當年就有「花一張票價，看三套電影」的稱譽。嶽楓之〈鐵弓緣〉講述一對青年男女因一把鐵弓而結緣、程剛之〈胭脂虎〉講述一群絕色妓女的故事、張徹之〈白水灘〉講述梁山英雄後代的故事。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220928063000 +0800" stop="20220928081000 +0800" channel="天映經典CCM">
-<title lang="hk">背叛師門\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：陳觀泰, 王龍威, 文雪兒, 元德
+劇情簡介：
 
-劇情簡介：高堅（元德）是武林大豪石正仲門下小弟子，但因石正仲性格偏執，常不問是非情由就對高堅施以懲罰。一次，高救了師父的仇人金天運（陳觀泰飾），金為報恩將武功授給高，高卻被判「背叛師門」之罪...
 </desc></programme>
 
 
-<programme start="20220928081000 +0800" stop="20220928101000 +0800" channel="天映經典CCM">
-<title lang="hk">女校春色\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407271300 +0800" stop="202407271400 +0800" channel="成人極品台">
+<title lang="hk">乳樂無窮 搭訕滑雪場超可愛的美女們(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：井上梅次
-Cast：李菁, 歐陽莎菲, 秦惠玲, 陳厚
-
-劇情簡介：化學教師陳子風（陳厚飾演）在一間保守的女校任教，與青梅竹馬的李海倫（李菁飾演）共事。陳在醫務所拾得棄嬰，後把棄嬰帶到學校照顧，卻被學生謠傳嬰孩乃陳與李之私生子。陳不但輕鬆面對，還將朝氣帶入校園，大受學生歡迎，李亦漸漸愛上陳。但保守派對陳之作風不滿，侍機剷除陳。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220928101000 +0800" stop="20220928115500 +0800" channel="天映經典CCM">
-<title lang="hk">儒俠\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：高立
-Cast：張翼, 虞慧, 舒佩佩, 焦姣
+劇情簡介：
 
-劇情簡介：本片改編之金庸小說《書劍恩仇錄》。年青劍客被指派為秘密愛國組織「日月會」的總舵主。他誓要對抗與敵勾結的大將軍，保護國家民族。期間，劍客遇上年輕女俠及兩位美麗的維族公主，她們三人都同時對他產生愛慕之情。
 </desc></programme>
 
 
-<programme start="20220928115500 +0800" stop="20220928135500 +0800" channel="天映經典CCM">
-<title lang="hk">金玉良緣紅樓夢\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407271400 +0800" stop="202407271500 +0800" channel="成人極品台">
+<title lang="hk">人氣女優 沉溺在高潮的爆乳人妻-推川悠里(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：李翰祥
-Cast：林青霞, 張艾嘉, 狄波拉, 米雪
 
-劇情簡介：由李翰祥重新包裝的《紅樓夢》，榮獲第十五屆金馬獎最佳劇情片美術設計獎，以及第二十四屆亞洲影展最佳服裝及最佳美術設計獎。影後林青霞和張艾嘉分別飾演風流才子賈寶玉及如花美眷林黛玉，深刻演繹悲天憫人的寶黛之戀...
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220928135500 +0800" stop="20220928154500 +0800" channel="天映經典CCM">
-<title lang="hk">通天小子紅槍客\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：汪禹, 穀峰, 王龍威, 元華
+劇情簡介：
 
-劇情簡介：本片為孫仲導演，倪匡編劇，唐佳武術指導。故事描述，「通天少爺」李寶通（汪禹）乃棉胎店老闆李昌建（谷峰）之獨子，平素不服父親管教外，還經常整蠱作怪；古板嚴謹的李昌建，屢遭兒子作弄亦不自知。寶通經常暗中替喬裝乞丐的偵緝隊長陳英剛（元彬）買食物，並向他學習武功；後英剛給「紅槍客」林飛（元華）殺死，寶通正好在暗處看見事發經過，並偷聽到林飛所透露的犯案者名字。此時，寶通行蹤被發現，幸寶通機智，得以逃脫，惟其胸部上的蒼鷹刺青已被林飛看到...
 </desc></programme>
 
 
-<programme start="20220928154500 +0800" stop="20220928172500 +0800" channel="天映經典CCM">
-<title lang="hk">王昭君\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407271500 +0800" stop="202407271600 +0800" channel="成人極品台">
+<title lang="hk">專題企劃 Ol午餐時間來拍片-星川凜凜花(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：李翰祥
-Cast：林黛, 趙雷, 洪波, 王月汀, 張翠英, 李英
-
-劇情簡介：王昭君拒絕賄賂畫師，於是一直被畫師畫醜致未被皇帝看上。但皇帝初遇昭君後，驚為天人，即選中她。畫師被逐後，為報復而設計將昭君與匈奴可汗和親。皇帝因拒絕婚事即引來兩國爭戰，以致王昭君最後為了平息戰亂不得不犧牲自己。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220928172500 +0800" stop="20220928190500 +0800" channel="天映經典CCM">
-<title lang="hk">卒仔抽車\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：江龍
-Cast：錢小豪, 麥德羅, 陳觀泰
+劇情簡介：
 
-劇情簡介：阿旦(麥德羅飾)、墨魚(蔣金飾)、阿喜(劉玉璞飾)、荷官(錢小豪飾)等一群窮小子，遇上生活寂寥的富豪崔東成(陳觀泰飾)，達成了一個賭局，要於十日內偷得崔的名車。五人與崔鬥智鬥力，終戰勝億萬富豪！
 </desc></programme>
 
 
-<programme start="20220928190500 +0800" stop="20220928210000 +0800" channel="天映經典CCM">
-<title lang="hk">玉堂春\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407271600 +0800" stop="202407271700 +0800" channel="成人極品台">
+<title lang="hk">熱爆推介 出租美女-瀨名光莉(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：李翰祥, 胡金銓
-Cast：樂蒂, 趙雷, 高寶樹, 朱牧, 楊志卿
-
-劇情簡介：王金龍（趙雷飾）與名妓蘇三（樂蒂飾）相愛，無奈無錢被趕出富春院。蘇被老鴇（紅薇飾）賣予富戶沈燕林（楊志卿飾）為妾，卻被沈妻（高寶樹飾）誣告毒殺親夫，判以死罪。已考取功名的王，決意開堂覆審救蘇...
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220928210000 +0800" stop="20220928223500 +0800" channel="天映經典CCM">
-<title lang="hk">魔殿屠龍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：楚原
-Cast：爾冬升, 狄龍, 萬梓良, 鐘楚紅
+劇情簡介：
 
-劇情簡介：本片算是金庸《倚天屠龍記》之外傳。由爾冬升飾張無忌、狄龍飾蒙古戰士、萬梓良飾宋青書及鍾楚紅飾蒙古公主。故事講述張無忌取回倚天劍、屠龍刀，供放在明教總壇，並將九陽神功秘笈刻於三重峰密室之中，由已皈依佛門的金毛獅王監守，原經交回少林...
 </desc></programme>
 
 
-<programme start="20220928223500 +0800" stop="20220929003500 +0800" channel="天映經典CCM">
-<title lang="hk">西遊記\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407271700 +0800" stop="202407271800 +0800" channel="成人極品台">
+<title lang="hk">令和性典 美巨乳性愛誘惑-真木今日子(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：何夢華
-Cast：岳華，彭鵬，田琛，何藩
-
-劇情簡介：故事講述唐僧(何藩)赴西天取經，中途在五指山收服馬騮精(岳華) ；在高家莊收服豬八戒(彭鵬)；在流沙河收服沙悟淨(田琛)的種種情節。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220929003500 +0800" stop="20220929023000 +0800" channel="天映經典CCM">
-<title lang="hk">武館\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家良
-Cast：劉家輝, 麥德羅, 谷峰, 惠英紅
+劇情簡介：
 
-劇情簡介：黃飛鴻與天壽武館之王隱林年少氣盛，得罪陸正甫武館少主，從而掀起武館間的正面衝突。本片是劉家良導演最得意的作品，更是1981年十大賣座電影之一。
 </desc></programme>
 
 
-<programme start="20220929023000 +0800" stop="20220929041500 +0800" channel="天映經典CCM">
-<title lang="hk">青春鼓王\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407271800 +0800" stop="202407271900 +0800" channel="成人極品台">
+<title lang="hk">激凸東瀛 傾聽草食系男生煩惱的漂亮空姐(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：井上梅次
-Cast：何莉莉, 凌雲, 楊帆, 鄭文靜
 
-劇情簡介：船員孫志彊巧合成爲「火花大樂隊」的鼓手，他因急於成名，答應幫助音樂雜志出版人李源明接近樂隊經理黃麗真，以換取源明的力捧。終於，志彊得償所願，一炮而紅，源明郤逼他實踐諾言，與麗真斷絕來往。志彊受到極大打擊，唯有忍痛離開樂隊與麗真...
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220929041500 +0800" stop="20220929054000 +0800" channel="天映經典CCM">
-<title lang="hk">楊貴妃\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李翰祥
-Cast：李麗華, 嚴俊, 李香君
+劇情簡介：
 
-劇情簡介：唐明皇十分寵愛妃子楊貴妃，導致終日尋歡作樂，荒廢國事，更將所有國事交貴妃之兄丞相楊國忠處理。丞相卻因貪贓枉法，暴虐無道，引起軍民共憤。民眾乘機造反要弒唐明皇，貴妃自知難逃一死，於是最終投繯自盡。
 </desc></programme>
 
 
-<programme start="20220929054000 +0800" stop="20220929071500 +0800" channel="天映經典CCM">
-<title lang="hk">雙喜臨門\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407271900 +0800" stop="202407272000 +0800" channel="成人極品台">
+<title lang="hk">乳樂無窮 搭訕滑雪場超可愛的美女們(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：秦劍
-Cast：梁醒波, 井莉, 金峰, 高寶樹, 魏平澳
-
-劇情簡介：李明珠與朱國棟同學變戀人，學成歸國，預備共結佳偶，卻不知兩者父親為死對頭，兩父均反對婚事。後來國棟朋友想出妙計，教明珠、國棟裝死。朱父見愛子因婚姻不自由而死，竟答應死後成夫婦，明珠、國棟馬上復活。朱父最終答應婚事，但李父堅決不允許，更與朱父大打出手！
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220929071500 +0800" stop="20220929090500 +0800" channel="天映經典CCM">
-<title lang="hk">紅樓夢\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：袁秋楓
-Cast：樂蒂, 丁寧, 丁紅, 杜娟, 任潔
+劇情簡介：
 
-劇情簡介：由袁秋楓執導的《紅樓夢》被譽為同名電影當中的經典之作。素有「古典美人」之稱的樂蒂將美麗卻略帶哀怨神韻的黛玉傳神演繹，配合音樂大師王福齡的音樂，將寶玉與黛玉一段蕩氣迴腸的苦戀刻劃得細膩動人。
 </desc></programme>
 
 
-<programme start="20220929090500 +0800" stop="20220929105000 +0800" channel="天映經典CCM">
-<title lang="hk">江山美人\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407272000 +0800" stop="202407272100 +0800" channel="成人極品台">
+<title lang="hk">人氣女優 沉溺在高潮的爆乳人妻-推川悠里(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：李翰祥
-Cast：林黛, 趙雷, 金銓, 楊志卿, 王元龍
-
-劇情簡介：正德皇帝江南遇李鳳，兩人互生情愫。臨別前正德聲言回京後會立即迎娶李鳳，一年易逝消息杳然，李因思念成病，正德聞大傅啟奏，才如夢方覺...
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220929105000 +0800" stop="20220929122500 +0800" channel="天映經典CCM">
-<title lang="hk">武林聖火令\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：劉雪華, 莫少聰, 白彪, 郭追, 翁靜晶
+劇情簡介：
 
-劇情簡介：本故事由著名電視監蕭笙提供，故事描述尹天仇（莫少聰飾）的父母取得神器的藏令訣後，遭靜音師太（劉雪華飾）及魔頭半怪（白彪飾）所殺，幸尹為鬼叟（郭追飾）所救，後鬼遣其取聖火令復仇...
 </desc></programme>
 
 
-<programme start="20220929122500 +0800" stop="20220929141500 +0800" channel="天映經典CCM">
-<title lang="hk">雙鳳奇緣\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407272100 +0800" stop="202407272200 +0800" channel="成人極品台">
+<title lang="hk">專題企劃 Ol午餐時間來拍片-星川凜凜花(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：週詩祿
-Cast：凌波, 方盈, 金峰, 金漢, 李菁
-
-劇情簡介：秦鳳笙（金峰飾）、鳳簫（凌波飾）兄妹才情敏捷，滿腹經綸，卻常受繼母夏氏（高寶樹飾）刻薄。鳳簫自幼許與李如龍（金漢飾）為妻，夏氏貪圖富貴，強逼如龍退婚；如龍不肯，夏氏再施毒計誣告如龍偷盜，將其收在獄中。鳳簫為救如龍，與侍婢春蘭（李菁飾）喬扮男裝上京，更以如龍之名赴考，一舉而中恩科狀元。明世宗（井淼飾）見鳳簫長得一表非凡，乃命相國夏言（蔣光超飾）為媒，招為駙馬。洞房之夕，鳳簫向公主（方盈飾）言明真相，並說服公主，安排一條妙計……
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220929141500 +0800" stop="20220929160000 +0800" channel="天映經典CCM">
-<title lang="hk">龍虎溝\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：嶽楓
-Cast：鄭佩佩, 金漢, 林嘉
+劇情簡介：
 
-劇情簡介：導演岳楓由1932年開始在上海拍片，並在香港創作長達二十多年，擅於應付不同的題材與類型，可謂中國電影的見證人。本片為岳氏於1966年執導之民初動作片，劇情主要描述，二妞（鄭佩佩）收到父親遇害前寫下的仇人名單，遂連同兄長建明（金漢）展開一幕奇情追兇...
 </desc></programme>
 
 
-<programme start="20220929160000 +0800" stop="20220929174500 +0800" channel="天映經典CCM">
-<title lang="hk">白蛇傳\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407272200 +0800" stop="202407272300 +0800" channel="成人極品台">
+<title lang="hk">熱爆推介 出租美女-瀨名光莉(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：岳楓
-Cast：林黛, 趙雷, 杜娟, 楊志卿, 尤光照
 
-劇情簡介：妖精白素貞（林黛飾）跟妹妹青青（杜娟飾）在凡間巧遇前世救命恩人書生許仙（趙雷飾），後更以身相許給許仙。後和尚法海揭穿其身份並把這對苦命鴛鴦拆散...
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220929174500 +0800" stop="20220929192000 +0800" channel="天映經典CCM">
-<title lang="hk">琴劍恩仇\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：徐增宏
-Cast：秦萍, 王羽, 馮寶寶
+劇情簡介：
 
-劇情簡介：桂武(王羽飾)和甘聯珠(秦萍飾)夫婦共闖江湖、報恩仇，得女俠紅姑(淩波飾)之助，技藝大進，博得鴛鴦劍俠美名；桂甘今受紅姑所托，將殺人利器「鳳琴」送往家中；誰料途經飛虎寨，不慎以「鳳琴」射傷少寨主，當夜琴亦為神偷盜去...
 </desc></programme>
 
 
-<programme start="20220929192000 +0800" stop="20220929210000 +0800" channel="天映經典CCM">
-<title lang="hk">遺產五億圓\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407272300 +0800" stop="202407272300 +0800" channel="成人極品台">
+<title lang="hk">令和性典 美巨乳性愛誘惑-真木今日子(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：井上梅次
-Cast：邢慧, 金峰, 汪萍, 郭曼娜
-
-劇情簡介：導演井上梅次把鬼屋恐怖而充滿死亡陰影的氣氛呈現在您面前。劇中三女意外獲得大筆財產，必須遠赴日本領取，途中遇上三位男人，也想分一杯羹。正當大家各懷鬼胎，彼此攻擊、賄賂甚至出賣對方，企圖獨佔鉅款時，殊不知更驚悚的遭遇正嚴陣以待。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220929210000 +0800" stop="20220929225000 +0800" channel="天映經典CCM">
-<title lang="hk">少林與武當\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：羅莽, 王力, 孫建, 江生, 文雪兒
+劇情簡介：
 
-劇情簡介：清朝年間，少林派以反清復明為志，武當派卻為清廷所用，兩大門派因而逐漸形成敵對局面，並掀起一場又一場的打鬥…
 </desc></programme>
 
 
-<programme start="20220929225000 +0800" stop="20220930003000 +0800" channel="天映經典CCM">
-<title lang="hk">蘭嶼之歌\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407272300 +0800" stop="202407280000 +0800" channel="成人極品台">
+<title lang="hk">令和性典 美巨乳性愛誘惑-真木今日子(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：潘壘
-Cast：張沖, 鄭佩佩
-
-劇情簡介：蘭嶼紅蟲為患，島上人只信大頭目及巫醫巴達（黃宗迅飾）兩人。年青醫生何維德（張沖飾）到蘭嶼找尋曾到此研究紅蟲而失蹤的父親，因而與未婚妻白丹娜（何莉莉飾）鬧翻。後來何與孤女雅蘭（鄭佩佩飾）相愛，惹來西呼達（王俠飾）嫉妒；同時何為島民治病，令巴達信眾日減，西呼達、巴達均伺機殺何，何身陷險境而不自知……
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220930003000 +0800" stop="20220930021500 +0800" channel="天映經典CCM">
-<title lang="hk">至尊一劍\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：李百齡
-Cast：爾冬陞, 白彪, 李殿朗
+劇情簡介：
 
-劇情簡介：魔山派秦五新（白彪飾）劍術高超，連敗九十九名劍手，終在最後一擊敗在劍神（王戎飾）手上。五新知其欠缺一柄寶劍，遂殺死著名鑄劍師老鷹（谷峰飾），奪取稀世的「老鷹寶劍」。老鷹之子燕北（爾冬陞飾）悲痛萬分，矢誓報仇，不自量力挑戰五新，結果被打落懸崖之下...
 </desc></programme>
 
 
-<programme start="20220930021500 +0800" stop="20220930035500 +0800" channel="天映經典CCM">
-<title lang="hk">我為你狂\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407280000 +0800" stop="202407280100 +0800" channel="成人極品台">
+<title lang="hk">激凸東瀛 刻意誘惑男客人的按摩小姐(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：金炳興
-Cast：艾迪, 蔣麗萍, 金燕玲
-
-劇情簡介：的士司機阿發（艾迪飾）與少女阿霞(蔣麗萍飾)相愛已久，但發有神經錯亂，霞為除心理負擔，忍痛分手; 發大鬧霞家並斷指示真心，令霞感動而復合。然發卻不務正業，令霞甚為反感;一次爭執間，發狂性大發，霞流產，再次離開發...
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220930035500 +0800" stop="20220930055000 +0800" channel="天映經典CCM">
-<title lang="hk">小煞星\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：姜大衛, 汪萍, 狄龍
+劇情簡介：
 
-劇情簡介：強宜本是夜總會歌星，後來為尋初戀女友水仙的下落，被人帶到匪幫的木屋。原來，強宜少年時誤入歧途，有打劫殺人的犯罪紀錄，綽號「小煞星」。一哥要脅他共同打劫珠寶行，否則公開他的秘密。強宜假意應承，從長計議。想不到當日行動踏入珠寶行，發現售貨員竟然是初戀女友水仙！
 </desc></programme>
 
 
-<programme start="20220930055000 +0800" stop="20220930074000 +0800" channel="天映經典CCM">
-<title lang="hk">寶蓮燈\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407280100 +0800" stop="202407280200 +0800" channel="成人極品台">
+<title lang="hk">乳樂無窮 絕品人妻的搭訕墮落 Vol.2(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：岳楓
-Cast：林黛, 鄭佩佩, 李菁
 
-劇情簡介：這是一個耳熟能詳之中國民間神話故事。在大導演嶽楓的執導下，林黛一人分飾兩角，分別飾演聖母三娘，及難得反串男角飾演沉香；而李菁飾演靈芝仙姑，鄭佩佩反串飾演劉彥昌。鑽石級的演員陣容，三位影後級人馬同場演出，實屬難得。故事講述書生劉彥昌巧遇落入凡間的聖母三娘，二人一見鍾情，但因與二郎神結怨，屢遭迫害...
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220930074000 +0800" stop="20220930093500 +0800" channel="天映經典CCM">
-<title lang="hk">南北獅王\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：徐蝦, 錢月笙
-Cast：汪禹, 錢月笙, 王龍威, 羅莽, 楊盼盼
+劇情簡介：
 
-劇情簡介：七十年代武打明星汪禹主演的清裝功夫片。故事講述以「反清復明」為號召的天地會，恐被清廷一網打盡，遂將會員名冊分成兩份，送往機密地點。天地會中人紅娘子（楊盼盼）遇上剛直的失業捕快阿雲（羅莽），邀其協助把名冊送到朱標（王龍威）的武館去，期間遇到聰敏的棺材舖夥計阿寸（汪禹），發生連串笑料。及後紅被原為清廷走狗的朱所殺，雲為代紅執行任務，終亦重傷身亡。最後任務便落在阿寸身上，寸與朱展開連番追逐，最後為寸所殺，而寸亦身陷劣境之中...
 </desc></programme>
 
 
-<programme start="20220930093500 +0800" stop="20220930112500 +0800" channel="天映經典CCM">
-<title lang="hk">仙女下凡\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407280200 +0800" stop="202407280300 +0800" channel="成人極品台">
+<title lang="hk">人氣女優 淫亂白虎癡女護士-水鳥文乃(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：何夢華
-Cast：李菁, 金峰, 白璐, 李鵬飛
-
-劇情簡介：生活在天宮的仙女七妹嚮往凡間的生活，一夜她偷駕祥雲下凡到了香港，人生路不熟的仙女差點上了不法分子的當，幸得董自立所救。董原為孤兒院主持人，因經濟拮據，被迫將院址押給許財發；期限到的時候；又被勒令搬家。另一方面，七妹屢次施法助董，卻被指是鬼魂……
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220930112500 +0800" stop="20220930132000 +0800" channel="天映經典CCM">
-<title lang="hk">龍虎少爺\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：劉家榮
-Cast：劉家輝, 劉家榮, 張展鵬, 傅聲
+劇情簡介：
 
-劇情簡介：本片由已故一代功夫巨星傅聲與擅演少林武僧的劉家輝領銜主演，劉家榮自導自演、王晶編劇。故事描述，執到寶（傅聲）為武功了得的尋寶專家，因聞招九積（張展鵬）自稱有張保仔寶藏之線索，乃往賭場將其救出；招雲古董商人魯古董（劉家榮）藏有張生前一批信札，執、招夜竊不遂，以敲碎古玩要脅，取得信札；惟信札字跡陳舊，僅認清法華寺字樣；彼時適逢高僧無相（劉家輝）下山，執遂假扮瘋僧約無相談禪，招則暗闖其房搜尋秘密...
 </desc></programme>
 
 
-<programme start="20220930132000 +0800" stop="20220930152500 +0800" channel="天映經典CCM">
-<title lang="hk">小雲雀\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407280300 +0800" stop="202407280400 +0800" channel="成人極品台">
+<title lang="hk">專題企劃 援交女是我的好友-阿部乃美久(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：薛群
-Cast：陳厚, 顧媚
-
-劇情簡介：記者仕泰爲發掘歌星小雲雀的秘密，假扮大亨接近小雲雀。後來仕泰的假大亨身份被揭穿，小雲雀大怒，請來真正大亨揭穿仕泰的身份。怎料大亨很欣賞仕泰的應變能力，實時聘請他爲助手，處理歌星登台事宜。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220930152500 +0800" stop="20220930172000 +0800" channel="天映經典CCM">
-<title lang="hk">海軍突擊隊\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：張徹
-Cast：劉永, 狄龍, 傅聲, 姜大衛, 施思
+劇情簡介：
 
-劇情簡介：由狄龍、傅聲、姜大衛、劉永等巨星主演。故事描述二次大戰日軍侵佔上海，中國海軍力量薄弱，難以跟日艦抗衡；為保存戰力，在長江布下水雷，將一艘魚雷快艇偽裝成漁船，乘夜突襲...
 </desc></programme>
 
 
-<programme start="20220930172000 +0800" stop="20220930192000 +0800" channel="天映經典CCM">
-<title lang="hk">何日君再來\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407280400 +0800" stop="202407280500 +0800" channel="成人極品台">
+<title lang="hk">熱爆推介 出租美女-里美尤莉雅(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：秦劍
-Cast：陳厚, 張沖, 胡燕妮, 何莉莉
-
-劇情簡介：電影奇才秦劍的不朽佳作，富家子音樂家（陳厚飾）愛上歌女（胡燕妮飾），不理家人反對秘密結婚。後因丈夫被生活折磨而弄致失明，妻子重披歌衣上舞臺。
-</desc></programme>
 
+Director：
+Cast：
 
-<programme start="20220930192000 +0800" stop="20220930210000 +0800" channel="天映經典CCM">
-<title lang="hk">天蠶變\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：魯俊谷
-Cast：徐少強, 劉永, 萬梓良, 劉雪華
+劇情簡介：
 
-劇情簡介：武當雜役雲飛揚（徐少強飾）為掌門青松之私生子，青隱藏身份暗中傳授雲武功。青與無敵門主獨孤無敵（萬梓良飾）十年一戰而敗，無敵忌憚青師兄燕沖天的天蠶功，期以兩年後約青再戰！青收傅玉書（劉永飾）為徒，怎知傅為逍遙谷主之孫，入武當就為報仇及偷學絕藝。傅使計刺殺青，嫁禍雲，並接任掌門。雲被追殺，得無敵女兒鳳（楊菁菁飾）相救，帶往見其母沈夫人，得知鳳是其同父異母之妹，更得天蠶功抄本！雲最後練成天蠶功，清理門戶，為父報仇，但仍要面對獨孤無敵...
 </desc></programme>
 
 
-<programme start="20220930210000 +0800" stop="20220930223500 +0800" channel="天映經典CCM">
-<title lang="hk">慾燄狂流\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
+▼<programme start="202407280500 +0800" stop="202407280600 +0800" channel="成人極品台">
+<title lang="hk">令和性典 情慾大解禁-桃園未來(Cantonese)</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk"></category>
+<date>2024/07/27</date>
 <desc lang="hk">
-Direcor：羅臻
-Cast：胡燕妮, 喬莊, 楊帆, 於倩
 
-劇情簡介：故事描述飾花花公子的喬莊與好友楊帆，同時愛上胡燕妮，但楊成人之美。但喬因生殖力弱，故當胡懷孕時，就懷疑妻與楊有染…
-</desc></programme>
-
+Director：
+Cast：
 
-<programme start="20220930223500 +0800" stop="20221001000500 +0800" channel="天映經典CCM">
-<title lang="hk">小子有種\HongKong</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
-Direcor：孫仲
-Cast：傅聲, 黃杏秀, 陳惠敏, 谷峰
+劇情簡介：
 
-劇情簡介：緊張大師孫仲執導，一反過去風格，拍出一部諧趣惹笑的功夫處境喜劇。借西方文化和東方文化衝突下，中國人重拾民族信心，又寫出父子代溝問題，頗有深意。小鎮上，有放洋流學回來的假洋鬼子，借西方文明的優越感，處處欺壓村民。小子張小泰（傅聲）利用中國功夫，與假洋鬼子唐羅拔（王龍威）爭女友（黃杏秀），先破西洋拳，再敗日本劍道，大勝西洋劍。傅聲和黃杏秀以功夫跳西洋舞，惹笑風趣，叫人忍俊不禁。中國武術與西方搏擊對壘，刺激新鮮。傅聲充滿反叛氣息，和谷峰拍檔演鬥氣父子，一老一少，對白幽默，充滿時代感。
 </desc></programme>
-
-
-  
-  
- ========================================================================================================================
 
 
+========================================================================================================================
+ 
+ 
 </tv>
-
-  
