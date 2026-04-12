@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20260412080002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_HK.xml">
+  
+
+<channel id="368550">
+    <display-name lang="HK">港台电视31</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="368551">
+    <display-name lang="HK">港台电视32</display-name>
+    <icon src="" />
+  </channel>
+ 
+  <channel id="410273">
+    <display-name lang="HK">ViuTVsix</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128104023226759_53" />
+  </channel>
+
+  <channel id="410274">
+    <display-name lang="HK">ViuTV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128105803707716_97" />
+  </channel>
+  
+  <channel id="随缘">
+    <display-name lang="HK">随缘</display-name>
+    <icon src="http://p1.music.126.net/ILCHM6BlYbTigKjtcWRz1g==/109951167320124892.jpg" />
+  </channel>
+
+
+
+  <programme channel="460924" start="20260418230500 +0000" stop="20260418233000 +0800">
+    <title lang="zh">冇人性教育[粵][M]</title>
+    <desc />
+    <date>20260418</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="460924" start="20260418233000 +0000" stop="20260419000000 +0800">
+    <title lang="zh">聽日有馬跑[粵][馬會]</title>
+    <desc />
+    <date>20260418</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+
+
+<programme channel="随缘" start="20260418233000 +0000" stop="20660419000000 +0800">
+    <title lang="zh">随缘[粵]</title>
+    <desc />
+    <date>20260418</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+
+</tv>
