@@ -1,0 +1,38 @@
+<?xml version="V2.0.2" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "tv.dtd">
+
+<   Generator-info-name="EPG Generato V2.0.2"
+    Generator-info-url="https://github.com/vence"
+    Source-info-name="ProviderName"
+    Source-info-url="https://epg.pw/xmltv/epg.xml.gz"
+    Source-info-date="2026-04-16 PM 13:38:56 +0800">
+======== ======== ======== ======== =======
+<tv>
+
+▼<channel id="陆阿采与黄飞鸿">
+<display-name lang="zh">陆阿采与黄飞鸿</display-name>
+<icon src="https://img1.wsyzy.org/upload/vod/20260103-1/8785a6c9ceda84767e69225b854b84f4.webp"/>
+<url>https://wsyzy.cc/</url>
+</channel>
+
+▼<programme start="20260101000000 +0800" stop="20280101000000 +0800" channel="陆阿采与黄飞鸿">
+<title lang="hk">陆阿采与黄飞鸿|Challenge of the Masters</title>
+<category>🇭🇰HongKong/香港</category>
+<category lang="hk">邵氏电影</category>
+<date>2026/09/03</date>
+<desc lang="hk">
+
+Director： 导演：刘家良
+Cast： 主演：刘家辉,陈观泰,汪禹,李丽丽,刘家良
+
+劇情簡介：主演：刘家辉,陈观泰 aaaaaaaaaa
+  
+▲ --The End---
+   
+</desc></programme>
+
+</tv>
+
+
+
+
